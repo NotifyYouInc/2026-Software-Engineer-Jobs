@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Mexicali, Baja California, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Wellington/Software-Engineer_R53515) |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Engineer_R53784) |
 
 ## About This Role
 

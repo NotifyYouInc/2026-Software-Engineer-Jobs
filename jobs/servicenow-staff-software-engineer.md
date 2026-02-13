@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107494392-staff-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107592726-staff-software-engineer) |
 
 ## About This Role
 

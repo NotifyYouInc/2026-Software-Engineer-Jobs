@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Serbia |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/8298ae62-cc3a-4110-be98-e27ade43c33f) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/9a458af4-8f33-4618-9ed0-10bf87f65c3e) |
 
 ## About This Role
 
-This software engineer position at Xsolla was posted on 2026-02-05.
+This software engineer position at Xsolla was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

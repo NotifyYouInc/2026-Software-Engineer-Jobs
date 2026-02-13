@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Manager--Software-Engineering_R-2398023-1) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/Senior-Manager--Software-Engineering_R-2398048-1) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107494781-principal-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107620296-principal-software-engineer) |
 
 ## About This Role
 

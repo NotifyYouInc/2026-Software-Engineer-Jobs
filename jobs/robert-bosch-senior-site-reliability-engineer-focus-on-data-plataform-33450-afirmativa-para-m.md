@@ -6,7 +6,7 @@
 | Location | Campinas, São Paulo, Brazil |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107512311-senior-site-reliability-engineer-focus-on-data-plataform-33450-afirmativa-para-mulheres) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107581535-senior-site-reliability-engineer-focus-on-data-plataform-33450-afirmativa-para-mulheres) |
 
 ## About This Role
 

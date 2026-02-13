@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91863) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85848) |
 
 ## About This Role
 
