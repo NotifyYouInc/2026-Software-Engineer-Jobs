@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
+| Location | Vista, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Aberdeen-Proving-Ground-MD/Senior-Software-Engineer_R-00175396) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Senior-Software-Engineer_R-00175516) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-05.
+This software engineer position at Leidos was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

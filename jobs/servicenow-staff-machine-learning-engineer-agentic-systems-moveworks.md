@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107611614-staff-machine-learning-engineer-agentic-systems-moveworks) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107801692-staff-machine-learning-engineer-agentic-systems-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-05.
+This software engineer position at ServiceNow was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

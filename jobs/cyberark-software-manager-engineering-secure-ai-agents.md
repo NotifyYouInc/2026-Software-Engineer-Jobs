@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107576895-manager-engineering-secure-ai-agents) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107774975-manager-engineering-secure-ai-agents) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-05.
+This software engineer position at CyberArk Software was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

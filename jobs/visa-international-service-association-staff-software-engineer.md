@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107586321-staff-software-engineer) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107788376-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-05.
+This software engineer position at Visa International Service Association was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
