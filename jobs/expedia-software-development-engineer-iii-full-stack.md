@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Software Development Engineer-III (Full Stack) at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79017) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Software-Development-Engineer-III--Full-Stack-_R-101742) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-07.
+This software engineer position at Expedia was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

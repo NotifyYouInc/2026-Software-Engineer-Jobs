@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Lead Systems Engineer at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Lead-Systems-Engineer_JR2025486706) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Boeing was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

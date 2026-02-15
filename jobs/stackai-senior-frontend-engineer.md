@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Senior Frontend Engineer at StackAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [StackAI](https://scoutify.ai/companies/stackai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-senior-frontend-engineer) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at StackAI was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

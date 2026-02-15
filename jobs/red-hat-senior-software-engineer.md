@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Senior Software Engineer at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-054968-1) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Red Hat was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

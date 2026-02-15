@@ -6,7 +6,7 @@
 | Location | Switzerland |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107764935-embedded-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107772106-embedded-engineer) |
 
 ## About This Role
 

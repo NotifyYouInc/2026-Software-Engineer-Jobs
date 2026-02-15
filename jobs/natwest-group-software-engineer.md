@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Software Engineer at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer_R-00272661) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at NatWest Group was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Senior .Net Fullstack Developer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79017) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Senior-Net-Fullstack-Developer_JR1035784) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-07.
+This software engineer position at Synechron was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

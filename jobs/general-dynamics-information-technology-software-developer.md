@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bossier City, Louisiana, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Software-Developer_RQ213950) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-06.
+This software engineer position at General Dynamics Information Technology was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

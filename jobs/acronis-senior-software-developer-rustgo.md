@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Senior Software Developer (Rust/Go) at Acronis
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bulgaria |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79017) |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Bulgaria/Senior-Software-Developer--Rust-Go-_R-100825) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-07.
+This software engineer position at Acronis was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

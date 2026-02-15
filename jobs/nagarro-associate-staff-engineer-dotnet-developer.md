@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Associate Staff Engineer - Dotnet Developer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79017) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107889415-associate-staff-engineer-dotnet-developer) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-07.
+This software engineer position at Nagarro was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Principal Logic Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79017) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Principal-Logic-Design-Engineer_JR0280742) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-07.
+This software engineer position at Intel was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

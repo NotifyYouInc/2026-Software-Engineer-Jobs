@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Front End Engineer, Manus at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore |
 | Category | Software Engineer |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/25929844186646343) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Meta was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

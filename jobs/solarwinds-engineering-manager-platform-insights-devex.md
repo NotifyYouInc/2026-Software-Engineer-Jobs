@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Engineering Manager - Platform Insights (DevEx) at SolarWinds
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4535870005&gh_jid=4535870005) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at SolarWinds was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

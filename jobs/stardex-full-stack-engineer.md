@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Full Stack Engineer at Stardex
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Stardex](https://scoutify.ai/companies/stardex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/stardex/jobs/4oOXnyY-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Stardex was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

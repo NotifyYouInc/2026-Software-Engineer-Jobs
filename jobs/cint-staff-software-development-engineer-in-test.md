@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Staff Software Development Engineer in Test at Cint
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000107891645-staff-software-development-engineer-in-test) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Cint was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

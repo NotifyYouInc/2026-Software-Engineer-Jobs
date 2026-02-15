@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Growth Monetization Engineer (Node.js) - Leaply at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/e23884ce-dc45-468c-a50a-f07a1781fc05) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at SKELAR was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

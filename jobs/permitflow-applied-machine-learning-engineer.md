@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Applied Machine Learning Engineer at PermitFlow
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [PermitFlow](https://scoutify.ai/companies/permitflow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/permitflow/jobs/UvvXBTe-applied-machine-learning-engineer) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at PermitFlow was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

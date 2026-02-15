@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Senior Software Engineer at Metriport
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/cde549d5-314b-4c87-9ab2-4eacf5497671) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This software engineer position at Metriport was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 
