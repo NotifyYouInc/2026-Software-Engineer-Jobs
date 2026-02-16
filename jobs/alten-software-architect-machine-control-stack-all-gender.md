@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jena, Thuringia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107475355-software-architect-machine-control-stack-all-gender) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000108213259-software-architect-machine-control-stack-all-gender) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-05.
+This software engineer position at ALTEN was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

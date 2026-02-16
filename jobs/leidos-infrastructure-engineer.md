@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Farnborough, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/2223-Chester-House-Farnborough-Aerospace-Centre-Farnborough-UK/Infrastructure-Engineer_R-00175433) |
+| Location | Huntingdon, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Engineer_R-00175435) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-06.
+This software engineer position at Leidos was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

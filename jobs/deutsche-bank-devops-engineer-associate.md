@@ -1,16 +1,16 @@
-# DevOps Engineer Associate at Deutsche Bank
+# DevOps Engineer, Associate at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/DevOps-Engineer-Associate_R0423033-1) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Engineer--Associate_R0397865-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-06.
+This software engineer position at Deutsche Bank was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

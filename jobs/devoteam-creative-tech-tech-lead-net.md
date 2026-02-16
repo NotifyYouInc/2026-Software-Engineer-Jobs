@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000107533940-creative-tech-tech-lead-net) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000108182510-creative-tech-tech-lead-net) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-05.
+This software engineer position at Devoteam was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107522715-director-software-engineering) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108246205-director-software-engineering) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-05.
+This software engineer position at Visa International Service Association was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

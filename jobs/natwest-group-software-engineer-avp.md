@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Software-Engineer--AVP_R-00272545) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--AVP_R-00272741-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-02-05.
+This software engineer position at NatWest Group was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
