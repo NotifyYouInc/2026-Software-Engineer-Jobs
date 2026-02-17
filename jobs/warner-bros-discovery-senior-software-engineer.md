@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Senior-Software-Engineer_R000102601) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Senior-Software-Engineer_R000102168) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-02-07.
+This software engineer position at Warner Bros Discovery was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

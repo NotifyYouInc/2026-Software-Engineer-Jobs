@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Alpharetta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000107843114-backend-developer-w2-position-considering-locals-only-georgia) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000108273825-backend-developer-w2-position-considering-locals-only-georgia) |
 
 ## About This Role
 
-This software engineer position at VTekis Consulting LLP was posted on 2026-02-06.
+This software engineer position at VTekis Consulting LLP was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

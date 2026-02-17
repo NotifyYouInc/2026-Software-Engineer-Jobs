@@ -1,16 +1,16 @@
-# SOFTWARE DEVELOPMENT ENGINEER 3 at Amadeus
+# Software Development Engineer 3 at Amadeus
 
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/SOFTWARE-DEVELOPMENT-ENGINEER-3_R32923-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-3_R32981-1) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-02-09.
+This software engineer position at Amadeus was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

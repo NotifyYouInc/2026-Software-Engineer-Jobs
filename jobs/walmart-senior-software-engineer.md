@@ -1,12 +1,12 @@
-# SENIOR, SOFTWARE ENGINEER at Walmart
+# Senior, Software Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/SENIOR--SOFTWARE-ENGINEER_R-2405800) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/Senior--Software-Engineer_R-2395800) |
 
 ## About This Role
 

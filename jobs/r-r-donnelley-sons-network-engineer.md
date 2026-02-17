@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | United States |
 | Category | Operations |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000108246256-network-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000108248735-network-engineer) |
 
 ## About This Role
 

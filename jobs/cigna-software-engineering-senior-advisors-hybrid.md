@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Software Engineer |
+| Location | New Jersey, US |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Plano-TX/Software-Engineering-Senior-Advisors--Hybrid_26001389) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisors--Hybrid_26001387) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-09.
+This technical & solutions architect position at Cigna was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

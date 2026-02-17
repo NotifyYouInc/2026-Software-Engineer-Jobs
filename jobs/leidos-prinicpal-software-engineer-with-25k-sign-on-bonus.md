@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Prinicpal-Software-Engineer-with-25K-sign-on-bonus_R-00175486) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Prinicpal-Software-Engineer-with-25K-sign-on-bonus_R-00175616) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-06.
+This software engineer position at Leidos was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

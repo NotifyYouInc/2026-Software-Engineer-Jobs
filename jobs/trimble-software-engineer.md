@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexicali, Baja California, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Engineer_R53784) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Engineer_R53567) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-02-05.
+This software engineer position at Trimble was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107806274-senior-embedded-software-engineer-product-security) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108308520-senior-embedded-software-engineer-product-security) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-02-06.
+This software engineer position at Intuitive Surgical was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

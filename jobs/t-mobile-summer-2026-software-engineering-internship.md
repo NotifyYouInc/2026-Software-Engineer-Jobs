@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Internship_REQ341140) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2026-Software-Engineering-Internship_REQ344205) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-02-06.
+This software engineer position at T-Mobile was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

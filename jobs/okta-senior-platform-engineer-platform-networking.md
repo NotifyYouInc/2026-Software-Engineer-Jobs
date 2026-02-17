@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7591844?gh_jid=7591844) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-02-09.
+This devops engineer position at Okta was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
