@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Senior--Software-Engineer_R-2393696) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior--Software-Engineer_R-2400480-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-09.
+This software engineer position at Walmart was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

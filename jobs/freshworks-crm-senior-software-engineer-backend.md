@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108193921-senior-software-engineer-backend) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108683156-senior-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-02-09.
+This software engineer position at Freshworks CRM was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

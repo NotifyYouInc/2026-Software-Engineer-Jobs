@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7599857?gh_jid=7599857) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7603595?gh_jid=7603595) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-02-09.
+This software engineer position at Okta was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

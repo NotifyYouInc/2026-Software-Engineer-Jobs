@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Virginia, US |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Raleigh/Network-Engineer_RQ214406-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/Network-Engineer_RQ214730-1) |
 
 ## About This Role
 
-This operations position at General Dynamics Information Technology was posted on 2026-02-05.
+This operations position at General Dynamics Information Technology was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

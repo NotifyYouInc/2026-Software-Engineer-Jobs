@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Schaumburg, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Software-Test-Engineer_R61858) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Test-Engineer_R60538-1) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-06.
+This software engineer position at Motorola Solutions was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

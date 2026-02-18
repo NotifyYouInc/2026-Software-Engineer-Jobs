@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Chennai/Software-Engineering-Lead_R108285-3) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineering-Lead_R107731) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-06.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

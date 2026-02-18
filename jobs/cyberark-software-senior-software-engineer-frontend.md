@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107814775-senior-software-engineer-frontend) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108613645-senior-software-engineer-frontend) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-06.
+This software engineer position at CyberArk Software was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

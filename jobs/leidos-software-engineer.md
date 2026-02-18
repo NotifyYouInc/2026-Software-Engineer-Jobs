@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Engineer_R-00175421-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Herndon-VA/Software-Engineer_R-00175662) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-09.
+This software engineer position at Leidos was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

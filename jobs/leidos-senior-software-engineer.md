@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vista, California, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Senior-Software-Engineer_R-00175516) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Herndon-VA/Senior-Software-Engineer_R-00175675) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-07.
+This software engineer position at Leidos was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

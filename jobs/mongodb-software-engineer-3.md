@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7597723) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7581867) |
 
 ## About This Role
 
-This software engineer position at MongoDB was posted on 2026-02-09.
+This software engineer position at MongoDB was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

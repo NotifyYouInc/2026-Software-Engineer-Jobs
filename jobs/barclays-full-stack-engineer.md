@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Solution-Designer_JR-0000053069) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Full-Stack-Engineer_JR-0000090882) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-05.
+This software engineer position at Barclays was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
