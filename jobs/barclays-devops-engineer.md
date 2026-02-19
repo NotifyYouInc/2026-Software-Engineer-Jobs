@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/DevOps-Engineer_JR-0000082820) |
+| Location | Prague, Prague, Czechia |
+| Category | DevOps Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/DevOps-Engineer_JR-0000087171-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-05.
+This devops engineer position at Barclays was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

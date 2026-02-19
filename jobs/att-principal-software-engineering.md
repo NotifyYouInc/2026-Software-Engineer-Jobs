@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Principal-Software-Engineering_R-99563) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Principal-Software-Engineering_R-93860) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-09.
+This software engineer position at AT&T was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

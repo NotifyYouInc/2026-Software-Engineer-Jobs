@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108586531-manager-software-engineering-management) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108841115-manager-software-engineering-management) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-10.
+This software engineer position at ServiceNow was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

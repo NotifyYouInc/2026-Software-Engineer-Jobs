@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Washington, US |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-Fort-Lewis/Network-Engineer-Senior---TS-SCI-required_RQ214133-2) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-Fort-Lewis/Network-Engineer-Senior---TS-SCI-required_RQ214778) |
 
 ## About This Role
 
-This operations position at General Dynamics Information Technology was posted on 2026-02-06.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

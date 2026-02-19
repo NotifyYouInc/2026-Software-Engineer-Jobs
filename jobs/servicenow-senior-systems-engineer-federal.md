@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108599925-senior-systems-engineer-federal) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108851192-senior-systems-engineer-federal) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-02-10.
+This devops engineer position at ServiceNow was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

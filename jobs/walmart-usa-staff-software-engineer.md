@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Software-Engineer_R-2400312-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/XMLNAME--USA--Staff--Software-Engineer_R-2403602) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-10.
+This software engineer position at Walmart was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

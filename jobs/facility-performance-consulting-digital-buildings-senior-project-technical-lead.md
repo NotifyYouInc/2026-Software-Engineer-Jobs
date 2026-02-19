@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Facility Performance Consulting](https://scoutify.ai/companies/facilityperformanceconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000108585855-digital-buildings-senior-project-technical-lead) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000108818505-digital-buildings-senior-project-technical-lead) |
 
 ## About This Role
 
-This business development position at Facility Performance Consulting was posted on 2026-02-10.
+This technical & solutions architect position at Facility Performance Consulting was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

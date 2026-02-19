@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Machine-Learning-Engineer_R-052023-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Machine-Learning-Engineer_R-053702-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-09.
+This software engineer position at Red Hat was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

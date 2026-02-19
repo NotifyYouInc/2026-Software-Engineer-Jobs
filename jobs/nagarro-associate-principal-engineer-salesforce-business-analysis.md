@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107556235-associate-principal-engineer-salesforce-business-analysis) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108876655-associate-principal-engineer-salesforce-business-analysis) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-05.
+This software engineer position at Nagarro was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

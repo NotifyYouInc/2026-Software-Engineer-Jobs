@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Systems-Engineer_R-00175322) |
+| Location | Maryland, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-Systems-Engineer_R-00175808) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-05.
+This technical & solutions architect position at Leidos was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

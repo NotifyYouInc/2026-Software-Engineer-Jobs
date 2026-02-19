@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Allentown, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108593737-senior-staff-engineer-senior-salesforce-developer) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108841412-senior-staff-engineer-senior-salesforce-developer) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-02-10.
+This technical & solutions architect position at Nagarro was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
