@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Alberta, CA |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7607531) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7611257) |
 
 ## About This Role
 
-This software engineer position at Instacart was posted on 2026-02-11.
+This software engineer position at Instacart was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

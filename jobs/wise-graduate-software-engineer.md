@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107511051-graduate-software-engineer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109069015-graduate-software-engineer) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-02-05.
+This software engineer position at WISE was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

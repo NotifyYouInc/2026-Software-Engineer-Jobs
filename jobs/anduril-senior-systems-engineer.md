@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5050313007?gh_jid=5050313007) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5050626007?gh_jid=5050626007) |
 
 ## About This Role
 
-This technical & solutions architect position at Anduril was posted on 2026-02-11.
+This technical & solutions architect position at Anduril was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

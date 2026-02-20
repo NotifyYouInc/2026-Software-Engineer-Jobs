@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/San-Jose-California/Software-Engineer_JR1151) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Bengaluru-India/Software-Engineer_JR1220) |
 
 ## About This Role
 
-This software engineer position at Automation Anywhere was posted on 2026-02-11.
+This software engineer position at Automation Anywhere was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

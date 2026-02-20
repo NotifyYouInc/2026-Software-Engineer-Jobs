@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Savannah, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108816220-java-developer-bilingual-englishkorean) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109073236-java-developer-bilingual-englishkorean) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-02-11.
+This software engineer position at Woongjin was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

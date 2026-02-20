@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/DevOps-Engineer_R18462) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/DevOps-Engineer_R18503) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-02-11.
+This devops engineer position at Zoom was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

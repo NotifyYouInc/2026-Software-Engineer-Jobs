@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107776356-sr-network-engineer-bilingual-englishkorean) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109072520-sr-network-engineer-bilingual-englishkorean) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-06.
+This technical & solutions architect position at Woongjin was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

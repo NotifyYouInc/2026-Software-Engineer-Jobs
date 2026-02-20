@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Maharashtra, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Senior-Software-Engineer_R87137) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Senior-Software-Engineer_R87138) |
 
 ## About This Role
 
-This software engineer position at Smith+Nephew was posted on 2026-02-12.
+This software engineer position at Smith+Nephew was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

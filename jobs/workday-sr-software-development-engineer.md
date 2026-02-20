@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Development-Engineer_JR-0104193) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Development-Engineer_JR-0103865) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-10.
+This software engineer position at Workday was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

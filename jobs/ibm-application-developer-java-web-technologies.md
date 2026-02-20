@@ -1,16 +1,16 @@
-# Application Developer-Java & Web Technologies at IBM
+# Application Developer – Java & Web Technologies at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenyang, Liaoning, China |
+| Location | Naples, Campania, Italy |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93352) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93587) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-12.
+This software engineer position at IBM was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
