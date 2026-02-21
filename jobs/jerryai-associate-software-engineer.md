@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/b294635c-eb2c-45f2-a4b4-5e042fd19d65) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/871b2ee8-a5ea-485f-9762-8e8f3705d7c6) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-02-09.
+This software engineer position at Jerry.ai was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

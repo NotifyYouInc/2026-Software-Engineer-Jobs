@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Buena Park, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109072041-java-developer-bilingual-english-korean) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109324665-java-developer-bilingual-english-korean) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-02-12.
+This software engineer position at Woongjin was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

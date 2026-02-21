@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/742862958869071) |
+| Location | Bellevue, Washington, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1701617784131957) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-06.
+This devops engineer position at Meta was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

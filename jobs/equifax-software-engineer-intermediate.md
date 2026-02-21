@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Chile |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/PER---Lima---San-Isidro-Centro/Software-Engineer---Intermediate_J00173295) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Software-Engineer---Intermediate_J00174133) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-10.
+This software engineer position at Equifax was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

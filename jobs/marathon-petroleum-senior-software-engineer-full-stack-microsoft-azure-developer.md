@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Software-Engineer---Full-Stack-Microsoft-Azure-Developer_00020398) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Software-Engineer---Full-Stack-Microsoft-Azure-Developer_00020451) |
 
 ## About This Role
 
-This software engineer position at Marathon Petroleum was posted on 2026-02-10.
+This software engineer position at Marathon Petroleum was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

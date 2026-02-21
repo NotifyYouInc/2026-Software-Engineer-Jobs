@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011667827-technical-lead-ai-and-engineering-hbs-foundry) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011674507-technical-lead-ai-and-engineering-hbs-foundry) |
 
 ## About This Role
 
-This software engineer position at Harvard University was posted on 2026-02-13.
+This technical & solutions architect position at Harvard University was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | West Palm Beach, Florida, United States |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107589312-servicenow-technical-consultantdeveloper-for-finance-supply-chain-solution-implementations) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109314920-servicenow-technical-consultantdeveloper-for-finance-supply-chain-solution-implementations) |
 
 ## About This Role
 
-This operations position at ServiceNow was posted on 2026-02-05.
+This operations position at ServiceNow was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

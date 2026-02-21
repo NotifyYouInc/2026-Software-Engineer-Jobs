@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-Systems-Engineer_R-00175808) |
+| Location | Oklahoma City, Oklahoma, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Senior-Systems-Engineer_R-00176044) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-11.
+This devops engineer position at Leidos was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

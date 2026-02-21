@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cricut](https://scoutify.ai/companies/cricut?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | South Jordan, Utah, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000109086401-lead-full-stack-salesforce-commerce-cloud-sfcc-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000109299695-lead-full-stack-salesforce-commerce-cloud-sfcc-engineer) |
 
 ## About This Role
 
-This software engineer position at Cricut was posted on 2026-02-12.
+This devops engineer position at Cricut was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

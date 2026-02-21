@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107627415-senior-software-engineer-platform-distributed-services-iam-net-hybrid-in-santa-clara) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109319625-senior-software-engineer-platform-distributed-services-iam-net-hybrid-in-santa-clara) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-06.
+This software engineer position at CyberArk Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

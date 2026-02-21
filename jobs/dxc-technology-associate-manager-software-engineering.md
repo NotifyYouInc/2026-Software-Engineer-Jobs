@@ -1,12 +1,12 @@
-# Associate Manager software Engineering at DXC Technology
+# Associate Manager Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | New Jersey, US |
 | Category | Software Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Associate-Manager-software-Engineering_51563042) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA-NJ-Home-based-CSC-Location/Associate-Manager-Software-Engineering_51572881) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Haryana, IN |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91905) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93849) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-05.
+This software engineer position at IBM was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

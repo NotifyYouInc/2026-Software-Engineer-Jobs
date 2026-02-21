@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/727738536767807) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/845453198247543) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-05.
+This software engineer position at Meta was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# R&D Intern – Machine Learning Engineer - 2026 at Motorola Solutions
+# R&D Intern - Machine Learning Engineer  - 2026 at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Machine-Learning-Engineer---2026_R62147) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---Machine-Learning-Engineer----2026_R62195) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-13.
+This software engineer position at Motorola Solutions was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

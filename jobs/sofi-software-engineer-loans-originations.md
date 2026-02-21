@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Helena, Montana, United States |
+| Location | Cottonwood Heights, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://sofi.com/careers/job/7616182003?gh_jid=7616182003) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://sofi.com/careers/job/7594136003?gh_jid=7594136003) |
 
 ## About This Role
 
-This software engineer position at SoFi was posted on 2026-02-11.
+This software engineer position at SoFi was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

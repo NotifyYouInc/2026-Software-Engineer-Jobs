@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Laurel, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Senior-Software-Engineer_322034-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Laurel/Senior-Software-Engineer_322091) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-10.
+This software engineer position at CACI was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

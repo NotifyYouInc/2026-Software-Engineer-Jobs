@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Newton, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107621836-senior-software-engineer) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109296715-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-05.
+This software engineer position at CyberArk Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
