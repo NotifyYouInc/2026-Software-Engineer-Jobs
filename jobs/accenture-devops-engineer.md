@@ -1,16 +1,16 @@
-# Senior Cloud Engineer - ARS Team at CyberArk Software
+# DevOps Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Israel |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 3 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349805-senior-cloud-engineer-ars-team) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/DevOps-Engineer_ATCI-5286678-S1983308-1) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-14.
+This devops engineer position at Accenture was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

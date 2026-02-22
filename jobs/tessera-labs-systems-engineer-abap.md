@@ -1,16 +1,16 @@
-# Senior React Developer at Endava
+# Systems Engineer - ABAP at Tessera Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Craiova, Dolj, Romania |
+| Company | [Tessera Labs](https://scoutify.ai/companies/tessera-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251705-senior-react-developer) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tessera-labs/3fbb8749-bc8c-4756-a8df-119f7b4c158a) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at Tessera Labs was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

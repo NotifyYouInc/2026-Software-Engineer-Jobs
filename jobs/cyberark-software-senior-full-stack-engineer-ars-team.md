@@ -1,16 +1,16 @@
-# Senior Cloud Engineer - ARS Team at CyberArk Software
+# Senior full stack engineer - ARS team at CyberArk Software
 
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Israel |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349805-senior-cloud-engineer-ars-team) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349825-senior-full-stack-engineer-ars-team) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-14.
+This software engineer position at CyberArk Software was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DevOps Engineer at Leidos
+# Site Reliability Engineer at SwissBorg
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Company | [SwissBorg](https://scoutify.ai/companies/swissborg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/DevOps-Engineer_R-00176048) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.lever.co/swissborg/065d42ce-52c5-45a0-ac53-ea4851a2f60b) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-13.
+This devops engineer position at SwissBorg was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

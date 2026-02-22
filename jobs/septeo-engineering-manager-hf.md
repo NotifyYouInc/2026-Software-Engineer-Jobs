@@ -1,16 +1,16 @@
-# Senior React Developer at Endava
+# Engineering Manager H/F at SEPTEO
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Craiova, Dolj, Romania |
+| Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Montpellier, Occitanie, France |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251705-senior-react-developer) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000109351225-engineering-manager-hf) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at SEPTEO was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Software Engineer at Schweitzer Engineering Laboratories
+# ASP.NET/C# Software Engineer at Schweitzer Engineering Laboratories
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pullman, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-15 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736) |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/ASPNET-C--Software-Engineer_2025-19005) |
 
 ## About This Role
 

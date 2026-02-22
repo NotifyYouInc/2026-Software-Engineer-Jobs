@@ -1,12 +1,12 @@
-# Software Engineer at Schweitzer Engineering Laboratories
+# Embedded/Firmware Engineer at Schweitzer Engineering Laboratories
 
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pullman, Washington, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-15 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736) |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Embedded-Firmware-Engineer_2024-15456) |
 
 ## About This Role
 

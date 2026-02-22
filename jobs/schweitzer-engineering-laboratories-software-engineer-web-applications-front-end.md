@@ -1,12 +1,12 @@
-# Software Engineer at Schweitzer Engineering Laboratories
+# Software Engineer - Web Applications (Front-End) at Schweitzer Engineering Laboratories
 
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pullman, Washington, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-15 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736) |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Web-Applications--Front-End-_2025-17923) |
 
 ## About This Role
 

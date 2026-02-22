@@ -1,4 +1,4 @@
-# Senior Cloud Engineer - ARS Team at CyberArk Software
+# Senior software engineer -Identity User management at CyberArk Software
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Israel |
 | Category | DevOps Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349805-senior-cloud-engineer-ars-team) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349925-senior-software-engineer-identity-user-management) |
 
 ## About This Role
 

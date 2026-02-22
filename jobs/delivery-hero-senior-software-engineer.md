@@ -6,7 +6,7 @@
 | Location | Athens, Attica, Greece |
 | Category | Software Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109245315-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109254623-senior-software-engineer) |
 
 ## About This Role
 

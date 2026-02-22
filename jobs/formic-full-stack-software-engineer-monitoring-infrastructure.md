@@ -1,16 +1,16 @@
-# Senior React Developer at Endava
+# Full Stack Software Engineer - Monitoring Infrastructure at Formic
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Craiova, Dolj, Romania |
+| Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251705-senior-react-developer) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4654503006) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at Formic was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

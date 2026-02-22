@@ -1,16 +1,16 @@
-# Senior React Developer at Endava
+# Stat Programmer Scientist at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Craiova, Dolj, Romania |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251705-senior-react-developer) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Stat-Programmer-Scientist_R1526499) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at IQVIA was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

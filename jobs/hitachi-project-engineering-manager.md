@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Project Engineering Manager at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Software-Engineer_R-2400486-1) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Project-Engineering-Manager_R0086923) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-14.
+This software engineer position at Hitachi was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

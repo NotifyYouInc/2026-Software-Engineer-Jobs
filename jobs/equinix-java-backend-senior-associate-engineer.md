@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Java Backend Senior Associate Engineer at Equinix
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Software-Engineer_R-2400486-1) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Java-Backend-Senior-Associate-Engineer_JR-158002) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-14.
+This software engineer position at Equinix was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Lead Software Engineer (C# .Net) at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Software-Engineer_R-2400486-1) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer--C--Net-_R1301170) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-14.
+This software engineer position at Danaher was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

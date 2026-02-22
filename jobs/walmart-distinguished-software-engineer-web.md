@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Distinguished, Software Engineer, Web at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Software-Engineer_R-2400486-1) |
+| Posted | 2026-02-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Distinguished--Software-Engineer--Mobile-and-AI_R-2256986-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-14.
+This software engineer position at Walmart was posted on 2026-02-15.
 
 ## Get Real-Time Alerts
 

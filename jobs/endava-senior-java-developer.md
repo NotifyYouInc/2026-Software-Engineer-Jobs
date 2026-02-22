@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sibiu, Sibiu County, Romania |
+| Location | Craiova, Dolj, Romania |
 | Category | Software Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109247948-senior-java-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251396-senior-java-developer) |
 
 ## About This Role
 

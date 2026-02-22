@@ -1,16 +1,16 @@
-# Senior Software Engineer, Payments at Airbnb
+# Senior Software Engineer -Payments at Airbnb
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7588322?gh_jid=7588322) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7581839?gh_jid=7581839) |
 
 ## About This Role
 
-This software engineer position at Airbnb was posted on 2026-02-05.
+This software engineer position at Airbnb was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

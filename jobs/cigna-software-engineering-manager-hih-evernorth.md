@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Software Engineering Manager - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Software-Engineer_R-2400486-1) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Manager---HIH---Evernorth_26001256) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-14.
+This software engineer position at Cigna was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 
