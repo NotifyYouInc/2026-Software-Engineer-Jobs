@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/a2304cc0-a339-474b-9405-3e238420331e) |
+| Location | San Francisco, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/7626377a-b1b7-4f5e-a587-104fbeb4b5f6) |
 
 ## About This Role
 
-This software engineer position at Handshake was posted on 2026-02-13.
+This frontend engineer position at Handshake was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

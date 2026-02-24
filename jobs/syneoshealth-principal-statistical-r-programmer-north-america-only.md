@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-CA-Remote/Principal-Statistical--R--Programmer--North-America-Only-_25105593) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-CA-Remote/Principal-Statistical--R--Programmer--North-America-Only-_25105752) |
 
 ## About This Role
 
-This software engineer position at Syneoshealth was posted on 2026-02-11.
+This software engineer position at Syneoshealth was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

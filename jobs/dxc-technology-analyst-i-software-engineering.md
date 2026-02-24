@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Analyst-I-Software-Engineering_51572172) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | DevOps Engineer |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51556099) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-10.
+This devops engineer position at DXC Technology was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
