@@ -1,16 +1,16 @@
-# Software Engineer II at Mastercard
+# Software engineer II at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-270151) |
+| Location | Pune, Maharashtra, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-engineer-II_R-264422) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-13.
+This frontend engineer position at Mastercard was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

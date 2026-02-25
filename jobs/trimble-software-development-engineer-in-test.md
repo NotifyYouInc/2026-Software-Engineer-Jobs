@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Christchurch, Canterbury, New Zealand |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Software-Development-Engineer-in-Test_R54385) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Software-Development-Engineer-in-Test_R54318) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-02-16.
+This software engineer position at Trimble was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

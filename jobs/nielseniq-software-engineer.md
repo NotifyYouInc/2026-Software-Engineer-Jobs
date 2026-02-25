@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# SOFTWARE ENGINEER at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109344955-software-engineer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109870015-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-14.
+This software engineer position at NielsenIQ was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

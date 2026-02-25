@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Software-Developer-1_R09720) |
+| Location | Kochi, Kerala, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/India---Kochi-SmartCity---2/Software-Developer-1_R09761-1) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-02-12.
+This frontend engineer position at SOTI was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

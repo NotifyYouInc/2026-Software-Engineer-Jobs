@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Smithfield, Rhode Island, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Full-Stack-Engineer_2121069) |
+| Location | Westlake, Ohio, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Full-Stack-Engineer_2124192) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-11.
+This devops engineer position at Fidelity was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

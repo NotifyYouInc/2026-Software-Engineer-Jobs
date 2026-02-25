@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Edina, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Pune-India/Field-Application-Engineer_JR-021398) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Field-Application-Engineer_JR-021588) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-02-09.
+This software engineer position at Avnet was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000109637555-engineering-lead-chapter-lead-microsoft-full-stack) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000109827915-engineering-lead-chapter-lead-microsoft-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at Endeavour Group Careers was posted on 2026-02-17.
+This frontend engineer position at Endeavour Group Careers was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
