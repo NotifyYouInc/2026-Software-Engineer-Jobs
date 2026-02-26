@@ -1,16 +1,16 @@
-# Application Developer – Java & Web Technologies at IBM
+# Application Developer-Java & Web Technologies at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Naples, Campania, Italy |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93587) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93034) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-13.
+This software engineer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

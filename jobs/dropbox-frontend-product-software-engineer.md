@@ -5,12 +5,12 @@
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7172768?gh_jid=7172768) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7580431?gh_jid=7580431) |
 
 ## About This Role
 
-This software engineer position at Dropbox was posted on 2026-02-10.
+This software engineer position at Dropbox was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

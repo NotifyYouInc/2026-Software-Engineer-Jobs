@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109142525-senior-software-engineer-python) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000110085645-senior-software-engineer-python) |
 
 ## About This Role
 
-This devops engineer position at SEEK was posted on 2026-02-13.
+This devops engineer position at SEEK was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

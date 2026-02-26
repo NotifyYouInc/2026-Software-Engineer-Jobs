@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cellular-Configuration-and-Test-Engineer_R-00176009-1) |
+| Category | Technical Writer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cellular-Configuration-and-Test-Engineer_R-00176332-1) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-13.
+This technical writer position at Leidos was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

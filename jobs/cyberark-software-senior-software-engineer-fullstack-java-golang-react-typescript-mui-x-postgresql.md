@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109320385-senior-software-engineer-fullstack-java-golang-react-typescript-mui-x-postgresql) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000110087985-senior-software-engineer-fullstack-java-golang-react-typescript-mui-x-postgresql) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-13.
+This frontend engineer position at CyberArk Software was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

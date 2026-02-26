@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethesda, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer_R-00175556) |
+| Location | Chantilly, Virginia, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Developer_R-00176288) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-09.
+This frontend engineer position at Leidos was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

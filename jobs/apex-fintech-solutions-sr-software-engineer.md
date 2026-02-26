@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Belfast-Northern-Ireland/Sr-Software-Engineer_JR104328) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Sr-Software-Engineer_JR104394) |
 
 ## About This Role
 
-This software engineer position at Apex Fintech Solutions was posted on 2026-02-05.
+This software engineer position at Apex Fintech Solutions was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

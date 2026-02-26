@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Senior-Systems-Engineer_R-00176044) |
+| Location | Gaithersburg, Maryland, United States |
+| Category | Software Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Systems-Engineer_R-00176346) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-13.
+This software engineer position at Leidos was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

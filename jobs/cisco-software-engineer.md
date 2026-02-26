@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Software-Engineer_2008199) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2007989) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-18.
+This software engineer position at Cisco was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

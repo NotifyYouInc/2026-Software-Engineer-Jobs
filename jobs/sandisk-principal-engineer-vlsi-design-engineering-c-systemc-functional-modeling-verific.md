@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000107878715-principal-engineer-vlsi-design-engineering-c-systemc-functional-modeling-verification) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000110085595-principal-engineer-vlsi-design-engineering-c-systemc-functional-modeling-verification) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-02-07.
+This semiconductor / chip design position at SanDisk was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

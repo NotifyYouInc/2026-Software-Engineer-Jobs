@@ -1,12 +1,12 @@
-# SOFTWARE ENGINEER at NielsenIQ
+# Software Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109870015-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110022445-software-engineer) |
 
 ## About This Role
 

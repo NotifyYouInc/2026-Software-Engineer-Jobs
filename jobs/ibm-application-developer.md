@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89812) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93972) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-05.
+This frontend engineer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

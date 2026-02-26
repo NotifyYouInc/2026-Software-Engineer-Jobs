@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108647715-staff-software-engineer) |
+| Location | Orlando, Florida, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110087750-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-11.
+This frontend engineer position at ServiceNow was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
