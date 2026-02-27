@@ -1,16 +1,16 @@
-# Senior Software Engineer at Alarm.com
+# Senior Software Engineer  at Alarm.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8408842002) |
+| Location | Tysons, Virginia, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8430376002) |
 
 ## About This Role
 
-This software engineer position at Alarm.com was posted on 2026-02-06.
+This frontend engineer position at Alarm.com was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

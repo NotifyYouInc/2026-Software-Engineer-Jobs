@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000107891825-staff-software-development-in-test-engineer-sdet) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000110260915-staff-software-development-in-test-engineer-sdet) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-02-07.
+This software engineer position at Cint was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

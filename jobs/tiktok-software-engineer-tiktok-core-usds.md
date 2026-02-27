@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7608030012268824885/detail) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7608025532706490677/detail) |
 
 ## About This Role
 
-This software engineer position at TikTok was posted on 2026-02-19.
+This software engineer position at TikTok was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

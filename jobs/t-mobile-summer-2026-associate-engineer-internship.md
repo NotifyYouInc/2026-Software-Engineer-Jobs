@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Associate-Engineer-Internship_REQ342259) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Associate-Engineer-Internship_REQ342538) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-02-18.
+This software engineer position at T-Mobile was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

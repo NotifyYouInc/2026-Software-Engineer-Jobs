@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Angular-Developer_REQ570412-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Hyderabad-Waverock/Angular-Developer_REQ571195) |
 
 ## About This Role
 
-This devops engineer position at Unisys was posted on 2026-02-13.
+This frontend engineer position at Unisys was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

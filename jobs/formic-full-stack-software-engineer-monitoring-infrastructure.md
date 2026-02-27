@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4654503006) |
+| Location | 4 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4656199006) |
 
 ## About This Role
 
-This software engineer position at Formic was posted on 2026-02-14.
+This frontend engineer position at Formic was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

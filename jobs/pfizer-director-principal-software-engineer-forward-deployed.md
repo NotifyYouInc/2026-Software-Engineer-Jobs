@@ -1,16 +1,16 @@
-# Director, Principal Software Engineer - Forward Deployed at Pfizer
+# Director, Principal Software Engineer – Forward Deployed at Pfizer
 
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--GBS--Forward-Deployed-Engineer_4948069-3) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Principal-Software-Engineer---Forward-Deployed_4951493-2) |
 
 ## About This Role
 
-This software engineer position at Pfizer was posted on 2026-02-05.
+This engineering manager position at Pfizer was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

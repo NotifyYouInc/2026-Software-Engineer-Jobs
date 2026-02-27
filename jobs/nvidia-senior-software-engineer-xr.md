@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Software-Engineer---XR_JR2004819) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---XR_JR2013672) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-14.
+This software engineer position at Nvidia was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

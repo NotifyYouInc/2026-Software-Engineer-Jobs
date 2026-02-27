@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlantic City, New Jersey, United States |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems-Integration-and-Test-Engineer_R-00167226) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Egg-Harbor-Township-NJ/Systems-Integration-and-Test-Engineer_R-00176455) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-06.
+This software engineer position at Leidos was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

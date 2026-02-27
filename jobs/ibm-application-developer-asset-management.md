@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67269) |
+| Location | Karnataka, IN |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90783) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-09.
+This asset management / portfolio management position at IBM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

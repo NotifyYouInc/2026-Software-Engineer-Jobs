@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Software-Engineer_10142053) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Software-Engineer_10142050) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-09.
+This software engineer position at Disney was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
