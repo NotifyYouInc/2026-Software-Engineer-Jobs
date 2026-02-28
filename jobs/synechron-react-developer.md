@@ -1,16 +1,16 @@
-# React Developer at Synechron
+# React developer at Synechron
 
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Hinjewadi-Ascendas/React-Developer_JR1036389) |
+| Location | Dallas, Texas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Dallas-TX/React-developer_JR1036044) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-02-07.
+This frontend engineer position at Synechron was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

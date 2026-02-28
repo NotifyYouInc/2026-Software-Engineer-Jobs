@@ -1,16 +1,16 @@
-# Staff Software Engineer  at AbbVie
+# Staff Software Engineer at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Portland, Oregon, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011765746-staff-software-engineer) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011781176-staff-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at AbbVie was posted on 2026-02-19.
+This frontend engineer position at AbbVie was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

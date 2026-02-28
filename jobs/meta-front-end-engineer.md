@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Menlo Park, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2305163303324614) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1243662664574136) |
 
 ## About This Role
 
-This frontend engineer position at Meta was posted on 2026-02-19.
+This frontend engineer position at Meta was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Quebec, CA |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Android_R2600563-2) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse-de-plateforme-IaaS-Aria-Automation_R2602611-2) |
 
 ## About This Role
 
-This operations position at Desjardins was posted on 2026-02-06.
+This software engineer position at Desjardins was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

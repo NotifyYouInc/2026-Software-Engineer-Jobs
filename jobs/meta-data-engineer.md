@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1920812175173478) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/600902056444800) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-18.
+This software engineer position at Meta was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

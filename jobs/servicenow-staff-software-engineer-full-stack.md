@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110245255-staff-software-engineer-full-stack) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110474212-staff-software-engineer-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-02-19.
+This frontend engineer position at ServiceNow was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

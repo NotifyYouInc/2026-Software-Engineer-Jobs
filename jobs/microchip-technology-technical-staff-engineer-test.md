@@ -1,16 +1,16 @@
-# Technical Staff Engineer- Test at Microchip Technology
+# Technical Staff Engineer-Test at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Austin, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer--Test_R55-26) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Technical-Staff-Engineer-Test_R489-26) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Microchip Technology was posted on 2026-02-17.
+This electrical / hardware engineer position at Microchip Technology was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

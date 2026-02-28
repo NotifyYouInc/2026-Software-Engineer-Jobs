@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Staff-Software-Engineer---Java_R0129209-1) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---Java_R0133241-1) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-02-19.
+This software engineer position at PayPal was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

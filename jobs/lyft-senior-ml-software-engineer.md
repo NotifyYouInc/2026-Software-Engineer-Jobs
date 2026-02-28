@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8430589002?gh_jid=8430589002) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002) |
 
 ## About This Role
 

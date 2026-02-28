@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Ohio, US |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Software-Engineering-Intern_R4030304-2) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineering-Intern_R4036411-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-05.
+This software engineer position at GE HealthCare was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

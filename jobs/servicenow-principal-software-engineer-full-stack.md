@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107772065-principal-software-engineer-full-stack) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110449121-principal-software-engineer-full-stack) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-06.
+This software engineer position at ServiceNow was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

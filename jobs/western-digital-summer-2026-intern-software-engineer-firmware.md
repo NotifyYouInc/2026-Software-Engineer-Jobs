@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109843255-summer-2026-intern-software-engineer-firmware) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110490378-summer-2026-intern-software-engineer-firmware) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-18.
+This software engineer position at Western Digital was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

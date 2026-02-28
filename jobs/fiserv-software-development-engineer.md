@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Software-Development-Engineer_R-10386892) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Software-Development-Engineer_R-10380612) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-02-06.
+This software engineer position at Fiserv was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

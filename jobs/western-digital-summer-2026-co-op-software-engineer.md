@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000107831818-summer-2026-co-op-software-engineer) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110487475-summer-2026-co-op-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-06.
+This software engineer position at Western Digital was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
