@@ -1,16 +1,16 @@
-# Application Developer-Oracle Cloud Integration at IBM
+# Senior Full-Stack Engineer at Ruby Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
+| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Serbia |
+| Category | Frontend Engineer |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91319) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/b4d1cb92-4052-424e-a7b1-a3b1773f6a83) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-21.
+This frontend engineer position at Ruby Labs was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

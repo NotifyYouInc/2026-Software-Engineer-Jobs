@@ -1,16 +1,16 @@
-# Engineering Intern at Aptiv
+# Senior Member of Technical Staff - Systems at Aptiv
 
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kanata, Ontario, Canada |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693038) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Senior-Member-of-Technical-Staff---Systems_J000693779) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-02-20.
+This software engineer position at Aptiv was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Associate Staff Engineer, Java at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Software-Engineer_2008482) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000110516075-associate-staff-engineer-java) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-22.
+This software engineer position at Nagarro was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

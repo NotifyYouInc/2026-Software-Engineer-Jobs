@@ -1,16 +1,16 @@
-# Application Engineer at Johnson Controls
+# Senior Software Engineer - Solutions Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Electrical / Hardware Engineer |
+| Category | Software Engineer |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer_WD30262750) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110516325-senior-software-engineer-solutions-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-02-21.
+This software engineer position at NielsenIQ was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

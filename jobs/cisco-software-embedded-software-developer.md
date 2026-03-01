@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Software Embedded Software Developer at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Software-Engineer_2008482) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Embedded-Software-Developer_2009087-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-22.
+This software engineer position at Cisco was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Developer-Oracle Cloud Integration at IBM
+# Senior Software Engineer  at State Affairs
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
+| Company | [State Affairs](https://scoutify.ai/companies/state-affairs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 3 locations |
+| Category | Frontend Engineer |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91319) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/stateaffairs/jobs/4009196009) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-21.
+This frontend engineer position at State Affairs was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

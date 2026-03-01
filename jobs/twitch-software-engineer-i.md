@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Software Engineer I at Twitch
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [Twitch](https://scoutify.ai/companies/twitch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Software-Engineer_2008482) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8342111002) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-22.
+This software engineer position at Twitch was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

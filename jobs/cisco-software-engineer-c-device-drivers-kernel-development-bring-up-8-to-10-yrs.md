@@ -1,12 +1,12 @@
-# Software Engineer at Cisco
+# Software Engineer - C, Device Drivers, Kernel development, Bring up - 8 to 10 yrs at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Software-Engineer_2008482) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---C--Device-Drivers--Kernel-development--Bring-up---8-to-10-yrs_2002961-1) |
 
 ## About This Role
 
