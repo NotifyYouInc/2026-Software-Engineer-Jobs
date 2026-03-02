@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630712003) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639838003) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-02-13.
+This frontend engineer position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

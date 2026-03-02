@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000853488-lead-product-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000887577-lead-product-engineer) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-02-09.
+This software engineer position at NCS was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

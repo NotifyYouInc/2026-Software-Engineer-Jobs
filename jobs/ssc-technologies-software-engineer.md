@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Software-Engineer_R40337) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-19.
+This software engineer position at SS&C Technologies was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

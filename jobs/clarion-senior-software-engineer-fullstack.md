@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarion](https://scoutify.ai/companies/clarion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clarion/c00069fc-5d58-4108-9288-78ec9d66025f) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clarion/c41dc917-4f88-4d64-8831-37ca58339e31) |
 
 ## About This Role
 
-This software engineer position at Clarion was posted on 2026-02-16.
+This frontend engineer position at Clarion was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

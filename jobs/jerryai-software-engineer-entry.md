@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Palo Alto, California, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6993af51-3b7c-4f9c-bdad-4067b5d20e6c) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/43db19f8-011c-4883-b79d-0076165a1a9c) |
 
 ## About This Role
 

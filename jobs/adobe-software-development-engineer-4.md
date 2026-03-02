@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-4_R164973) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R165720) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-02-14.
+This frontend engineer position at Adobe was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

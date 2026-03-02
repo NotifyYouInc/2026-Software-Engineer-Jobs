@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630705003) |
+| Location | New York City, New York, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639824003) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-02-13.
+This frontend engineer position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

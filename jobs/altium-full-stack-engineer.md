@@ -6,7 +6,7 @@
 | Location | Los Angeles, California, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4654880006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4656473006) |
 
 ## About This Role
 

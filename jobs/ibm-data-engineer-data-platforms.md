@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93099) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94224) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-16.
+This software engineer position at IBM was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
