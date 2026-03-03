@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Software-Developer-II_R47480) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Software-Developer-II_R47896) |
 
 ## About This Role
 
-This software engineer position at TD Synnex was posted on 2026-02-18.
+This software engineer position at TD Synnex was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

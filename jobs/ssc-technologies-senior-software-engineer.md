@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mississauga-Canada/Senior-Software-Engineer_R40493) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Denver-CO/Senior-Software-Engineer_R40795-1) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-20.
+This software engineer position at SS&C Technologies was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

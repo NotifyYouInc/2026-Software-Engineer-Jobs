@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-516245) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-521627) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-02-14.
+This frontend engineer position at Wells Fargo was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

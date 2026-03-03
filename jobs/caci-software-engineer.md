@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer_322360) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer_322391) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-20.
+This software engineer position at CACI was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

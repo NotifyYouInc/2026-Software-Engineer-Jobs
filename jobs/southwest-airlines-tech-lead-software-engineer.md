@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Tech-Lead-Software-Engineer_R-2026-64139) |
+| Category | Engineering Manager |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Tech-Lead-Software-Engineer_R-2026-65572) |
 
 ## About This Role
 
-This software engineer position at Southwest Airlines was posted on 2026-02-05.
+This engineering manager position at Southwest Airlines was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

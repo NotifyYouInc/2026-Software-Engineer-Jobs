@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/0fe5ff0c-fa69-49b9-a7d2-a5460ef3db8b) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/19b9a9fc-fd89-419c-b438-437c44cddad1) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-02-09.
+This software engineer position at Jerry.ai was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

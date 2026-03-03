@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73577189391377094-senior-software-engineer-google-ads?sort_by=date&page=1) |
+| Category | Technical Writer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113959665909277382-senior-software-engineer-google-ads?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-18.
+This technical writer position at Google was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

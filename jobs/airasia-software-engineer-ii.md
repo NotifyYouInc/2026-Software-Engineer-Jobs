@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Software-Engineer-II_JR0031451) |
+| Location | India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Engineer-II_JR0034081) |
 
 ## About This Role
 
-This software engineer position at Airasia was posted on 2026-02-10.
+This frontend engineer position at Airasia was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Software-Development-Engineering---Advisor-I_R-10374511) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-New-Zealand/Software-Development-Engineering---Advisor-I_R-10379816) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-02-12.
+This software engineer position at Fiserv was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

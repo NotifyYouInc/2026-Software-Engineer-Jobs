@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00174600) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Frontend Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IRL---Dublin/Software-Engineer_J00174972) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-06.
+This frontend engineer position at Equifax was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Fullstack Developer at Barclays
+# FullStack Developer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Fullstack-Developer_JR-0000090449) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/FullStack-Developer_JR-0000088321-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-18.
+This frontend engineer position at Barclays was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

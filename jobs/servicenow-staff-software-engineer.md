@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | San Diego, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110087750-staff-software-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110864655-staff-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-02-19.
+This frontend engineer position at ServiceNow was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

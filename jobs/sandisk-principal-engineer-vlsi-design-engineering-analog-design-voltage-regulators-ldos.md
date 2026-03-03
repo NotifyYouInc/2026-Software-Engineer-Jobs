@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000107885086-principal-engineer-vlsi-design-engineering-analog-design-voltage-regulators-ldoswitch-capacitor-circuits) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000111004116-principal-engineer-vlsi-design-engineering-analog-design-voltage-regulators-ldoswitch-capacitor-circuits) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-02-07.
+This semiconductor / chip design position at SanDisk was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer, Full Stack at Toast
+# Senior Software Engineer (Full Stack) at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7571251) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7613318) |
 
 ## About This Role
 
-This software engineer position at Toast was posted on 2026-02-06.
+This frontend engineer position at Toast was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Development Engineering Advisor at Fiserv
+# Software Development Engineering - Advisor at Fiserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Software-Development-Engineering-Advisor_R-10388370-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Auckland-New-Zealand/Software-Development-Engineering---Advisor_R-10379815) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-02-18.
+This software engineer position at Fiserv was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
