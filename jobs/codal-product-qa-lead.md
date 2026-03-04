@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Codal](https://scoutify.ai/companies/codalinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](http://codal.jobs?gh_jid=5127256008) |
+| Category | Engineering Manager |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](http://codal.jobs?gh_jid=5131534008) |
 
 ## About This Role
 
-This software engineer position at Codal was posted on 2026-02-20.
+This engineering manager position at Codal was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

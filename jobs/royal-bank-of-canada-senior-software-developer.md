@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/745-THURLOW-STVANCOUVER/Senior-Software-Developer_R-0000154225-1) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/745-THURLOW-STVANCOUVER/Senior-Software-Developer_R-0000159322-1) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-02-06.
+This frontend engineer position at Royal Bank of Canada was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93752) |
+| Category | Industrial Automation |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96709) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-12.
+This industrial automation position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

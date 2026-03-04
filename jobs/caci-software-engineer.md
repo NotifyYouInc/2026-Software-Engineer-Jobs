@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer_322391) |
+| Location | Cary, North Carolina, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Cary/Software-Engineer_322492) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-23.
+This frontend engineer position at CACI was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

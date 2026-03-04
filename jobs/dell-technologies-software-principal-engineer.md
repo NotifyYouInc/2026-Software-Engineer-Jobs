@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Principal-Engineer_R282519) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Taipei-Taiwan/Software-Principal-Engineer_R282318-1) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-24.
+This software engineer position at Dell Technologies was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires-Argentina/Software-Development-Engineering---Sr-Professional-II_R-10381515) |
+| Location | New Jersey, US |
+| Category | Frontend Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Software-Development-Engineering---Sr-Professional-II_R-10388527) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-02-13.
+This frontend engineer position at Fiserv was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

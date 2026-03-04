@@ -1,16 +1,16 @@
-# Software Engineer, Power and Performance at Meta
+# Software Engineer - Power and Performance at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/24986250204396820) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1267719738833762) |
 
 ## About This Role
 
-This devops engineer position at Meta was posted on 2026-02-13.
+This software engineer position at Meta was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

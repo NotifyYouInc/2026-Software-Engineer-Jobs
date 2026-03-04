@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineer_JR0143054) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Software-Engineer_JR0143217) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-02-16.
+This software engineer position at McKesson was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

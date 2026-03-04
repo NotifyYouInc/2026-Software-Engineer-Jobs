@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-054968-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer_R-054326-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-07.
+This devops engineer position at Red Hat was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

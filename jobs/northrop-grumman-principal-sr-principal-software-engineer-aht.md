@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Principal---Sr-Principal-Software-Engineer--AHT-_R10223783) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Principal---Sr-Principal-Software-Engineer--AHT-_R10223929) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-23.
+This software engineer position at Northrop Grumman was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

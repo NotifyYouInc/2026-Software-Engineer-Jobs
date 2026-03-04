@@ -5,12 +5,12 @@
 | Company | [Cricut](https://scoutify.ai/companies/cricut?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | South Jordan, Utah, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000110881115-lead-software-engineer-full-stack-on-site) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000111199235-lead-software-engineer-full-stack-on-site) |
 
 ## About This Role
 
-This frontend engineer position at Cricut was posted on 2026-02-23.
+This frontend engineer position at Cricut was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

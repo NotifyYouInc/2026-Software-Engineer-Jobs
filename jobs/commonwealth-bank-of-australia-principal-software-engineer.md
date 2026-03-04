@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Principal-Software-Engineer_REQ252294) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Software Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Melbourne-VIC---357-Collins-Street/Principal-Software-Engineer_REQ253813) |
 
 ## About This Role
 
-This technical & solutions architect position at Commonwealth Bank of Australia was posted on 2026-02-16.
+This software engineer position at Commonwealth Bank of Australia was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

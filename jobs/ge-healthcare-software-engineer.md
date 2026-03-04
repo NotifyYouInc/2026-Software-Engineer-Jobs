@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington Heights, Illinois, United States |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Arlington-Heights/Software-Engineer_R4035811-1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Software-Engineer_R4036885-2) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-07.
+This software engineer position at GE HealthCare was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Software-Engineer_120647) |
+| Location | Tampa, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Software-Engineer_120540) |
 
 ## About This Role
 
-This frontend engineer position at CAE was posted on 2026-02-20.
+This software engineer position at CAE was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

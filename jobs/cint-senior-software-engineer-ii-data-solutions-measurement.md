@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000110243596-senior-software-engineer-ii-data-solutions-measurement) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000111199965-senior-software-engineer-ii-data-solutions-measurement) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-02-19.
+This software engineer position at Cint was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

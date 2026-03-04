@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chile |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94928) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97003) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-02-17.
+This frontend engineer position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
