@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Coahuila, MX |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Integration-Engineer-II-MXT_R0446769-1) |
+| Category | Technical Writer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Integration-Engineer-II-MXT_R0446878-1) |
 
 ## About This Role
 
-This software engineer position at Tyson Foods was posted on 2026-02-24.
+This technical writer position at Tyson Foods was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

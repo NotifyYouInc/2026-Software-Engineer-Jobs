@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Robotics Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111297915-principal-maps-localization-engineer-autonomous-vehicle) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111526045-principal-maps-localization-engineer-autonomous-vehicle) |
 
 ## About This Role
 
-This robotics engineer position at Grab was posted on 2026-02-25.
+This robotics engineer position at Grab was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

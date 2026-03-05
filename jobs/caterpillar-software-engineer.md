@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Software-Engineer_R0000352822) |
+| Location | Karnataka, IN |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Software-Engineer_R0000319199) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-02-23.
+This software engineer position at Caterpillar was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Coahuila, MX |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-Development-Engineer-MXT_R0446697-3) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-Development-Engineer-MXT_R0446873-2) |
 
 ## About This Role
 
-This software engineer position at Tyson Foods was posted on 2026-02-24.
+This software engineer position at Tyson Foods was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

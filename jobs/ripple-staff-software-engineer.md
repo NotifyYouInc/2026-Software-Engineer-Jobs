@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7595975?gh_jid=7595975) |
+| Location | Switzerland |
+| Category | Software Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7655918?gh_jid=7655918) |
 
 ## About This Role
 
-This frontend engineer position at Ripple was posted on 2026-02-24.
+This software engineer position at Ripple was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

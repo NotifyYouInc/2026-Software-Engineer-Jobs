@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000111184175-senior-software-engineer-fraud-quality-expert) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000111476155-senior-software-engineer-fraud-quality-expert) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-02-24.
+This software engineer position at Cint was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

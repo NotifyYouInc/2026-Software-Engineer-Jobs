@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646137-3577/swift-client-library-engineer?team=SFTWR) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648810-3577/swift-client-library-engineer?team=SFTWR) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-11.
+This software engineer position at Apple was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

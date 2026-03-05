@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79541) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93995) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-02-23.
+This frontend engineer position at IBM was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

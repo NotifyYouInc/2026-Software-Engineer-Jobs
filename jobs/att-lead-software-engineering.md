@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Software-Engineering_R-98897) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Lead-Software-Engineering_R-99338) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-12.
+This software engineer position at AT&T was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

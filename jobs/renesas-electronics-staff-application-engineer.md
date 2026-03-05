@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zhubei, Taiwan, Taiwan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000110975137-staff-application-engineer) |
+| Location | Austin, Texas, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111481405-staff-application-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-02-24.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

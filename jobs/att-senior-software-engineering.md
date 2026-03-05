@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-Software-Engineering_R-93862) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-Software-Engineering_R-98893) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-11.
+This frontend engineer position at AT&T was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

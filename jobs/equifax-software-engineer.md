@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IRL---Dublin/Software-Engineer_J00174972) |
+| Location | Kerala, IN |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Software-Engineer_J00174684) |
 
 ## About This Role
 
-This frontend engineer position at Equifax was posted on 2026-02-23.
+This software engineer position at Equifax was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

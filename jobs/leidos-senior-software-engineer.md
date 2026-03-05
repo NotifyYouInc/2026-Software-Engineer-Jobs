@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Senior-Software-Engineer_R-00176719) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Senior-Software-Engineer_R-00177009) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-23.
+This software engineer position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109863165-staff-software-engineer-nodejs-typescript) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111535615-staff-software-engineer-nodejs-typescript) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-18.
+This devops engineer position at SIA was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

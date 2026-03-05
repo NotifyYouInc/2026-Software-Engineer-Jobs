@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Software-Engineer_2124328) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Software-Engineer_2123936) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-11.
+This software engineer position at Fidelity was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

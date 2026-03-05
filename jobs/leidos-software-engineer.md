@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Engineer_R-00176718) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Software-Engineer_R-00177010) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-02-23.
+This frontend engineer position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

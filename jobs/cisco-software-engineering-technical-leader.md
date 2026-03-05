@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_1443407) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Software-Engineering-Technical-Leader_2009182) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-20.
+This software engineer position at Cisco was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

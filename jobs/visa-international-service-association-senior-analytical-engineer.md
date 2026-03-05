@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111202725-senior-analytical-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111465773-senior-analytical-engineer) |
 
 ## About This Role
 
-This devops engineer position at Visa International Service Association was posted on 2026-02-24.
+This software engineer position at Visa International Service Association was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

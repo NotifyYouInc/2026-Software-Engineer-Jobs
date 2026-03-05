@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Brisbane-AUS/Account-Technical-Lead--ATL---Enterprise-Accounts_26WD99237-1) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Customer Success |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---Japan---Tokyo---Toranomon-Hills-Mori-Tower/Account-Technical-Lead--ATL---Enterprise-Accounts_26WD99242-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-02-24.
+This customer success position at Autodesk was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

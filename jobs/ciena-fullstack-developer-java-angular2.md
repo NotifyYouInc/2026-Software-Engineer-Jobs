@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Fullstack-Developer--Java---Angular2-_R030176) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Pune/Fullstack-Developer--Java---Angular2-_R030270) |
 
 ## About This Role
 
-This frontend engineer position at Ciena was posted on 2026-02-17.
+This frontend engineer position at Ciena was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
