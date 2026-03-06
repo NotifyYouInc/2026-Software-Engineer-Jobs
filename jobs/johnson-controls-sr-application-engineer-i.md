@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Lead-Application-Engineer-I_WD30250324) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Application-Engineer-I_WD30262742-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-02-24.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

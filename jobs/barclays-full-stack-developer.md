@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Developer_JR-0000067480) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Developer_JR-0000087862) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-02-24.
+This frontend engineer position at Barclays was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

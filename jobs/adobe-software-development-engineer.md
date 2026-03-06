@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R165002-1) |
+| Location | Seattle, Washington, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R165517) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-02-26.
+This frontend engineer position at Adobe was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

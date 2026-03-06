@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New South Wales, AU |
+| Location | Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109828255-staff-data-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000111730885-staff-data-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-02-18.
+This software engineer position at SEEK was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

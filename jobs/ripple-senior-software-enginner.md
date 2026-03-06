@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Switzerland |
+| Location | Dublin, Leinster, Ireland |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7596366?gh_jid=7596366) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7595808?gh_jid=7595808) |
 
 ## About This Role
 
-This frontend engineer position at Ripple was posted on 2026-02-24.
+This frontend engineer position at Ripple was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

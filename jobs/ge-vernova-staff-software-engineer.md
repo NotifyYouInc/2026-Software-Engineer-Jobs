@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Software-Engineer_R5032851-2) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Staff-Software-Engineer_R5022913-3) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-02-20.
+This software engineer position at GE Vernova was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

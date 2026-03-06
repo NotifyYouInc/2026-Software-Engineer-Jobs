@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#328294) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#312057) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-02-25.
+This software engineer position at Oracle was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

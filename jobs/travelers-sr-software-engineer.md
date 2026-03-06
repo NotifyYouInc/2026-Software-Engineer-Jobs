@@ -1,16 +1,16 @@
-# Sr. Software Engineer at Travelers
+# Sr Software Engineer at Travelers
 
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Sr-Software-Engineer_R-49085) |
+| Location | Minnesota, US |
+| Category | Engineering Manager |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Sr-Software-Engineer_R-49209) |
 
 ## About This Role
 
-This software engineer position at Travelers was posted on 2026-02-05.
+This engineering manager position at Travelers was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-522355-1) |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-524968) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-02-25.
+This software engineer position at Wells Fargo was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

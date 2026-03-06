@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282380) |
+| Location | North Carolina, US |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Software-Senior-Engineer_R282959) |
 
 ## About This Role
 
-This frontend engineer position at Dell Technologies was posted on 2026-02-23.
+This software engineer position at Dell Technologies was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

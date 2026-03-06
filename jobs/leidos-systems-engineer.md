@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Odenton, Maryland, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineer_R-00175485) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Systems-Engineer_R-00177082) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-06.
+This software engineer position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

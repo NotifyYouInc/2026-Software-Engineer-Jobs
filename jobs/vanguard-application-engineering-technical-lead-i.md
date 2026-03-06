@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineering-Technical-Lead---I_175244) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineering-Technical-Lead---I_175307-2) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-02-18.
+This software engineer position at Vanguard was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

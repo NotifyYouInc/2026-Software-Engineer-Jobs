@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/United-States-Remote/Software-Development-Engineer_30805) |
+| Location | Brazil |
+| Category | Technical Writer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Software-Development-Engineer_31302) |
 
 ## About This Role
 
-This software engineer position at CSG Systems International was posted on 2026-02-11.
+This technical writer position at CSG Systems International was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

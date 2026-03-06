@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Software-Developer_R-00172306-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Software-Developer_R-00177064-1) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-09.
+This software engineer position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

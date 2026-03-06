@@ -1,16 +1,16 @@
-# Tech Lead - (Angular/Java) at Entain
+# Tech Lead - Angular/Java at Entain
 
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107994435-tech-lead-angularjava) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111769085-tech-lead-angularjava) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This frontend engineer position at Entain was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

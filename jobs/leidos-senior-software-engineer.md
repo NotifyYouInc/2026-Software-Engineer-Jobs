@@ -6,7 +6,7 @@
 | Location | 6 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Senior-Software-Engineer_R-00177009) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Senior-Software-Engineer_R-00177109) |
 
 ## About This Role
 
