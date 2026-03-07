@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000111478173-software-analyst-developer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000111942755-software-analyst-developer) |
 
 ## About This Role
 
-This software engineer position at The Wonderful Company was posted on 2026-02-25.
+This software engineer position at The Wonderful Company was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

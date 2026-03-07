@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94944) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97094) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-19.
+This software engineer position at IBM was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Markham, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Senior-Software-Developer_JR-202601995-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Senior-Software-Developer_JR-202604596) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-07.
+This software engineer position at General Motors was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

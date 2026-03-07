@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/101241043680142022-senior-software-engineer-embedded-systemsfirmware-pixel?sort_by=date&page=1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/118554108389925574-senior-software-engineer-embedded-systemsfirmware-pixel?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-25.
+This software engineer position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

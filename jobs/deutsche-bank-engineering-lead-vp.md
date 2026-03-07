@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Engineering-Lead--VP_R0421134) |
+| Location | Pune, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Engineering-Lead--VP_R0425863) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-05.
+This engineering manager position at Deutsche Bank was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

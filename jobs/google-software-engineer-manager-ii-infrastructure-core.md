@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92418562378867398-software-engineer-manager-ii-infrastructure-core?sort_by=date&page=1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96328580346061510-software-engineer-manager-ii-infrastructure-core?sort_by=date&page=1) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-02-25.
+This engineering manager position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

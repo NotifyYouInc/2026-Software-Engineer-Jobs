@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-PA-Remote/Software-Developer_JR0143029) |
+| Location | Columbus, Ohio, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Software-Developer_JR0143580-1) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-02-24.
+This frontend engineer position at McKesson was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

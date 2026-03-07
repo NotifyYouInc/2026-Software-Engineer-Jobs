@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Senior-Programmer-Analyst_26939432) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Applications-Development-Senior-Programmer-Analyst_26937661) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-18.
+This software engineer position at Citigroup was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

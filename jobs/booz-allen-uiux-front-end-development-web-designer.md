@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/UI-UX-Front-End-Development-Web-Designer_R0234406) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/UI-UX-Front-End-Development-Web-Designer_R0234897-1) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-02-20.
+This frontend engineer position at Booz Allen was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

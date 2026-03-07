@@ -6,7 +6,7 @@
 | Location | Sunnyvale, California, United States |
 | Category | Engineering Manager |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111738681-sr-engineering-manager-xr) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111926705-sr-engineering-manager-xr) |
 
 ## About This Role
 

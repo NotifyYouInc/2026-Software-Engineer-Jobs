@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Engineer_R165154) |
+| Location | San Jose, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer_R165228) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-02-18.
+This software engineer position at Adobe was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
