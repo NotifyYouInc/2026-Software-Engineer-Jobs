@@ -1,16 +1,16 @@
-# Software Senior Engineer at Dell Technologies
+# Founding Forward Deployed Engineer at Confido
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Confido](https://scoutify.ai/companies/confido?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282515-1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/confido/jobs/4vraitf-founding-forward-deployed-engineer) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-28.
+This software engineer position at Confido was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

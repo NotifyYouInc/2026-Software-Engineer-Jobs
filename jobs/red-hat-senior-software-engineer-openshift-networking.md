@@ -1,16 +1,16 @@
-# QA Automation Specialist at EVERSANA
+# Senior Software Engineer - OpenShift Networking at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Ireland |
 | Category | Software Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000112021047-qa-automation-specialist) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Ireland/Senior-Software-Engineer---OpenShift-Networking_R-053283-1) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-03-01.
+This software engineer position at Red Hat was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

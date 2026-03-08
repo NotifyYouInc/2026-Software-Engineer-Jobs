@@ -1,16 +1,16 @@
-# Application Developer-SAP ABAP HANA at IBM
+# Tech Lead at FrontPage
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [FrontPage](https://scoutify.ai/companies/frontpage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95036) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/frontpage/jobs/PxoioQh-tech-lead) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-28.
+This devops engineer position at FrontPage was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

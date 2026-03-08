@@ -1,16 +1,16 @@
-# Software Senior Engineer at Dell Technologies
+# Concepteur logiciel Python Senior (Outils pour l’équipe IA) at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282515-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011908616-concepteur-logiciel-python-senior-outils-pour-lequipe-ia) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-28.
+This software engineer position at Wabtec was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# QA Automation Specialist at EVERSANA
+# Systems Analyst - Jefferson County Department of Health at Pbjcal
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Pbjcal](https://scoutify.ai/companies/pbjcal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Alabama, US |
 | Category | Software Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000112021047-qa-automation-specialist) |
+| Apply | [View on company site](https://pbjcal.wd503.myworkdayjobs.com/jobsquest/job/Merit-System/Systems-Analyst---Jefferson-County-Department-of-Health_R0014946-1) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-03-01.
+This software engineer position at Pbjcal was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

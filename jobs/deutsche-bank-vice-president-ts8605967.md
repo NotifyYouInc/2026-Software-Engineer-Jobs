@@ -1,16 +1,16 @@
-# Software Senior Engineer at Dell Technologies
+# Vice President – {TS8605967} at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York, US |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282515-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Vice-President----TS8605967-_R0427602) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-28.
+This software engineer position at Deutsche Bank was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

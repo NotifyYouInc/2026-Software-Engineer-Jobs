@@ -1,16 +1,16 @@
-# Senior Software Engineer at Empower
+# Senior Software Engineer - Full Stack - Extract and Transform - WorkplaceAI - Search at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Portugal |
 | Category | Frontend Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Software-Engineer_R0054867) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7666272&gh_jid=7666272) |
 
 ## About This Role
 
-This frontend engineer position at Empower was posted on 2026-02-28.
+This frontend engineer position at Elastic was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

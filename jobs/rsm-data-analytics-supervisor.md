@@ -1,16 +1,16 @@
-# Application Developer-SAP ABAP HANA at IBM
+# Data Analytics, Supervisor at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
+| Category | Engineering Manager |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95036) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Data-Analytics--Supervisor_JR118163) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-28.
+This engineering manager position at RSM was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

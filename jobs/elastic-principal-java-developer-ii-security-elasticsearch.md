@@ -1,16 +1,16 @@
-# Application Developer-SAP ABAP HANA at IBM
+# Principal Java Developer II - Security - Elasticsearch at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Canada |
+| Category | Security Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95036) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7666241&gh_jid=7666241) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-28.
+This security engineer position at Elastic was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

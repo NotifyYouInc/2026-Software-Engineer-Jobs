@@ -1,16 +1,16 @@
-# Senior Software Engineer at Empower
+# Engineer III - ERP Software Engineering (IN) at Cencora
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Software-Engineer_R0054867) |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Engineer-III---ERP-Software-Engineering--IN-_R263240) |
 
 ## About This Role
 
-This frontend engineer position at Empower was posted on 2026-02-28.
+This frontend engineer position at Cencora was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

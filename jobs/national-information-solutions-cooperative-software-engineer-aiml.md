@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7662700) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7663277) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Embedded-Software-Engineer_2003553) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Embedded-Software-Engineer_2003997) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Cisco was posted on 2026-02-19.
+This embedded / firmware engineer position at Cisco was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

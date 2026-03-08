@@ -1,16 +1,16 @@
-# Software Engineer at Microsoft
+# Senior Data Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556804004) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111987236-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-02-27.
+This software engineer position at NielsenIQ was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

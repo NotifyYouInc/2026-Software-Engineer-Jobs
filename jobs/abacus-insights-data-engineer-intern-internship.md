@@ -1,16 +1,16 @@
-# Software Engineer at Microsoft
+# Data Engineer Intern (Internship) at Abacus Insights
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556804004) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-02-27.
+This software engineer position at Abacus Insights was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

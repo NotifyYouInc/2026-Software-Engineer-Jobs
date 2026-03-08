@@ -1,16 +1,16 @@
-# Software Senior Engineer at Dell Technologies
+# 嵌入式软件开发工程师 (AI方向)_SO at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282515-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111984995-ai-so) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-28.
+This software engineer position at Robert Bosch was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

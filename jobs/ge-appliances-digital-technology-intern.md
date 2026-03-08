@@ -1,16 +1,16 @@
-# Software Senior Engineer at Dell Technologies
+# Digital Technology Intern at GE Appliances
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [GE Appliances](https://scoutify.ai/companies/ge-appliances?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Senior-Engineer_R282515-1) |
+| Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/Hyderabad-SAL-IN/Digital-Technology-Intern_REQ-25071) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-28.
+This software engineer position at GE Appliances was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 
