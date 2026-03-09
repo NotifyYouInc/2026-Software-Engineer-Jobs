@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-3_R30772-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-3_R33680) |
 
 ## About This Role
 
-This frontend engineer position at Amadeus was posted on 2026-02-19.
+This software engineer position at Amadeus was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

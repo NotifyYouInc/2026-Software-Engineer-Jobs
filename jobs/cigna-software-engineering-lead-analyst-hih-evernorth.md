@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26000642) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26000880) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-13.
+This software engineer position at Cigna was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

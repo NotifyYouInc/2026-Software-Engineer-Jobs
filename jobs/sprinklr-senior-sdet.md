@@ -5,12 +5,12 @@
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Haryana, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-SDET_112754-JOB) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/SDET-II_112240-JOB) |
 
 ## About This Role
 
-This software engineer position at Sprinklr was posted on 2026-02-09.
+This software engineer position at Sprinklr was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

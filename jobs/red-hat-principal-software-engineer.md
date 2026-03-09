@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Principal-Software-Engineer_R-053172-2) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Principal-Software-Engineer_R-055148-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-27.
+This software engineer position at Red Hat was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

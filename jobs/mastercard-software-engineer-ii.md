@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-271255) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II_R-271923) |
 
 ## About This Role
 

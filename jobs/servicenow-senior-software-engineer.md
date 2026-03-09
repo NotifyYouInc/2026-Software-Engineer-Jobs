@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111007646-senior-software-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112081047-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-24.
+This frontend engineer position at ServiceNow was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

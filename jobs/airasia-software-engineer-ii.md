@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Engineer-II_JR0034081) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bengaluru---Vaishnavi-Signature-Bellandur/Software-Engineer-II_JR0034154) |
 
 ## About This Role
 
-This frontend engineer position at Airasia was posted on 2026-02-24.
+This software engineer position at Airasia was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

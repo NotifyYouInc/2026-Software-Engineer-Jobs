@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Hubei, CN |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R51818-1) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Lead-Software-Engineer_R53413) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-19.
+This software engineer position at Cadence Design Systems was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

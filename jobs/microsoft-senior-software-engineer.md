@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | 5 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556755079) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556746210) |
 
 ## About This Role
 

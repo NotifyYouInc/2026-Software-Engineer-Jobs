@@ -5,12 +5,12 @@
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ukraine |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a1077697-a742-4d3c-a162-45778c82ef75) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/ade7345e-508a-4a8b-b6d8-ea13f97e230c) |
 
 ## About This Role
 
-This engineering manager position at Ruby Labs was posted on 2026-02-17.
+This engineering manager position at Ruby Labs was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

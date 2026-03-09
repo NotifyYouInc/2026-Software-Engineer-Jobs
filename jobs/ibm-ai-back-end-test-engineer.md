@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90633) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90637) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-16.
+This devops engineer position at IBM was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

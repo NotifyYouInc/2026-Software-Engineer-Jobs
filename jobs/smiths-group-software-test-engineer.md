@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000111528990-software-test-engineer) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000112085267-software-test-engineer) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-02-26.
+This software engineer position at Smiths Group was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

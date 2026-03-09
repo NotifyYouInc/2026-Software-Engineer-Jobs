@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000430050) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000423956) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-02-19.
+This software engineer position at Target was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
