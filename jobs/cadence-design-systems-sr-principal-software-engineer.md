@@ -1,16 +1,16 @@
-# Sr. Principal Software Engineer at Cadence Design Systems
+# Sr Principal Software Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Principal-Software-Engineer_R53396) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Software-Engineer_R53100) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-26.
+This software engineer position at Cadence Design Systems was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

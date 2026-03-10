@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Software-Engineer_R-00177173) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00177307) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-27.
+This software engineer position at Leidos was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

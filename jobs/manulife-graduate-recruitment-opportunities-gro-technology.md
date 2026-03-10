@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Graduate-Recruitment-Opportunities--GRO----Technology_JR25090218) |
+| Location | Boston, Massachusetts, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Graduate-Recruitment-Opportunities--GRO----Technology_JR25090223) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Manulife was posted on 2026-02-26.
+This frontend engineer position at Manulife was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

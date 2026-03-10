@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Los Angeles, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000111710245-electrical-engineering-lead-data-centers-remote-us) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112283758-electrical-engineering-lead-data-centers-remote-us) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-02-26.
+This electrical / hardware engineer position at AECOM was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

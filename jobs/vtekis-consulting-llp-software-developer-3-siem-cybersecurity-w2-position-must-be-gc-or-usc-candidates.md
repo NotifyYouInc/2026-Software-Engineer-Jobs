@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000111696885-software-developer-3-siem-cybersecurity-w2-position-must-be-gc-or-usc-candidates-only) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000112289390-software-developer-3-siem-cybersecurity-w2-position-must-be-gc-or-usc-candidates-only) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-02-26.
+This security engineer position at VTekis Consulting LLP was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

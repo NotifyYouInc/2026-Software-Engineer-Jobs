@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7581867) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7644278) |
 
 ## About This Role
 
-This software engineer position at MongoDB was posted on 2026-02-10.
+This software engineer position at MongoDB was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

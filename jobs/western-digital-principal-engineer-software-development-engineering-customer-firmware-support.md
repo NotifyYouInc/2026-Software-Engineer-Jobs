@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109796440-principal-engineer-software-development-engineering-customer-firmware-support) |
+| Category | Software Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112320518-principal-engineer-software-development-engineering-customer-firmware-support) |
 
 ## About This Role
 
-This technical writer position at Western Digital was posted on 2026-02-17.
+This software engineer position at Western Digital was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

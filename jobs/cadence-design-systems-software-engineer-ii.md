@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R52925-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU-05/Software-Engineer-II_R52902) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-27.
+This software engineer position at Cadence Design Systems was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

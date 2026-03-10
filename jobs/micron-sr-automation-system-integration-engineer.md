@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-Automation-System-Integration-Engineer_JR90368) |
+| Location | Taichung, Taiwan, Taiwan |
+| Category | Industrial Automation |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-Automation-System-Integration-Engineer_JR90869) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-02-24.
+This industrial automation position at Micron was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Engineer_JR2012613) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Engineer_JR2014092) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-07.
+This software engineer position at Nvidia was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

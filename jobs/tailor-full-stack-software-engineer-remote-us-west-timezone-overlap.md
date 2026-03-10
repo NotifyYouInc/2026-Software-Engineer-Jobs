@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tailor](https://scoutify.ai/companies/tailor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tailor/08796053-4fa8-48db-9a73-a977ae2c5434) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/tailor/jobs/9xfZuVa-full-stack-software-engineer-remote-us-west-timezone-overlap) |
 
 ## About This Role
 
-This frontend engineer position at Tailor was posted on 2026-02-27.
+This frontend engineer position at Tailor was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

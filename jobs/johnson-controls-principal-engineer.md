@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Principal-Engineer_WD30262192-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Principal-Engineer_WD30262140-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-02-27.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

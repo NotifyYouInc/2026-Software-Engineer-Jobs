@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-3_R30880) |
+| Category | Software Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-4_R33119-1) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-02-12.
+This software engineer position at Amadeus was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

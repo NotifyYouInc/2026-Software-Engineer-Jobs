@@ -5,12 +5,12 @@
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pullman, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17674) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-19777-1) |
 
 ## About This Role
 
-This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-17.
+This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

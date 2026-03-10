@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111950655-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112301078-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-02-28.
+This frontend engineer position at Woongjin was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

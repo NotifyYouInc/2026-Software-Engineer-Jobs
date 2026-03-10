@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HappyCo](https://scoutify.ai/companies/happyco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.lever.co/happyco/3476809d-787b-40cc-b5a1-9370356e2959) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.lever.co/happyco/8fc93b78-f344-4f4c-b4d0-a0d446570a21) |
 
 ## About This Role
 
-This software engineer position at HappyCo was posted on 2026-02-18.
+This software engineer position at HappyCo was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

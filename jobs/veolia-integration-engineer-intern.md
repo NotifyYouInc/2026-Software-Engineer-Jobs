@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110452570-integration-engineer-intern) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112264792-integration-engineer-intern) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-02-20.
+This software engineer position at Veolia was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

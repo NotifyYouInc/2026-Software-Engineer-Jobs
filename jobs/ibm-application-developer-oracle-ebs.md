@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Haryana, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97290) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97551) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-26.
+This software engineer position at IBM was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer_R236156-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Data-Engineer_R235014) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-02-17.
+This software engineer position at Capital One was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

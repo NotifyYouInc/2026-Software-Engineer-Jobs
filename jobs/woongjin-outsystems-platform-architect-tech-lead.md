@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ramsey, Minnesota, United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111950815-outsystems-platform-architect-tech-lead) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112300003-outsystems-platform-architect-tech-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Woongjin was posted on 2026-02-28.
+This technical & solutions architect position at Woongjin was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

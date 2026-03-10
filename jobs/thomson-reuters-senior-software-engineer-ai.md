@@ -1,16 +1,16 @@
-# Senior Software Engineer- AI at Thomson Reuters
+# Senior Software Engineer -AI at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer--AI_JREQ194874) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer--AI_JREQ198632) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-17.
+This software engineer position at Thomson Reuters was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

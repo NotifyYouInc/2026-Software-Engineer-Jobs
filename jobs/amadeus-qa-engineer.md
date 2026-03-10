@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/QA-Engineer_R33642-2) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/QA-Engineer_R33473) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-02-25.
+This software engineer position at Amadeus was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
