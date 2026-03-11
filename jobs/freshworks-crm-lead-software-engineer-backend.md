@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | San Mateo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112042087-lead-software-engineer-backend) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112514202-lead-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-03-01.
+This software engineer position at Freshworks CRM was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

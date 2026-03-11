@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Software-Engineer_R-271193) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-271647) |
 
 ## About This Role
 
-This frontend engineer position at Mastercard was posted on 2026-02-20.
+This devops engineer position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

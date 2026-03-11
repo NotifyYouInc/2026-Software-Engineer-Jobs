@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MYOB](https://scoutify.ai/companies/myob?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.lever.co/myob-2/0757ed4d-9527-4778-94cf-66ab7da4da61) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.lever.co/myob-2/189eccac-b18f-45cc-b16f-7ded4f734133) |
 
 ## About This Role
 
-This software engineer position at MYOB was posted on 2026-02-18.
+This software engineer position at MYOB was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Senior-Engineer---NET_R0060590-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Senior-Engineer---NET_R0062365) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-02-17.
+This software engineer position at Geico was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

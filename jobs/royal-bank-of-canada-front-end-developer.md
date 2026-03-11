@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Putrajaya, Putrajaya, Malaysia |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Front-End-Developer_R-0000160976-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Front-End-Developer_R-0000160983-1) |
 
 ## About This Role
 
-This frontend engineer position at Royal Bank of Canada was posted on 2026-02-24.
+This frontend engineer position at Royal Bank of Canada was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

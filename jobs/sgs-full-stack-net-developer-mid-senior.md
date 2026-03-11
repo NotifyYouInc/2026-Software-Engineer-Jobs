@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombia |
 | Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111711489-full-stack-net-developer-mid-senior) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000112529672-full-stack-net-developer-mid-senior) |
 
 ## About This Role
 
-This frontend engineer position at SGS was posted on 2026-02-26.
+This frontend engineer position at SGS was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

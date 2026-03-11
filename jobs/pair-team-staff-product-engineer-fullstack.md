@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pair Team](https://scoutify.ai/companies/pair-team?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pairteam/jobs/8431837002) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pairteam/jobs/8447546002) |
 
 ## About This Role
 
-This frontend engineer position at Pair Team was posted on 2026-02-20.
+This frontend engineer position at Pair Team was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

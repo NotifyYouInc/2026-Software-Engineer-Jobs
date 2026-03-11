@@ -5,12 +5,12 @@
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/72989622-b10f-46dd-a401-b614e373b41d) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/eb6d669c-94b4-4cb9-b982-dcd2d6dc2c76) |
 
 ## About This Role
 
-This engineering manager position at Airwallex was posted on 2026-03-03.
+This engineering manager position at Airwallex was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110883257-software-engineer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000112501737-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-02-23.
+This software engineer position at NBCUniversal was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Principal-Engineer_R285676-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Principal-Engineer_R282684) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-03-03.
+This software engineer position at Dell Technologies was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

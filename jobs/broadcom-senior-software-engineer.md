@@ -1,16 +1,16 @@
-# Senior  Software Engineer at Broadcom
+# Senior Software Engineer at Broadcom
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Burlington, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Senior--Software-Engineer_R025190) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-MA-Burlington---Blue-Sky/Senior-Software-Engineer_R025241) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-03-03.
+This software engineer position at Broadcom was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

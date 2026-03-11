@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Smithfield, Rhode Island, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Full-Stack-Engineer_2123917) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Full-Stack-Engineer_2123609) |
 
 ## About This Role
 
-This frontend engineer position at Fidelity was posted on 2026-02-19.
+This software engineer position at Fidelity was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

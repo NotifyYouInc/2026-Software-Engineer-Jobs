@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Spain |
+| Location | Redmond, Washington, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556753272) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768809) |
 
 ## About This Role
 

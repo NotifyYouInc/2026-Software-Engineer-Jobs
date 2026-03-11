@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/9e4d357d-3438-4359-a4f0-8de259501de7) |
 
 ## About This Role
 
-This software engineer position at WhatNot was posted on 2026-02-05.
+This software engineer position at WhatNot was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

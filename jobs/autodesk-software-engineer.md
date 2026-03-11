@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD94552-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Poland---Krakw---Lubomirskiego/Software-Engineer_26WD95989) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-03-02.
+This software engineer position at Autodesk was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

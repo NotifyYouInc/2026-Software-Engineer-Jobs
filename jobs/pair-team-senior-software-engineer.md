@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pair Team](https://scoutify.ai/companies/pair-team?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pairteam/jobs/8425944002) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pairteam/jobs/8447545002) |
 
 ## About This Role
 
-This frontend engineer position at Pair Team was posted on 2026-02-20.
+This frontend engineer position at Pair Team was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

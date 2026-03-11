@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Principal-Engineer_JR-0000072495-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Principal-Engineer_JR-0000097246) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-06.
+This engineering manager position at Barclays was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

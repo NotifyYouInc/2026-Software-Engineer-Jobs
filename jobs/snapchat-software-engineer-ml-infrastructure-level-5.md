@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-5_H126SWEMLI6) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Level-5_R0043248) |
 
 ## About This Role
 
-This software engineer position at Snapchat was posted on 2026-02-18.
+This software engineer position at Snapchat was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

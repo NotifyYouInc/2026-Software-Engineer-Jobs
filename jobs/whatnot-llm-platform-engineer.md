@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/fdb6f8e1-125a-4406-9fa4-43b46f3f5ace) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/bbf75c51-3a20-4989-bd13-1f24b66dbb16) |
 
 ## About This Role
 
-This software engineer position at WhatNot was posted on 2026-02-05.
+This software engineer position at WhatNot was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

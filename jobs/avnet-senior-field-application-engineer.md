@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Hanoi-Vietnam/Senior-Field-Application-Engineer_JR-021576) |
+| Location | Taiwan |
+| Category | Account Executive |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-021792) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-02-16.
+This account executive position at Avnet was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Scottsdale, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8419219002) |
+| Location | 3 locations |
+| Category | Engineering Manager |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8447287002) |
 
 ## About This Role
 
-This software engineer position at AXS was posted on 2026-02-11.
+This engineering manager position at AXS was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

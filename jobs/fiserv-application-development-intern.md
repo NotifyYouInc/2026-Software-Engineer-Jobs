@@ -1,16 +1,16 @@
-# Application Development Intern   at Fiserv
+# Application Development Intern at Fiserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
+| Location | Fishers, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/King-of-Prussia-Pennsylvania/Application-Development-Intern--_R-10381825) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development-Intern_R-10373071) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-02-24.
+This software engineer position at Fiserv was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

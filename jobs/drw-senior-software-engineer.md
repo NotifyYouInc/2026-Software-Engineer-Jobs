@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7378738) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/6562510) |
 
 ## About This Role
 
-This devops engineer position at DRW was posted on 2026-02-23.
+This software engineer position at DRW was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

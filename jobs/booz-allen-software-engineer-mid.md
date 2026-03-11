@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Virginia, US |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Software-Engineer--Mid_R0234178) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Software-Engineer--Mid_R0235060) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-02-18.
+This software engineer position at Booz Allen was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

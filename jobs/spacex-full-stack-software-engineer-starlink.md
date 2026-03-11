@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8422882002?gh_jid=8422882002) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8444944002?gh_jid=8444944002) |
 
 ## About This Role
 
-This frontend engineer position at SpaceX was posted on 2026-02-19.
+This frontend engineer position at SpaceX was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8419234002) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8447290002) |
 
 ## About This Role
 
-This software engineer position at AXS was posted on 2026-02-11.
+This engineering manager position at AXS was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

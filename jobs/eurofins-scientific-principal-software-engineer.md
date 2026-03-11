@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108916236-principal-software-engineer) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000112592839-principal-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-02-12.
+This frontend engineer position at Eurofins Scientific was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

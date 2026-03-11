@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Openlane](https://scoutify.ai/companies/kar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Carmel, Indiana, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://kar.wd1.myworkdayjobs.com/OPENLANE_Careers/job/Remote-United-States/Sr-Software-Engineer_R-253626) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://kar.wd1.myworkdayjobs.com/OPENLANE_Careers/job/US---IN---Carmel-OPENLANE/Sr-Software-Engineer_R-252492) |
 
 ## About This Role
 
-This frontend engineer position at Openlane was posted on 2026-02-18.
+This frontend engineer position at Openlane was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

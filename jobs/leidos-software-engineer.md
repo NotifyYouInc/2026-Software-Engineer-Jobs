@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00177307) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Engineer_R-00177408) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-02.
+This software engineer position at Leidos was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
