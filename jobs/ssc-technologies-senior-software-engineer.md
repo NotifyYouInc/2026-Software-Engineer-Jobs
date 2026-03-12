@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Denver-CO/Senior-Software-Engineer_R40795-1) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Frontend Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Senior-Software-Engineer_R40418) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-24.
+This frontend engineer position at SS&C Technologies was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

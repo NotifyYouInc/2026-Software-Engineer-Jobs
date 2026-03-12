@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Engineer_R0233775) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0235166) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-02-24.
+This software engineer position at Booz Allen was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

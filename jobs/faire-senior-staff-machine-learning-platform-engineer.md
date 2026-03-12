@@ -5,12 +5,12 @@
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8426105002?gh_jid=8426105002) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8449617002?gh_jid=8449617002) |
 
 ## About This Role
 
-This software engineer position at Faire was posted on 2026-02-17.
+This software engineer position at Faire was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

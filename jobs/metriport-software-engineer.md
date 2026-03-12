@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/61f5d734-f09f-47f4-89cd-dab4f1249d7a) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/9a402e5f-9904-4128-93b4-bcf82b0a42a4) |
 
 ## About This Role
 
-This software engineer position at Metriport was posted on 2026-02-26.
+This frontend engineer position at Metriport was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

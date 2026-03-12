@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Lead-Software-Engineering_R-99338) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Technical Writer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Software-Engineering_R-98655) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-26.
+This technical writer position at AT&T was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

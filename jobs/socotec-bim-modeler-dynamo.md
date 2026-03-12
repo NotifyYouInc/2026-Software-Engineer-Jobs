@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000111294146-bim-modeler-dynamo) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000112829057-bim-modeler-dynamo) |
 
 ## About This Role
 
-This software engineer position at SOCOTEC was posted on 2026-02-25.
+This software engineer position at SOCOTEC was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

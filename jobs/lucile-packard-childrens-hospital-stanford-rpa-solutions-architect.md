@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990011833866-rpa-solutions-architect) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990011981776-rpa-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lucile Packard Children's Hospital Stanford was posted on 2026-02-24.
+This technical & solutions architect position at Lucile Packard Children's Hospital Stanford was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

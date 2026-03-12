@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Australia |
 | Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000111760405-senior-software-engineer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000112778433-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Nearmap was posted on 2026-02-27.
+This frontend engineer position at Nearmap was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

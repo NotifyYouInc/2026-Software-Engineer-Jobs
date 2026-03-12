@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Application-Engineer---III_169873-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineer---III_173423-1) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-02-11.
+This software engineer position at Vanguard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

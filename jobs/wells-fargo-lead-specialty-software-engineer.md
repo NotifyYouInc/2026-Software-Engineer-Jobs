@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Specialty-Software-Engineer_R-516214-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Specialty-Software-Engineer_R-521117) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-02-26.
+This software engineer position at Wells Fargo was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

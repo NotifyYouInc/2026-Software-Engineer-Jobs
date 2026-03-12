@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU-05/Software-Engineer-II_R52902) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Engineer-II_R53132) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-03.
+This software engineer position at Cadence Design Systems was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

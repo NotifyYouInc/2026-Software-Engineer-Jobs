@@ -6,7 +6,7 @@
 | Location | Karnataka, IN |
 | Category | Frontend Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95702) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97839) |
 
 ## About This Role
 

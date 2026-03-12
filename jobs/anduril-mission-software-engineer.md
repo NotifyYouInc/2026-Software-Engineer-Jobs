@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Japan |
+| Location | Costa Mesa, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5049461007?gh_jid=5049461007) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-11.
+This software engineer position at Anduril was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

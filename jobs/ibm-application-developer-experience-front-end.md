@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91570) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Frontend Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98192) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-10.
+This frontend engineer position at IBM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

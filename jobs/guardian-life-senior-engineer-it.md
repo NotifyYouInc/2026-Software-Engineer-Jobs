@@ -5,12 +5,12 @@
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer---IT_R000108766-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer---IT_R000108689-1) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-03-02.
+This software engineer position at Guardian Life was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

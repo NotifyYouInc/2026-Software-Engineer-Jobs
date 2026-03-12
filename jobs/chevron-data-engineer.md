@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Makati-City-Chevron-6750-Office/Data-Engineer_R000069442) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Engineer_R000068575) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-03-04.
+This software engineer position at Chevron was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

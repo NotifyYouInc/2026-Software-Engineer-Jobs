@@ -5,12 +5,12 @@
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Haryana, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Engineer--Backend-_110100-JOB-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Lead---Product-Engineer---Backend_109149-JOB) |
 
 ## About This Role
 
-This software engineer position at Sprinklr was posted on 2026-02-25.
+This software engineer position at Sprinklr was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

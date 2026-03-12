@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Software-Engineering-Co-op-Instructional-Systems_120460) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Software-Engineering-Co-op-Instructional-Systems_120458) |
 
 ## About This Role
 
-This software engineer position at CAE was posted on 2026-02-12.
+This software engineer position at CAE was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer (AI Platform - AI Acceleration) at Coinbase
+# Senior Software Engineer (AI Platform - AI Acceleration)  at Coinbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7233950?gh_jid=7233950) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7680782?gh_jid=7680782) |
 
 ## About This Role
 
-This software engineer position at Coinbase was posted on 2026-02-13.
+This software engineer position at Coinbase was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Staff Software Engineer (Libraries- Platform) at Chainguard
+# Staff Software Engineer (Libraries Platform) at Chainguard
 
 | Field | Details |
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4651734006) |
+| Location | United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4660100006) |
 
 ## About This Role
 
-This software engineer position at Chainguard was posted on 2026-02-05.
+This devops engineer position at Chainguard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

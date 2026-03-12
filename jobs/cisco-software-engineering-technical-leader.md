@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Software-Engineering-Technical-Leader_2009182) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2002299-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-25.
+This software engineer position at Cisco was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

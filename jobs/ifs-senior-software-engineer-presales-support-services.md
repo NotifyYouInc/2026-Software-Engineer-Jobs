@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000107494855-senior-software-engineer-presales-support-services) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000112832647-senior-software-engineer-presales-support-services) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-02-05.
+This frontend engineer position at IFS was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
