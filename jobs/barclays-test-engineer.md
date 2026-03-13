@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Test-Engineer_JR-0000086365) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Test-Engineer_JR-0000082111) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-10.
+This software engineer position at Barclays was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

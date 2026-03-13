@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Engineer-Systems_R10222233) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Sr-Principal-Engineer-Systems_R10224883) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-02-09.
+This software engineer position at Northrop Grumman was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

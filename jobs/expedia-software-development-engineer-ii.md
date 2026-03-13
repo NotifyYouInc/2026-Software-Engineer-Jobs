@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-II_R-101673-1) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-II_R-103218-1) |
 
 ## About This Role
 
-This frontend engineer position at Expedia was posted on 2026-02-17.
+This software engineer position at Expedia was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

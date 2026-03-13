@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Software-Engineer-III_26007313-2) |
+| Location | Addison, Illinois, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Addison/Software-Engineer-III_26005707) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-03-04.
+This frontend engineer position at Bank of America was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

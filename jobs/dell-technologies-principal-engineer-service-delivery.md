@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Round Rock, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Principal-Engineer--Service-Delivery_R286430-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Engineer--Service-Delivery_R286422) |
 
 ## About This Role
 
-This customer success position at Dell Technologies was posted on 2026-03-03.
+This devops engineer position at Dell Technologies was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

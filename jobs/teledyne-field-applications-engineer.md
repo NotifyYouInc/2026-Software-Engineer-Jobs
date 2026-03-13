@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Englewood, Colorado, United States |
+| Location | Massachusetts, US |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Englewood-CO-TDY/Field-Applications-Engineer_REQ32761) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Field-Applications-Engineer_REQ33623) |
 
 ## About This Role
 
-This customer success position at Teledyne was posted on 2026-02-24.
+This customer success position at Teledyne was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

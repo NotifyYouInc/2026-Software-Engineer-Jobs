@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Porto, Porto, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-Product-Software-Engineer_R0054891) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/PRT---Porto/Senior-Product-Software-Engineer_R0054171-2) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-02.
+This software engineer position at Wolters Kluwer was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97650544436224710-software-engineer-iii-android-system-ui?sort_by=date&page=1) |
+| Location | Bucharest, București, Romania |
+| Category | Mobile Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/130113426604073670-software-engineer-iii-android-system-ui?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-05.
+This mobile engineer position at Google was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

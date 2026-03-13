@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Bangalore-India/Integration-Engineer-II-INT_R0448117-3) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Bangalore-India/Integration-Engineer-II-INT_R0448508-1) |
 
 ## About This Role
 
-This software engineer position at Tyson Foods was posted on 2026-03-04.
+This software engineer position at Tyson Foods was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

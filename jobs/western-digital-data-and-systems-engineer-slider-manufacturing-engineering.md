@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Philippines |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000111480589-data-and-systems-engineer-slider-manufacturing-engineering) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113078526-data-and-systems-engineer-slider-manufacturing-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-25.
+This software engineer position at Western Digital was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

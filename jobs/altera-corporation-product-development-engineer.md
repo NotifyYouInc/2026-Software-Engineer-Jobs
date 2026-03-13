@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Product-Development-Engineer_R02116) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Development-Engineer_R02134) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-02-28.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

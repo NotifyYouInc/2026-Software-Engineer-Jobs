@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/106994304844473030-software-engineer-iii-aiml-genai-google-workspace?sort_by=date&page=1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/130114113798841030-software-engineer-iii-aiml-genai-google-workspace?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-04.
+This software engineer position at Google was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

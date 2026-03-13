@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chile |
+| Location | Costa Rica |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer---Intermediate_J00174883) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Data-Engineer---Intermediate_J00175252-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-03-03.
+This software engineer position at Equifax was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

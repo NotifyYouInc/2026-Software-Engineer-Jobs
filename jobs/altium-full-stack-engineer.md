@@ -5,12 +5,12 @@
 | Company | [Altium](https://scoutify.ai/companies/altium?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4656473006) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4659098006) |
 
 ## About This Role
 
-This frontend engineer position at Altium was posted on 2026-02-20.
+This frontend engineer position at Altium was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

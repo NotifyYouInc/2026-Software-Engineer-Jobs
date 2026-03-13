@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=76388) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99602) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-26.
+This software engineer position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

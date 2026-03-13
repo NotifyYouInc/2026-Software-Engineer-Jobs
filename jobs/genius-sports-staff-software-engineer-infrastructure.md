@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7634525003?gh_jid=7634525003) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7654999003?gh_jid=7654999003) |
 
 ## About This Role
 
-This devops engineer position at Genius Sports was posted on 2026-02-17.
+This devops engineer position at Genius Sports was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

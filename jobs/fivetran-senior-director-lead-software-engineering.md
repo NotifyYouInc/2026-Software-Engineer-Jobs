@@ -6,7 +6,7 @@
 | Location | Oakland, California, United States |
 | Category | Engineering Manager |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7653046003) |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7654730003) |
 
 ## About This Role
 

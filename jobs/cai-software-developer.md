@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/MD-CLIENT-STATE/Software-Developer_R7097) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Software-Developer_R7240) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-02-05.
+This frontend engineer position at CAI was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

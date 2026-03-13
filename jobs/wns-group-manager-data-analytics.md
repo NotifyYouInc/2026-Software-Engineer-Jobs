@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000112590038-group-manager-data-analytics) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000113089487-group-manager-data-analytics) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-03-04.
+This software engineer position at WNS was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

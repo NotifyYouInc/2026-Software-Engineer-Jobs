@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Zapopan, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000107587410-data-visualization-engineer) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000112997232-data-visualization-engineer) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-02-05.
+This software engineer position at Solidigm was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

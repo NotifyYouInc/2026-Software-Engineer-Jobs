@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer_2010285) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2010210-1) |
 
 ## About This Role
 
-This frontend engineer position at Cisco was posted on 2026-03-04.
+This software engineer position at Cisco was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
