@@ -5,12 +5,12 @@
 | Company | [Pallet](https://scoutify.ai/companies/pallet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pallet/jobs/5065850007) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pallet/jobs/5072543007) |
 
 ## About This Role
 
-This software engineer position at Pallet was posted on 2026-02-27.
+This software engineer position at Pallet was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

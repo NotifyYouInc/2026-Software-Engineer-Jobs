@@ -1,16 +1,16 @@
-# Full-Stack Software Engineer at Booz Allen
+# Full Stack Software Engineer at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234884) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0235362) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-02-27.
+This frontend engineer position at Booz Allen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

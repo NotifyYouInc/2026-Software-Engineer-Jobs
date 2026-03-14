@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110454725-customer-applications-developer-intern) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113259967-customer-applications-developer-intern) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-02-20.
+This software engineer position at Veolia was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

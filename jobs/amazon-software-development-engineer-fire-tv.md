@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3193658/software-development-engineer-fire-tv) |
+| Category | Mobile Engineer |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198862/software-development-engineer-fire-tv) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-03.
+This mobile engineer position at Amazon was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

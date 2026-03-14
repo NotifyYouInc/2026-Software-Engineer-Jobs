@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Module-Development-Engineer_JR0281042) |
+| Location | Hillsboro, Oregon, United States |
+| Category | Industrial Automation |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0281393) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-18.
+This industrial automation position at Intel was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

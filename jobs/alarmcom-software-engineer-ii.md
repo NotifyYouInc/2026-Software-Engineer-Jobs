@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8418675002) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8453346002) |
 
 ## About This Role
 
-This software engineer position at Alarm.com was posted on 2026-02-11.
+This frontend engineer position at Alarm.com was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

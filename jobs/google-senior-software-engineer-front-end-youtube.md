@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137832790652527302-senior-software-engineer-front-end-youtube?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/112190270379827910-senior-software-engineer-front-end-youtube?sort_by=date&page=1) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-02-25.
+This frontend engineer position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

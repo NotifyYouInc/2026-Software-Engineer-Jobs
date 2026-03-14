@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Senior_R0235262) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Software-Engineer--Senior_R0235295-1) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-05.
+This frontend engineer position at Booz Allen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

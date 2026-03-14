@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0134967-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0135191-1) |
 
 ## About This Role
 
-This frontend engineer position at PayPal was posted on 2026-03-05.
+This software engineer position at PayPal was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

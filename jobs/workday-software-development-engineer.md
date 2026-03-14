@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Location | Seattle, Washington, United States |
+| Category | Frontend Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Software-Development-Engineer_JR-0104855) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Software-Development-Engineer_JR-0104752) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-03-06.
+This frontend engineer position at Workday was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

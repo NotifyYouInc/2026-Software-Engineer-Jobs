@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Software-Engineer_REQ338367-1) |
+| Location | Bellevue, Washington, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Software-Engineer_REQ347009) |
 
 ## About This Role
 
-This devops engineer position at T-Mobile was posted on 2026-02-16.
+This frontend engineer position at T-Mobile was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

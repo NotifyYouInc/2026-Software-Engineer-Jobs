@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kirkland, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/141535250030174918-software-engineer-iii-core?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93110857419891398-software-engineer-iii-core?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-03.
+This software engineer position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

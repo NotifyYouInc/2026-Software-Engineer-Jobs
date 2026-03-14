@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Christchurch, Canterbury, New Zealand |
+| Location | Mexicali, Baja California, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Software-Development-Engineer-in-Test_R54353-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Development-Engineer-in-Test_R54812) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-02-20.
+This software engineer position at Trimble was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

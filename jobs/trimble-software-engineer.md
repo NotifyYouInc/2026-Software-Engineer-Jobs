@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Software-Engineer_R54352) |
+| Location | Mexicali, Baja California, Mexico |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Engineer_R54811) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-02-20.
+This frontend engineer position at Trimble was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

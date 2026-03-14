@@ -1,16 +1,16 @@
-# Principal / Sr Principal Systems Engineer at Northrop Grumman
+# Principal/ Sr. Principal Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warner Robins, Georgia, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Principal---Sr-Principal-Systems-Engineer_R10222318) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal--Sr-Principal-Systems-Engineer_R10225198) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-11.
+This software engineer position at Northrop Grumman was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

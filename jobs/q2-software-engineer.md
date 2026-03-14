@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Software-Engineer_REQ-12155-1) |
+| Location | Austin, Texas, United States |
+| Category | Technical Writer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12237) |
 
 ## About This Role
 
-This frontend engineer position at Q2 was posted on 2026-03-03.
+This technical writer position at Q2 was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

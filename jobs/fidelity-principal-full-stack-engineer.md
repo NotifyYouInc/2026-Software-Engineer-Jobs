@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Smithfield, Rhode Island, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/900-Salem-St-Smithfield-RI/Principal-Full-Stack-Engineer_2113536-1) |
+| Location | Merrimack, New Hampshire, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Principal-Full-Stack-Engineer_2124549) |
 
 ## About This Role
 
-This frontend engineer position at Fidelity was posted on 2026-02-26.
+This software engineer position at Fidelity was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

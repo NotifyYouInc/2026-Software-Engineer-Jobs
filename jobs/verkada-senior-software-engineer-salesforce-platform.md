@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5064662007) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5072508007) |
 
 ## About This Role
 
-This software engineer position at Verkada was posted on 2026-02-27.
+This frontend engineer position at Verkada was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

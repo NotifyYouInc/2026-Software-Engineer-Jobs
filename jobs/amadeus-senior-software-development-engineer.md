@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Software-Development-Engineer_R32128-2) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Senior-Software-Development-Engineer_R32954) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-02-05.
+This frontend engineer position at Amadeus was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

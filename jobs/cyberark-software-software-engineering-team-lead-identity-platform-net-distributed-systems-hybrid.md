@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109317687-software-engineering-team-lead-identity-platform-net-distributed-systems-hybrid-23-days-onsite) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000113267955-software-engineering-team-lead-identity-platform-net-distributed-systems-hybrid-23-days-onsite) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-13.
+This software engineer position at CyberArk Software was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

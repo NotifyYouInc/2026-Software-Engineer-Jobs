@@ -1,16 +1,16 @@
-# Product Engineer - Java Spring Boot at Allstate
+# Product Engineer Java Spring Boot at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Product-Engineer---Java-Spring-Boot_R26767) |
+| Location | California, US |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---CA-Remote/Product-Engineer-Java-Spring-Boot_R27277-1) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-02-20.
+This frontend engineer position at Allstate was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
