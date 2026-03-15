@@ -1,16 +1,16 @@
-# Sr. Applied AI Software Engineer- VPG & Siri at Apple
+# Senior Software Engineer, Infrastructure & Platform at AfterQuery
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Company | [AfterQuery](https://scoutify.ai/companies/afterquery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650612-3401/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/afterquery/c33f01ac-783a-4ab3-9efe-d29a060c4524) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-03-08.
+This software engineer position at AfterQuery was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

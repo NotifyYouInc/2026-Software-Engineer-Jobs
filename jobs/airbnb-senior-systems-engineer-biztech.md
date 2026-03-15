@@ -1,16 +1,16 @@
-# Application Developer-AWS Cloud FullStack at IBM
+# Senior Systems Engineer, Biztech at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84176) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7681127?gh_jid=7681127) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-07.
+This frontend engineer position at Airbnb was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

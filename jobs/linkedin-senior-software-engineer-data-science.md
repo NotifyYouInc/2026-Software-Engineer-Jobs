@@ -1,16 +1,16 @@
-# Senior Software Developer at Royal Bank of Canada
+# Senior Software Engineer, Data Science at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000160862-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000113321287-senior-software-engineer-data-science) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-07.
+This software engineer position at LinkedIn was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

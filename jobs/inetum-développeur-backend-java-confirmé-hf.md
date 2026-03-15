@@ -1,16 +1,16 @@
-# Senior Software Developer at Royal Bank of Canada
+# Développeur backend Java - Confirmé - H/F at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000160862-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113325077-developpeur-backend-java-confirme-hf) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-07.
+This software engineer position at Inetum was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

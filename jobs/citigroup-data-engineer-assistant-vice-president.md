@@ -1,16 +1,16 @@
-# Senior Software Developer at Royal Bank of Canada
+# Data Engineer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000160862-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Engineer---Assistant-Vice-President_26940845) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-07.
+This software engineer position at Citigroup was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

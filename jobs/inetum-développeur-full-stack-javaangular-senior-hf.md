@@ -1,16 +1,16 @@
-# Application Developer-AWS Cloud FullStack at IBM
+# Développeur full stack Java/Angular Senior - H/F at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Montpellier, Occitanie, France |
 | Category | Frontend Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84176) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113323607-developpeur-full-stack-javaangular-senior-hf) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-07.
+This frontend engineer position at Inetum was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

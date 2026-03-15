@@ -1,16 +1,16 @@
-# Senior Software Developer at Royal Bank of Canada
+# Member of Technical Staff - Systems (Austin, TX) at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000160862-1) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Member-of-Technical-Staff---Systems--Austin--TX-_J000693781) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-07.
+This software engineer position at Aptiv was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

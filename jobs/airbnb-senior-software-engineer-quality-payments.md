@@ -1,16 +1,16 @@
-# Senior Software Engineer at Microsoft
+# Senior Software Engineer (Quality), Payments at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556749619) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7668022?gh_jid=7668022) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This software engineer position at Airbnb was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

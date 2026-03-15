@@ -5,12 +5,12 @@
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Senior-Software-Developer_6875-1) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Senior-Software-Developer_6901) |
 
 ## About This Role
 
-This software engineer position at Ontario Teachers' Pension Plan was posted on 2026-02-28.
+This software engineer position at Ontario Teachers' Pension Plan was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

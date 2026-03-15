@@ -1,16 +1,16 @@
-# Senior Software Developer at Royal Bank of Canada
+# Senior Staff Engineer,Adobe Campaign Manager at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000160862-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113326267-senior-staff-engineeradobe-campaign-manager) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-07.
+This software engineer position at Nagarro was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

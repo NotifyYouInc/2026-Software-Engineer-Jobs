@@ -1,16 +1,16 @@
-# Senior Software Engineer at Microsoft
+# Rust Software Engineer  at Photoroom
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556749619) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/aa4862a2-0f5c-4b50-8724-59e3d50e44cb) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This software engineer position at Photoroom was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

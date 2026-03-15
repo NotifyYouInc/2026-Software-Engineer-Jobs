@@ -1,16 +1,16 @@
-# Sr. Applied AI Software Engineer- VPG & Siri at Apple
+# Stage Royal Canin Data Engineer (H/F/X) – Septembre 2026 at Mars
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | France |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650612-3401/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Stage-Royal-Canin-Data-Engineer--H-F-X----Septembre-2026_R150442-1) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-03-08.
+This software engineer position at Mars was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

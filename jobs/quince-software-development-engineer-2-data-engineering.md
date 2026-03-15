@@ -1,16 +1,16 @@
-# Senior Software Engineer at Microsoft
+# Software Development Engineer - 2 : Data Engineering at Quince
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556749619) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/4482782008) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This software engineer position at Quince was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

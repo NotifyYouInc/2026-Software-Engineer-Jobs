@@ -1,16 +1,16 @@
-# Senior Software Engineer at Microsoft
+# Hardware Development Engineer (Starlink) at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556749619) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8440246002?gh_jid=8440246002) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This electrical / hardware engineer position at SpaceX was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
