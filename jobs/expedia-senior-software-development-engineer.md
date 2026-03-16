@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Software-Development-Engineer_R-101656) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Software-Development-Engineer_R-101760) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-03-02.
+This software engineer position at Expedia was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

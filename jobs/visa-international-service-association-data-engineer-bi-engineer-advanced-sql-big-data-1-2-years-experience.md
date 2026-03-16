@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113084697-data-engineer-bi-engineer-advanced-sql-big-data-1-2-years-experience) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113399857-data-engineer-bi-engineer-advanced-sql-big-data-1-2-years-experience) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-03-06.
+This software engineer position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

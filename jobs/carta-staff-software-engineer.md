@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7656158003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7656399003) |
 
 ## About This Role
 

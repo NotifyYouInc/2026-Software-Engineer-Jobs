@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Frontend Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113254109-software-engineer-principal) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113283157-software-engineer-principal) |
 
 ## About This Role
 

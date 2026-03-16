@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Engineer--Service-Delivery_R286422) |
+| Location | India |
+| Category | Customer Success |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Engineer--Service-Delivery_R286337) |
 
 ## About This Role
 
-This devops engineer position at Dell Technologies was posted on 2026-03-06.
+This customer success position at Dell Technologies was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

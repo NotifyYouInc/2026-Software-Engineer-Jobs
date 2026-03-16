@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lynn, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Software-Engineer_R5030256-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Staff-Software-Engineer_R5030231-1) |
 
 ## About This Role
 
-This software engineer position at GE Aerospace was posted on 2026-03-06.
+This frontend engineer position at GE Aerospace was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

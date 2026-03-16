@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000914504-principal-video-engineer-design-experience-bay-area-only) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000917612-principal-video-engineer-design-experience-bay-area-only) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-03-06.
+This software engineer position at Canva was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

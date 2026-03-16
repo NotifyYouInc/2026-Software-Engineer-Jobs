@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Software-Engineer_JR107254) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Software-Engineer_JR107377-1) |
 
 ## About This Role
 
-This software engineer position at Sabre was posted on 2026-03-03.
+This frontend engineer position at Sabre was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7649020?gh_jid=7649020) |
+| Location | Karnataka, IN |
+| Category | Software Engineer |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7397203?gh_jid=7397203) |
 
 ## About This Role
 
-This frontend engineer position at Thoughtworks was posted on 2026-03-05.
+This software engineer position at Thoughtworks was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

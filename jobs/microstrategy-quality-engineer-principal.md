@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113254378-quality-engineer-principal) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113282288-quality-engineer-principal) |
 
 ## About This Role
 
