@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Sr-Software-Engineer_10142545-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Sr-Software-Engineer_10143555) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-18.
+This software engineer position at Disney was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

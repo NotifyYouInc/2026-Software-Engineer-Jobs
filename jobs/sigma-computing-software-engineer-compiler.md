@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657080003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7658290003) |
 
 ## About This Role
 

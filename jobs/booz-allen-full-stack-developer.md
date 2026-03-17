@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer_R0234367) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Full-Stack-Developer_R0235472) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-02-20.
+This frontend engineer position at Booz Allen was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

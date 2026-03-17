@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer---Backend--Java-_R0134857) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer---Backend--Java-_R0134962-1) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-02-24.
+This frontend engineer position at PayPal was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

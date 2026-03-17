@@ -5,12 +5,12 @@
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Quality-Senior-Engineer_R282596) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Quality-Senior-Engineer_R282587) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-18.
+This software engineer position at Dell Technologies was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

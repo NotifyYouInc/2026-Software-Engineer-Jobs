@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indonesia |
+| Location | Shenzhen, Guangdong, China |
 | Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Indonesia---Field/Application-Engineer_R0011578-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Shenzhen-China/Application-Engineer_R0011731) |
 
 ## About This Role
 
-This customer success position at Cognex was posted on 2026-03-05.
+This customer success position at Cognex was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

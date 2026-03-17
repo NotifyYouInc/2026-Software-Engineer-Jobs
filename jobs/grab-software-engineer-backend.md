@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112077135-software-engineer-backend) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Software Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113626207-software-engineer-backend) |
 
 ## About This Role
 
-This frontend engineer position at Grab was posted on 2026-03-02.
+This software engineer position at Grab was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

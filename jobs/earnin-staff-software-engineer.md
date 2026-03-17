@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7689825) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7680387) |
 
 ## About This Role
 
-This software engineer position at EarnIn was posted on 2026-03-07.
+This software engineer position at EarnIn was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

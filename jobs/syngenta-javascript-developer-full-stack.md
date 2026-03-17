@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109869418-javascript-developer-full-stack) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000113639737-javascript-developer-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at Syngenta was posted on 2026-02-18.
+This frontend engineer position at Syngenta was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

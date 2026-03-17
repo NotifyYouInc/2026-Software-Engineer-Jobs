@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108871415-principal-engineer-senior-project-manager-itil) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113596749-principal-engineer-senior-project-manager-itil) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-11.
+This software engineer position at Nagarro was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

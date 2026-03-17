@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Software-Engineer_JREQ134843-1) |
+| Category | Technical Writer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Software-Engineer_JREQ134854-1) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-02-16.
+This technical writer position at Clarivate was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

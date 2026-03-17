@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kerala, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Software-Engineer_J00174684) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Frontend Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Santiago-Technology-Center/Software-Engineer_J00173419) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-26.
+This frontend engineer position at Equifax was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

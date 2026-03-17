@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826644) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826854) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This software engineer position at Microsoft was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer II (Full Stack, Backend-leaning) at Jerry.ai
+# Software Engineer II (Full-Stack, Backend-leaning) at Jerry.ai
 
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/94ee7879-f0a6-49b5-b010-74c3cd29bb66) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/dfb0f23a-de43-4c20-87f3-67a656c088a3) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-02-23.
+This frontend engineer position at Jerry.ai was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

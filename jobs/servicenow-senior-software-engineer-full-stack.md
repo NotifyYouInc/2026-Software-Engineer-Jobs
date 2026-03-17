@@ -1,16 +1,16 @@
-# Senior Software Engineer - Full Stack at ServiceNow
+# Senior Software Engineer (Full Stack) at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113262967-senior-software-engineer-full-stack) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113612198-senior-software-engineer-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-03-06.
+This frontend engineer position at ServiceNow was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108145514-lead-software-engineer-backend-lending) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113628667-lead-software-engineer-backend-lending) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-02-09.
+This software engineer position at Grab was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

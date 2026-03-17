@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Software-Engineer_R0056765) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Software-Engineer_R0057143-1) |
 
 ## About This Role
 
-This frontend engineer position at Empower was posted on 2026-03-04.
+This frontend engineer position at Empower was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

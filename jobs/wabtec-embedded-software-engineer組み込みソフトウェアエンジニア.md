@@ -1,16 +1,16 @@
-# Embedded Software Engineer（組み込みソフトウェアエンジニア） at Wabtec
+# Embedded  Software Engineer（組み込みソフトウェアエンジニア） at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011958036-embedded-software-engineer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012050006-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-03-04.
+This embedded / firmware engineer position at Wabtec was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
