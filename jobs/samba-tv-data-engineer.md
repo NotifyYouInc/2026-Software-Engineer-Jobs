@@ -5,12 +5,12 @@
 | Company | [Samba TV](https://scoutify.ai/companies/sambatv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.lever.co/sambatv/48ece6c2-da7e-4804-8941-ffd01746886a) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.lever.co/sambatv/18fee61c-2ee4-4b11-a149-dfeb12a7b2b5) |
 
 ## About This Role
 
-This software engineer position at Samba TV was posted on 2026-02-26.
+This software engineer position at Samba TV was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

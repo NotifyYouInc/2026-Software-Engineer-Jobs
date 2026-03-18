@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ohio, US |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Propulsion-Modeling---Simulation-Engineer_R5030019-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Propulsion-Modeling---Simulation-Engineer_R5030158-2) |
 
 ## About This Role
 
-This software engineer position at GE Aerospace was posted on 2026-03-06.
+This software engineer position at GE Aerospace was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

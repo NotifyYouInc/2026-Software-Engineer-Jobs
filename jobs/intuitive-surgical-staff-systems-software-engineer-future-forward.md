@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113577567-staff-systems-software-engineer-future-forward) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113803146-staff-systems-software-engineer-future-forward) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-03-09.
+This software engineer position at Intuitive Surgical was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

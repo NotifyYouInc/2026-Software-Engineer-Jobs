@@ -1,16 +1,16 @@
-# Principal Full Stack Engineer at Fidelity
+# Principal, Full Stack Engineer at Fidelity
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Merrimack, New Hampshire, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Principal-Full-Stack-Engineer_2124549) |
+| Location | Westlake, Ohio, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Principal--Full-Stack-Engineer_2123867-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-06.
+This frontend engineer position at Fidelity was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

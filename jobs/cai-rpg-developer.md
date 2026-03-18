@@ -5,12 +5,12 @@
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/RPG-Developer_R7237) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/RPG-Developer_R7247) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-02-25.
+This software engineer position at CAI was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

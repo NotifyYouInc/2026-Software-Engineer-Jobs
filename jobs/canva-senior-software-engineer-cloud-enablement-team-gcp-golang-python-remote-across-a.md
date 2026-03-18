@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000860446-senior-software-engineer-cloud-enablement-team-gcp-golang-python-remote-across-anz) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Software Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000923762-senior-software-engineer-cloud-enablement-team-gcp-golang-python-remote-across-anz) |
 
 ## About This Role
 
-This devops engineer position at Canva was posted on 2026-02-11.
+This software engineer position at Canva was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

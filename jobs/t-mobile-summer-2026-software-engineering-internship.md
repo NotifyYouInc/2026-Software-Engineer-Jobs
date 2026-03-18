@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2026-Software-Engineering-Internship_REQ344205) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ346602) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-02-09.
+This software engineer position at T-Mobile was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

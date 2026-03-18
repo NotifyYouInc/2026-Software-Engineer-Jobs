@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-230-Park-Avenue-South/Senior-Software-Engineer_R000092145-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Software-Engineer_R000100413) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-02-13.
+This frontend engineer position at Warner Bros Discovery was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

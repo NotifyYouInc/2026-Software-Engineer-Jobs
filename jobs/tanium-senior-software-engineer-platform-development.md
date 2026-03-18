@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.tanium.com/careers/7633256?gh_jid=7633256) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7373880) |
 
 ## About This Role
 
-This software engineer position at Tanium was posted on 2026-02-19.
+This software engineer position at Tanium was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

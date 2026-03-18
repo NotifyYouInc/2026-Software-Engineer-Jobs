@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | McLean, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Software-Engineer_R237645-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Software-Engineer_R237740) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-03-09.
+This frontend engineer position at Capital One was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

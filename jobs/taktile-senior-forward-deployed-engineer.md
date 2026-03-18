@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taktile](https://scoutify.ai/companies/taktile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/taktile/5a16ec1c-d81d-44b2-8c24-19e832e49c38) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/taktile/4c2c4d14-0fc2-46d8-8cf2-1279d1a6caf6) |
 
 ## About This Role
 
-This software engineer position at Taktile was posted on 2026-02-19.
+This software engineer position at Taktile was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

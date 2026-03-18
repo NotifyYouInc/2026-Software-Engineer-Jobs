@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5054885007?gh_jid=5054885007) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5075375007?gh_jid=5075375007) |
 
 ## About This Role
 
-This frontend engineer position at Anduril was posted on 2026-02-17.
+This frontend engineer position at Anduril was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

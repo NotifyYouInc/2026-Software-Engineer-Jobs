@@ -5,12 +5,12 @@
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Mateo, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5074111007) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5075602007) |
 
 ## About This Role
 
-This devops engineer position at Verkada was posted on 2026-03-09.
+This devops engineer position at Verkada was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

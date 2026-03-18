@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7613186255854373125/detail) |
+| Location | Seattle, Washington, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7615749350220302597/detail) |
 
 ## About This Role
 
-This software engineer position at TikTok was posted on 2026-03-05.
+This frontend engineer position at TikTok was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

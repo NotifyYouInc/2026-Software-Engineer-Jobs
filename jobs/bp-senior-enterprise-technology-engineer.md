@@ -1,16 +1,16 @@
-# Senior Enterprise Technology Engineer at BP
+# Senior enterprise technology engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-Enterprise-Technology-Engineer_RQ104339) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-enterprise-technology-engineer_RQ107429) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-02-27.
+This devops engineer position at BP was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Castle, Pennsylvania, United States |
-| Category | Database Administration |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Pega-Constellation-Senior-Developer-Application-Development-Technical-Lead-Analyst-Vice-President_26942615-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Pega-Constellation-Senior-Developer-Application-Development-Technical-Lead-Analyst-Vice-President_26942617-1) |
 
 ## About This Role
 
-This database administration position at Citigroup was posted on 2026-03-10.
+This software engineer position at Citigroup was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

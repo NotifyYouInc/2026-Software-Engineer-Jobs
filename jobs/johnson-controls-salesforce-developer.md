@@ -1,16 +1,16 @@
-# Salesforce Developer  at Johnson Controls
+# Salesforce Developer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Salesforce-Developer-_WD30260805) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Salesforce-Developer_WD30262645) |
 
 ## About This Role
 
-This frontend engineer position at Johnson Controls was posted on 2026-02-18.
+This frontend engineer position at Johnson Controls was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

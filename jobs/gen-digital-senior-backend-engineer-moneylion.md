@@ -5,12 +5,12 @@
 | Company | [Gen Digital](https://scoutify.ai/companies/gen-digital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gen.wd1.myworkdayjobs.com/careers/job/Kuala-Lumpur-Malaysia/Senior-Backend-Engineer---MoneyLion_54512) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://gen.wd1.myworkdayjobs.com/careers/job/Kuala-Lumpur-Malaysia/Senior-Backend-Engineer---MoneyLion_55285) |
 
 ## About This Role
 
-This software engineer position at Gen Digital was posted on 2026-03-05.
+This software engineer position at Gen Digital was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

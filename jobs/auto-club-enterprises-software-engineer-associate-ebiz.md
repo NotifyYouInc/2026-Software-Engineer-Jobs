@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/Software-Engineer-Associate-eBiz_JR202634633) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/Software-Engineer-Associate-eBiz_JR202635208) |
 
 ## About This Role
 
-This software engineer position at Auto Club Enterprises was posted on 2026-02-11.
+This frontend engineer position at Auto Club Enterprises was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

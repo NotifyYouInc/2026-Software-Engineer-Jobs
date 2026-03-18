@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Penang, MY |
-| Category | Technical Writer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Software-Development-Engineer_JR106527-2) |
+| Location | Malaysia |
+| Category | Software Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Software-Development-Engineer_JR106582-2) |
 
 ## About This Role
 
-This technical writer position at Centific was posted on 2026-02-24.
+This software engineer position at Centific was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

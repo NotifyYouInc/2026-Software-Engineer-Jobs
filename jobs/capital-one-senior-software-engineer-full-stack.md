@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Plano, Texas, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Software-Engineer--Full-Stack_R237660-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Software-Engineer--Full-Stack_R237736) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-03-09.
+This frontend engineer position at Capital One was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

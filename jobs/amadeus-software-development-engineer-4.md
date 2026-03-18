@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-4_R31810) |
+| Category | Software Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-4_R34112-1) |
 
 ## About This Role
 
-This engineering manager position at Amadeus was posted on 2026-03-10.
+This software engineer position at Amadeus was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

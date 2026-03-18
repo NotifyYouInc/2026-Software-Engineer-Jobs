@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Method](https://scoutify.ai/companies/method?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/method/dc58921d-fad0-4665-8a3f-78ebd6a4fa53) |
+| Location | 3 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/method/fe5aecb7-f9d4-4ef4-943d-2e7366384909) |
 
 ## About This Role
 
-This software engineer position at Method was posted on 2026-02-11.
+This frontend engineer position at Method was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

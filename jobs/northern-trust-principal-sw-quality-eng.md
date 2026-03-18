@@ -1,16 +1,16 @@
-# Principal, SW Quality Eng at Northern Trust
+# Principal, SW  Quality Eng at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Principal--SW-Quality-Eng_R145692-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Principal--SW--Quality-Eng_R145693-1) |
 
 ## About This Role
 
-This software engineer position at Northern Trust was posted on 2026-03-03.
+This software engineer position at Northern Trust was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

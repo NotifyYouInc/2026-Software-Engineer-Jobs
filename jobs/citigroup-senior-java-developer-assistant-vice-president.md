@@ -1,4 +1,4 @@
-# Senior Java Developer - Assistant Vice President at Citigroup
+# Senior Java Developer – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_26942012) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_26942297) |
 
 ## About This Role
 

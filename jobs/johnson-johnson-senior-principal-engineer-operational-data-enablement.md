@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Senior-Principal-Engineer--Operational-Data-Enablement_R-063167-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leiden-Netherlands/Senior-Principal-Engineer--Operational-Data-Enablement_R-063440-1) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-03-09.
+This software engineer position at Johnson & Johnson was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

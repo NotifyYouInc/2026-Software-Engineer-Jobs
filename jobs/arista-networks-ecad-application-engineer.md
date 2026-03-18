@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000113591268-ecad-application-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000113857542-ecad-application-engineer) |
 
 ## About This Role
 
-This technical writer position at Arista Networks was posted on 2026-03-09.
+This software engineer position at Arista Networks was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

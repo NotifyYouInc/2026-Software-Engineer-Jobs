@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Engineer-II--Java_R0062837-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Engineer-II--Java_R0062973) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-03-05.
+This software engineer position at Geico was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
