@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000918371-staff-software-engineer-frontend-editing-collaboration) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000928374-staff-software-engineer-frontend-editing-collaboration) |
 
 ## About This Role
 
-This frontend engineer position at Canva was posted on 2026-03-09.
+This frontend engineer position at Canva was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

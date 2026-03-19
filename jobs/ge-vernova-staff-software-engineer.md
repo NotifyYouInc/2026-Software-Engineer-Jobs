@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Staff-Software-Engineer_R5034962-2) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Staff-Software-Engineer_R5033252-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-03-11.
+This frontend engineer position at GE Vernova was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

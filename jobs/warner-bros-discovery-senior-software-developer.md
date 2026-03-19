@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kanata, Ontario, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Senior-Software-Developer_R000102639) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Senior-Software-Developer_R000100418) |
 
 ## About This Role
 
-This devops engineer position at Warner Bros Discovery was posted on 2026-02-09.
+This frontend engineer position at Warner Bros Discovery was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

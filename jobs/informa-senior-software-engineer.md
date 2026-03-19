@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110296895-senior-software-engineer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114112506-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Informa was posted on 2026-02-20.
+This software engineer position at Informa was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

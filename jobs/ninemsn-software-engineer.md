@@ -5,12 +5,12 @@
 | Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New South Wales, AU |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000111219826-software-engineer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000114155138-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Ninemsn was posted on 2026-02-25.
+This software engineer position at Ninemsn was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Córdoba, Cordoba, Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Cordoba-Argentina/Backend-Engineer_R13580) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Cordoba-Argentina/Backend-Engineer_R13801) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-02-10.
+This software engineer position at Proofpoint was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

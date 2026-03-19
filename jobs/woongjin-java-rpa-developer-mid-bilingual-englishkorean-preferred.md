@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000113827162-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114161556-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-03-10.
+This software engineer position at Woongjin was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

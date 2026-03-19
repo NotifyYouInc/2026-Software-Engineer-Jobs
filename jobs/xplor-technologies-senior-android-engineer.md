@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Mobile Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000110657394-senior-android-engineer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000114300127-senior-android-engineer) |
 
 ## About This Role
 
-This mobile engineer position at Xplor Technologies was posted on 2026-02-23.
+This mobile engineer position at Xplor Technologies was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

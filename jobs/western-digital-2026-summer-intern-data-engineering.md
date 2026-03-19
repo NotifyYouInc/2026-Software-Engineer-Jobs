@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110544134-2026-summer-intern-data-engineering) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114157337-2026-summer-intern-data-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-22.
+This software engineer position at Western Digital was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

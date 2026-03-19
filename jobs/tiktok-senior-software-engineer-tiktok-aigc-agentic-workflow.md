@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Seattle, Washington, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7613184219506985269/detail) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7615857606767216949/detail) |
 
 ## About This Role
 
-This frontend engineer position at TikTok was posted on 2026-03-05.
+This frontend engineer position at TikTok was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

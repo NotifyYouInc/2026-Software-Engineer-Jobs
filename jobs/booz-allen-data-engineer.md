@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0235478) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Engineer_R0235693) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-09.
+This software engineer position at Booz Allen was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

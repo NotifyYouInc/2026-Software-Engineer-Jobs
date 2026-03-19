@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Software-Engineer-Mid-Level--NET---Java----Interfaces_R62075) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Software-Engineer-Mid-Level--NET---Java----Interfaces_R61432) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-03-09.
+This software engineer position at Motorola Solutions was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

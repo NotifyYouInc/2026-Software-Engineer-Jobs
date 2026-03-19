@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/R-D-Staff-Software-Engineer_R025262) |
+| Location | Plano, Texas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Staff-Software-Engineer_R025229) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-03-04.
+This frontend engineer position at Broadcom was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Wuxi, Jiangsu, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Embedded-Software-Engineer_R0000355734-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-02-25.
+This embedded / firmware engineer position at Caterpillar was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

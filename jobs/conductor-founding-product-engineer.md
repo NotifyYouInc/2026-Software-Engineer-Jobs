@@ -5,12 +5,12 @@
 | Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/0017959b-4e73-4c82-8bb6-8fd3124a6632) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/3ed110f3-ed05-4676-ae8f-f8dadfd3909c) |
 
 ## About This Role
 
-This frontend engineer position at Conductor was posted on 2026-03-10.
+This frontend engineer position at Conductor was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

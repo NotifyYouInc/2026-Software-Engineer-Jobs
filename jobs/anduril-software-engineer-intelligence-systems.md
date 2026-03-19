@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Reston, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5068451007?gh_jid=5068451007) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5064165007?gh_jid=5064165007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-03-03.
+This software engineer position at Anduril was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Software-Engineer--Full-Stack--Bank-Tech-_R236890-2) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Software-Engineer--Full-Stack--Bank-Tech-_R237833-1) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-03-04.
+This frontend engineer position at Capital One was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

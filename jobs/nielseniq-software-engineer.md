@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111203396-software-engineer) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114139617-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-24.
+This devops engineer position at NielsenIQ was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
