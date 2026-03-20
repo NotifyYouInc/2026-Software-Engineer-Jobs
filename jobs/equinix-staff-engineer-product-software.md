@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Staff-Engineer--Product-Software_JR-158182-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Staff-Engineer--Product-Software_JR-159049) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-02-05.
+This software engineer position at Equinix was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

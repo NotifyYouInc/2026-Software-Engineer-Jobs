@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-271765-1) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-272689) |
 
 ## About This Role
 

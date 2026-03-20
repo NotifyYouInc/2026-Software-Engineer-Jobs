@@ -6,7 +6,7 @@
 | Location | San Francisco, California, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/3ed110f3-ed05-4676-ae8f-f8dadfd3909c) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/1305a8d5-ba27-45ab-a384-1db4ede07fb6) |
 
 ## About This Role
 

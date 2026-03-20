@@ -1,16 +1,16 @@
-# Python Developer, Assistant Vice President at Citigroup
+# Python Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jacksonville, Florida, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Python-Developer--Assistant-Vice-President_26941889-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Python-Developer---Assistant-Vice-President_26944978-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-02.
+This software engineer position at Citigroup was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

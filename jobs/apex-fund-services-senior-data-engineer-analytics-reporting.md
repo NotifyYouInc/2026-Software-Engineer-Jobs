@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical Writer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Makati-City-Ayala-Avenue/Senior-Report-Writer_JR-0019270) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Manila/Senior-Data-Engineer---Analytics---Reporting_JR-0021572) |
 
 ## About This Role
 
-This technical writer position at Apex Fund Services was posted on 2026-02-26.
+This technical writer position at Apex Fund Services was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

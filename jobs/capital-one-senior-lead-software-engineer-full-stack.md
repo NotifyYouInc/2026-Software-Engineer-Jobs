@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack_R237860-1) |
+| Location | McLean, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R237945-2) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-11.
+This software engineer position at Capital One was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

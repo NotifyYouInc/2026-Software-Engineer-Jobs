@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-Scheduling-System-Engineer_JR90865) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-Scheduling-System-Engineer_JR90872) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-03-03.
+This software engineer position at Micron was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

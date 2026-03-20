@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Lead-Software-Engineer_R20060877) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Lead-Software-Engineer_R20060892) |
 
 ## About This Role
 
-This software engineer position at Transamerica was posted on 2026-02-27.
+This software engineer position at Transamerica was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

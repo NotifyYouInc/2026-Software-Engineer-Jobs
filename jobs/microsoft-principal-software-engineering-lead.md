@@ -1,16 +1,16 @@
-# Principal Software Engineering Lead at Microsoft
+# Principal Software Engineering Lead at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556824297) |
+| Category | Engineering Manager |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834777) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-06.
+This engineering manager position at Microsoft was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

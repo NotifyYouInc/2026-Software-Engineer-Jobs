@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-III---Expedia-Global-Payments_R-99459-2) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III---Expedia-Global-Payments_R-103089-2) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-02-16.
+This software engineer position at Expedia was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

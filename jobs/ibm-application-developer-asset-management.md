@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101332) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101125) |
 
 ## About This Role
 
-This asset management / portfolio management position at IBM was posted on 2026-03-11.
+This asset management / portfolio management position at IBM was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

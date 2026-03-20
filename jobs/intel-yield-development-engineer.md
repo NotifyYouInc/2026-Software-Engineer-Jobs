@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hillsboro, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Yield-Development-Engineer_JR0281292) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Yield-Development-Engineer_JR0281661-1) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-05.
+This software engineer position at Intel was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

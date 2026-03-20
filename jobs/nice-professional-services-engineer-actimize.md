@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4782039101?gh_jid=4782039101) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4804398101?gh_jid=4804398101) |
 
 ## About This Role
 
-This implementation / professional services position at NiCE was posted on 2026-02-26.
+This implementation / professional services position at NiCE was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

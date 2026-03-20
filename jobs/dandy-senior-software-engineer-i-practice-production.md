@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dandy](https://scoutify.ai/companies/dandy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Brazil |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/dandy/012fc224-0bd9-4ee3-aed7-67f935ec81bf) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dandy/860aca20-8534-4738-a64f-e469cfbdde1a) |
 
 ## About This Role
 
-This frontend engineer position at Dandy was posted on 2026-02-23.
+This frontend engineer position at Dandy was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

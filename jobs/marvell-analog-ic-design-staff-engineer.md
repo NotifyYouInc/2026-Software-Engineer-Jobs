@@ -1,16 +1,16 @@
-# Analog IC Design, Staff Engineer at Marvell
+# Analog IC Design Staff Engineer at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-IC-Design--Staff-Engineer_2600468) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-IC-Design-Staff-Engineer_2600809) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-02-26.
+This semiconductor / chip design position at Marvell was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

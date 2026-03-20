@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0235808) |
+| Category | Software Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0235870) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-10.
+This software engineer position at Booz Allen was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

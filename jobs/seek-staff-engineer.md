@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109097035-staff-engineer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000114489717-staff-engineer) |
 
 ## About This Role
 
-This devops engineer position at SEEK was posted on 2026-02-12.
+This devops engineer position at SEEK was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Staff-Engineer--Analog-IC-Design_2600597) |
+| Location | California, US |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Staff-Engineer--Analog-IC-Design_2600786) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-05.
+This electrical / hardware engineer position at Marvell was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

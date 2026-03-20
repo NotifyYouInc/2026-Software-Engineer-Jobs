@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Software-Engineering_R-271693) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Software-Engineering_R-271112-1) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-02-25.
+This engineering manager position at Mastercard was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
