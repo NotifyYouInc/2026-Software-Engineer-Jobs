@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TomTom](https://scoutify.ai/companies/tomtom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lebanon, Tennessee, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.eu.lever.co/tomtom/1c0f1c0f-ec64-4d1c-b6b8-0cf5a2cb15fc) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.eu.lever.co/tomtom/ba0dfd34-bccb-4bd2-be2f-1f874fc1b6ab) |
 
 ## About This Role
 
-This frontend engineer position at TomTom was posted on 2026-03-10.
+This software engineer position at TomTom was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

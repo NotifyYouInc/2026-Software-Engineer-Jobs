@@ -1,16 +1,16 @@
-# Front-End developer at IBM
+# Front-end Developer at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92473) |
+| Location | Hyderabad, Telangana, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=64212) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-12.
+This frontend engineer position at IBM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114485197-principal-engineer-test-engineering) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114707377-principal-engineer-test-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-03-12.
+This software engineer position at Western Digital was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

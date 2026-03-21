@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexicali, Baja California, Mexico |
+| Location | Westminster, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Software-Development-Engineer-in-Test_R54812) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Development-Engineer-in-Test_R54950) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-03-06.
+This software engineer position at Trimble was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

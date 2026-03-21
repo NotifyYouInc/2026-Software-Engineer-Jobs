@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-ServiceNow-Discovery---Service-Mapping-Engineer_R-0000162275-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-ServiceNow-Discovery---Service-Mapping-Engineer_R-0000163560-1) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-06.
+This software engineer position at Royal Bank of Canada was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Software-Engineer--Back-End_R237825-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Software-Engineer--Back-End_R237829-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-12.
+This software engineer position at Capital One was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior .Net Developer at Endava
+# Senior .NET Developer at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sibiu, Sibiu County, Romania |
+| Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109247872-senior-net-developer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114690607-senior-net-developer) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at Endava was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

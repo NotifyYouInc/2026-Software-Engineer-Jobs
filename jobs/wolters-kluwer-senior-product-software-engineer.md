@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Porto, Porto, Portugal |
+| Location | Coppell, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/PRT---Porto/Senior-Product-Software-Engineer_R0054171-2) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Senior-Product-Software-Engineer_R0054690) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-05.
+This software engineer position at Wolters Kluwer was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

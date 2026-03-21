@@ -1,16 +1,16 @@
-# Sr Software Development Engineer at Workday
+# Sr. Software Development Engineer at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Development-Engineer_JR-0103865) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Sr-Software-Development-Engineer_JR-0105298) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-12.
+This software engineer position at Workday was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

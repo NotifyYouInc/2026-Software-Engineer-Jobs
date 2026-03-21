@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2025-61114) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2026-66130) |
 
 ## About This Role
 
-This software engineer position at Southwest Airlines was posted on 2026-02-16.
+This frontend engineer position at Southwest Airlines was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

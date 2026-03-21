@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Vice-President--Software-Engineer_26007174-1) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Vice-President--Software-Engineer_26009514) |
 
 ## About This Role
 
-This devops engineer position at Bank of America was posted on 2026-03-04.
+This software engineer position at Bank of America was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

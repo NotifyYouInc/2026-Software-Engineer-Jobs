@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112049987-senior-software-engineer-i-reliability) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114694477-senior-software-engineer-i-reliability) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-03-01.
+This software engineer position at WISE was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

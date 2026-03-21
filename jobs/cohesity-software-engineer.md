@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Pune---Panchshil---India-Office/Software-Engineer_R02728) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Pune---Panchshil---India-Office/Software-Engineer_R02976) |
 
 ## About This Role
 
-This offensive security & pentesting position at Cohesity was posted on 2026-03-05.
+This frontend engineer position at Cohesity was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

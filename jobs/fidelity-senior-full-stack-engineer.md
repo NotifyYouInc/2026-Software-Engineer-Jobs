@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Full-Stack-Engineer_2123779-2) |
+| Location | Covington, Kentucky, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Covington-KY/Principal-Software-Engineer_2116537) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-06.
+This frontend engineer position at Fidelity was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

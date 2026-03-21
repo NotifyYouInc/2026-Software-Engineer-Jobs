@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8428258002?gh_jid=8428258002) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8462925002?gh_jid=8462925002) |
 
 ## About This Role
 
-This security engineer position at Faire was posted on 2026-02-18.
+This security engineer position at Faire was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

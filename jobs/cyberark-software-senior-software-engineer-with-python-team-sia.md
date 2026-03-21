@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107766129-senior-software-engineer-with-python-team-sia) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000114703967-senior-software-engineer-with-python-team-sia) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-06.
+This software engineer position at CyberArk Software was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

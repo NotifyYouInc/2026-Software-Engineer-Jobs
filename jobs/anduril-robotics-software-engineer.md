@@ -1,16 +1,16 @@
-# Robotics Software Engineer at Anduril
+# Robotics Software Engineer  at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/4772830007?gh_jid=4772830007) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007) |
 
 ## About This Role
 
-This robotics engineer position at Anduril was posted on 2026-03-09.
+This robotics engineer position at Anduril was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

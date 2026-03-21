@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000113258597-qatest-lead-workday-erp-state-client-experience-is-mandatory) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000114720767-qatest-lead-workday-erp-state-client-experience-is-mandatory) |
 
 ## About This Role
 
-This software engineer position at VTekis Consulting LLP was posted on 2026-03-06.
+This software engineer position at VTekis Consulting LLP was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

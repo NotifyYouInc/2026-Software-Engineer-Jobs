@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Charlottesville, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dayton-OH/Aerospace-Modeling-and-Simulation-Engineer_R-00177114) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Charlottesville-VA/Aerospace-Modeling-and-Simulation-Engineer_R-00178227) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-27.
+This software engineer position at Leidos was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

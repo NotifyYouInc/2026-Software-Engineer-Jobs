@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Apodaca-Nuevo-Leon-Mexico/Data-Engineer---Logistics---Distribution_WD30262174) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Apodaca-Nuevo-Leon-Mexico/Data-Engineer---Logistics---Distribution_WD30262173-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-02-26.
+This software engineer position at Johnson Controls was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

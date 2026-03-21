@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7600885) |
+| Location | Toronto, Ontario, Canada |
+| Category | Frontend Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7716202) |
 
 ## About This Role
 
-This software engineer position at Referrals Only was posted on 2026-02-20.
+This frontend engineer position at Referrals Only was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

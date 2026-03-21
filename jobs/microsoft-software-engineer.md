@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827590) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843662) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-12.
+This software engineer position at Microsoft was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

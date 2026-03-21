@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Software-Engineer-Lead_R212777) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Software-Engineer-Lead_R211241-1) |
 
 ## About This Role
 
-This frontend engineer position at PNC Financial was posted on 2026-03-03.
+This software engineer position at PNC Financial was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

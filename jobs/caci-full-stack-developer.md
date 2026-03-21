@@ -1,16 +1,16 @@
-# Full Stack Developer at CACI
+# Full Stack developer at CACI
 
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Aberdeen, South Dakota, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Full-Stack-Developer_322674) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Full-Stack-developer_323104) |
 
 ## About This Role
 
-This frontend engineer position at CACI was posted on 2026-03-05.
+This frontend engineer position at CACI was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

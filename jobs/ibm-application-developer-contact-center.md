@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99050) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99070) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-04.
+This software engineer position at IBM was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

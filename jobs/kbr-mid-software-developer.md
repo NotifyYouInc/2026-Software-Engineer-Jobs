@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Mid-Software-Developer_R2119719) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Mid-Software-Developer_R2120420) |
 
 ## About This Role
 
-This frontend engineer position at KBR was posted on 2026-02-27.
+This devops engineer position at KBR was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000113239865-developpeurse-junior-c-net-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000114719847-developpeurse-junior-c-net-hf) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-03-06.
+This software engineer position at Everience was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

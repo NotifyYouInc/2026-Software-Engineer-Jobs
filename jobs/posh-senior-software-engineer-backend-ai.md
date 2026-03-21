@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [POSH](https://scoutify.ai/companies/posh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/posh/29094ee5-1115-4856-9a5f-162ffecac38b) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/posh/11ac6573-ddf1-4293-a551-914b993ab59a) |
 
 ## About This Role
 
-This software engineer position at POSH was posted on 2026-02-09.
+This devops engineer position at POSH was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

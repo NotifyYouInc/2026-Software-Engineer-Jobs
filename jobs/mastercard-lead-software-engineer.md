@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Remote---North-Carolina/Lead-Software-Engineer_R-271899) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Software-Engineer_R-272626) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-11.
+This software engineer position at Mastercard was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

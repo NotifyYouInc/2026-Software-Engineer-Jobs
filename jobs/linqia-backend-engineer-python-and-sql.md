@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Linqia](https://scoutify.ai/companies/linqia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Antioquia, CO |
+| Location | Santiago del Estero, Santiago del Estero, Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8417667002?gh_jid=8417667002) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8462532002?gh_jid=8462532002) |
 
 ## About This Role
 
-This software engineer position at Linqia was posted on 2026-02-10.
+This software engineer position at Linqia was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

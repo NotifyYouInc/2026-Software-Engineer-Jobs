@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Full-Stack-Developer_R-0000160970-2) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Full-Stack-Developer_R-0000163772-1) |
 
 ## About This Role
 
-This frontend engineer position at Royal Bank of Canada was posted on 2026-02-24.
+This frontend engineer position at Royal Bank of Canada was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

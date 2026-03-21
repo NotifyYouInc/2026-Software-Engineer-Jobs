@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Wilmington, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Senior-Engineer--Thermal-Hydraulic-Analyses_R5032667) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/Senior-Engineer--Thermal-Hydraulic-Analyses_R5035336-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-02-18.
+This software engineer position at GE Vernova was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
