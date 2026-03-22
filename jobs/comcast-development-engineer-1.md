@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Development Engineer 1 at Comcast
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R432919) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This software engineer position at Comcast was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

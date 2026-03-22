@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# 2026 Software Dev Engineer Intern (Location : Sydney) at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204846/2026-software-dev-engineer-intern-location-sydney) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This software engineer position at Amazon was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

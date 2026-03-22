@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Mobile Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000110512045-android-engineer) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000114841627-android-engineer) |
 
 ## About This Role
 
-This mobile engineer position at Carousell was posted on 2026-02-21.
+This mobile engineer position at Carousell was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

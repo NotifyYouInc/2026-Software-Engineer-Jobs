@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Full Stack Software Engineer Latam at Reacher
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Company | [Reacher](https://scoutify.ai/companies/reacher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
+| Category | Frontend Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/reacher/e4d436eb-dd77-44d0-9586-44d48ad84aea) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This frontend engineer position at Reacher was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

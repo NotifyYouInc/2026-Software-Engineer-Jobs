@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Backend Engineer- Inference Services at Deepgram
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This software engineer position at Deepgram was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

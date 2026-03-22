@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Platform Software Engineer at EarnIn
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7703547) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This devops engineer position at EarnIn was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

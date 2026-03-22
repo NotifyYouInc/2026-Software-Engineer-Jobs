@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Staff Software Engineer, Reporting Platform (Frontend) at Gusto
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7654894) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This frontend engineer position at Gusto was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

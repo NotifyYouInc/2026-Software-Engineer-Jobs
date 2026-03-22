@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Test Automation Engineer (m/f/d) - Tieto Tech Consulting at Tietoevry
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 5 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000114804967-test-automation-engineer-mfd-tieto-tech-consulting) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This software engineer position at Tietoevry was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

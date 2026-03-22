@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Principal-Application-Engineer_R52819) |
+| Location | Italy |
+| Category | Customer Success |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/TAVAGNACCO-01/Sr-Application-Engineer_R53797) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-18.
+This customer success position at Cadence Design Systems was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

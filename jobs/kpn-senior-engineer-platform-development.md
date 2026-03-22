@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-SnowFlake at IBM
+# Senior Engineer Platform Development at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Amersfoort, Utrecht, The Netherlands |
 | Category | Software Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101696) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000114802547-senior-engineer-platform-development) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-14.
+This software engineer position at KPN was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

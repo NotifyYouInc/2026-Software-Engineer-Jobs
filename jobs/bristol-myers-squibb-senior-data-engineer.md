@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Princeton, Florida, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Data-Engineer_R1600044-1) |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Data-Engineer_R1599949-1) |
 
 ## About This Role
 
