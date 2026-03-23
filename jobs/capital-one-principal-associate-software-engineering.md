@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineering_R234288-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineering_R234293) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-02-19.
+This frontend engineer position at Capital One was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

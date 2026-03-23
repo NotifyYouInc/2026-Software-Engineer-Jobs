@@ -1,16 +1,16 @@
-# Principal Software Engineer- Data infrastructure/Data Solutions at Red Hat
+# Principal Software Engineer - Data infrastructure/Data Solutions at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Software-Engineer--Data-infrastructure-Data-Solutions_R-055205-2) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Software-Engineer---Data-infrastructure-Data-Solutions_R-055967) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-03-12.
+This software engineer position at Red Hat was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

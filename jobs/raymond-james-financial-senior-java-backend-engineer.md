@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Java-Backend-Engineer_R-0009800) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Java-Backend-Engineer_R-0010011) |
 
 ## About This Role
 
-This software engineer position at Raymond James Financial was posted on 2026-03-03.
+This software engineer position at Raymond James Financial was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

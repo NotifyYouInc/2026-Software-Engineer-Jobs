@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mesa-Arizona/MineStar-Performance-Engineer_R0000356783) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/MineStar-Performance-Engineer_R0000357136) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-13.
+This software engineer position at Caterpillar was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

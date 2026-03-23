@@ -5,12 +5,12 @@
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ukraine |
 | Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/55ce9a2e-a0b2-4b77-a155-299192744755) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0279ece3-9b44-4c09-820a-ddb7e48f895c) |
 
 ## About This Role
 
-This frontend engineer position at Ruby Labs was posted on 2026-02-26.
+This frontend engineer position at Ruby Labs was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

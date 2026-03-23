@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108679641-senior-software-engineer-fullstack) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Frontend Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114886877-senior-software-engineer-fullstack) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-02-11.
+This frontend engineer position at Grab was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

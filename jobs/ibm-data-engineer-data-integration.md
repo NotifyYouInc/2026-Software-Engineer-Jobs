@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Data Engineer - Data integration at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Giza, Giza, Egypt |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95670) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102442) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-26.
+This software engineer position at IBM was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

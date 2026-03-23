@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Portugal |
+| Location | Spain |
 | Category | Frontend Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7666272&gh_jid=7666272) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7720837&gh_jid=7720837) |
 
 ## About This Role
 
-This frontend engineer position at Elastic was posted on 2026-02-28.
+This frontend engineer position at Elastic was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

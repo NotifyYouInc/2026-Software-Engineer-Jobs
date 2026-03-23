@@ -1,16 +1,16 @@
-# Member of Technical Staff II at Adobe
+# Member of Technical Staff - II at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff-II_R166197) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff---II_R165881-1) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-03-12.
+This software engineer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

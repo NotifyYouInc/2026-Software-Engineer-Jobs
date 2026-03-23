@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-AR-LIT-4001/Engineer-Lead--Software_JR0304272) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-CHNN-32-AB-3FL-STE-C-D/Engineer-Lead--Software_JR0305358) |
 
 ## About This Role
 
-This software engineer position at Fidelity National Information Services was posted on 2026-03-12.
+This engineering manager position at Fidelity National Information Services was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

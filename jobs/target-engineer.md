@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer_R0000423100) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer_R0000432324) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-02-17.
+This software engineer position at Target was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

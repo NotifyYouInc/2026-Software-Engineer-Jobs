@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Shenzhen, Guangdong, China |
 | Category | Sales Leadership |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Shanghai-China-Raffles-City-The-Bund/Market-Development-Engineer_R240195) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Market-Development-Engineer_R240470) |
 
 ## About This Role
 
-This sales leadership position at Arrow Electronics was posted on 2026-02-26.
+This sales leadership position at Arrow Electronics was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

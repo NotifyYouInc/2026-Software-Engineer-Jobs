@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R17408-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Software-Engineer_R18768-1) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-02-27.
+This software engineer position at Zoom was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

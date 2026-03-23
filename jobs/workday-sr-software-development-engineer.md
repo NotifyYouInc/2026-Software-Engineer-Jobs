@@ -1,16 +1,16 @@
-# Sr. Software Development Engineer at Workday
+# Sr Software Development Engineer at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Location | Boulder, Colorado, United States |
+| Category | Frontend Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Sr-Software-Development-Engineer_JR-0105298) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Sr-Software-Development-Engineer_JR-0104916) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-03-13.
+This frontend engineer position at Workday was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

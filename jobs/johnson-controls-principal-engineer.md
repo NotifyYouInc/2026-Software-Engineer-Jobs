@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Principal-Engineer_WD30262984) |
+| Location | Wuxi, Jiangsu, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Principal-Engineer_WD30263251) |
 
 ## About This Role
 
-This frontend engineer position at Johnson Controls was posted on 2026-03-05.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

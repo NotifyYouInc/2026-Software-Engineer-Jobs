@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado, US |
+| Location | Colombia |
 | Category | Software Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114719361-senior-ruby-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114737257-senior-ruby-developer) |
 
 ## About This Role
 
