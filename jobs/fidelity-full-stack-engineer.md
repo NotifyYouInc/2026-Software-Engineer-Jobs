@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westlake, Ohio, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Full-Stack-Engineer_2120575-2) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Full-Stack-Engineer_2125337) |
 
 ## About This Role
 
-This devops engineer position at Fidelity was posted on 2026-02-10.
+This software engineer position at Fidelity was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Chennai/Software-Engineer-III_R108189) |
+| Location | United Kingdom |
+| Category | Frontend Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Software-Engineer-III_R110056-1) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-27.
+This frontend engineer position at LexisNexis Risk Solutions was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000114298767-software-engineer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000115136097-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Smiths Group was posted on 2026-03-12.
+This frontend engineer position at Smiths Group was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Software-QA-Engineer---Specialist_1199939) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Software-QA-Engineer---Specialist_1204708-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-16.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

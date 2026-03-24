@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0134324-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0135159-1) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-03-13.
+This software engineer position at PayPal was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

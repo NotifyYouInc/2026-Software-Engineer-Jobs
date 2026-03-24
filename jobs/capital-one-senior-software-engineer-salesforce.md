@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Software-Engineer--Salesforce-_R237856) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Software-Engineer--Salesforce-_R238122-1) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-03-13.
+This frontend engineer position at Capital One was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

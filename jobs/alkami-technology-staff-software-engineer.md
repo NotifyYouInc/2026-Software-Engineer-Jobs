@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Gurugram, Haryana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Staff-Software-Engineer_JR-000554) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/India-Home-Office---Gurugram/Staff-Software-Engineer_JR-000559) |
 
 ## About This Role
 
-This frontend engineer position at Alkami Technology was posted on 2026-03-16.
+This frontend engineer position at Alkami Technology was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

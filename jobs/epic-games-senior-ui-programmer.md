@@ -5,12 +5,12 @@
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/5813525004?gh_jid=5813525004) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5825054004?gh_jid=5825054004) |
 
 ## About This Role
 
-This software engineer position at Epic Games was posted on 2026-03-12.
+This software engineer position at Epic Games was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

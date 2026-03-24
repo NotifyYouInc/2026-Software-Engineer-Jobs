@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Development-Engineer_R164974) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Development-Engineer_R166417) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-02-14.
+This software engineer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

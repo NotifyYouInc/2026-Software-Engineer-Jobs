@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a708265f-92bf-40a9-8ee1-7c947064cb2e) |
+| Category | Engineering Manager |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/e7ee275b-db49-478a-a73b-89946162812a) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-03-09.
+This engineering manager position at Jerry.ai was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

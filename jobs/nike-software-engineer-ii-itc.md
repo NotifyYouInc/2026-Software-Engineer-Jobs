@@ -1,16 +1,16 @@
-# Software Engineer -II, ITC at Nike
+# Software Engineer II, ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer--II--ITC_R-49963) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--ITC_R-81056) |
 
 ## About This Role
 
-This frontend engineer position at Nike was posted on 2026-02-24.
+This devops engineer position at Nike was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

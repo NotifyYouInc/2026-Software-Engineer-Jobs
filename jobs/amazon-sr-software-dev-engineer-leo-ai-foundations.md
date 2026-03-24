@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3191105/sr-software-dev-engineer-leo-ai-foundations) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206160/sr-software-dev-engineer-leo-ai-foundations) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-27.
+This software engineer position at Amazon was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

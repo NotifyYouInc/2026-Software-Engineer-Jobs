@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/342e7fa3-f3c5-4c21-abc1-cad9aa83cac5) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/36d4b058-d539-4b3f-90ab-c843863ea154) |
 
 ## About This Role
 
-This frontend engineer position at Jerry.ai was posted on 2026-03-09.
+This frontend engineer position at Jerry.ai was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

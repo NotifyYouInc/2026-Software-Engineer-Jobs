@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.brex.com/careers/8461469002?gh_jid=8461469002) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.brex.com/careers/8465003002?gh_jid=8465003002) |
 
 ## About This Role
 
-This software engineer position at Brex was posted on 2026-03-12.
+This software engineer position at Brex was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

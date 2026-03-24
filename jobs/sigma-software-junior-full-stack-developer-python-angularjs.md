@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lviv, Lviv, Ukraine |
 | Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113788437-junior-full-stack-developer-python-angularjs) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000115064827-junior-full-stack-developer-python-angularjs) |
 
 ## About This Role
 
-This frontend engineer position at Sigma Software was posted on 2026-03-10.
+This frontend engineer position at Sigma Software was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

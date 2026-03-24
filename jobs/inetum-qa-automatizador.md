@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114747718-qa-automatizador) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115058520-qa-automatizador) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-03-13.
+This software engineer position at Inetum was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

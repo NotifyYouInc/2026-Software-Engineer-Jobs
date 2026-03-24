@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lynnwood, Washington, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Autonomous-Mission-Systems-Software-Engineer_R-00177998) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Autonomous-Mission-Systems-Software-Engineer_R-00178474-1) |
 
 ## About This Role
 
-This robotics engineer position at Leidos was posted on 2026-03-11.
+This robotics engineer position at Leidos was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4807254101?gh_jid=4807254101) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4811865101?gh_jid=4811865101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-03-13.
+This software engineer position at NiCE was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

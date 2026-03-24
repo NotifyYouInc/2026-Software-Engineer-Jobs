@@ -5,12 +5,12 @@
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Quality-Engineer--Level-4_R0044787) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Quality-Engineer--Level-4_R0044953) |
 
 ## About This Role
 
-This software engineer position at Snapchat was posted on 2026-03-02.
+This software engineer position at Snapchat was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

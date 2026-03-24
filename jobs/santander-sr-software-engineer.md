@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Sr-Software-Engineer_Req1547371) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Sr-Software-Engineer_Req1552006) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-02-24.
+This software engineer position at Santander was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
