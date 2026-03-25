@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Advanced-Packaging-SI-PI-Staff-Engineer_2600798-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Advanced-Packaging-SI-PI-Staff-Engineer_2600808) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Marvell was posted on 2026-03-16.
+This electrical / hardware engineer position at Marvell was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

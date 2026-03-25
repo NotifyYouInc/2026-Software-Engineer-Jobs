@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Software-Engineer_R-527949) |
+| Location | Irving, Texas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Software-Engineer_R-527966-1) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-03-13.
+This frontend engineer position at Wells Fargo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

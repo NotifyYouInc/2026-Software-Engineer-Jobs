@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Python-Developer---Assistant-Vice-President_26944978-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Python-Developer---Assistant-Vice-President_26943348-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-13.
+This software engineer position at Citigroup was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

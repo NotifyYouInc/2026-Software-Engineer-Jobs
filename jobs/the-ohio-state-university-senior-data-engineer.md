@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Database Administration |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Senior-Data-Engineer_R146367-1) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Senior-Data-Engineer_R140137-1) |
 
 ## About This Role
 
-This database administration position at The Ohio State University was posted on 2026-03-11.
+This software engineer position at The Ohio State University was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

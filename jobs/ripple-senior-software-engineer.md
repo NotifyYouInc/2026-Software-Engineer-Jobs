@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Switzerland |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7656096?gh_jid=7656096) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7729908?gh_jid=7729908) |
 
 ## About This Role
 
-This software engineer position at Ripple was posted on 2026-02-26.
+This software engineer position at Ripple was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

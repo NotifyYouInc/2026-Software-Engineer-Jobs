@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Minnesota, US |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Shanghai-China/Senior-Software-Engineer_R47203) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Software-Engineer_R47581) |
 
 ## About This Role
 
-This software engineer position at C.H. Robinson was posted on 2026-02-13.
+This software engineer position at C.H. Robinson was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

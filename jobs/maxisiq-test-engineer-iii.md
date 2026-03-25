@@ -5,12 +5,12 @@
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Virginia, US |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990012166796-test-engineer-iii) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990012191236-test-engineer-iii) |
 
 ## About This Role
 
-This software engineer position at MAXISIQ was posted on 2026-03-16.
+This software engineer position at MAXISIQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

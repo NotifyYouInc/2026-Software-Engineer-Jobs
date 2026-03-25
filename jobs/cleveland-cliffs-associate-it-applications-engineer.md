@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland-Cliffs](https://scoutify.ai/companies/aksteel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/West-Chester-Regional-Office/Associate-IT-Applications-Engineer_R12104-1) |
+| Location | East Chicago, Indiana, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Burns-Harbor/Associate-IT-Applications-Engineer_R12287) |
 
 ## About This Role
 
-This frontend engineer position at Cleveland-Cliffs was posted on 2026-02-20.
+This software engineer position at Cleveland-Cliffs was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

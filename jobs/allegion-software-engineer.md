@@ -5,12 +5,12 @@
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Bangalore-India/Software-Engineer_JR35473) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Bangalore-India/Software-Engineer_JR35501) |
 
 ## About This Role
 
-This frontend engineer position at Allegion was posted on 2026-03-09.
+This frontend engineer position at Allegion was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

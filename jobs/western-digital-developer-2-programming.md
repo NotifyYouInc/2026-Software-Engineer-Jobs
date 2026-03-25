@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109790698-developer-2-programming) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000115321317-developer-2-programming) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-17.
+This software engineer position at Western Digital was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

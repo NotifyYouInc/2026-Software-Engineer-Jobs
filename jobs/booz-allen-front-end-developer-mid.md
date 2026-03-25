@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Front-End-Developer--Mid_R0235622) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Front-End-Developer--Mid_R0236106) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-10.
+This frontend engineer position at Booz Allen was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000109647325-staff-engineer-asic-development-engineering-sta-pnr-and-timing) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000115364139-staff-engineer-asic-development-engineering-sta-pnr-and-timing) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-02-17.
+This semiconductor / chip design position at SanDisk was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

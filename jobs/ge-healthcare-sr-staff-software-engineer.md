@@ -1,16 +1,16 @@
-# Sr Staff Software Engineer at GE HealthCare
+# Sr. Staff Software Engineer at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Sr-Staff-Software-Engineer_R4036996-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Sr-Staff-Software-Engineer_R4038116-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-25.
+This software engineer position at GE HealthCare was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

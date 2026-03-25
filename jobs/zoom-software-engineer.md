@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Software-Engineer_R18768-1) |
+| Location | San Jose, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18807) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-03-16.
+This frontend engineer position at Zoom was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

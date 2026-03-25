@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombia |
 | Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000114459341-senior-software-developer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000115299419-senior-software-developer) |
 
 ## About This Role
 
-This frontend engineer position at SGS was posted on 2026-03-12.
+This frontend engineer position at SGS was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

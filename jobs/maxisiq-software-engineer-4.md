@@ -5,12 +5,12 @@
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990012169831-software-engineer-4) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990012191066-software-engineer-4) |
 
 ## About This Role
 
-This offensive security & pentesting position at MAXISIQ was posted on 2026-03-16.
+This offensive security & pentesting position at MAXISIQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

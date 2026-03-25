@@ -1,16 +1,16 @@
-# Data Engineer - Sr. Consultant level at Visa International Service Association
+#  Data Engineer - Sr. Consultant level at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Foster City, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113576734-data-engineer-sr-consultant-level) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115366497-data-engineer-sr-consultant-level) |
 
 ## About This Role
 
-This frontend engineer position at Visa International Service Association was posted on 2026-03-09.
+This software engineer position at Visa International Service Association was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

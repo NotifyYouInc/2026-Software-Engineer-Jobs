@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Junior-Software-Engineer_R-00178180) |
+| Location | 4 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178647) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-12.
+This frontend engineer position at Leidos was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

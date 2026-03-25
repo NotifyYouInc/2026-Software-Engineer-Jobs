@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Software-Engineer--Senior_R0235295-1) |
+| Location | Herndon, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Software-Engineer--Senior_R0236102) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-06.
+This software engineer position at Booz Allen was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

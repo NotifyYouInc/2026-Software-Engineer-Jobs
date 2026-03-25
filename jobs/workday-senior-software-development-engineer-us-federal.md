@@ -1,16 +1,16 @@
-# Senior Software Development Engineer - US Federal at Workday
+# Senior Software Development Engineer (US Federal) at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Senior-Software-Development-Engineer---US-Federal_JR-0104943) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Senior-Software-Development-Engineer--US-Federal-_JR-0105129) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-03-13.
+This devops engineer position at Workday was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer  at Toast
+# Senior Software Engineer at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7645626) |
+| Location | Boston, Massachusetts, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7394549) |
 
 ## About This Role
 
-This software engineer position at Toast was posted on 2026-02-23.
+This frontend engineer position at Toast was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

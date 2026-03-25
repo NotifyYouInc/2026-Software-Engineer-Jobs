@@ -5,12 +5,12 @@
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Senior-Software-Engineer--NET-Java----Underwriting-Engineering---HYBRID_R0062846) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Senior-Software-Engineer--NET-Java----Underwriting-Engineering---HYBRID_R0062688-1) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-03-06.
+This software engineer position at Geico was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
