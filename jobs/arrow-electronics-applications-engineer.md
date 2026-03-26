@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Gelang Patah, Johor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NV-Reno-Nevada-Maestro-Dr/Applications-Engineer_R239735-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Gelang-Patah-Johor/Applications-Engineer_R242256) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-03-09.
+This software engineer position at Arrow Electronics was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

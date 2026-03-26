@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior-Software-Engineer_R20894) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior--Software-Engineer_R21098) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-02-10.
+This software engineer position at Wex was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

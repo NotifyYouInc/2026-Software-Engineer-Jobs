@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011952916-developpeur-web-fullstack-senior-angular-et-c) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012213416-developpeur-web-fullstack-senior-angular-et-c) |
 
 ## About This Role
 
-This frontend engineer position at Wabtec was posted on 2026-03-03.
+This frontend engineer position at Wabtec was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

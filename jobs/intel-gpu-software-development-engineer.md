@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Folsom, California, United States |
+| Location | Hillsboro, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0281314) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282189) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-12.
+This software engineer position at Intel was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

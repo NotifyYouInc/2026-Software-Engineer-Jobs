@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109320505-senior-software-engineer-frontend-react-typescript-hybrid) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115568427-senior-software-engineer-frontend-react-typescript-hybrid) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-13.
+This frontend engineer position at CyberArk Software was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

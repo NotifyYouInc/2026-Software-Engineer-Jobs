@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Illinois, US |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Senior-Engineer_R0000346337) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Senior-Engineer_R0000352778) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-02-26.
+This embedded / firmware engineer position at Caterpillar was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

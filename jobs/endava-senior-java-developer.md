@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Craiova, Dolj, Romania |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000109251396-senior-java-developer) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000115506307-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-13.
+This software engineer position at Endava was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

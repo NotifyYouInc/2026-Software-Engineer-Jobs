@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183527/software-development-engineer-ii-amazon-cross-border-tech) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-18.
+This frontend engineer position at Amazon was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

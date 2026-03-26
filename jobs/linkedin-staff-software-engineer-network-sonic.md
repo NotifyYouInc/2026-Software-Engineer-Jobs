@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000114758498-staff-software-engineer-network-sonic) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115545438-staff-software-engineer-network-sonic) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-13.
+This software engineer position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

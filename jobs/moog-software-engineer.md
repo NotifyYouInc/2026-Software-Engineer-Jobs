@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Torrance, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Software-Engineer_R-26-16735) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Software-Engineer_R-26-16796) |
 
 ## About This Role
 
-This software engineer position at Moog was posted on 2026-03-17.
+This software engineer position at Moog was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

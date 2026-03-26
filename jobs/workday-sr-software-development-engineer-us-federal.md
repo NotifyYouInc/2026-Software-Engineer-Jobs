@@ -1,16 +1,16 @@
-# Sr Software Development Engineer (US Federal) at Workday
+# Sr. Software Development Engineer (US Federal) at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Sr-Software-Development-Engineer--US-Federal-_JR-0102024) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Sr-Software-Development-Engineer--US-Federal-_JR-0103679) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-03-18.
+This devops engineer position at Workday was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

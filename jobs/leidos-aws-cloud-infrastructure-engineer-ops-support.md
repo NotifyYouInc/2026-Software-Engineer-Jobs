@@ -1,16 +1,16 @@
-# AWS Cloud Infrastructure Engineer  Ops Support ​ at Leidos
+# AWS Cloud Infrastructure Engineer Ops Support at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/AWS-Cloud-Infrastructure-Engineer--Ops-Support--_R-00176016) |
+| Category | Database Administration |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/AWS-Cloud-Infrastructure-Engineer-Ops-Support_R-00178721-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-13.
+This database administration position at Leidos was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

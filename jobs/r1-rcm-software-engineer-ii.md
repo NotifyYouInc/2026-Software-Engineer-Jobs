@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Software-Engineer-II_R260000001463) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Software-Engineer-II_R260000000659) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-02-24.
+This software engineer position at R1 Rcm was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

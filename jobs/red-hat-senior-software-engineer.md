@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-055133-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer_R-055937-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-03-12.
+This software engineer position at Red Hat was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

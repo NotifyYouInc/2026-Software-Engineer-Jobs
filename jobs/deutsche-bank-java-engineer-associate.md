@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cary, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0418350-3) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0427077) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-26.
+This frontend engineer position at Deutsche Bank was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

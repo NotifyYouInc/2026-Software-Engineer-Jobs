@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Engineer_R0155507) |
+| Location | Fredericksburg, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Software-Engineer_R0156761-1) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-03-02.
+This software engineer position at Amentum was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

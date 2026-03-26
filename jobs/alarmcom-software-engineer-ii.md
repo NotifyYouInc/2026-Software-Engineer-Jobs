@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8453346002) |
+| Location | Boston, Massachusetts, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8432004002) |
 
 ## About This Role
 
-This frontend engineer position at Alarm.com was posted on 2026-03-06.
+This software engineer position at Alarm.com was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

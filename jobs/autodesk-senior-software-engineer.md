@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oslo, Oslo, Norway |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Norway---Oslo---Tjuvholmen-Alle/Senior-Software-Engineer_26WD96275-1) |
+| Location | San Francisco, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Senior-Software-Engineer_26WD96509) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-03-06.
+This frontend engineer position at Autodesk was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7572065?gh_jid=7572065) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7724762?gh_jid=7724762) |
 
 ## About This Role
 
-This devops engineer position at Coinbase was posted on 2026-02-11.
+This devops engineer position at Coinbase was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

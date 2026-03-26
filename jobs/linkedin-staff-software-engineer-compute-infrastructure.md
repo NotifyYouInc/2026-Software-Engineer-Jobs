@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108207765-staff-software-engineer-compute-infrastructure) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115521574-staff-software-engineer-compute-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-09.
+This software engineer position at LinkedIn was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

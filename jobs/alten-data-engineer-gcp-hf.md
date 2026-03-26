@@ -1,16 +1,16 @@
-# Data engineer GCP - (H/F) at ALTEN
+# Data Engineer GCP (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000113787697-data-engineer-gcp-hf) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115503897-data-engineer-gcp-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-10.
+This software engineer position at ALTEN was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

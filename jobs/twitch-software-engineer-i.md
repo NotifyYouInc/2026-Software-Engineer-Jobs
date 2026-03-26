@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twitch](https://scoutify.ai/companies/twitch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8342111002) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8468673002) |
 
 ## About This Role
 
-This software engineer position at Twitch was posted on 2026-02-21.
+This software engineer position at Twitch was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

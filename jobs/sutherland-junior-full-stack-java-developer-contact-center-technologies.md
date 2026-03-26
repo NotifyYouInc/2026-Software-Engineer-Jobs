@@ -1,0 +1,22 @@
+# Junior Full-Stack Java Developer – Contact Center Technologies at Sutherland
+
+| Field | Details |
+|-------|---------|
+| Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Frontend Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000115517278-junior-full-stack-java-developer-contact-center-technologies) |
+
+## About This Role
+
+This frontend engineer position at Sutherland was posted on 2026-03-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

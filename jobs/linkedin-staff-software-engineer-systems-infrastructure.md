@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115119573-staff-software-engineer-systems-infrastructure) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115521915-staff-software-engineer-systems-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-17.
+This software engineer position at LinkedIn was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

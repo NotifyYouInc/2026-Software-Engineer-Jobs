@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer_R65364-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer_R65924-1) |
 
 ## About This Role
 
-This frontend engineer position at Fifth Third Bank was posted on 2026-02-23.
+This software engineer position at Fifth Third Bank was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Software-Engineer_R174091) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Guangdong-Shenzhen-518007/Software-Engineer_R176062) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-02-26.
+This frontend engineer position at A.P. Moller - Maersk was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

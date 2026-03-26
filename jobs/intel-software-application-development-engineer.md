@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Location | Hillsboro, Oregon, United States |
+| Category | DevOps Engineer |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0282062-1) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Application-Development-Engineer_JR0282051-1) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-18.
+This devops engineer position at Intel was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
