@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Engineering Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Software-Engineer---AVP_JR-0000100599-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Roppongi-Hills-Mori-Tower-Tokyo/Software-Engineer---AVP_JR-0000088004-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-17.
+This engineering manager position at Barclays was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Software-Engineer-Sr_R213967) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Software-Engineer-Sr_R214691-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-03-10.
+This software engineer position at PNC Financial was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

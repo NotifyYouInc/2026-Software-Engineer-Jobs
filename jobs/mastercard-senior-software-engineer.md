@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Software-Engineer_R-273414) |
+| Location | O'Fallon, Missouri, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-270597-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-03-18.
+This frontend engineer position at Mastercard was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Round Rock, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Systems-Development-Engineer_R282670) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Principal-Systems-Development-Engineer_R287490) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-19.
+This software engineer position at Dell Technologies was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

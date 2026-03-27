@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Mobile Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Android-Developer_R-0000160973-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Android-Developer_R-0000163975-1) |
 
 ## About This Role
 
-This mobile engineer position at Royal Bank of Canada was posted on 2026-02-24.
+This mobile engineer position at Royal Bank of Canada was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

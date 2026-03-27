@@ -1,16 +1,16 @@
-# Manager, Software Engineering at Mastercard
+# Manager Software Engineering at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Software-Engineering_R-270854) |
+| Location | Arlington, Texas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Manager-Software-Engineering_R-273223) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-12.
+This frontend engineer position at Mastercard was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

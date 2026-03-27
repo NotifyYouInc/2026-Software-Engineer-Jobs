@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112796737-staff-software-engineer-data) |
+| Category | Software Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115715843-staff-software-engineer-data) |
 
 ## About This Role
 
-This frontend engineer position at LinkedIn was posted on 2026-03-05.
+This software engineer position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at CyberArk Software
+# Senior Software Engineer  at CyberArk Software
 
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109296715-senior-software-engineer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115760157-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-13.
+This software engineer position at CyberArk Software was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

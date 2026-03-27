@@ -1,16 +1,16 @@
-# .Net Angular Developer at Eurofins Scientific
+# .Net -Angular Developer at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108374573-net-angular-developer) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115712085-net-angular-developer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-02-10.
+This frontend engineer position at Eurofins Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

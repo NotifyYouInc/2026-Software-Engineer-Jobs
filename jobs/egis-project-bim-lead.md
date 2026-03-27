@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Hamilton, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000114765387-project-bim-lead) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000115738087-project-bim-lead) |
 
 ## About This Role
 
-This software engineer position at Egis was posted on 2026-03-14.
+This software engineer position at Egis was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

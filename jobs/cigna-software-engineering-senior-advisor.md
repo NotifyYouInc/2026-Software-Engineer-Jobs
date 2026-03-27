@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Texas-Work-at-Home/Software-Engineering-Senior-Advisor_26000876-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor_26001886) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-17.
+This software engineer position at Cigna was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

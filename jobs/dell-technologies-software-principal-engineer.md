@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Principal-Engineer_R282684) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Durham-North-Carolina-United-States/Software-Principal-Engineer_R282863-1) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-03-04.
+This software engineer position at Dell Technologies was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

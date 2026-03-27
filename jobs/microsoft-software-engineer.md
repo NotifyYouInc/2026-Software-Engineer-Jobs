@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834716) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849653) |
 
 ## About This Role
 

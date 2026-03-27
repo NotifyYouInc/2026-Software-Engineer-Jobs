@@ -1,16 +1,16 @@
-# Senior Software Engineer at MNTN
+# Senior Software Engineer  at MNTN
 
 | Field | Details |
 |-------|---------|
 | Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/7613015) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/7702400) |
 
 ## About This Role
 
-This software engineer position at MNTN was posted on 2026-02-13.
+This software engineer position at MNTN was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

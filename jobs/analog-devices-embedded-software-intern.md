@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/CLOSED-US-TX-Austin-N-Capital/Embedded-Software-Intern_R256367) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Software-Intern_R255237) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-03-09.
+This software engineer position at Analog Devices was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

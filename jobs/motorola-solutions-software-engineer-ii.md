@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Schaumburg, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-II_R60995) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-II_R62267) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-10.
+This devops engineer position at Motorola Solutions was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

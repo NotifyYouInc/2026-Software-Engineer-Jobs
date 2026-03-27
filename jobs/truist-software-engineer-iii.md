@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Software-Engineer-III_R0111724) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Software-Engineer-III_R0108817) |
 
 ## About This Role
 
-This software engineer position at Truist was posted on 2026-02-25.
+This software engineer position at Truist was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

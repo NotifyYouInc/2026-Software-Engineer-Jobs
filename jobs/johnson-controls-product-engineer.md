@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ciénega de Flores, Nuevo León, Mexico |
-| Category | Operations |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Cienega-de-Flores-Nuevo-Leon-Mexico/Product-Engineer_WD30257575) |
+| Location | Wuxi, Jiangsu, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Product-Engineer_WD30263179) |
 
 ## About This Role
 
-This operations position at Johnson Controls was posted on 2026-03-06.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

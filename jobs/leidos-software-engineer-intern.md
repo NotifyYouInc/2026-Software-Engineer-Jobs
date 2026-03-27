@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer-Intern_R-00177800) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00178737) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-13.
+This software engineer position at Leidos was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

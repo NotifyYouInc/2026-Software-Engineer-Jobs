@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Flight-Dynamics-Engineer_R014750) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/Flight-Dynamics-Engineer_R014825) |
 
 ## About This Role
 
-This software engineer position at The Aerospace Corporation was posted on 2026-03-10.
+This software engineer position at The Aerospace Corporation was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

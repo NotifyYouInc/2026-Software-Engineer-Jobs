@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | West Valley City, Utah, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineer_R63109) |
+| Location | Plantation, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer_R63225) |
 
 ## About This Role
 
-This frontend engineer position at Motorola Solutions was posted on 2026-03-17.
+This software engineer position at Motorola Solutions was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

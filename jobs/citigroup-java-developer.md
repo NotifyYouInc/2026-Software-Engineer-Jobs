@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Developer_26942124) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Software Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Developer_26947686) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-03-11.
+This software engineer position at Citigroup was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
