@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Mobile Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7673492) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7735338) |
 
 ## About This Role
 
-This mobile engineer position at Toast was posted on 2026-03-05.
+This mobile engineer position at Toast was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Madison, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Software-Engineer_R4037247-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Madison/Software-Engineer_R4038103-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-03-04.
+This software engineer position at GE HealthCare was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

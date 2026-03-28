@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Not specified |
 | Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Front-End-Angular-Developer-Public-Trust--Remote--TT_R2600670) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Front-End-Angular-Developer-Public-Trust--Remote--TT_R2601001) |
 
 ## About This Role
 
-This frontend engineer position at ICF was posted on 2026-02-27.
+This frontend engineer position at ICF was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

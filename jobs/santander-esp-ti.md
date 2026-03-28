@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Getnet-TO-Brasil/ESP-TI_Req1551389) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Get-Tech-SP/ESP-TI_Req1551052-1) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-03-06.
+This software engineer position at Santander was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

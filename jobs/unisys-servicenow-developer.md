@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bogota-DC-Colombia/ServiceNow-Developer_REQ571957) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Brazil/ServiceNow-Developer_REQ571961) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-03-17.
+This software engineer position at Unisys was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

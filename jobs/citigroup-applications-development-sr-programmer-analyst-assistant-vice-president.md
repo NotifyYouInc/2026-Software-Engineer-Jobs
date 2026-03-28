@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26944130) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26937431) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-11.
+This software engineer position at Citigroup was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

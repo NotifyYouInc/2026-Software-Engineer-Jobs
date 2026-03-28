@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5056295007?gh_jid=5056295007) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5085712007?gh_jid=5085712007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-19.
+This frontend engineer position at Anduril was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

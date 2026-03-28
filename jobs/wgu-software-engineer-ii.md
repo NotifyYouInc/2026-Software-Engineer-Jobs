@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-Office/Software-Engineer-II_JR-024401) |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-II_JR-024646) |
 
 ## About This Role
 
-This frontend engineer position at WGU was posted on 2026-02-23.
+This software engineer position at WGU was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

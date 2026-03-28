@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115544707-vtp-vehicle-tracking-portal-developer-bilingual-englishkorean) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115919627-vtp-vehicle-tracking-portal-developer-bilingual-englishkorean) |
 
 ## About This Role
 
-This frontend engineer position at Woongjin was posted on 2026-03-18.
+This frontend engineer position at Woongjin was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

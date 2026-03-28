@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849653) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556850959) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-19.
+This software engineer position at Microsoft was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

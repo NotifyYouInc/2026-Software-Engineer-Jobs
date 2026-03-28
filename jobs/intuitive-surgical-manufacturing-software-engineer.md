@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000109103405-manufacturing-software-engineer) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115963928-manufacturing-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-02-12.
+This software engineer position at Intuitive Surgical was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

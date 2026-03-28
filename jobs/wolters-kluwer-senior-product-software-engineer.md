@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coppell, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Senior-Product-Software-Engineer_R0054690) |
+| Location | Pune, Maharashtra, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Product-Software-Engineer_R0055436-1) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-13.
+This frontend engineer position at Wolters Kluwer was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

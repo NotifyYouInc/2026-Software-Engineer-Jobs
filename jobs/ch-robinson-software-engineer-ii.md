@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Software-Engineer-II_R47472) |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-II_R47559) |
 
 ## About This Role
 
-This frontend engineer position at C.H. Robinson was posted on 2026-03-09.
+This software engineer position at C.H. Robinson was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

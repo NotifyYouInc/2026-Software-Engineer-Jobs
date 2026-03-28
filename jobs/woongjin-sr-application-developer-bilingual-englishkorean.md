@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115543687-sr-application-developer-bilingual-englishkorean) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115914612-sr-application-developer-bilingual-englishkorean) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-03-18.
+This software engineer position at Woongjin was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

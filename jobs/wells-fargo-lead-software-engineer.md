@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Software-Engineer_R-530292) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-527820) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-18.
+This software engineer position at Wells Fargo was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

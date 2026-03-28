@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Software-Engineer--Full-Stack_R238391-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Wilmington-DE/Senior-Software-Engineer--Full-Stack_R237667-1) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-03-18.
+This frontend engineer position at Capital One was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

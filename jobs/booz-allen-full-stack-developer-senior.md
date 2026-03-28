@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Full-Stack-Developer--Senior_R0235238) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Full-Stack-Developer--Senior_R0236491) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-05.
+This frontend engineer position at Booz Allen was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

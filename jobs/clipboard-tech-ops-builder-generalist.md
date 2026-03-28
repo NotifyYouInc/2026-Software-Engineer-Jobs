@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clipboard](https://scoutify.ai/companies/clipboard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/f9ec8cfe-9eb2-4b10-9942-a36c2fe0cc20) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/e99498d3-e2bf-47e7-910e-6825907a4feb) |
 
 ## About This Role
 
-This software engineer position at Clipboard was posted on 2026-02-24.
+This software engineer position at Clipboard was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

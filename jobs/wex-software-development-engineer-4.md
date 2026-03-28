@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Development-Engineer-4_R21230) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Development-Engineer-4_R21299) |
 
 ## About This Role
 
-This ai / llm engineer position at Wex was posted on 2026-03-18.
+This software engineer position at Wex was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

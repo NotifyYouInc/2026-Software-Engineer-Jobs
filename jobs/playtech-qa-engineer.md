@@ -1,16 +1,16 @@
-#  QA Engineer at Playtech
+# QA Engineer  at Playtech
 
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000108229999-qa-engineer) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000115946728-qa-engineer) |
 
 ## About This Role
 
-This software engineer position at Playtech was posted on 2026-02-09.
+This software engineer position at Playtech was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000114117359-manager-software-engineer-enterprise-jobs) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115931916-manager-software-engineer-enterprise-jobs) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-03-11.
+This engineering manager position at LinkedIn was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

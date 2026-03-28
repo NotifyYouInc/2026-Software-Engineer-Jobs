@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Alpharetta, Georgia, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Quality-Automation-Engineer_J00174675) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Quality-Automation-Engineer_J00175678) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-02-26.
+This industrial automation position at Equifax was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

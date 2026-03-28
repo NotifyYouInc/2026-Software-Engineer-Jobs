@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Desarrollador-a-de-aplicaciones-WEB--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00096048-1) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Desarrollador-a-de-aplicaciones-WEB--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00099023) |
 
 ## About This Role
 
-This frontend engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-17.
+This frontend engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

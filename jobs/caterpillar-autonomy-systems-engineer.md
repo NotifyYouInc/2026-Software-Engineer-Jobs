@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Tucson, Arizona, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Systems-Engineer_R0000353797) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Systems-Engineer_R0000356975) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar was posted on 2026-03-06.
+This robotics engineer position at Caterpillar was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

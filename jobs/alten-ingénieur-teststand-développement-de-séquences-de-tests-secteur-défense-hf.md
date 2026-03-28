@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cholet, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000114110044-ingenieur-teststand-developpement-de-sequences-de-tests-secteur-defense-hf) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115926920-ingenieur-teststand-developpement-de-sequences-de-tests-secteur-defense-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-11.
+This software engineer position at ALTEN was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

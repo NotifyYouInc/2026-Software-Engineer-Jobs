@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gdansk-POL/Senior-Data-Engineer_326055-2) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Senior-Data-Engineer_323496-1) |
 
 ## About This Role
 
-This software engineer position at S&P Global was posted on 2026-03-18.
+This software engineer position at S&P Global was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
