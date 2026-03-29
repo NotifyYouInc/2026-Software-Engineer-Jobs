@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Sr. Application Engineer, Automation Lead at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7722032&gh_jid=7722032) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This software engineer position at Elastic was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

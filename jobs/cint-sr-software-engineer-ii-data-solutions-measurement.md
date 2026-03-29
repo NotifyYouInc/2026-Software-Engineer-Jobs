@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Sr. Software Engineer II - Data Solutions & Measurement at Cint
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Brazil |
 | Category | Software Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116024867-sr-software-engineer-ii-data-solutions-measurement) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This software engineer position at Cint was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

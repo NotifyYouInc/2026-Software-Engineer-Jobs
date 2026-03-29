@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Senior Software Engineer - Agentic AI & Automation at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7737532) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This software engineer position at Pure Storage was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

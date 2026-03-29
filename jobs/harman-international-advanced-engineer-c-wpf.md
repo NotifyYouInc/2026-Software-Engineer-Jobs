@@ -1,16 +1,16 @@
-# Senior Staff Software Development Engineer  at Zscaler
+# Advanced Engineer - C# & WPF at HARMAN International
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/4972334007) |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Advanced-Engineer---C----WPF_R-51010-2026) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-03-21.
+This software engineer position at HARMAN International was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

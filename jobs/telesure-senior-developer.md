@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Senior Developer at Telesure
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Gauteng, ZA |
 | Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Steyn-City-Capital-Park/Senior-Developer_JR104378) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This software engineer position at Telesure was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

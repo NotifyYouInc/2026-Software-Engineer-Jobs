@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108679326-senior-software-engineer-backend-lidar-3d) |
+| Category | Robotics Engineer |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116025527-senior-software-engineer-backend-lidar-3d) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-02-11.
+This robotics engineer position at Grab was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

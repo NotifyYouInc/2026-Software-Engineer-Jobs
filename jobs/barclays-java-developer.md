@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Java Developer at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Java-Developer_JR-0000087515) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This software engineer position at Barclays was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Staff Mobile Engineer at Finary
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Company | [Finary](https://scoutify.ai/companies/finary?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
+| Category | Mobile Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104989) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/finary/51290009-50c7-4e34-83ed-e78ed521d3e9) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-21.
+This mobile engineer position at Finary was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

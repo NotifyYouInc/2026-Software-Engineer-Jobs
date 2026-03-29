@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Engineering Manager |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115901742-senior-engineering-lead-business-accounting-integrations-and-reporting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115906212-senior-engineering-lead-business-accounting-integrations-and-reporting) |
 
 ## About This Role
 
