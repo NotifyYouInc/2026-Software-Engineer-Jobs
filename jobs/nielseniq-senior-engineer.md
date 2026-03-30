@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115924336-senior-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115958107-senior-engineer) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Software-Developer_R2119174) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Software-Developer_R2120771) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-02-17.
+This software engineer position at KBR was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

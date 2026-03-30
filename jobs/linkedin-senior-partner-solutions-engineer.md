@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115794127-senior-partner-solutions-engineer) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116111557-senior-partner-solutions-engineer) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-20.
+This software engineer position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

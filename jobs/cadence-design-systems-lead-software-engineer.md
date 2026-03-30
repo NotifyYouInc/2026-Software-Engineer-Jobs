@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hubei, CN |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Lead-Software-Engineer_R53413) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Software-Engineer_R53864) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-01.
+This software engineer position at Cadence Design Systems was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

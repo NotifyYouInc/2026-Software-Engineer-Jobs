@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--VLSI-Physical-Design_JR2013687) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-R-D-Engineer--VLSI-Physical-Design_JR2015155) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-02-19.
+This semiconductor / chip design position at Nvidia was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

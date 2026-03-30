@@ -5,12 +5,12 @@
 | Company | [Hyve Solutions](https://scoutify.ai/companies/hyve-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ontario, CA |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Ontario-Canada/Business-System-Engineer_R49121) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Ontario-Canada/Business-System-Engineer_R46299) |
 
 ## About This Role
 
-This software engineer position at Hyve Solutions was posted on 2026-03-17.
+This software engineer position at Hyve Solutions was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7734202) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7741270) |
 
 ## About This Role
 
-This software engineer position at Referrals Only was posted on 2026-03-19.
+This software engineer position at Referrals Only was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

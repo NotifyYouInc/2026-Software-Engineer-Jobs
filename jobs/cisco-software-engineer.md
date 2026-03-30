@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2007041) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2011019-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-03-19.
+This software engineer position at Cisco was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7616809?gh_jid=7616809) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7728280?gh_jid=7728280) |
 
 ## About This Role
 
-This frontend engineer position at Zuora was posted on 2026-02-18.
+This software engineer position at Zuora was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

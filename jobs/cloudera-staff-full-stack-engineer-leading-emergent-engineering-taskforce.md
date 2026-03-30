@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Ireland-Cork/Staff-Full-Stack-Engineer---Leading-Emergent-Engineering-Taskforce_251503-1) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Staff-Full-Stack-Engineer---Leading-Emergent-Engineering-Taskforce_251504) |
 
 ## About This Role
 
-This frontend engineer position at Cloudera was posted on 2026-02-23.
+This frontend engineer position at Cloudera was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-California/Lead-Software-Engineer_R-403608) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Software-Engineer_R-408549) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-02-10.
+This devops engineer position at Humana was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

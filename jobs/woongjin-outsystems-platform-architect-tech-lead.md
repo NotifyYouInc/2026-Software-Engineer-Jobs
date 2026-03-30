@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115916581-outsystems-platform-architect-tech-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115982962-outsystems-platform-architect-tech-lead) |
 
 ## About This Role
 

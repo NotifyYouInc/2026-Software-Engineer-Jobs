@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Software-Engineer_REQ242273) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Software-Engineer_REQ255551) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-03-16.
+This devops engineer position at Commonwealth Bank of Australia was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

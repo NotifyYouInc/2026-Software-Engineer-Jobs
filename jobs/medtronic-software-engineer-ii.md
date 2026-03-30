@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lafayette, Louisiana, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-II_R59740-2) |
+| Location | Jacksonville, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Software-Engineer-II_R62263) |
 
 ## About This Role
 
-This frontend engineer position at Medtronic was posted on 2026-02-26.
+This software engineer position at Medtronic was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

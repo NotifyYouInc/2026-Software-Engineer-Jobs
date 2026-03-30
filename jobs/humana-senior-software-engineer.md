@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Louisville, Kentucky, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Software-Engineer_R-406145) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Software-Engineer_R-408552) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-02-26.
+This devops engineer position at Humana was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 
