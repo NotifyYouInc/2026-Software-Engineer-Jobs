@@ -1,16 +1,16 @@
-# .NET Full Stack Developer at Synechron
+# .Net Full Stack Developer at Synechron
 
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mumbai/XMLNAME-NET-Full-Stack-Developer_JR1034855-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Charlotte-NC/XMLNAME-Net-Full-Stack-Developer_JR1037903) |
 
 ## About This Role
 
-This frontend engineer position at Synechron was posted on 2026-02-23.
+This frontend engineer position at Synechron was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

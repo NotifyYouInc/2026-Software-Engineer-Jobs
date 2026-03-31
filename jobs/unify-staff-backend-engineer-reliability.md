@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unify](https://scoutify.ai/companies/unify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/unify/dc2e4546-5e17-46f6-82d8-73131429794c) |
+| Category | Engineering Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/unify/fdff0278-41d8-4ceb-916e-456cacbbce97) |
 
 ## About This Role
 
-This devops engineer position at Unify was posted on 2026-02-20.
+This engineering manager position at Unify was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

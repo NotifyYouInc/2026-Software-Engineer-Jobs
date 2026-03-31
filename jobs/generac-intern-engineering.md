@@ -5,12 +5,12 @@
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Toronto-Canada/Intern-Engineering_JR11711) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Toronto-Canada/Intern-Engineering_JR12472) |
 
 ## About This Role
 
-This software engineer position at Generac was posted on 2026-02-17.
+This software engineer position at Generac was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

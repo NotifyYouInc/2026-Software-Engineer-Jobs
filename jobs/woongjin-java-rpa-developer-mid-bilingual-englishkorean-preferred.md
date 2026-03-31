@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115917827-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000116298762-java-rpa-developer-mid-bilingual-englishkorean-preferred) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-03-20.
+This software engineer position at Woongjin was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

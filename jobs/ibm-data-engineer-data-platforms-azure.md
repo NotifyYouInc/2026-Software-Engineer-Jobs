@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Azure at IBM
+# Data Engineer - Data Platforms-Azure at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99984) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103591) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-20.
+This software engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

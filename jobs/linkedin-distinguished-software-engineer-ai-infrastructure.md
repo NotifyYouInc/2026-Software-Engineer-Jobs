@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112531028-distinguished-software-engineer-ai-infrastructure) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116268394-distinguished-software-engineer-ai-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-03.
+This software engineer position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

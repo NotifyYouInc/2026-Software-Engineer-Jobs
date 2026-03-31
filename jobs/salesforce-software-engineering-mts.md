@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR329375) |
+| Location | Bellevue, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineering-MTS_JR333972) |
 
 ## About This Role
 
-This frontend engineer position at Salesforce was posted on 2026-02-19.
+This software engineer position at Salesforce was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

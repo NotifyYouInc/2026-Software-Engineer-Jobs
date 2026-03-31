@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Honolulu/Systems-Engineer_RQ215863-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Boston/Systems-Engineer_RQ217092-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-28.
+This software engineer position at General Dynamics Information Technology was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

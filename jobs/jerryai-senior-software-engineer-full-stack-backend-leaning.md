@@ -1,16 +1,16 @@
-# Senior Software Engineer (Full Stack, Backend-leaning) at Jerry.ai
+# Senior Software Engineer (Full-Stack,  Backend-leaning) at Jerry.ai
 
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d652be2f-39a9-492b-9628-683071280546) |
+| Location | Palo Alto, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/2d7d5883-5785-4b42-a823-edd5006ca99a) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-03-16.
+This frontend engineer position at Jerry.ai was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8372892002?gh_jid=8372892002) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8372893002?gh_jid=8372893002) |
 
 ## About This Role
 
-This venture capital / private equity position at Point72 was posted on 2026-03-09.
+This venture capital / private equity position at Point72 was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

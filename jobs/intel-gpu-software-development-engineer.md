@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282189) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0281981) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-19.
+This software engineer position at Intel was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

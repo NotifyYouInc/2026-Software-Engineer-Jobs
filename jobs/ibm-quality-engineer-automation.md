@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96037) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84143) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-23.
+This software engineer position at IBM was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

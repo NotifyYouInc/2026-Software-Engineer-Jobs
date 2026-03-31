@@ -1,16 +1,16 @@
-# Senior Fullstack Product Software Engineer, DocSend at Dropbox
+# Senior Fullstack Product Software Engineer, DocSend   at Dropbox
 
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Canada |
 | Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7641561?gh_jid=7641561) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7641557?gh_jid=7641557) |
 
 ## About This Role
 
-This frontend engineer position at Dropbox was posted on 2026-03-04.
+This frontend engineer position at Dropbox was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

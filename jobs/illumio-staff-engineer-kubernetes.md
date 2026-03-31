@@ -5,12 +5,12 @@
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/1bd360ab-f58c-40b6-b5de-76a39999b40a) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/45dccfff-b0d5-4d66-aff3-db5f56248597) |
 
 ## About This Role
 
-This software engineer position at Illumio was posted on 2026-03-12.
+This software engineer position at Illumio was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

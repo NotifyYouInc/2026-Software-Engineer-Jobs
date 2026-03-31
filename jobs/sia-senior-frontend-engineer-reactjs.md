@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111536125-senior-frontend-engineer-reactjs) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116324713-senior-frontend-engineer-reactjs) |
 
 ## About This Role
 
-This frontend engineer position at SIA was posted on 2026-02-26.
+This frontend engineer position at SIA was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

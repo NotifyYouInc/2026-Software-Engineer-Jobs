@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000114718003-finance-systems-automation-specialist) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116288437-finance-systems-automation-specialist) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-13.
+This software engineer position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Staff Engineer-Applications at Microchip Technology
+# Technical Staff Engineer- Applications at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Technical-Staff-Engineer-Applications_R902-26) |
+| Location | Chandler, Arizona, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer--Applications_R1135-26) |
 
 ## About This Role
 
-This technical writer position at Microchip Technology was posted on 2026-03-02.
+This embedded / firmware engineer position at Microchip Technology was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

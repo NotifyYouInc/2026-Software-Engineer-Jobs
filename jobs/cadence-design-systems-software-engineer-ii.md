@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Software-Engineer-II_R53673) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R53845-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-18.
+This software engineer position at Cadence Design Systems was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

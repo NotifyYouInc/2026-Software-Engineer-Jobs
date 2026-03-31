@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Software-Development-Engineer--Full-Stack-_JR-0105033) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer--Full-Stack-_JR-0105447-1) |
 
 ## About This Role
 
-This frontend engineer position at Workday was posted on 2026-03-05.
+This frontend engineer position at Workday was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

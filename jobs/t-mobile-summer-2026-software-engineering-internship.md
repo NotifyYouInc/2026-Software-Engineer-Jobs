@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ346602) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ348619) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-03-10.
+This software engineer position at T-Mobile was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

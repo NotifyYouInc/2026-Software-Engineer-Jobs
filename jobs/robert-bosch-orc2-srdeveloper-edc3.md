@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115368957-orc2-srdeveloper-edc3) |
+| Category | Technical Writer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116319537-orc2-srdeveloper-edc3) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-18.
+This technical writer position at Robert Bosch was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

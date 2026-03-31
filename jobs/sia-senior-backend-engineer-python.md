@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111535655-senior-backend-engineer-python) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116324657-senior-backend-engineer-python) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-26.
+This devops engineer position at SIA was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

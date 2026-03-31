@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Japan |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hiroshima-Japan/Field-Application-Engineer_J-00334293-4) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Field-Application-Engineer_J-00336254-1) |
 
 ## About This Role
 
-This customer success position at ASML was posted on 2026-03-13.
+This customer success position at ASML was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

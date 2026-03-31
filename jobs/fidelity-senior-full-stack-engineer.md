@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Covington, Kentucky, United States |
+| Location | Galway, Connacht, Ireland |
 | Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Covington-KY/Principal-Software-Engineer_2116537) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Senior-Full-Stack-Engineer_2125336-3) |
 
 ## About This Role
 
-This frontend engineer position at Fidelity was posted on 2026-03-13.
+This frontend engineer position at Fidelity was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

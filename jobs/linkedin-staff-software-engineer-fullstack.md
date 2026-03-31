@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115795233-staff-software-engineer-fullstack) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116317977-staff-software-engineer-fullstack) |
 
 ## About This Role
 
-This frontend engineer position at LinkedIn was posted on 2026-03-20.
+This frontend engineer position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

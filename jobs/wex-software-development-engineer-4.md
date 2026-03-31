@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Development-Engineer-4_R21299) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Development-Engineer-4_R21215) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-03-21.
+This software engineer position at Wex was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

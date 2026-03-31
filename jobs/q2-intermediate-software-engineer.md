@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Intermediate-Software-Engineer_REQ-12144) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12025) |
 
 ## About This Role
 
-This software engineer position at Q2 was posted on 2026-03-03.
+This software engineer position at Q2 was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

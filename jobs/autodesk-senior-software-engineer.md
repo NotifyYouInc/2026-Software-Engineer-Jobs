@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Senior-Software-Engineer_26WD96509) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Senior-Software-Engineer_26WD96621) |
 
 ## About This Role
 
-This frontend engineer position at Autodesk was posted on 2026-03-18.
+This frontend engineer position at Autodesk was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

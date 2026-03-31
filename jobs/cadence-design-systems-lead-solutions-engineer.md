@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Solutions-Engineer_R53663) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Solutions-Engineer_R53810-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-18.
+This software engineer position at Cadence Design Systems was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

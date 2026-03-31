@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Calgary, Alberta, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/MineStar-Performance-Engineer_R0000357136) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Calgary-Alberta/MineStar-Performance-Engineer_R0000359192) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-15.
+This software engineer position at Caterpillar was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

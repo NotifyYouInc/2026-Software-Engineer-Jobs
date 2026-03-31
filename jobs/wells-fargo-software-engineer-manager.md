@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Iselin, New Jersey, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Software-Engineer-Manager_R-527366) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer-Manager_R-528748) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-03-06.
+This engineering manager position at Wells Fargo was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

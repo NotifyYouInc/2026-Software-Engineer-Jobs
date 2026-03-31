@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ROLLER](https://scoutify.ai/companies/roller?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roller/jobs/5045007007) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Frontend Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roller/jobs/5087790007) |
 
 ## About This Role
 
-This software engineer position at ROLLER was posted on 2026-02-06.
+This frontend engineer position at ROLLER was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

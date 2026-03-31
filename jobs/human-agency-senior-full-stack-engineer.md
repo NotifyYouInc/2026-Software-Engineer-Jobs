@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Human Agency](https://scoutify.ai/companies/human-agency?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7647992003) |
+| Location | Denver, Colorado, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7676448003) |
 
 ## About This Role
 
-This frontend engineer position at Human Agency was posted on 2026-02-27.
+This devops engineer position at Human Agency was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
