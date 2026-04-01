@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Penang, MY |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Test-Automation-Engineer_R62602) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Test-Automation-Engineer_R63216) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-26.
+This software engineer position at Motorola Solutions was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102067) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104598) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-13.
+This software engineer position at IBM was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

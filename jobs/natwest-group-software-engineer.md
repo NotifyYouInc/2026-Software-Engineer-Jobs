@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Software-Engineer_R-00275210) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer_R-00272817-1) |
 
 ## About This Role
 
-This frontend engineer position at NatWest Group was posted on 2026-03-23.
+This frontend engineer position at NatWest Group was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

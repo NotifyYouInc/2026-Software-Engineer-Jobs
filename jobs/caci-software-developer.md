@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Software-Developer_322672) |
+| Location | United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Developer_323724) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-03-05.
+This frontend engineer position at CACI was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

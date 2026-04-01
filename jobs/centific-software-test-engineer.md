@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malaysia |
+| Location | Penang, MY |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Software-Test-Engineer_JR106583-3) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Software-Test-Engineer_JR106813-2) |
 
 ## About This Role
 
-This software engineer position at Centific was posted on 2026-03-11.
+This software engineer position at Centific was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

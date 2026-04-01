@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Illinois, US |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Software-Engineer_R0000358260) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Software-Engineer_R0000328643) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-20.
+This software engineer position at Caterpillar was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

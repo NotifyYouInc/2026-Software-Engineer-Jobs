@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112045607-senior-software-engineer-fluent-commerce) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000116537067-senior-software-engineer-fluent-commerce) |
 
 ## About This Role
 
-This software engineer position at H&M Group was posted on 2026-03-01.
+This software engineer position at H&M Group was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

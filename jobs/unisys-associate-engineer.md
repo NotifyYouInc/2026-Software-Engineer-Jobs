@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Associate-Engineer_REQ568262) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Associate-Engineer_REQ568216) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-03-03.
+This software engineer position at Unisys was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Automotive_JR2014484) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Japan-Tokyo/Senior-System-Software-Engineer---Automotive_JR2014738-1) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-18.
+This software engineer position at Nvidia was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

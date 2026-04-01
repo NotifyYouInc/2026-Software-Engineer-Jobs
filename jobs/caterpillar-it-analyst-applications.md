@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sanford, Florida, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sanford-North-Carolina/IT-Analyst-Applications_R0000356024) |
+| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Category | Software Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nuevo-Laredo-Tamaulipas/IT-Analyst-Applications_R0000359411) |
 
 ## About This Role
 
-This technical writer position at Caterpillar was posted on 2026-03-16.
+This software engineer position at Caterpillar was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

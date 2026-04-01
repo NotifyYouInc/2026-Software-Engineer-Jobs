@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803747) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556653704) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112510627-sr-sw-test-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116497546-sr-sw-test-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-03-03.
+This software engineer position at Visa International Service Association was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

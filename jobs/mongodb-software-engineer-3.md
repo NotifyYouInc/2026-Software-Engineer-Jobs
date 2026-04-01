@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7719763) |
+| Location | Toronto, Ontario, Canada |
+| Category | Frontend Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7523931) |
 
 ## About This Role
 
-This software engineer position at MongoDB was posted on 2026-03-17.
+This frontend engineer position at MongoDB was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

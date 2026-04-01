@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Cambridge-Massachusetts/Technical-Support-Specialist_R2120812) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Cambridge-Massachusetts/Technical-Support-Specialist_R2120890) |
 
 ## About This Role
 
-This technical support engineer position at KBR was posted on 2026-03-23.
+This technical support engineer position at KBR was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

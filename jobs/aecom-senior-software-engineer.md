@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112264157-senior-software-engineer) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116478507-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-03-02.
+This devops engineer position at AECOM was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

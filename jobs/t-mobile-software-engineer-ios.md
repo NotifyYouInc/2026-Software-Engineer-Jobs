@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Mobile Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Software-Engineer---iOS_REQ347863-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Software-Engineer---iOS_REQ341877) |
 
 ## About This Role
 
-This mobile engineer position at T-Mobile was posted on 2026-03-06.
+This mobile engineer position at T-Mobile was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

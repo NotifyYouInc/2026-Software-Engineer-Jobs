@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Engineer_RQ216901-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Data-Engineer_RQ216675) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-22.
+This software engineer position at General Dynamics Information Technology was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

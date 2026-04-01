@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior--Staff--Principal-Engineer--Product-Engineering--Adv-Data-Analytics--Heterogeneous-Integration-Group--HIG---High-Bandwidth-Memory--HBM-_JR86724) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior--Staff--Principal-Engineer--Product-Engineering--Adv-Data-Analytics--Heterogeneous-Integration-Group--HIG---High-Bandwidth-Memory--HBM-_JR96127) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-02-06.
+This software engineer position at Micron was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

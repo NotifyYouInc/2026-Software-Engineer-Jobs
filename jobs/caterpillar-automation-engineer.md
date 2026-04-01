@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Illinois, US |
 | Category | Industrial Automation |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Automation-Engineer_R0000357751) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000359028) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-18.
+This industrial automation position at Caterpillar was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

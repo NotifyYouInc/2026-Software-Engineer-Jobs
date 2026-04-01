@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103857) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=74818) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-21.
+This frontend engineer position at IBM was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

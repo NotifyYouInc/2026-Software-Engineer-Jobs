@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering-Technical-Leader_2010970-1) |
+| Location | San Jose, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2011318) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-03-20.
+This engineering manager position at Cisco was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

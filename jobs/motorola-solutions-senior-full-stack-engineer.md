@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 26 locations |
+| Location | Brazil |
 | Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/Senior-Full-Stack-Engineer_R61217) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Senior-Full-Stack-Engineer_R63322) |
 
 ## About This Role
 
-This frontend engineer position at Motorola Solutions was posted on 2026-02-25.
+This frontend engineer position at Motorola Solutions was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

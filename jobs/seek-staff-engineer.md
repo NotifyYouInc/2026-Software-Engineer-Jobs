@@ -1,16 +1,16 @@
-# Staff Engineer  at SEEK
+# Staff Engineer at SEEK
 
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000114489717-staff-engineer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000116527337-staff-engineer) |
 
 ## About This Role
 
-This devops engineer position at SEEK was posted on 2026-03-13.
+This devops engineer position at SEEK was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12326) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12022) |
 
 ## About This Role
 
-This frontend engineer position at Q2 was posted on 2026-03-18.
+This frontend engineer position at Q2 was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

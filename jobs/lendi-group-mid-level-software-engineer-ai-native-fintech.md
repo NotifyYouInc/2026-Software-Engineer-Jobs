@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000114485537-mid-level-software-engineer-ai-native-fintech) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000116507607-mid-level-software-engineer-ai-native-fintech) |
 
 ## About This Role
 
-This frontend engineer position at Lendi Group was posted on 2026-03-12.
+This frontend engineer position at Lendi Group was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

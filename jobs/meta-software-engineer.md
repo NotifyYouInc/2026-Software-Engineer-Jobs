@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1231226272539666) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1591835978674519) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-03-05.
+This software engineer position at Meta was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

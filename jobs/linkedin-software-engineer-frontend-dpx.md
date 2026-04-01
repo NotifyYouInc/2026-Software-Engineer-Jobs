@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110039446-software-engineer-frontend-dpx) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116481497-software-engineer-frontend-dpx) |
 
 ## About This Role
 
-This frontend engineer position at LinkedIn was posted on 2026-02-18.
+This frontend engineer position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

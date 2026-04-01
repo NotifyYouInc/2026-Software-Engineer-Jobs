@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-SMTS_JR330170) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR333627-2) |
 
 ## About This Role
 
-This frontend engineer position at Salesforce was posted on 2026-03-06.
+This software engineer position at Salesforce was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

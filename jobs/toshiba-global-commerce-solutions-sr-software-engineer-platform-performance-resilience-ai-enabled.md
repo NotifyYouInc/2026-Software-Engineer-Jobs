@@ -5,12 +5,12 @@
 | Company | [Toshiba Global Commerce Solutions](https://scoutify.ai/companies/toshibaglobalcommercesolutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5056019007) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5057892007) |
 
 ## About This Role
 
-This software engineer position at Toshiba Global Commerce Solutions was posted on 2026-02-18.
+This software engineer position at Toshiba Global Commerce Solutions was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
