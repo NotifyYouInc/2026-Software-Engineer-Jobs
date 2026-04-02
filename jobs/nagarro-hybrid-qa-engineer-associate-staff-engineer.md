@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000116529137-hybrid-qa-engineer-associate-staff-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000116784417-hybrid-qa-engineer-associate-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-03-25.
+This software engineer position at Nagarro was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

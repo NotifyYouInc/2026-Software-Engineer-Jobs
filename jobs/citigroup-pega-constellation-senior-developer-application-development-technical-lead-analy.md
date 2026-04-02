@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Castle, Pennsylvania, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Pega-Constellation-Senior-Developer-Application-Development-Technical-Lead-Analyst-Vice-President_26942617-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Pega-Constellation-Senior-Developer-Application-Development-Technical-Lead-Analyst-Vice-President_26942621-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-11.
+This software engineer position at Citigroup was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

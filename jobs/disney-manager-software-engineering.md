@@ -1,16 +1,16 @@
-# Manager Software Engineering at Disney
+# Manager, Software Engineering at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glendale, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Manager-Software-Engineering_10142075) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Manager--Software-Engineering_10128641) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-11.
+This frontend engineer position at Disney was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

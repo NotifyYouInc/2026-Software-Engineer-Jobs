@@ -1,16 +1,16 @@
-# Senior Software Engineer- Opensearch at Cloudera
+# Senior Software Engineer - OpenSearch at Cloudera
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Software-Engineer--Opensearch_260411) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Senior-Software-Engineer---OpenSearch_260423-1) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-03-20.
+This software engineer position at Cloudera was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

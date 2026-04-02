@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New Jersey, US |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Full-Stack-Developer_JR-0000089645) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Senior-Full-Stack-Developer_JR-0000080716-1) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-02-24.
+This frontend engineer position at Barclays was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

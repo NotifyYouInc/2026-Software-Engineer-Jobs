@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kochi, Kerala, India |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103234) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105392) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This software engineer position at IBM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

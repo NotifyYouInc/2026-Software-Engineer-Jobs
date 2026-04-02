@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Westlake, Ohio, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Senior-Full-Stack-Engineer_2125336-3) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Full-Stack-Engineer_2121255-2) |
 
 ## About This Role
 
-This frontend engineer position at Fidelity was posted on 2026-03-23.
+This frontend engineer position at Fidelity was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

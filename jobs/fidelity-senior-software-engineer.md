@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westlake, Ohio, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer_2126340) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer_2124367) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-23.
+This frontend engineer position at Fidelity was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

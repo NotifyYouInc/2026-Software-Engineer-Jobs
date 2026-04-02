@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7599869) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Frontend Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7752396) |
 
 ## About This Role
 
-This devops engineer position at SurveyMonkey was posted on 2026-02-10.
+This frontend engineer position at SurveyMonkey was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

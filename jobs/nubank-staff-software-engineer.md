@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/6973841) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7707100) |
 
 ## About This Role
 
-This software engineer position at Nubank was posted on 2026-03-12.
+This software engineer position at Nubank was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

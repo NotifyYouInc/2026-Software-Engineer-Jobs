@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Engineer_R000068575) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Engineer_R000063234-5) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-03-05.
+This software engineer position at Chevron was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

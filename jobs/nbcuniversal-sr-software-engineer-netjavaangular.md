@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000111458400-sr-software-engineer-netjavaangular) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116717727-sr-software-engineer-netjavaangular) |
 
 ## About This Role
 
-This frontend engineer position at NBCUniversal was posted on 2026-02-25.
+This frontend engineer position at NBCUniversal was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

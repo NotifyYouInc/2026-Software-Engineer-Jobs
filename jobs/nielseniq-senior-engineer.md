@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116480795-senior-engineer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116682267-senior-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-03-24.
+This software engineer position at NielsenIQ was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

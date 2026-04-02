@@ -5,12 +5,12 @@
 | Company | [Metron](https://scoutify.ai/companies/metron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/metron/jobs/4551608007) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metron/jobs/5089562007) |
 
 ## About This Role
 
-This robotics engineer position at Metron was posted on 2026-02-17.
+This robotics engineer position at Metron was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

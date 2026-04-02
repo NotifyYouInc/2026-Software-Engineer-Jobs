@@ -1,16 +1,16 @@
-# Sr. BI engineer [Fixed-Term Contract] at Cint
+# Sr. BI Engineer [Fixed - Term Contract] at Cint
 
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116024637-sr-bi-engineer-fixed-term-contract) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116716847-sr-bi-engineer-fixed-term-contract) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-03-21.
+This software engineer position at Cint was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

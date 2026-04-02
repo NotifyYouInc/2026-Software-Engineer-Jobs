@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Intermediate-Software-Engineer_R20060879) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Intermediate-Software-Engineer_R20061013-1) |
 
 ## About This Role
 
-This software engineer position at Transamerica was posted on 2026-03-12.
+This frontend engineer position at Transamerica was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

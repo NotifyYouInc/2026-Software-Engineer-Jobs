@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101191) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102331) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-11.
+This frontend engineer position at IBM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

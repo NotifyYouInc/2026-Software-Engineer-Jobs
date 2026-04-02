@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114139617-software-engineer) |
+| Category | Mobile Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116872957-software-engineer) |
 
 ## About This Role
 
-This devops engineer position at NielsenIQ was posted on 2026-03-11.
+This mobile engineer position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

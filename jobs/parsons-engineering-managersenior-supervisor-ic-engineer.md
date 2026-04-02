@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kingsport, Tennessee, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---TN-Kingsport/ENGINEERING-MANAGER-SENIOR-SUPERVISOR-I-C-ENGINEER_R178588-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---TN-Kingsport/ENGINEERING-MANAGER-SENIOR-SUPERVISOR-I-C-ENGINEER_R178867) |
 
 ## About This Role
 
-This engineering manager position at Parsons was posted on 2026-03-19.
+This engineering manager position at Parsons was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

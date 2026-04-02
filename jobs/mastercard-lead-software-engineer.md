@@ -1,16 +1,16 @@
-# Lead software engineer at Mastercard
+# Lead Software Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Lead-software-engineer_R-271858) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Lead-Software-Engineer_R-272625) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-03-24.
+This software engineer position at Mastercard was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

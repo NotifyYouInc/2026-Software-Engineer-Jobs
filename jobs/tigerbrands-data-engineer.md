@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gauteng, ZA |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Corporate-Services-Bryanston/Data-Engineer_JR001753) |
+| Category | Database Administration |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Corporate-Services-Bryanston/Data-Engineer_JR001886) |
 
 ## About This Role
 
-This software engineer position at Tigerbrands was posted on 2026-03-05.
+This database administration position at Tigerbrands was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

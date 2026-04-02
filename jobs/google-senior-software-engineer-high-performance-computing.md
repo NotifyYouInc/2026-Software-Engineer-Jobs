@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/104315045189427910-senior-software-engineer-high-performance-computing?sort_by=date&page=1) |
+| Category | Technical Writer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/88876214550176454-senior-software-engineer-high-performance-computing?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-05.
+This technical writer position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

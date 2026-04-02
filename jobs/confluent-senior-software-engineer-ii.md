@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/94779f17-93f1-4890-8b11-178bd17cdde1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/0b65c19f-c804-4f79-b1e3-c3ea035c3d76) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-03-04.
+This software engineer position at Confluent was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

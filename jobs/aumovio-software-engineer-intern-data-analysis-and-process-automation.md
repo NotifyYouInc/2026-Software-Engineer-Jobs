@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zapopan, Jalisco, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000116503078-software-engineer-intern-data-analysis-and-process-automation) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000116676258-software-engineer-intern-data-analysis-and-process-automation) |
 
 ## About This Role
 
-This software engineer position at Aumovio was posted on 2026-03-24.
+This software engineer position at Aumovio was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
