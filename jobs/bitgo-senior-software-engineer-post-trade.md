@@ -5,12 +5,12 @@
 | Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8431867002) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8482326002) |
 
 ## About This Role
 
-This software engineer position at BitGo was posted on 2026-02-20.
+This software engineer position at BitGo was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

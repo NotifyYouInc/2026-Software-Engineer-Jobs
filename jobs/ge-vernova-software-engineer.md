@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineer_R5035408) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineer_R5035796-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-03-16.
+This frontend engineer position at GE Vernova was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

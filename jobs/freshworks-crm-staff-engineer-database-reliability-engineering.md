@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000116868887-staff-engineer-database-reliability-engineering) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Database Administration |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000117147278-staff-engineer-database-reliability-engineering) |
 
 ## About This Role
 
-This devops engineer position at Freshworks CRM was posted on 2026-03-26.
+This database administration position at Freshworks CRM was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103355) |
+| Location | Pune, Maharashtra, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105551) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-16.
+This frontend engineer position at IBM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

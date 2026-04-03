@@ -1,16 +1,16 @@
-# Staff Full Stack Engineer at Okta
+# Staff Full-Stack Engineer  at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7695691?gh_jid=7695691) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7155588?gh_jid=7155588) |
 
 ## About This Role
 
-This frontend engineer position at Okta was posted on 2026-03-16.
+This frontend engineer position at Okta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

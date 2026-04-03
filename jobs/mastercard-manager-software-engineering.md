@@ -1,16 +1,16 @@
-# Manager Software Engineering at Mastercard
+# Manager, Software Engineering at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Manager-Software-Engineering_R-273223) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Engineering Manager |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Manager--Software-Engineering_R-274248) |
 
 ## About This Role
 
-This frontend engineer position at Mastercard was posted on 2026-03-19.
+This engineering manager position at Mastercard was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

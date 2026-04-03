@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90848614393225926-senior-software-engineer-full-stack-youtube?sort_by=date&page=1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/91985805232218822-senior-software-engineer-full-stack-youtube?sort_by=date&page=1) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-02-27.
+This frontend engineer position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Autonomy-Engineering-Specialist_R0000356554) |
+| Location | Illinois, US |
+| Category | Software Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Engineering-Specialist_R0000347665) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-03-11.
+This software engineer position at Caterpillar was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Full-Stack-Engineer-Principal_RQ214788-1) |
+| Location | Germany |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Germany-Home-Office---APH018/Full-Stack-Engineer-Principal_RQ217148-2) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-13.
+This frontend engineer position at General Dynamics Information Technology was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

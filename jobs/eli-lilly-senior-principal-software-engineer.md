@@ -5,12 +5,12 @@
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Hyderabad/Senior-Principal-Software-Engineer_R-102759) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Hyderabad/Senior-Principal-Software-Engineer_R-103615) |
 
 ## About This Role
 
-This frontend engineer position at Eli Lilly was posted on 2026-03-18.
+This frontend engineer position at Eli Lilly was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116868405-software-architect-principal) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117048407-software-architect-principal) |
 
 ## About This Role
 

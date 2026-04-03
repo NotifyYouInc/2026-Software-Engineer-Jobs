@@ -5,12 +5,12 @@
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/4839856007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5087809007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-03-06.
+This software engineer position at Zscaler was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

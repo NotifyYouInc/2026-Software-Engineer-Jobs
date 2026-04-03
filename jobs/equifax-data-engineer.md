@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Data-Engineer_J00174761-1) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Frontend Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Santiago-Technology-Center/Data-Engineer_J00175246) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-03-12.
+This frontend engineer position at Equifax was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

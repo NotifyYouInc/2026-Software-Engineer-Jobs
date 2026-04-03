@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Software-Engineer_JR-0000097025) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Software-Engineer_JR-0000100625) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-03-24.
+This engineering manager position at Barclays was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

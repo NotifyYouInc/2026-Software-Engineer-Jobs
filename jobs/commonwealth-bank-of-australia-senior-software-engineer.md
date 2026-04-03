@@ -1,16 +1,16 @@
-# Senior Software Engineer at Commonwealth Bank of Australia
+# Senior software Engineer at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Senior-Software-Engineer_REQ255365) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-software-Engineer_REQ254748) |
 
 ## About This Role
 
-This devops engineer position at Commonwealth Bank of Australia was posted on 2026-03-25.
+This software engineer position at Commonwealth Bank of Australia was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Robotics Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Autonomy-Engineer_R0000351683) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Autonomy-Engineer-2_R0000356111) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar was posted on 2026-02-27.
+This robotics engineer position at Caterpillar was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

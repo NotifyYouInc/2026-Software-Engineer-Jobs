@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5817243004) |
+| Location | San Mateo, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838328004) |
 
 ## About This Role
 
-This frontend engineer position at Sony Interactive Entertainment was posted on 2026-03-09.
+This software engineer position at Sony Interactive Entertainment was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

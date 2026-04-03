@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pennsylvania, US |
 | Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Application-Engineer---III_175596) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineer---III_175130-1) |
 
 ## About This Role
 
-This frontend engineer position at Vanguard was posted on 2026-03-17.
+This frontend engineer position at Vanguard was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

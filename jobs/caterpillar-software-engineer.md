@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Software-Engineer_R0000356600) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Software-Engineer_R0000359620) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-11.
+This software engineer position at Caterpillar was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

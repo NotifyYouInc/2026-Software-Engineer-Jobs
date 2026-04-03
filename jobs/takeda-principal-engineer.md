@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical Writer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Engineer_R0174427) |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Engineer_R0174428) |
 
 ## About This Role
 
-This technical writer position at Takeda was posted on 2026-02-26.
+This software engineer position at Takeda was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

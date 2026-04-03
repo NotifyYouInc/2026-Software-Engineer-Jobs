@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556828198) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556853160) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-03-18.
+This engineering manager position at Microsoft was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

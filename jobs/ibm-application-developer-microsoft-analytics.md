@@ -1,16 +1,16 @@
-# Application developer-Microsoft Analytics at IBM
+# Application Developer-Microsoft Analytics at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97979) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=75422) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-09.
+This software engineer position at IBM was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
