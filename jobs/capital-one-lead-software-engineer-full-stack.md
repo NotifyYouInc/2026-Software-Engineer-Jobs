@@ -1,16 +1,16 @@
-# Lead Software Engineer, Full Stack at Capital One
+# Lead Software Engineer - Full Stack at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R238987-2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mexico-City-Mexico/Lead-Software-Engineer---Full-Stack_R235894) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-25.
+This engineering manager position at Capital One was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Desarrollador Backend at Inetum
+# Desarrollador Backend  at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114740288-desarrollador-backend) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117340300-desarrollador-backend) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-03-13.
+This software engineer position at Inetum was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

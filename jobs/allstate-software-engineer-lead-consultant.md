@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Devops-Engineer--Tibco---Java--Lead-Consultant_R22926-1) |
+| Location | United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Software-Engineer-Lead-Consultant_R27570) |
 
 ## About This Role
 
-This devops engineer position at Allstate was posted on 2026-03-10.
+This frontend engineer position at Allstate was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

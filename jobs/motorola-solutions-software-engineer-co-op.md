@@ -1,16 +1,16 @@
-# Software Engineer Co-Op at Motorola Solutions
+# Software Engineer Co-op at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gatineau, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-Op_R59901) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R59900-1) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-03-02.
+This software engineer position at Motorola Solutions was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

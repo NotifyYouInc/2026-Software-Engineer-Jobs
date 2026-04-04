@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000115920363-ingenieur-digital-stage-hf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000117342337-ingenieur-digital-stage-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-03-20.
+This software engineer position at Assystem was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

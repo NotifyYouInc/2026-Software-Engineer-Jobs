@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115906929-qa-automation-test) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000117331798-qa-automation-test) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-20.
+This software engineer position at ALTEN was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

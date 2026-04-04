@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Automation-Engineer---Process-Chemistry-Lab_R2844654-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Automation-Engineer---Process-Chemistry-Lab_R2850552-1) |
 
 ## About This Role
 
-This industrial automation position at Sanofi was posted on 2026-03-06.
+This industrial automation position at Sanofi was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

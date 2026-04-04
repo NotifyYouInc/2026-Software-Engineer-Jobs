@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Software-Engineer--Test---Verification-_JR2026502407-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Software-Engineer--Test---Verification-_JR2026503246-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-03-25.
+This software engineer position at Boeing was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

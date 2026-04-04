@@ -5,12 +5,12 @@
 | Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/9ed39fe0-fa8d-46a7-9f15-71e7b5b92bc2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc) |
 
 ## About This Role
 
-This software engineer position at Perplexity AI was posted on 2026-03-26.
+This software engineer position at Perplexity AI was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

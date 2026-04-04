@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Partner-Integrations-Lead_R2844469-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Partner-Integrations-Lead_R2848357) |
 
 ## About This Role
 
-This engineering manager position at Sanofi was posted on 2026-03-06.
+This engineering manager position at Sanofi was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

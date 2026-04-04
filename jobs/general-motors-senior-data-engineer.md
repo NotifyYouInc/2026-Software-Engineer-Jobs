@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Data-Engineer_JR-202518961) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-Data-Engineer_JR-202605861-1) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-19.
+This software engineer position at General Motors was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

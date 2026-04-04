@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/8b0110cd-1a47-4198-9d82-8413dc92f985) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f169591e-458b-4185-bf0e-df9c5c4bf272) |
 
 ## About This Role
 
-This software engineer position at Jerry.ai was posted on 2026-03-23.
+This frontend engineer position at Jerry.ai was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

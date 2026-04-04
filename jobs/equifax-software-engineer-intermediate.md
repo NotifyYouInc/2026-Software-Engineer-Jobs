@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Software-Engineer---Intermediate_J00175166) |
+| Location | Chile |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Software-Engineer---Intermediate_J00173686-1) |
 
 ## About This Role
 
-This frontend engineer position at Equifax was posted on 2026-02-27.
+This software engineer position at Equifax was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

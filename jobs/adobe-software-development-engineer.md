@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R166225) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R160273) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-03-16.
+This software engineer position at Adobe was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000108684065-senior-software-developer) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117362137-senior-software-developer) |
 
 ## About This Role
 
-This software engineer position at IQ-EQ was posted on 2026-02-11.
+This frontend engineer position at IQ-EQ was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7684429?gh_jid=7684429) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7543392?gh_jid=7543392) |
 
 ## About This Role
 
-This software engineer position at Dropbox was posted on 2026-03-13.
+This software engineer position at Dropbox was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

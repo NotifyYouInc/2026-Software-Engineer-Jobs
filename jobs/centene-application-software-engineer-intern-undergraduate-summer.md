@@ -5,12 +5,12 @@
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Missouri, US |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1619383) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1618482) |
 
 ## About This Role
 
-This software engineer position at Centene was posted on 2026-02-10.
+This software engineer position at Centene was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

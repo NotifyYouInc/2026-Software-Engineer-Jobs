@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d16429b7-c445-4c11-8628-b6f37c151bcc) |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/4f9d075c-b9e4-4ba7-af47-adeb4535a60b) |
 
 ## About This Role
 
-This frontend engineer position at Jerry.ai was posted on 2026-03-23.
+This software engineer position at Jerry.ai was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

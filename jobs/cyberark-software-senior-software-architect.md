@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Needham, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000117062678-senior-software-architect) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000117332349-senior-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CyberArk Software was posted on 2026-03-26.
+This technical & solutions architect position at CyberArk Software was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

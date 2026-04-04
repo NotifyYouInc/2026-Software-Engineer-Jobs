@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer_R-0000160599-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Software-Developer_R-0000162181-2) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-06.
+This software engineer position at Royal Bank of Canada was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

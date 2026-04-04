@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116288799-data-engineer-sr-consultant-level) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117347807-data-engineer-sr-consultant-level) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-03-23.
+This software engineer position at Visa International Service Association was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

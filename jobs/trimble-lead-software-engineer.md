@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Lead-Software-Engineer_R53427) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Lead-Software-Engineer_R54376) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-03-09.
+This software engineer position at Trimble was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

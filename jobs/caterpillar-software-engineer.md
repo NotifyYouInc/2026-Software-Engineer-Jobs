@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Location | Peoria, Arizona, United States |
+| Category | Frontend Engineer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Software-Engineer_R0000359620) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Software-Engineer_R0000358804) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-27.
+This frontend engineer position at Caterpillar was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

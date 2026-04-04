@@ -1,16 +1,16 @@
-# Engineering Lead Analyst Vice President at Citigroup
+# Engineering Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irving, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst-Vice-President_26936319) |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst---Vice-President_26943432) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-03-04.
+This software engineer position at Citigroup was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior--Software-Engineer_R21098) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior-Software-Engineer_R21291) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-03-18.
+This software engineer position at Wex was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

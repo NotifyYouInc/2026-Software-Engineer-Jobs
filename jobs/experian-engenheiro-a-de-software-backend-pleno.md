@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115972798-engenheiro-a-de-software-backend-pleno) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117344746-engenheiro-a-de-software-backend-pleno) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-20.
+This software engineer position at Experian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

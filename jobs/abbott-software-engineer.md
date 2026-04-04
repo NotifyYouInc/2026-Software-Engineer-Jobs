@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1) |
+| Location | Alameda, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Software-Engineer_31144807-1) |
 
 ## About This Role
 
-This frontend engineer position at Abbott was posted on 2026-03-10.
+This software engineer position at Abbott was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

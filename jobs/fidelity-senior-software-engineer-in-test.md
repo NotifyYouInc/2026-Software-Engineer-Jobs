@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Merrimack, New Hampshire, United States |
+| Location | Westlake, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Senior-Software-Engineer-in-Test_2122391-2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer-in-Test_2125531-2) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-06.
+This software engineer position at Fidelity was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
