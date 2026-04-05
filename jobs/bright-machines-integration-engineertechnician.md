@@ -1,16 +1,16 @@
-# Senior Software Engineer (Sports Media) at Sportradar
+# Integration Engineer/Technician at Bright Machines
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Bright Machines](https://scoutify.ai/companies/brightmachines?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117448557-senior-software-engineer-sports-media) |
+| Apply | [View on company site](https://jobs.lever.co/brightmachines/e53cf897-de93-43f9-a47c-65472726d1de) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-03-28.
+This software engineer position at Bright Machines was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer (Sports Media) at Sportradar
+# Engineer Data at Rio Tinto
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117448557-senior-software-engineer-sports-media) |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Engineer-Data_R53560) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-03-28.
+This software engineer position at Rio Tinto was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

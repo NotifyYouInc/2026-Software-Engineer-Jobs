@@ -1,12 +1,12 @@
-# UiPath Robotic Process Automation Developer at General Dynamics Information Technology
+# Data Engineer – NAVSUP OIS - Onsite at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Louisiana, US |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer_RQ217186) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-PA-Mechanicsburg/Data-Engineer---NAVSUP-OIS---Onsite_RQ217350-1) |
 
 ## About This Role
 

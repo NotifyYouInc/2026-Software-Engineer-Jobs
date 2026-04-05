@@ -1,16 +1,16 @@
-# Senior Software Engineer   at Method
+# Senior Fullstack Engineer - Data Enrichment  at Wayve
 
 | Field | Details |
 |-------|---------|
-| Company | [Method](https://scoutify.ai/companies/method?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Frontend Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/method/9d4c2988-ba3e-4222-8595-02e83fe5ccde) |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8482664002) |
 
 ## About This Role
 
-This frontend engineer position at Method was posted on 2026-03-28.
+This frontend engineer position at Wayve was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

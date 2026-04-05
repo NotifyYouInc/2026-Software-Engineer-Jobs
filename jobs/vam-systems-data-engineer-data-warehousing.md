@@ -1,12 +1,12 @@
-# OutSystems Technical Lead  at VAM Systems
+#  Data Engineer - Data Warehousing  at VAM Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Manama, Manama, Bahrain |
 | Category | Software Engineer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000117488847-outsystems-technical-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000117481807-data-engineer-data-warehousing) |
 
 ## About This Role
 

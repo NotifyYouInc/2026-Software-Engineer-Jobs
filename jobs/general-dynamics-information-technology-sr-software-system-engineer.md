@@ -1,16 +1,16 @@
-# UiPath Robotic Process Automation Developer at General Dynamics Information Technology
+# Sr. Software System Engineer at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Louisiana, US |
-| Category | Software Engineer |
+| Location | Huntsville, Alabama, United States |
+| Category | Technical Writer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer_RQ217186) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Huntsville/Sr-Software-System-Engineer_RQ217318-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-29.
+This technical writer position at General Dynamics Information Technology was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

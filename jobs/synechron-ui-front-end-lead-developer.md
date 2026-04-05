@@ -1,16 +1,16 @@
-# Senior Software Engineer   at Method
+# UI Front-End Lead Developer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [Method](https://scoutify.ai/companies/method?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Chandler, Arizona, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/method/9d4c2988-ba3e-4222-8595-02e83fe5ccde) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chandler-AZ/UI-Front-End-Lead-Developer_JR1038159) |
 
 ## About This Role
 
-This frontend engineer position at Method was posted on 2026-03-28.
+This frontend engineer position at Synechron was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

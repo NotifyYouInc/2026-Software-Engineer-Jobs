@@ -1,16 +1,16 @@
-# Senior Software Engineer (Sports Media) at Sportradar
+# Tanzu Data Intelligence – RabbitMQ at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117448557-senior-software-engineer-sports-media) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Tanzu-Data-Intelligence---RabbitMQ_R025553-6) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-03-28.
+This software engineer position at Broadcom was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer   at Method
+# Product Engineer - Full stack/web at Vitable Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Method](https://scoutify.ai/companies/method?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Vitable Health](https://scoutify.ai/companies/vitable-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Frontend Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/method/9d4c2988-ba3e-4222-8595-02e83fe5ccde) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/vitable-health/jobs/hPi9Gt5-product-engineer-full-stack-web) |
 
 ## About This Role
 
-This frontend engineer position at Method was posted on 2026-03-28.
+This frontend engineer position at Vitable Health was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

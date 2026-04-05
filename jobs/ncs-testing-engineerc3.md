@@ -1,16 +1,16 @@
-# OutSystems Technical Lead  at VAM Systems
+# Testing Engineer,C3 at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000117488847-outsystems-technical-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000962882-testing-engineerc3) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-03-29.
+This software engineer position at NCS was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

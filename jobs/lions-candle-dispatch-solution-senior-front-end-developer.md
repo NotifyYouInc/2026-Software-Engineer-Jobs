@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Brazil |
 | Category | Frontend Engineer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000117332357-senior-front-end-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000117362147-senior-front-end-developer) |
 
 ## About This Role
 
