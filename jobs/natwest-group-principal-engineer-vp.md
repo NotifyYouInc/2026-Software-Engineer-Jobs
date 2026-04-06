@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Principal-Engineer--VP_R-00273327) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Principal-Engineer--VP_R-00275830) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-19.
+This software engineer position at NatWest Group was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

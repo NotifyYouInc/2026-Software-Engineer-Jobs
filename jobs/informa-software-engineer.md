@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110296965-software-engineer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117553667-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Informa was posted on 2026-02-20.
+This frontend engineer position at Informa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

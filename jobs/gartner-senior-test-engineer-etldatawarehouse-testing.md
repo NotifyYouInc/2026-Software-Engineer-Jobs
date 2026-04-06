@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Senior-Test-Engineer--ETL-Datawarehouse-Testing-_108296) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Senior-Test-Engineer--ETL-Datawarehouse-Testing-_109128) |
 
 ## About This Role
 
-This software engineer position at Gartner was posted on 2026-03-17.
+This software engineer position at Gartner was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

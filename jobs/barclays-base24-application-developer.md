@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Base24-Application-Developer_JR-0000090352-1) |
+| Category | Engineering Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Base24-Application-Developer_JR-0000098951-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-06.
+This engineering manager position at Barclays was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

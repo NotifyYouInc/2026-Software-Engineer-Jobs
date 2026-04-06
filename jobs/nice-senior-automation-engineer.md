@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Israel |
 | Category | Industrial Automation |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4784204101?gh_jid=4784204101) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4825755101?gh_jid=4825755101) |
 
 ## About This Role
 
-This industrial automation position at NiCE was posted on 2026-02-18.
+This industrial automation position at NiCE was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

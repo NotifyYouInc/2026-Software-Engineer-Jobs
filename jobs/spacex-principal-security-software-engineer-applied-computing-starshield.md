@@ -1,12 +1,12 @@
-# Principal Security Software Engineer, Applied Computing (Starshield)  at SpaceX
+# Principal Security Software Engineer, Applied Computing (Starshield) at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Palo Alto, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8482330002?gh_jid=8482330002) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8482337002?gh_jid=8482337002) |
 
 ## About This Role
 

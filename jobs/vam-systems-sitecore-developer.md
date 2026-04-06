@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Software Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000114849367-sitecore-developer) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000117494507-sitecore-developer) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-03-15.
+This software engineer position at VAM Systems was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

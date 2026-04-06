@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Intern_R-52209-2026) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Intern_R-52211-2026) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-03-27.
+This software engineer position at HARMAN International was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

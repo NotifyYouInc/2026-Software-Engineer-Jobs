@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Grapevine, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Grapevine-TX/XMLNAME--USA--Software-Engineer-III_R-2405745-1) |
+| Location | Sunnyvale, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Software-Engineer-III_R-2430866) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-02-24.
+This frontend engineer position at Walmart was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

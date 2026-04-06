@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373217/software-development-engineer-ii-amazon-b2b-payments-and-lending-abpl) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378817/software-development-engineer-ii-amazon-b2b-payments-and-lending-abpl) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-23.
+This frontend engineer position at Amazon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

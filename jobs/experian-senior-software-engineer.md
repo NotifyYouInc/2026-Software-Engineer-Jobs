@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116012317-senior-software-engineer) |
+| Category | Database Administration |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117501237-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Experian was posted on 2026-03-21.
+This database administration position at Experian was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

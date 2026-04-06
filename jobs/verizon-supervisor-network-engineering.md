@@ -1,16 +1,16 @@
-# Supervisor-Network Engineering at Verizon
+# Supervisor - Network Engineering at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Supervisor-Network-Engineering_R-1091816-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Supervisor---Network-Engineering_R-1091563-1) |
 
 ## About This Role
 
-This engineering manager position at Verizon was posted on 2026-03-16.
+This engineering manager position at Verizon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

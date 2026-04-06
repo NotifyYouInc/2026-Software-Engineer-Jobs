@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011868346-senior-member-technical-staff-backend-java) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012369288-senior-member-technical-staff-backend-java) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-02-26.
+This software engineer position at The Nielsen Company was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

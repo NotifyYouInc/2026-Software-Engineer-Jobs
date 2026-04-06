@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1475199374223150) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1239317191457074) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-03-27.
+This software engineer position at Meta was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 
