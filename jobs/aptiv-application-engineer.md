@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nuevo Laredo, Tamaulipas, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Nuevo-Laredo-Mexico/Application-Engineer_J000694928) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/MEX-Nuevo-Laredo-2-Engineering-Center/Application-Engineer_J000694931) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-03-13.
+This electrical / hardware engineer position at Aptiv was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

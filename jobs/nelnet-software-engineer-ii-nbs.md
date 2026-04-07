@@ -5,12 +5,12 @@
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lincoln, Nebraska, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-II---NBS_R22328) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-II---NBS_R22467) |
 
 ## About This Role
 
-This software engineer position at Nelnet was posted on 2026-02-11.
+This software engineer position at Nelnet was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

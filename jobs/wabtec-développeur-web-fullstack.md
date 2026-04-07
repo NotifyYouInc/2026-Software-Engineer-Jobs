@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012213466-developpeur-web-fullstack) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012386496-developpeur-web-fullstack) |
 
 ## About This Role
 
-This frontend engineer position at Wabtec was posted on 2026-03-18.
+This frontend engineer position at Wabtec was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

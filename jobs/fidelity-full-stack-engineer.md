@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Full-Stack-Engineer_2125337) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Full-Stack-Engineer_2122161-2) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-16.
+This software engineer position at Fidelity was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

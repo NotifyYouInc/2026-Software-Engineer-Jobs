@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombia |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111187065-programador-senior-cobol) |
+| Category | Database Administration |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117734230-programador-senior-cobol) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-24.
+This database administration position at Inetum was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tysons, Virginia, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8455660002) |
+| Location | Washington, US |
+| Category | Software Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8470512002) |
 
 ## About This Role
 
-This mobile engineer position at Alarm.com was posted on 2026-03-23.
+This software engineer position at Alarm.com was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

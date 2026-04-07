@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | West Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011977458-validation-engineer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012376576-validation-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-03-04.
+This software engineer position at Wabtec was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

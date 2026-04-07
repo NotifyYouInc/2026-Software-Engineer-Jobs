@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Charlotte, North Carolina, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5166013008) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5169920008) |
 
 ## About This Role
 
-This frontend engineer position at Palmetto was posted on 2026-03-25.
+This frontend engineer position at Palmetto was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/New-York---Remote/Software-Engineer--L4----Resilience-Engineering_JR38393) |
+| Location | United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Software-Engineer-4_JR39746) |
 
 ## About This Role
 
-This software engineer position at Netflix was posted on 2026-03-20.
+This frontend engineer position at Netflix was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

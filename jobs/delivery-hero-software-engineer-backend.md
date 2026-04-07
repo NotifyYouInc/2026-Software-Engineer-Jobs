@@ -1,16 +1,16 @@
-# Software Engineer Backend at Delivery Hero
+# Software Engineer Backend  at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108269937-software-engineer-backend) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117727917-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-02-09.
+This software engineer position at Delivery Hero was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

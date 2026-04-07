@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000116495247-senior-vice-president-svp-senior-software-engineer-java-equities) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000117708367-senior-vice-president-svp-senior-software-engineer-java-equities) |
 
 ## About This Role
 
-This software engineer position at VTekis Consulting LLP was posted on 2026-03-24.
+This software engineer position at VTekis Consulting LLP was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

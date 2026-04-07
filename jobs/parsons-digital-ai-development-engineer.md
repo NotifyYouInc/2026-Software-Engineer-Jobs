@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Digital-AI-Development-Engineer_R178934-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Digital-AI-Development-Engineer_R178811-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Parsons was posted on 2026-03-26.
+This ai / llm engineer position at Parsons was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

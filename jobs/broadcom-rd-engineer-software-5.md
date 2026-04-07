@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/R-D-Engineer-Software-5_R025501) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Software-5_R025578) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-03-23.
+This software engineer position at Broadcom was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

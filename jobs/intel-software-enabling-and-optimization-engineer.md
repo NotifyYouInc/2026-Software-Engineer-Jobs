@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Penang, MY |
-| Category | Developer Relations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Software-Enabling-and-Optimization-Engineer_JR0281129) |
+| Location | 2 locations |
+| Category | Technical Writer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Enabling-and-Optimization-Engineer_JR0282409-1) |
 
 ## About This Role
 
-This developer relations position at Intel was posted on 2026-02-23.
+This technical writer position at Intel was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

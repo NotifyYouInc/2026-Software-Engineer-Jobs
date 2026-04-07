@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117375230-staff-ai-implementation-engineer-moveworks) |
+| Location | London, England, United Kingdom |
+| Category | Technical Writer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117702202-staff-ai-implementation-engineer-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-03-27.
+This technical writer position at ServiceNow was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

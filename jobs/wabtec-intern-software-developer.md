@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012167326-intern-software-developer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012377556-intern-software-developer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-03-16.
+This software engineer position at Wabtec was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

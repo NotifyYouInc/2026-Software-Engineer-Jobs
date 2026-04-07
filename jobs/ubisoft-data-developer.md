@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110456524-data-developer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000117733207-data-developer) |
 
 ## About This Role
 
-This software engineer position at Ubisoft was posted on 2026-02-20.
+This software engineer position at Ubisoft was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

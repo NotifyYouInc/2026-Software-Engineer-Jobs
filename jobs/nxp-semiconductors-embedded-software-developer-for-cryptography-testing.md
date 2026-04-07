@@ -6,7 +6,7 @@
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Embedded-Software-Developer-for-Cryptography-Testing_R-10062235) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Embedded-Software-Developer-for-Cryptography-Testing_R-10062344) |
 
 ## About This Role
 

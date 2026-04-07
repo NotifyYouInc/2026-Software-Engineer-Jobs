@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Quebec, CA |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012213316-concepteur-logiciel-c-senior) |
+| Location | Canada |
+| Category | Frontend Engineer |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012386546-concepteur-logiciel-c-senior) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-03-18.
+This frontend engineer position at Wabtec was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
