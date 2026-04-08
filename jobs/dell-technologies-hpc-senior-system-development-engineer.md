@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Round Rock, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/HPC-Senior-System-Development-Engineer_R285112-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/HPC-Senior-System-Development-Engineer_R285114-1) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-03-24.
+This electrical / hardware engineer position at Dell Technologies was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

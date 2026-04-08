@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Senior-Principal-Engineer-Software---Integration-and-Test--San-Diego-CA-_R10222095) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Senior-Principal-Engineer-Software---Integration-and-Test--San-Diego-CA-_R10227962) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-18.
+This software engineer position at Northrop Grumman was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

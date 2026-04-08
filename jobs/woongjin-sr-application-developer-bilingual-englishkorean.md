@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Jersey, US |
 | Category | Frontend Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117757497-sr-application-developer-bilingual-englishkorean) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118009477-sr-application-developer-bilingual-englishkorean) |
 
 ## About This Role
 
-This frontend engineer position at Woongjin was posted on 2026-03-30.
+This frontend engineer position at Woongjin was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bucharest, București, Romania |
 | Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000117736133-principal-gis-specialist) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000117998837-principal-gis-specialist) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-03-30.
+This engineering manager position at AECOM was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

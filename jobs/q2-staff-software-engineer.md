@@ -5,12 +5,12 @@
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Staff-Software-Engineer_REQ-12192) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Staff-Software-Engineer_REQ-12390) |
 
 ## About This Role
 
-This software engineer position at Q2 was posted on 2026-02-12.
+This software engineer position at Q2 was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

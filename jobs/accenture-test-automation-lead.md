@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Test-Automation-Lead_ATCI-5500577-S2006414-1) |
+| Category | Engineering Manager |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Test-Automation-Lead_ATCI-5393302-S2009095-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-03-30.
+This engineering manager position at Accenture was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

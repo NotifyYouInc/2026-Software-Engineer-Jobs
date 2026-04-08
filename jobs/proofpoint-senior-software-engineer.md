@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Cordoba-Argentina/Senior-Software-Engineer_R13772) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Bengaluru-India---Remote/Senior-Software-Engineer_R13928) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-02-25.
+This software engineer position at Proofpoint was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/63b1ead4-9ec1-40b5-aa8e-e6cabfcafc93) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e) |
 
 ## About This Role
 
-This software engineer position at Decagon was posted on 2026-03-18.
+This software engineer position at Decagon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

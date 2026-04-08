@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Analyst-II-Software-Engineering_51572168) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Analyst-II-Software-Engineering_51576853-1) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-10.
+This software engineer position at DXC Technology was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

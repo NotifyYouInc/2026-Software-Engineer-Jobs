@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7394549) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7708458) |
 
 ## About This Role
 
-This frontend engineer position at Toast was posted on 2026-03-18.
+This software engineer position at Toast was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

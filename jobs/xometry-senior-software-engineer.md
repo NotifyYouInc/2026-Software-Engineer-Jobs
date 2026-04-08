@@ -1,16 +1,16 @@
-# Senior Software Engineer at Xometry
+# Senior Software Engineer  at Xometry
 
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | North Bethesda, Maryland, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/4916722007) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5081688007) |
 
 ## About This Role
 
-This frontend engineer position at Xometry was posted on 2026-03-23.
+This frontend engineer position at Xometry was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

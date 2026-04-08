@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3200380/software-development-engineer-ii) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380957/software-development-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-10.
+This software engineer position at Amazon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

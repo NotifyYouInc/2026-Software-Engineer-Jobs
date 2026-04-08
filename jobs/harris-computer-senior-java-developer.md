@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Senior-Java-Developer_R0039910-3) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Senior-Java-Developer_R0040538-1) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-03-13.
+This software engineer position at Harris Computer was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

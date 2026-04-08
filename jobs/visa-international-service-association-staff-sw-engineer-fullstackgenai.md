@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108305477-staff-sw-engineer-fullstackgenai) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118013217-staff-sw-engineer-fullstackgenai) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-09.
+This frontend engineer position at Visa International Service Association was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

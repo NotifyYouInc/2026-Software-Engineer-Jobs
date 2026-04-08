@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Engineer_JR94357) |
+| Location | Sānand, Gujarat, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/DRAM-Product-Engineer_JR95380) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-16.
+This electrical / hardware engineer position at Micron was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
