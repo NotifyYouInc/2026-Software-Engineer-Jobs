@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115582208-senior-ai-automation-engineer-cs-ops-moveworks) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118271653-senior-ai-automation-engineer-cs-ops-moveworks) |
 
 ## About This Role
 
-This industrial automation position at ServiceNow was posted on 2026-03-19.
+This industrial automation position at ServiceNow was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

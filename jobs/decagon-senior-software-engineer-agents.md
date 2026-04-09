@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/cd95c25c-fdb7-4816-8a31-6d75e86adbe0) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Engineer_ATCI-4932811-S1887981-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Engineer_ATCI-5497874-S2010110-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-01.
+This software engineer position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

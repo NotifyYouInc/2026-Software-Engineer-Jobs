@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Boston, Massachusetts, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/92d01093-f250-4d64-9eb4-6c56cdb82e08) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/c72133b6-aba6-4562-bbc5-2a8fcb9697a5) |
 
 ## About This Role
 
-This frontend engineer position at OpenGov was posted on 2026-03-02.
+This frontend engineer position at OpenGov was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

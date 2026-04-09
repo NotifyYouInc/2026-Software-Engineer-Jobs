@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Senior-Test-Engineer_1203206-3) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Senior-Test-Engineer_1204729-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-30.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

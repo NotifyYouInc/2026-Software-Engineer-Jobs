@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111301265-senior-software-engineer-c-net-core-angular-c-sql-azure) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118320517-senior-software-engineer-c-net-core-angular-c-sql-azure) |
 
 ## About This Role
 
-This frontend engineer position at Eurofins Scientific was posted on 2026-02-25.
+This frontend engineer position at Eurofins Scientific was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

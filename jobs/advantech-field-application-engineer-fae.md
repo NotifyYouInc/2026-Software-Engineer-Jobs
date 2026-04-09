@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Hefei, Anhui, China |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/ACN_Suzhou/Field-Application-Engineer--FAE-_JR202603058) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/ACN_Hefei/Field-Application-Engineer--FAE-_JR202604006) |
 
 ## About This Role
 
-This customer success position at Advantech was posted on 2026-03-20.
+This customer success position at Advantech was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

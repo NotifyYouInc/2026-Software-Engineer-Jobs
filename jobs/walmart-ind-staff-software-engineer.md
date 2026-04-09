@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/XMLNAME--IND--STAFF--SOFTWARE-ENGINEER_R-2387356) |
+| Category | Engineering Manager |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--STAFF--SOFTWARE-ENGINEER_R-2452930) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-07.
+This engineering manager position at Walmart was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7674824?gh_jid=7674824) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7593685?gh_jid=7593685) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-03-06.
+This frontend engineer position at Okta was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

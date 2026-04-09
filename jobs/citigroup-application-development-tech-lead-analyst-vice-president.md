@@ -1,16 +1,16 @@
-# Application Development Tech Lead Analyst – Vice President at Citigroup
+# Application Development Tech Lead Analyst -Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Haryana, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Application-Development-Tech-Lead-Analyst---Vice-President_26948679) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Development-Tech-Lead-Analyst--Vice-President_26952157) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-25.
+This software engineer position at Citigroup was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

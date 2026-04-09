@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201714/network-dev-engineer-intern-core-networking) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381873/network-dev-engineer-intern-core-networking) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-03-11.
+This devops engineer position at Amazon was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

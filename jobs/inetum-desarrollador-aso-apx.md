@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombia |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117729391-desarrollador-aso-apx) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118265848-desarrollador-aso-apx) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-03-30.
+This software engineer position at Inetum was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

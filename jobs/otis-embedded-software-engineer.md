@@ -5,12 +5,12 @@
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Farmington, New Mexico, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Embedded-Software-Engineer_20152845) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Embedded-Software-Engineer_20155941) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Otis was posted on 2026-02-20.
+This embedded / firmware engineer position at Otis was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

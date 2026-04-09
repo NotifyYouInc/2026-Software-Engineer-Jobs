@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
+| Location | Penang, MY |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R62030) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R63502) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-12.
+This software engineer position at Motorola Solutions was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

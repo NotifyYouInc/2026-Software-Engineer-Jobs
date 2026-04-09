@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead--Test-Lead-_ATCI-5479038-S2002117-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead--Test-Lead-_ATCI-5303502-S1938276-1) |
 
 ## About This Role
 

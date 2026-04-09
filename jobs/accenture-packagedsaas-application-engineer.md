@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5466176-S2008110-1) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Packaged-SaaS-Application-Engineer_ATCI-5493854-S2009805-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-03-31.
+This technology / it consulting position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2451721) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2448239-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-03-30.
+This software engineer position at Walmart was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

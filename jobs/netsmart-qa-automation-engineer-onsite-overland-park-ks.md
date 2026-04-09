@@ -5,12 +5,12 @@
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/QA-Automation-Engineer--Onsite-Overland-Park--KS_R015142) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/QA-Automation-Engineer--Onsite-Overland-Park--KS_R015141) |
 
 ## About This Role
 
-This devops engineer position at Netsmart was posted on 2026-02-27.
+This devops engineer position at Netsmart was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

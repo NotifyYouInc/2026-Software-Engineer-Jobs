@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/557b539b-2372-4573-8575-2a8cbd00c833) |
 
 ## About This Role
 
-This software engineer position at Sierra was posted on 2026-03-01.
+This software engineer position at Sierra was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

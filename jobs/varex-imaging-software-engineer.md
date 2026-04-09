@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varex Imaging](https://scoutify.ai/companies/varex-imaging?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://vareximaging.wd103.myworkdayjobs.com/external_career_site/job/Stoke-on-Trent/Software-Engineer_R0005732) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://vareximaging.wd103.myworkdayjobs.com/external_career_site/job/Pune/Software-Engineer_R0005682) |
 
 ## About This Role
 
-This frontend engineer position at Varex Imaging was posted on 2026-03-26.
+This software engineer position at Varex Imaging was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

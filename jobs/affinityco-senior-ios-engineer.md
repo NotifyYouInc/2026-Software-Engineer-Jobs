@@ -5,12 +5,12 @@
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Mobile Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7645440003) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7687169003) |
 
 ## About This Role
 
-This mobile engineer position at Affinity.co was posted on 2026-02-26.
+This mobile engineer position at Affinity.co was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

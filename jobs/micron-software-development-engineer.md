@@ -1,16 +1,16 @@
-# Software Development Engineer at Micron
+# SOFTWARE DEVELOPMENT ENGINEER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Development-Engineer_JR94671) |
+| Location | China |
+| Category | Frontend Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Xian-China/SOFTWARE-DEVELOPMENT-ENGINEER_JR96096) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-03-23.
+This frontend engineer position at Micron was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

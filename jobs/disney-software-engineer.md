@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineer_10127341-2) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineer_10146412) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-12.
+This frontend engineer position at Disney was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
