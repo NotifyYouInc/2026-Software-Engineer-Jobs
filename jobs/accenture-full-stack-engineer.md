@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Full-Stack-Engineer_ATCI-5487248-S2010221-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Full-Stack-Engineer_ATCI-4973546-S1873967-1) |
 
 ## About This Role
 
-This frontend engineer position at Accenture was posted on 2026-04-02.
+This frontend engineer position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

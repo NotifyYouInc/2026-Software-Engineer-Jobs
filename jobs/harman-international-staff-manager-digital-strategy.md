@@ -1,16 +1,16 @@
-# Software Engineer - IOS developer at HARMAN International
+# Staff Manager, Digital Strategy at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Mobile Engineer |
+| Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Software-Engineer---IOS-developer_R-52058-2026) |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Staff-Manager--Digital-Strategy_R-52316-2026) |
 
 ## About This Role
 
-This mobile engineer position at HARMAN International was posted on 2026-04-03.
+This software engineer position at HARMAN International was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

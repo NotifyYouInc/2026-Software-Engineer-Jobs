@@ -1,16 +1,16 @@
-# Java Developer at DXC Technology
+# Android Engineer at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Software Engineer |
+| Category | Mobile Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Java-Developer_51576735) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Android-Engineer_JR117353) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-03.
+This mobile engineer position at National Australia Bank (NAB) was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

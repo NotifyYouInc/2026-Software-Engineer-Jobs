@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Application-Support-Engineer_ATCI-5496756-S2009784-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Application-Support-Engineer_ATCI-5312375-S1972293-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-04-02.
+This technical support engineer position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

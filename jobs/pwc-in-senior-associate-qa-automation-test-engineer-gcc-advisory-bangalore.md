@@ -1,16 +1,16 @@
-# Senior Software Engineer at Eurofins Scientific
+# IN_Senior Associate_QA Automation Test Engineer_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118547671-senior-software-engineer) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Net-Full-Stack-Developer-GCC-Advisory-Bangalore_712206WD-1) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-04-03.
+This software engineer position at PwC was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Lead_ATCI-5457542-S2007342-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Lead_ATCI-4230216-S1623306-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-03-30.
+This devops engineer position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

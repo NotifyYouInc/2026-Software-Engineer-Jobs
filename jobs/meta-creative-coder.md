@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1457312006182185) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3534414110041089) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-26.
+This software engineer position at Meta was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

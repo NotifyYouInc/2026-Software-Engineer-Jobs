@@ -1,16 +1,16 @@
-# Quality Engineer at Accenture
+# Member of Technical Staff,FlashBlade at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Quality-Engineer--Tester-_ATCI-5401275-S1973119-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7681458) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This software engineer position at Pure Storage was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Software Engineer  at CyberArk Software
+# Senior Software Engineer - Back End Platform Engineer (Machine Identity Security) hybrid at CyberArk Software
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000118546247-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000118544007-senior-software-engineer-back-end-platform-engineer-machine-identity-security-hybrid) |
 
 ## About This Role
 

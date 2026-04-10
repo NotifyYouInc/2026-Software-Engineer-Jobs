@@ -1,4 +1,4 @@
-# Java Developer at DXC Technology
+# Associate AI Platform Engineer at DXC Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Java-Developer_51576735) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Associate-AI-Platform-Engineer_51577278) |
 
 ## About This Role
 

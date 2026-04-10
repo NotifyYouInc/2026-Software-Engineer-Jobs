@@ -1,16 +1,16 @@
-# Sr. Software Engineer at OpenGov
+# Application Engineer at Waystar
 
 | Field | Details |
 |-------|---------|
-| Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/7cfeb797-8f9e-4e20-818f-787797b2d3aa) |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer_R3102-1) |
 
 ## About This Role
 
-This frontend engineer position at OpenGov was posted on 2026-04-03.
+This frontend engineer position at Waystar was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

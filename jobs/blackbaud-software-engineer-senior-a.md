@@ -1,16 +1,16 @@
-# Cloud Platform Engineer at Accenture
+# Software Engineer, Senior A at Blackbaud
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Blackbaud](https://scoutify.ai/companies/blackbaud?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Cloud-Platform-Engineer_ATCI-5417109-S1984993-1) |
+| Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India/DevOps-Software-Engineer-Senior_R0012626) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-03.
+This devops engineer position at Blackbaud was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

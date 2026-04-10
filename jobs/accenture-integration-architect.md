@@ -1,16 +1,16 @@
-# Quality Engineer at Accenture
+# Integration Architect at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Quality-Engineer--Tester-_ATCI-5401275-S1973119-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Integration-Architect_ATCI-4814207-S1928805-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This technical & solutions architect position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

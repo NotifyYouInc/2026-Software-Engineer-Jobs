@@ -1,16 +1,16 @@
-# Quality Engineer at Accenture
+# Senior Analytics Engineer at SEEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Quality-Engineer--Tester-_ATCI-5401275-S1973119-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000118542017-senior-analytics-engineer) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This software engineer position at SEEK was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
