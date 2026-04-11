@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Software-Engineer-Sr-Lead_JR0304701) |
+| Location | Los Angeles, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-LA-NEW-201-Flr19-Client/Software-Engineer-Sr-Lead_JR0305616-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity National Information Services was posted on 2026-03-16.
+This devops engineer position at Fidelity National Information Services was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

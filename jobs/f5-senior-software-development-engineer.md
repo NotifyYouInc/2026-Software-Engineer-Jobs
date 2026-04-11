@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/Senior-Software-Development-Engineer_RP1036265) |
+| Category | Software Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Senior-Software-Development-Engineer_RP1037064) |
 
 ## About This Role
 
-This frontend engineer position at F5 was posted on 2026-03-03.
+This software engineer position at F5 was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

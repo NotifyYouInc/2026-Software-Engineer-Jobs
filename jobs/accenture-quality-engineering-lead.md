@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Engineering Manager |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Quality-Engineering-Lead--Test-Lead-_ATCI-5386076-S1976775) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Quality-Engineering-Lead--Test-Lead-_ATCI-5303462-S1938341-1) |
 
 ## About This Role
 

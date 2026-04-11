@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Development-Tools-Engineer_R02070) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02272-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-03-10.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MANI-2305/Engineer-Lead--Software_JR0305188) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Engineer-Lead--Software_JR0305634-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity National Information Services was posted on 2026-03-25.
+This software engineer position at Fidelity National Information Services was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

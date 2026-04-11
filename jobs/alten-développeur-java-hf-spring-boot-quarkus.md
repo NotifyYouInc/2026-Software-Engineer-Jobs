@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000117333963-developpeur-java-hf-spring-boot-quarkus) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118621362-developpeur-java-hf-spring-boot-quarkus) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-27.
+This software engineer position at ALTEN was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

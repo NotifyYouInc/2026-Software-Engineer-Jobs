@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Razorpay Software Private Limited](https://scoutify.ai/companies/razorpay-software-private-limited?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4599725005) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4679953005) |
 
 ## About This Role
 
-This software engineer position at Razorpay Software Private Limited was posted on 2026-02-12.
+This frontend engineer position at Razorpay Software Private Limited was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

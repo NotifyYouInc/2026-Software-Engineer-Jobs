@@ -1,16 +1,16 @@
-# Developer Technology Engineer - AI at Nvidia
+# Developer Technology Engineer, AI at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2014203) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer--AI_JR2005874) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-05.
+This software engineer position at Nvidia was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

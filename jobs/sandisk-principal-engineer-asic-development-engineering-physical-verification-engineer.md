@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000113631577-principal-engineer-asic-development-engineering-physical-verification-engineer) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000118610987-principal-engineer-asic-development-engineering-physical-verification-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-03-10.
+This semiconductor / chip design position at SanDisk was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

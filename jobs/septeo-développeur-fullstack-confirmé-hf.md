@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000117364088-developpeur-fullstack-confirme-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000118618263-developpeur-fullstack-confirme-hf) |
 
 ## About This Role
 
-This frontend engineer position at SEPTEO was posted on 2026-03-27.
+This frontend engineer position at SEPTEO was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

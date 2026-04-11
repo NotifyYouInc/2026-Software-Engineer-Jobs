@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Tsukuba, Ibaraki, Japan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5128092008) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5176374008) |
 
 ## About This Role
 
-This electrical / hardware engineer position at QuEra Computing was posted on 2026-02-20.
+This electrical / hardware engineer position at QuEra Computing was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

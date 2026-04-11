@@ -5,12 +5,12 @@
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008137) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008144) |
 
 ## About This Role
 
-This frontend engineer position at Premier was posted on 2026-03-26.
+This frontend engineer position at Premier was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

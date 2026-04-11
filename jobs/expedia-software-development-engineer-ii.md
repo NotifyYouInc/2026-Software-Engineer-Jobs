@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Software-Development-Engineer-II_R-103108-2) |
+| Location | Austin, Texas, United States |
+| Category | Mobile Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-II_R-104072) |
 
 ## About This Role
 
-This frontend engineer position at Expedia was posted on 2026-03-27.
+This mobile engineer position at Expedia was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

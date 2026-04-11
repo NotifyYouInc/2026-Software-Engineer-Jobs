@@ -1,16 +1,16 @@
-# Product software Engineer at Wolters Kluwer
+# Product Software Engineer at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Product-software-Engineer_R0055438-1) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Product-Software-Engineer_R0055873) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-20.
+This frontend engineer position at Wolters Kluwer was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

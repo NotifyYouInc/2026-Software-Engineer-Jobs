@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Applications-Engineer_R-1160) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Applications-Engineer_R-1108) |
 
 ## About This Role
 
-This semiconductor / chip design position at Monolithic Power Systems was posted on 2026-03-03.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

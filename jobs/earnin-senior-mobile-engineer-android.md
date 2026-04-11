@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Mobile Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7676015) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7774228) |
 
 ## About This Role
 
-This mobile engineer position at EarnIn was posted on 2026-03-05.
+This mobile engineer position at EarnIn was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

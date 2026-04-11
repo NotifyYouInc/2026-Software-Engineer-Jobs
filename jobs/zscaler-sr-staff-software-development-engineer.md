@@ -1,16 +1,16 @@
-# Sr. Staff Software Development Engineer  at Zscaler
+# Sr. Staff Software Development Engineer at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/4876059007) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5089111007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-03-16.
+This software engineer position at Zscaler was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

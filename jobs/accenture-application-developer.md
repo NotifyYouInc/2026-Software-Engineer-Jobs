@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Software Engineer |
+| Location | Indore, Madhya Pradesh, India |
+| Category | Frontend Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Application-Developer_ATCI-5416471-S1993753) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Developer_ATCI-5269643-S1933118-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This frontend engineer position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

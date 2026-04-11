@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Split, Split-Dalmatia, Croatia |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000110469214-senior-developer-reactreact-native) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000118616323-senior-developer-reactreact-native) |
 
 ## About This Role
 
-This frontend engineer position at Endava was posted on 2026-02-20.
+This frontend engineer position at Endava was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

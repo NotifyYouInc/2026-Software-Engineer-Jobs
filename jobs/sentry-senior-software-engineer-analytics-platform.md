@@ -5,12 +5,12 @@
 | Company | [Sentry](https://scoutify.ai/companies/sentry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/275fb8ba-073f-425a-9519-ff4437cdca47) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/6ff0f8c6-8d33-4757-bbeb-e149e0cd8873) |
 
 ## About This Role
 
-This software engineer position at Sentry was posted on 2026-02-13.
+This software engineer position at Sentry was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

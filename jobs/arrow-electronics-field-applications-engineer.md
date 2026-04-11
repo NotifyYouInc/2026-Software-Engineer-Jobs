@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indiana, US |
-| Category | Business Development |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-IN-Indiana-Remote-Employees/Field-Applications-Engineer_R241701) |
+| Location | North Carolina, US |
+| Category | Software Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NC-North-Carolina-Remote-Employees/Field-Applications-Engineer_R242612) |
 
 ## About This Role
 
-This business development position at Arrow Electronics was posted on 2026-02-26.
+This software engineer position at Arrow Electronics was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

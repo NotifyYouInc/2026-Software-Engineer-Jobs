@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Senior-Data-Engineer_R237251-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Engineer_R227358-2) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-05.
+This software engineer position at Capital One was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

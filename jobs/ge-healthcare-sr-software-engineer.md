@@ -1,16 +1,16 @@
-# Sr Software Engineer at GE HealthCare
+# Sr. Software Engineer at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuopio, North Savo, Finland |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kuopio/Sr-Software-Engineer_R4034351-2) |
+| Location | Waukesha, Wisconsin, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Sr-Software-Engineer_R4038878-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-09.
+This frontend engineer position at GE HealthCare was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

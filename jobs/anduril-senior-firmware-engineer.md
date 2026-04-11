@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5052343007?gh_jid=5052343007) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5099219007?gh_jid=5099219007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-13.
+This embedded / firmware engineer position at Anduril was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

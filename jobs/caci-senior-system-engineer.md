@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
-| Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Fort-Meade/Senior-System-Engineer_322653) |
+| Location | Herndon, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Herndon/Senior-System-Engineer_324314) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-02-27.
+This software engineer position at CACI was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

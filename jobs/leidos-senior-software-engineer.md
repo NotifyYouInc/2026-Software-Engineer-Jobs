@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Clarksburg, West Virginia, United States |
+| Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Clarksburg-WV/Senior-Software-Engineer_R-00178348) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Senior-Software-Engineer_R-00180019) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-13.
+This software engineer position at Leidos was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

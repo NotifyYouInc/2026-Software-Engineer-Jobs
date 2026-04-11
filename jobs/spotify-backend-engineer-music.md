@@ -1,16 +1,16 @@
-# Backend Engineer - Music at Spotify
+# Backend Engineer, Music at Spotify
 
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/c502eaf3-0680-4f9e-bf41-946c50c54fd7) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/ee5064af-0116-4ef2-994a-cb8fed580290) |
 
 ## About This Role
 
-This software engineer position at Spotify was posted on 2026-03-20.
+This software engineer position at Spotify was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

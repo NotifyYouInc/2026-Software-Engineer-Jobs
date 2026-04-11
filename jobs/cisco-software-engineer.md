@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2011019-1) |
+| Location | Richardson, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2010272-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-03-23.
+This devops engineer position at Cisco was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

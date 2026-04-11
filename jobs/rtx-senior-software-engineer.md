@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Software-Engineer_01824903-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Senior-Software-Engineer_01835810) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-02-17.
+This software engineer position at RTX was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
