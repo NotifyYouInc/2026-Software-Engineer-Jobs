@@ -1,16 +1,16 @@
-# Principal Software Engineer at Microsoft
+# Senior Backend Engineer at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556631155) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7690149003) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-04.
+This software engineer position at Remote was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

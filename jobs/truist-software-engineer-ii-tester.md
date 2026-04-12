@@ -1,16 +1,16 @@
-# Principal Software Engineer at Microsoft
+# Software Engineer II - Tester at Truist
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Raleigh, North Carolina, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556631155) |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Software-Engineer-II---Tester_R0113071) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-04.
+This software engineer position at Truist was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

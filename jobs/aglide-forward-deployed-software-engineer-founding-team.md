@@ -1,16 +1,16 @@
-# Principal Software Engineer at Microsoft
+# Forward Deployed Software Engineer (Founding team) at Aglide
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Aglide](https://scoutify.ai/companies/aglide?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556631155) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/aglide/jobs/WnUet9o-forward-deployed-software-engineer-founding-team) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-04.
+This software engineer position at Aglide was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

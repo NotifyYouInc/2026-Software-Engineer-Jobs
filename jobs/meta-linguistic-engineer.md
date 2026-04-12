@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# Linguistic Engineer at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
+| Category | Software Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520128-1) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1215720570607469) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-04-04.
+This software engineer position at Meta was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

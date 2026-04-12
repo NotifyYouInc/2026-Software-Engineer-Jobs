@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Senior Software Engineer in Test at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2463309) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118702407-senior-software-engineer-in-test) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-03.
+This software engineer position at Intuitive Surgical was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

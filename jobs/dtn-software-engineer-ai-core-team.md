@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# Software Engineer – AI Core Team at DTN
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [DTN](https://scoutify.ai/companies/dtn?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Frontend Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520128-1) |
+| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Austin-TX/Software-Engineer---AI-Core-Team_R-003055-1) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-04-04.
+This frontend engineer position at DTN was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

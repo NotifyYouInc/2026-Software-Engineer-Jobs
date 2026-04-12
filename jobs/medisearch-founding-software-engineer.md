@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# Founding Software Engineer at MediSearch
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [MediSearch](https://scoutify.ai/companies/medisearch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Frontend Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520128-1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/medisearch/jobs/EAVepv9-founding-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-04-04.
+This frontend engineer position at MediSearch was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

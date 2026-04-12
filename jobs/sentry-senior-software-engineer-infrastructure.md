@@ -1,16 +1,16 @@
-# Principal Software Engineer at Microsoft
+# Senior Software Engineer, Infrastructure at Sentry
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Sentry](https://scoutify.ai/companies/sentry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556631155) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/c672ffc7-a7a9-4ecd-a99c-8520d3867d19) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-04.
+This software engineer position at Sentry was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

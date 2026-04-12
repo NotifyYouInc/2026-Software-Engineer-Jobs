@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# Software Engineer II at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Frontend Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520128-1) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Software-Engineer-II_326883-1) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-04-04.
+This frontend engineer position at S&P Global was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

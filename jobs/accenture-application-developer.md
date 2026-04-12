@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Frontend Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Developer_ATCI-5269643-S1933118-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Application-Support-Engineer_ATCI-R1-S1961405-1) |
 
 ## About This Role
 

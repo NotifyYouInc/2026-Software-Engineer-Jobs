@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Senior-Net-Fullstack-Developer_JR1035784) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Charlotte-NC/Senior-Net-Fullstack-Developer_JR1038343) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-02-07.
+This frontend engineer position at Synechron was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
