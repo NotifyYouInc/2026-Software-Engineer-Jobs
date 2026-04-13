@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware---Silicon-Validation-Principal-Engineer_2600865) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware---Silicon-Validation-Principal-Engineer_2601072-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Marvell was posted on 2026-03-28.
+This electrical / hardware engineer position at Marvell was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

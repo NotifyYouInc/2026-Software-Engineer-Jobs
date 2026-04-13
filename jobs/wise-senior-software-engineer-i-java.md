@@ -1,16 +1,16 @@
-# Senior Software Engineer I - Java at WISE
+# Senior Software Engineer I - Java  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116773326-senior-software-engineer-i-java) |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118822567-senior-software-engineer-i-java) |
 
 ## About This Role
 
-This frontend engineer position at WISE was posted on 2026-03-26.
+This software engineer position at WISE was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

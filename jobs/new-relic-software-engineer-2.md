@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5123824008) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5171008008) |
 
 ## About This Role
 
-This software engineer position at New Relic was posted on 2026-03-16.
+This software engineer position at New Relic was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

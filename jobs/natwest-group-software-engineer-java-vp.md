@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--Java--VP_R-00274608) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--Java--VP_R-00275945) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-03-12.
+This software engineer position at NatWest Group was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

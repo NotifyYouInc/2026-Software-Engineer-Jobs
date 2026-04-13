@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Staff-Engineer_R558704) |
+| Location | Gurugram, Haryana, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Engineer_R562688-3) |
 
 ## About This Role
 
-This ai / llm engineer position at Stryker was posted on 2026-03-09.
+This electrical / hardware engineer position at Stryker was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

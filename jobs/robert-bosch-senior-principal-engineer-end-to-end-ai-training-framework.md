@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109865735-senior-principal-engineer-end-to-end-ai-training-framework) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118827217-senior-principal-engineer-end-to-end-ai-training-framework) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-02-18.
+This software engineer position at Robert Bosch was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
