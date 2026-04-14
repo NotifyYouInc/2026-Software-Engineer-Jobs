@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5095705007) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5087807007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-04-04.
+This devops engineer position at Zscaler was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

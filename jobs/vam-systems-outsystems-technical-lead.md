@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000117488847-outsystems-technical-lead) |
+| Location | Manama, Manama, Bahrain |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000118831877-outsystems-technical-lead) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-03-29.
+This technical & solutions architect position at VAM Systems was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000114714087-microsoft-dynamics-365-fo-and-power-automate-developer-tieto-tech-consulting-mfd) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000118867238-microsoft-dynamics-365-fo-and-power-automate-developer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This software engineer position at Tietoevry was posted on 2026-03-13.
+This software engineer position at Tietoevry was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

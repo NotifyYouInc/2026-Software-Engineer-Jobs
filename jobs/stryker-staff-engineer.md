@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Electrical / Hardware Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Engineer_R562688-3) |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Engineer_R562601) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Stryker was posted on 2026-04-06.
+This embedded / firmware engineer position at Stryker was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Cerebrum/Software-Engineer_WD30265580-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Software-Engineer_WD30264663) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-03-30.
+This software engineer position at Johnson Controls was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

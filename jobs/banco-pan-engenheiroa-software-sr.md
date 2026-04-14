@@ -5,12 +5,12 @@
 | Company | [Banco PAN](https://scoutify.ai/companies/banco-pan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/5814957004) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/5814948004) |
 
 ## About This Role
 
-This software engineer position at Banco PAN was posted on 2026-03-06.
+This software engineer position at Banco PAN was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

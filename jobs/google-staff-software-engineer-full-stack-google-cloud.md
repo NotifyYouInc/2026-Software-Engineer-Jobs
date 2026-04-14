@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/142818266283156166-staff-software-engineer-full-stack-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138706715565531846-staff-software-engineer-full-stack-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-03-06.
+This software engineer position at Google was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

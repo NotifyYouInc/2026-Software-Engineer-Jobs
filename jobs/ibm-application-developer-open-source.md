@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=18674) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108232) |
 
 ## About This Role
 

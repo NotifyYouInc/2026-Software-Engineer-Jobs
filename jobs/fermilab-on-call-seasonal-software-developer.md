@@ -1,0 +1,22 @@
+# On Call / Seasonal Software Developer at Fermilab
+
+| Field | Details |
+|-------|---------|
+| Company | [Fermilab](https://scoutify.ai/companies/fermilab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Batavia, Illinois, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/On-Call---Seasonal-Software-Developer_R_009412-1) |
+
+## About This Role
+
+This software engineer position at Fermilab was posted on 2026-04-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -1,16 +1,16 @@
-# Software Engineer II - Onsite at RTX
+# Software Engineer II (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II---Onsite_01824062) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-II--Onsite-_01835527) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-02-17.
+This software engineer position at RTX was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

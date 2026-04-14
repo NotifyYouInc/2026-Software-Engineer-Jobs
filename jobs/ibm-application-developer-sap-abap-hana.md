@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108180) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103146) |
 
 ## About This Role
 

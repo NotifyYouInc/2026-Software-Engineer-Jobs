@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Application-Engineer_R53837) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Application-Engineer_R53454) |
 
 ## About This Role
 
-This technical writer position at Cadence Design Systems was posted on 2026-03-19.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

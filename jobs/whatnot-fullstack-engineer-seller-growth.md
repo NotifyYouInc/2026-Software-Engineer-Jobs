@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/c63f823d-77d1-4dab-bf86-0eb459e6226f) |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/98f09d70-c9ac-4835-8d45-cafa05b3125d) |
 
 ## About This Role
 
-This frontend engineer position at WhatNot was posted on 2026-04-01.
+This software engineer position at WhatNot was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106226) |
+| Location | Bellevue, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107718) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-26.
+This software engineer position at IBM was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

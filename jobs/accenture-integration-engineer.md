@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Integration-Engineer_ATCI-5380726-S2005037-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Integration-Engineer_ATCI-5401521-S1972785-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-03.
+This technology / it consulting position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

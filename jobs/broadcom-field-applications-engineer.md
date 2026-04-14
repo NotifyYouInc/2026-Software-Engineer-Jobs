@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pennsylvania, US |
-| Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Pennsylvania---Remote-location/Field-Applications-Engineer_R025185) |
+| Location | Colorado, US |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA---Colorado---Remote-location/Field-Applications-Engineer_R024614) |
 
 ## About This Role
 
-This customer success position at Broadcom was posted on 2026-02-27.
+This software engineer position at Broadcom was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

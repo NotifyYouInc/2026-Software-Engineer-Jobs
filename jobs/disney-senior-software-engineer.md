@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Senior-Software-Engineer_10145223) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Software-Engineer_10135335) |
 
 ## About This Role
 
-This frontend engineer position at Disney was posted on 2026-03-17.
+This software engineer position at Disney was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

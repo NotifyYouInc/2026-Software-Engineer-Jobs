@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113637117-senior-software-engineer) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118851667-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at NielsenIQ was posted on 2026-03-10.
+This software engineer position at NielsenIQ was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Java Developer_Director_Software Engineering at Morgan Stanley
+# JAVA Developer - Director - Software Engineering at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Java-Developer-Director-Software-Engineering_PT-JR024683) |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/JAVA-Developer---Director---Software-Engineering_PT-JR033584) |
 
 ## About This Role
 
-This engineering manager position at Morgan Stanley was posted on 2026-02-25.
+This software engineer position at Morgan Stanley was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

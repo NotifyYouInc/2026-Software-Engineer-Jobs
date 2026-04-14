@@ -1,16 +1,16 @@
-# Software Engineer, C# at Anduril
+# Software Engineer, C++ at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5065236007?gh_jid=5065236007) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5100176007?gh_jid=5100176007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-27.
+This software engineer position at Anduril was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kentucky, US |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-KY-Fort-Campbell/Web-Developer-Senior_322154) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/147-CHANTILLY-VA-COMMONWEALTH-BUILDING-A/Web-Developer-Senior_323917) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-13.
+This software engineer position at CACI was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Lead_ATCI-4230216-S1623306-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Lead_ATCI-5435397-S1985660-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-03.
+This software engineer position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

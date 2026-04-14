@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | United States |
 | Category | Mobile Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1394915639084972) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1666035364829516) |
 
 ## About This Role
 
-This mobile engineer position at Meta was posted on 2026-02-25.
+This mobile engineer position at Meta was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

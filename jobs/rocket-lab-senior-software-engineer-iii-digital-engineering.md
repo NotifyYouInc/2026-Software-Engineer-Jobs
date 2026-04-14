@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Littleton, Colorado, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7671141003) |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7682524003) |
 
 ## About This Role
 
-This frontend engineer position at Rocket Lab was posted on 2026-03-18.
+This software engineer position at Rocket Lab was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

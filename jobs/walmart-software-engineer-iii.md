@@ -1,12 +1,12 @@
-# Software Engineer III at Walmart
+# SOFTWARE ENGINEER III at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Mobile Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Software-Engineer-III_R-2449102-1) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SOFTWARE-ENGINEER-III_R-2395499-1) |
 
 ## About This Role
 

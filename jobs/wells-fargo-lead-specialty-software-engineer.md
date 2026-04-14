@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Specialty-Software-Engineer_R-521117) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer_R-533386) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-04.
+This software engineer position at Wells Fargo was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

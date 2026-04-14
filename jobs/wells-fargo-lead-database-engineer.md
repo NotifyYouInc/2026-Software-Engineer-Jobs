@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Database Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Database-Engineer_R-529647-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/142019-NC-300-South-Brevard-Charlotte/Lead-Database-Engineer_R-529828) |
 
 ## About This Role
 
-This database administration position at Wells Fargo was posted on 2026-03-24.
+This database administration position at Wells Fargo was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

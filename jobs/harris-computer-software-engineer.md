@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Software-Engineer_R0039944-3) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Software-Engineer_R0040831-1) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-04-01.
+This software engineer position at Harris Computer was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

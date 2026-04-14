@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Analyst-III--C--_Req1554650) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Software Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Analyst-III--C--_Req1560902) |
 
 ## About This Role
 
-This frontend engineer position at Santander was posted on 2026-03-20.
+This software engineer position at Santander was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

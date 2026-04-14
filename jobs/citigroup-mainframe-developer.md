@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Mainframe-Developer_26945428) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Mainframe-Developer_26943675) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-25.
+This software engineer position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

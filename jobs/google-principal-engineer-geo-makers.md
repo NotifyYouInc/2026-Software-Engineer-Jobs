@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96368141289824966-principal-engineer-geo-makers?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcXgIq4NEw5vSxoqxt5lm926OaxzqvzcYrnio9YG2kG3EjsACxwdTFUd7umOKE0-JHqxz7WrNDM48CzGYsoODPcVdHhGnKWEyd5mueA_QCj9A9kyfC5gPG2dp475Ag%3D%3D_V2&loc=US&title=Principal+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-18.
+This ai / ml research position at Google was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

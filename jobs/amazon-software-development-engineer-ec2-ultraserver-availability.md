@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383566/software-development-engineer-ec2-ultraserver-availability) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10384711/software-development-engineer-ec2-ultraserver-availability) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-05.
+This software engineer position at Amazon was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
