@@ -1,16 +1,16 @@
-# Software Engineering Associate Advisor - HIH - Evernorth at Cigna
+# Software Engineering Associate Advisor - HIH – Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_25017122) |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_25012576) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-02-12.
+This software engineer position at Cigna was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

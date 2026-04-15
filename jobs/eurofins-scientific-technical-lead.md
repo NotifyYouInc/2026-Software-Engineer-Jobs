@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118629487-technical-lead) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000119202195-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-04-03.
+This software engineer position at Eurofins Scientific was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

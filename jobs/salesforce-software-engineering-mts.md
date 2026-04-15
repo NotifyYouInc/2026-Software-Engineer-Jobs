@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR334499) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineering-MTS_JR336518) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-03-25.
+This software engineer position at Salesforce was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

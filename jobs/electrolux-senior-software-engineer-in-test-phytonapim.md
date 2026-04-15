@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Software-Engineer-In-Test---Phyton-APIM_JR76082) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Software-Engineer-In-Test---Phyton-APIM_JR76083) |
 
 ## About This Role
 
-This software engineer position at Electrolux was posted on 2026-03-18.
+This software engineer position at Electrolux was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

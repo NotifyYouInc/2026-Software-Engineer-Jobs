@@ -1,16 +1,16 @@
-# Software Engineering Intern - (Summer 2026)  (Onsite) at RTX
+# Software Engineering Intern (Summer 2026) (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-1127-CUST--1127-W-2320-South--2320-S-External-Site/Software-Engineering-Intern----Summer-2026----Onsite-_01792654-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2026---Onsite-_01832599) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-03-30.
+This software engineer position at RTX was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

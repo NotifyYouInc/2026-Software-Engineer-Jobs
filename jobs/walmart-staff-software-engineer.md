@@ -1,16 +1,16 @@
-# STAFF, SOFTWARE ENGINEER at Walmart
+# Staff, Software Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/STAFF--SOFTWARE-ENGINEER_R-2440193) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer_R-2468025-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-06.
+This software engineer position at Walmart was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

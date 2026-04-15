@@ -1,16 +1,16 @@
-# Principal Engineer - Telecommunications (Data Centers) at AECOM
+# Principal Engineer - Telecommunications  - Data Centers at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107839385-principal-engineer-telecommunications-data-centers) |
+| Location | Colombia |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000119203547-principal-engineer-telecommunications-data-centers) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-02-06.
+This technology / it consulting position at AECOM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

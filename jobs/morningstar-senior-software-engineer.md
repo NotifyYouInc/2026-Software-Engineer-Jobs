@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Senior-Software-Engineer_AP-22788482) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Software-Engineer_AP-23953939) |
 
 ## About This Role
 
-This software engineer position at Morningstar was posted on 2026-03-16.
+This software engineer position at Morningstar was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

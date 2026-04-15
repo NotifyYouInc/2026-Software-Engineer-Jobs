@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst---Vice-President_26943433) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Engineering-Lead-Analyst---Vice-President_26946163) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-03-31.
+This software engineer position at Citigroup was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

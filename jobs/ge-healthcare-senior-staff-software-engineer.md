@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Senior-Staff-Software-Engineer_R4037228-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Staff-Software-Engineer_R4038991-2) |
 
 ## About This Role
 
-This frontend engineer position at GE HealthCare was posted on 2026-03-02.
+This software engineer position at GE HealthCare was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Database Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116507647-staff-database-engineer) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119193008-staff-database-engineer) |
 
 ## About This Role
 
-This database administration position at Visa International Service Association was posted on 2026-03-24.
+This database administration position at Visa International Service Association was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

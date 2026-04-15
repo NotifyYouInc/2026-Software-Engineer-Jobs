@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Distinguished-Engineer_R238621-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Distinguished-Engineer_R239652) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-23.
+This technical & solutions architect position at Capital One was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Packaged-SaaS-Application-Engineer_ATCI-5458701-S2000270-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5486925-S2011112-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-06.
+This software engineer position at Accenture was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

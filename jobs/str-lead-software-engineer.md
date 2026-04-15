@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4667332006) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4670886006) |
 
 ## About This Role
 
-This software engineer position at STR was posted on 2026-03-26.
+This software engineer position at STR was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

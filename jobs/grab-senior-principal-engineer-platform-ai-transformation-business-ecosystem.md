@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116064607-senior-principal-engineer-platform-ai-transformation-business-ecosystem) |
+| Category | AI / ML Research |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000119131327-senior-principal-engineer-platform-ai-transformation-business-ecosystem) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-03-22.
+This ai / ml research position at Grab was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Menlo Park, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2131014287665605) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/915906677905536) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-04-06.
+This software engineer position at Meta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

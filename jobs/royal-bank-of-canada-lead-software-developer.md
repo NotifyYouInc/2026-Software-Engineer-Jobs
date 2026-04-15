@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Software-Developer_R-0000159518-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Software-Developer_R-0000165612-1) |
 
 ## About This Role
 
-This frontend engineer position at Royal Bank of Canada was posted on 2026-03-05.
+This software engineer position at Royal Bank of Canada was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

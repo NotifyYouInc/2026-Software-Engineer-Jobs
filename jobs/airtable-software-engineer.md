@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airtable](https://scoutify.ai/companies/airtable?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | New York, US |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/airtable/jobs/8461006002) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/airtable/jobs/8495850002) |
 
 ## About This Role
 
-This software engineer position at Airtable was posted on 2026-03-13.
+This software engineer position at Airtable was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

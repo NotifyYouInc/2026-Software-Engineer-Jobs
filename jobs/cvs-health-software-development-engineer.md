@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arkansas, US |
+| Location | Texas, US |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer_R0853961-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Software-Development-Engineer_R0859879-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-04-03.
+This software engineer position at CVS Health was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

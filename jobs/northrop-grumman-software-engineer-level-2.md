@@ -1,16 +1,16 @@
-# Software Engineer (Level 2) at Northrop Grumman
+# Software Engineer - Level 2 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer--Level-2-_R10227726) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2_R10228660-1) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-30.
+This software engineer position at Northrop Grumman was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

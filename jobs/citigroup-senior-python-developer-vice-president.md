@@ -1,16 +1,16 @@
-# Senior Python Developer – Vice President at Citigroup
+# Senior Python Developer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Python-Developer---Vice-President_26944977) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Python-Developer---Vice-President_26944980-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-16.
+This software engineer position at Citigroup was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

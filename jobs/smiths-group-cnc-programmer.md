@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Pasadena, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000113566657-cnc-programmer) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000119224957-cnc-programmer) |
 
 ## About This Role
 
-This industrial automation position at Smiths Group was posted on 2026-03-09.
+This industrial automation position at Smiths Group was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

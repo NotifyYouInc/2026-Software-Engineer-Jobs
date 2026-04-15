@@ -5,12 +5,12 @@
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sofi.com/careers/job/7632117003?gh_jid=7632117003) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://sofi.com/careers/job/7595612003?gh_jid=7595612003) |
 
 ## About This Role
 
-This software engineer position at SoFi was posted on 2026-03-13.
+This software engineer position at SoFi was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

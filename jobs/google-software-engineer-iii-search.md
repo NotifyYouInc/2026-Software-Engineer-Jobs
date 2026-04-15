@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114327585692754630-software-engineer-iii-search?sort_by=date&page=1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWxtxAsCGJ8rSrb-OC02VRL7beSJkWVMRL_xF3nq5MLmEjsACxwdTCpIzseEKR4xTVvuk0cmCEQWKo0vdZDnPfG2FVF2etZil-enTw0aOqxgku1w9M21FH1B9xpIAw%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-27.
+This software engineer position at Google was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

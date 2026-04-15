@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD93888) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD97062-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-02-25.
+This software engineer position at Autodesk was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

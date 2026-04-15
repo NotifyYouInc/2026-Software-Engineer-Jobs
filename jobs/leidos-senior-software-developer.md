@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Software-Developer_R-00177064-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Software-Developer_R-00180204) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-26.
+This software engineer position at Leidos was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

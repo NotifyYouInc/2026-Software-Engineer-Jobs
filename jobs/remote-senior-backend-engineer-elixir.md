@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7690136003) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7692387003) |
 
 ## About This Role
 
-This software engineer position at Remote was posted on 2026-04-04.
+This software engineer position at Remote was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
