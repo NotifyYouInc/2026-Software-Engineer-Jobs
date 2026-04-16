@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Senior-Embedded-Software-Engineer_R261732) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Senior-Embedded-Software-Engineer_R261689) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-04-03.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

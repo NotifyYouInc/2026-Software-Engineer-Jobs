@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ohio, US |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Engineer--Application-Development-and-Maintenance_20175354) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Engineer--Application-Development-and-Maintenance_20178523) |
 
 ## About This Role
 
-This software engineer position at Cardinal Health was posted on 2026-02-17.
+This software engineer position at Cardinal Health was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

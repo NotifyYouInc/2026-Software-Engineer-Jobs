@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378838/software-development-engineer-ii-pre-station-planning-technology) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386859/software-development-engineer-ii-pre-station-planning-technology) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-30.
+This software engineer position at Amazon was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
