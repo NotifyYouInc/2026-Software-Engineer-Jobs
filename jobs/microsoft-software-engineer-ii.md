@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556640672) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556847588) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-06.
+This software engineer position at Microsoft was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

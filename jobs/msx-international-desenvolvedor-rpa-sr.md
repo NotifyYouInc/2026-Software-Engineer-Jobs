@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Caetano do Sul, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012357576-desenvolvedor-rpa-sr) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012535967-desenvolvedor-rpa-sr) |
 
 ## About This Role
 
-This software engineer position at MSX International was posted on 2026-03-27.
+This software engineer position at MSX International was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

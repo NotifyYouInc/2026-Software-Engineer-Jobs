@@ -1,16 +1,16 @@
-# Senior Software Development Engineer, Full Stack at Zillow
+# Senior Software Development Engineer - Full Stack at Zillow
 
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer--Full-Stack_P748576) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer---Full-Stack_P749840) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-02-24.
+This software engineer position at Zillow was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

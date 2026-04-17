@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4675309005) |
+| Category | Software Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4683643005) |
 
 ## About This Role
 
-This frontend engineer position at BillionToOne was posted on 2026-03-19.
+This software engineer position at BillionToOne was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

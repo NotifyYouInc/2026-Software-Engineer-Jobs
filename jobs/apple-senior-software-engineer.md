@@ -1,16 +1,16 @@
-# Senior Software Engineer at Apple
+# Senior Software Engineer  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648339-2459/senior-software-engineer?team=SFTWR) |
+| Posted | 2025-10-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200619935/senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-24.
+This software engineer position at Apple was posted on 2025-10-14.
 
 ## Get Real-Time Alerts
 

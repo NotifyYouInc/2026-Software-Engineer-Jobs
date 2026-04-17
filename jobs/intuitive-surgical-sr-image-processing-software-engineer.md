@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000117683867-sr-image-processing-software-engineer) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000119699904-sr-image-processing-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-03-30.
+This software engineer position at Intuitive Surgical was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

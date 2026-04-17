@@ -1,16 +1,16 @@
-# Sr Engineer, Software at T-Mobile
+# Sr. Engineer, Software at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineer--Software_REQ338789) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineer--Software_REQ331812) |
 
 ## About This Role
 
-This frontend engineer position at T-Mobile was posted on 2026-03-26.
+This software engineer position at T-Mobile was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

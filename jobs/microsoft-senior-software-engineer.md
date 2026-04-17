@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556855765) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857672) |
 
 ## About This Role
 

@@ -1,0 +1,22 @@
+# Ca Gen Developer(Metavance) at DXC Technology
+
+| Field | Details |
+|-------|---------|
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Category | Software Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---RJ---RIO-DE-JANEIRO/Ca-Gen-Developer-Metavance-_51576935-1) |
+
+## About This Role
+
+This software engineer position at DXC Technology was posted on 2026-04-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

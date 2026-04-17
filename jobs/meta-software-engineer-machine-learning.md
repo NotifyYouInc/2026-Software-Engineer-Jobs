@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Menlo Park, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/770464258616077) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1486118469577496) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-03-24.
+This software engineer position at Meta was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

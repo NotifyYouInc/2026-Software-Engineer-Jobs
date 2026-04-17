@@ -1,16 +1,16 @@
-# Senior Software Engineer - CTJ - POLY at Microsoft
+# Senior Software Engineer - CTJ - Poly at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556833810) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556855969) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-09.
+This software engineer position at Microsoft was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

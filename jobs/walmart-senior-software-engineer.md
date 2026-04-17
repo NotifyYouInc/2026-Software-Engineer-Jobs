@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Senior--Software-Engineer_R-2456578) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Senior--Software-Engineer_R-2466378) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-07.
+This software engineer position at Walmart was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

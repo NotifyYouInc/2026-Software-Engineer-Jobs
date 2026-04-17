@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Switzerland |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.esri.com/careers/5065174007?gh_jid=5065174007) |
+| Location | Beijing, Beijing, China |
+| Category | Software Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.esri.com/careers/5102885007?gh_jid=5102885007) |
 
 ## About This Role
 
-This frontend engineer position at Esri was posted on 2026-02-27.
+This software engineer position at Esri was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
