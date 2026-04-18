@@ -1,4 +1,4 @@
-# Sr. Engineer, Software at T-Mobile
+# Sr Engineer, Software at T-Mobile
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineer--Software_REQ331812) |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Engineer--Software_REQ331256-1) |
 
 ## About This Role
 

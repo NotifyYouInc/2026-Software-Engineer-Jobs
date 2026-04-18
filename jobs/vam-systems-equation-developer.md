@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Manama, Manama, Bahrain |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000118853377-equation-developer) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000120195137-equation-developer) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-04-06.
+This software engineer position at VAM Systems was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

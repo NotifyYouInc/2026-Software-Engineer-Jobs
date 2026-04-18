@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Long Beach, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026504444-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026505242-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Boeing was posted on 2026-04-06.
+This embedded / firmware engineer position at Boeing was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

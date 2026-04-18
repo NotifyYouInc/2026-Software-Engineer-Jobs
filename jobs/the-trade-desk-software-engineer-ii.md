@@ -5,12 +5,12 @@
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5070284007) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5104794007) |
 
 ## About This Role
 
-This software engineer position at The Trade Desk was posted on 2026-03-05.
+This software engineer position at The Trade Desk was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

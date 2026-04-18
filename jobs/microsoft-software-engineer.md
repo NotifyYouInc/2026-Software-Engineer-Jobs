@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856539) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858038) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-09.
+This software engineer position at Microsoft was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Programmer analyst, System and infrastructure operations, maintenance and development at Desjardins
+# Programmer Analyst, System and infrastructure operations, maintenance and development at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Automatisation-d-Infrastructure_R2603079) |
+| Location | Canada |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-intgrateur-ou-analyste-intgratrice-de-systmes_R2604672) |
 
 ## About This Role
 
-This technical writer position at Desjardins was posted on 2026-03-02.
+This it & systems administration position at Desjardins was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

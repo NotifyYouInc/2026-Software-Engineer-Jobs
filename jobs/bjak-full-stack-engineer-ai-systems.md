@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/462582df-b0c6-4371-8edb-8a7b492b3eb5) |
+| Location | Singapore, Singapore |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3011d3b3-86ff-4e40-8fd6-533c9ffa94f0) |
 
 ## About This Role
 
-This frontend engineer position at Bjak was posted on 2026-03-29.
+This ai / llm engineer position at Bjak was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

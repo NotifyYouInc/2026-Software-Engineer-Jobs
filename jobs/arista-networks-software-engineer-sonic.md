@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115313147-software-engineer-sonic) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000120037097-software-engineer-sonic) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-03-17.
+This software engineer position at Arista Networks was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Cork, Munster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Engineer_R282790) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cork-Ireland/Software-Engineer_R282234-1) |
 
 ## About This Role
 
-This software engineer position at Dell Technologies was posted on 2026-02-25.
+This software engineer position at Dell Technologies was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

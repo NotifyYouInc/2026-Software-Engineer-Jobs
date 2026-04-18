@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Aberdeen, South Dakota, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Senior-Software-Developer_R177494-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Senior-Software-Developer_R179454-1) |
 
 ## About This Role
 
-This software engineer position at Parsons was posted on 2026-02-12.
+This software engineer position at Parsons was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

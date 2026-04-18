@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00175878) |
+| Location | Louisville, Kentucky, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-KY-Louisville/Software-Engineer_J00175731) |
 
 ## About This Role
 
-This frontend engineer position at Equifax was posted on 2026-03-24.
+This software engineer position at Equifax was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

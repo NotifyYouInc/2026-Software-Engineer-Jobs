@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2025-08-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200614774/soc-correlation-product-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657317/soc-correlation-product-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2025-08-01.
+This semiconductor / chip design position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

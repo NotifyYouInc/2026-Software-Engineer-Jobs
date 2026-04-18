@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Leixlip, Leinster, Ireland |
+| Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Foundry-Customer-Integration-Engineer_JR0282793) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Customer-Integration-Engineer_JR0282742) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-07.
+This semiconductor / chip design position at Intel was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

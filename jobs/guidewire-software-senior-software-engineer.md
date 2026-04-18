@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Mateo, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Senior-Software-Engineer_JR_14462) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Canada---Toronto/Senior-Software-Engineer_JR_14667-1) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-03-06.
+This software engineer position at Guidewire Software was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

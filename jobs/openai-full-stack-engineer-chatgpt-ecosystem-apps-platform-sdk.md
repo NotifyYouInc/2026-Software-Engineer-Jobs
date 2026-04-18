@@ -1,16 +1,16 @@
-# Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK)  at OpenAI
+# Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK) at OpenAI
 
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/aace9373-65bd-452b-91d8-1abfe8a7a11e) |
 
 ## About This Role
 
-This software engineer position at OpenAI was posted on 2026-02-10.
+This software engineer position at OpenAI was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-LA-NEW-201-Flr19-Client/Software-Engineer-Sr-Lead_JR0305616-1) |
+| Location | Manchester, New Hampshire, United States |
+| Category | Mobile Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-NH-MHT-1-Virtual/Software-Engineer-Sr-Lead_JR0305643-1) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-04-03.
+This mobile engineer position at Fidelity National Information Services was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# Senior Software Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Senior--Software-Engineer_R-2466378) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2474238) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-09.
+This software engineer position at Walmart was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Principal--R-D-Engineer_32350R) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Principal--R-D-Engineer_33128R) |
 
 ## About This Role
 
-This software engineer position at Vizient was posted on 2026-02-06.
+This software engineer position at Vizient was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

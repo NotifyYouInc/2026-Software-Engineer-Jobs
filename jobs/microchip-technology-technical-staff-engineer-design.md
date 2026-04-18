@@ -1,16 +1,16 @@
-# Technical Staff Engineer-Design at Microchip Technology
+# Technical Staff Engineer - Design at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Burnaby, British Columbia, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer-Design_R699-26) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Technical-Staff-Engineer---Design_R1383-26) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-02-17.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
