@@ -1,16 +1,16 @@
-# Salesforce Developer at Pico
+# Technical Lead, Applications at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4617995006) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/23dec4da-4e88-41c4-95e8-55b46339c3b6) |
 
 ## About This Role
 
-This software engineer position at Pico was posted on 2026-04-10.
+This software engineer position at Bjak was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

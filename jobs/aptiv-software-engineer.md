@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Software Engineer at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Changshu, Jiangsu, China |
 | Category | Software Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changshu-China/Software-Engineer_J000696099) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This software engineer position at Aptiv was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

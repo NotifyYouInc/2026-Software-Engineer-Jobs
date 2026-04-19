@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Sr. Salesforce Developer, Pub Sec at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-272873-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Sr-Salesforce-Developer--Pub-Sec_JR338155) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-04-11.
+This software engineer position at Salesforce was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

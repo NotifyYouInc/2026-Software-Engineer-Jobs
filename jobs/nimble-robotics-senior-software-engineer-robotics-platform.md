@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Senior Software Engineer, Robotics Platform at Nimble Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Nimble Robotics](https://scoutify.ai/companies/nimble-robotics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Category | Robotics Engineer |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nimblerobotics/jobs/4163470009) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This robotics engineer position at Nimble Robotics was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

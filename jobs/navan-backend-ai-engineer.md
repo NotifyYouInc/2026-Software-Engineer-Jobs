@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Backend AI Engineer at Navan
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99045) |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7783028) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-11.
+This ai / llm engineer position at Navan was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

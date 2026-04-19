@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Software Verification Student - SONiC at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
 | Category | Software Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Verification-Student---SONiC_JR2015319) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This software engineer position at Nvidia was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

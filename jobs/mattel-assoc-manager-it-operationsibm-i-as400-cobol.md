@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Assoc Manager IT Operations(IBM i (AS/400) COBOL) at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-272873-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120210307-assoc-manager-it-operationsibm-i-as400-cobol) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-04-11.
+This software engineer position at Mattel was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

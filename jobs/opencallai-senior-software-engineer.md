@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Senior Software Engineer at Opencall.ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Opencall.ai](https://scoutify.ai/companies/opencall-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/opencall-ai/jobs/KiNaZ4C-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This software engineer position at Opencall.ai was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

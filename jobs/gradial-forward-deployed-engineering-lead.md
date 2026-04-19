@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Forward Deployed Engineering Lead at Gradial
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Company | [Gradial](https://scoutify.ai/companies/gradial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Seattle, Washington, United States |
+| Category | Engineering Manager |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99045) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4217519009) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-11.
+This engineering manager position at Gradial was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

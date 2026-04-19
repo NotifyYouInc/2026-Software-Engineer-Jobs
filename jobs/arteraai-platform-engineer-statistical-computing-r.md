@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Platform Engineer, Statistical Computing (R) at ArteraAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [ArteraAI](https://scoutify.ai/companies/artera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Apply | [View on company site](https://jobs.lever.co/artera/f865f76b-2f6e-45b1-89be-ac62028215e7) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This software engineer position at ArteraAI was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

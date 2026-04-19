@@ -1,16 +1,16 @@
-# Senior Software Engineer  - Observability and Reliability at Sigma Computing
+# Forward Deployed Engineer at Bland
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Bland](https://scoutify.ai/companies/bland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7697618003) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-04-12.
+This software engineer position at Bland was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

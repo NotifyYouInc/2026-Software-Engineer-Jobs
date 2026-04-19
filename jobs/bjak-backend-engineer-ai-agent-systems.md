@@ -1,16 +1,16 @@
-# Application Developer-Cloud FullStack at IBM
+# Backend Engineer, AI (Agent Systems) at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore, Singapore |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99045) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/bfc5684c-184e-4bbf-863e-6c729c461e97) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-11.
+This ai / llm engineer position at Bjak was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
