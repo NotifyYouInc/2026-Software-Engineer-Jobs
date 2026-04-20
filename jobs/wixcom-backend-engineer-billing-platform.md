@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000108207145-backend-engineer-billing-platform) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120261237-backend-engineer-billing-platform) |
 
 ## About This Role
 
-This software engineer position at Wix.com was posted on 2026-02-09.
+This software engineer position at Wix.com was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

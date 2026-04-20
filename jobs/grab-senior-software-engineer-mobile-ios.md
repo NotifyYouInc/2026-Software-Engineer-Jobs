@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Mobile Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114898887-senior-software-engineer-mobile-ios) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000120307438-senior-software-engineer-mobile-ios) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-03-16.
+This mobile engineer position at Grab was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

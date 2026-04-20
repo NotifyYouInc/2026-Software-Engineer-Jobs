@@ -6,7 +6,7 @@
 | Location | Araraquara, São Paulo, Brazil |
 | Category | Software Engineer |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---ARARAQUARA/Analista-Desenvolvedor-Junior_51576725) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---ARARAQUARA/Analista-Desenvolvedor-Junior_51576722-1) |
 
 ## About This Role
 

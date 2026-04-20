@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Senior-Software-Engineer_JR111908) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Herzliya-Israel/Senior-Software-Engineer_JR111727) |
 
 ## About This Role
 
-This software engineer position at PTC was posted on 2026-04-07.
+This software engineer position at PTC was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Product-Engineer-II_R53136) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GYEONGGI-DO-Seoul/Product-Engineer-II_R54342) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-26.
+This software engineer position at Cadence Design Systems was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

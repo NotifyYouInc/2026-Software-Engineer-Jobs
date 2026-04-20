@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Giza, Giza, Egypt |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102938) |
+| Category | Software Engineer |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109114) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-13.
+This software engineer position at IBM was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

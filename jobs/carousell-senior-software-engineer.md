@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000114888197-senior-software-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000120306953-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Carousell was posted on 2026-03-16.
+This software engineer position at Carousell was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

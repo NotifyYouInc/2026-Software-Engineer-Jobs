@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118858002-senior-k2-developer) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000120271747-senior-k2-developer) |
 
 ## About This Role
 
-This software engineer position at IQ-EQ was posted on 2026-04-06.
+This software engineer position at IQ-EQ was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

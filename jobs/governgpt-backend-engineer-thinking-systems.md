@@ -5,12 +5,12 @@
 | Company | [GovernGPT](https://scoutify.ai/companies/governgpt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
+| Posted | 2026-04-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems) |
 
 ## About This Role
 
-This software engineer position at GovernGPT was posted on 2026-04-05.
+This software engineer position at GovernGPT was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

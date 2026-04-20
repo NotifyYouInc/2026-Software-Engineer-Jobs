@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000116061087-xengineer-backend-expertise) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120261127-xengineer-backend-expertise) |
 
 ## About This Role
 
-This software engineer position at Wix.com was posted on 2026-03-22.
+This software engineer position at Wix.com was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

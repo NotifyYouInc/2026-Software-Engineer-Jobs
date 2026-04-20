@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Java-Engineer---Axway_JR117044) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Java-Engineer---Axway_JR117045) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-03-25.
+This software engineer position at National Australia Bank (NAB) was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

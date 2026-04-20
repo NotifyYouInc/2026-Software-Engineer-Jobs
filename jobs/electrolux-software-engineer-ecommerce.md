@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Software-Engineer---eCommerce_JR72351) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Software-Engineer---eCommerce_JR72352) |
 
 ## About This Role
 
-This software engineer position at Electrolux was posted on 2026-04-06.
+This software engineer position at Electrolux was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
