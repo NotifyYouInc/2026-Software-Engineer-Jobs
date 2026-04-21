@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108015) |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109220) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-04-06.
+This software engineer position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

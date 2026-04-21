@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Senior-Software-Engineer_JR0033906) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Senior-Software-Engineer_JR0034506) |
 
 ## About This Role
 
-This software engineer position at Airasia was posted on 2026-02-27.
+This software engineer position at Airasia was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

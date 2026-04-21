@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | North Haven, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Software-Engineer-II_R62263) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineer-II_R63613-2) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-03-23.
+This software engineer position at Medtronic was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Analyst---HIH---Evernorth_26003701) |
+| Category | Software Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Analyst---HIH---Evernorth_26003925) |
 
 ## About This Role
 
-This frontend engineer position at Cigna was posted on 2026-03-27.
+This software engineer position at Cigna was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

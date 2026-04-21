@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
-| Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Staff-Software-Engineer---OpenSearch_260422-1) |
+| Location | Karnataka, IN |
+| Category | Software Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Staff-Software-Engineer---OpenSearch_260409) |
 
 ## About This Role
 
-This devops engineer position at Cloudera was posted on 2026-03-25.
+This software engineer position at Cloudera was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

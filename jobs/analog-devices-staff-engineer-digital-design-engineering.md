@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Staff-Engineer--Digital-Design-Engineering_R261443) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Staff-Engineer--Digital-Design-Engineering_R261543) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-17.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

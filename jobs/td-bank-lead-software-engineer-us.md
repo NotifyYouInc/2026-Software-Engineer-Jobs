@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Lead-Software-Engineer--US-_R_1469251-1) |
+| Location | Mount Laurel, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Lead-Software-Engineer--US-_R_1484116) |
 
 ## About This Role
 
-This frontend engineer position at TD Bank was posted on 2026-02-18.
+This software engineer position at TD Bank was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

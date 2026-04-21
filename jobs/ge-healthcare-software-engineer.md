@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Software-Engineer_R4039227-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Software-Engineer_R4039563-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-07.
+This software engineer position at GE HealthCare was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

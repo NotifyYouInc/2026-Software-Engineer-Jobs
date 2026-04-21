@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Software-Engineer_R4039269-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Senior-Software-Engineer_R4039476-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-11.
+This software engineer position at GE HealthCare was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

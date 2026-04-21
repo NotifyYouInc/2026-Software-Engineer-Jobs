@@ -1,16 +1,16 @@
-# Sr. Software Engineer - Cloud (Hybrid) at CrowdStrike
+# Sr. Software Engineer - Cloud  (Hybrid) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NJ/Sr-Software-Engineer---Cloud--Hybrid-_R27883) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NJ/Sr-Software-Engineer---Cloud---Hybrid-_R28163) |
 
 ## About This Role
 
-This software engineer position at CrowdStrike was posted on 2026-03-16.
+This software engineer position at CrowdStrike was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

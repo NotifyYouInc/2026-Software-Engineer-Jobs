@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minnesota, US |
-| Category | Engineering Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Sr-Software-Engineer_R-49209) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Sr-Software-Engineer_R-50150) |
 
 ## About This Role
 
-This engineering manager position at Travelers was posted on 2026-02-26.
+This software engineer position at Travelers was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

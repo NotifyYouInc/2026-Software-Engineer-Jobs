@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Moorestown-NJ/Software-Engineer--Senior_R0236058) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer--Senior_R0237681) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-23.
+This software engineer position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-III---Nextjs-and-Sanity_328403) |
+| Location | Cleveland, Ohio, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-III---Nextjs-and-Sanity_337902) |
 
 ## About This Role
 
-This frontend engineer position at Cleveland Clinic was posted on 2026-03-12.
+This software engineer position at Cleveland Clinic was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

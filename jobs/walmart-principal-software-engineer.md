@@ -1,16 +1,16 @@
-# Principal, Software Engineer at Walmart
+# PRINCIPAL, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Seattle-WA/Principal--Software-Engineer_R-2457607) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/PRINCIPAL--SOFTWARE-ENGINEER_R-2442789) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-10.
+This software engineer position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

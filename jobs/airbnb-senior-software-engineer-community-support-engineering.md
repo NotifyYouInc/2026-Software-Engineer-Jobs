@@ -1,16 +1,16 @@
-# Senior Software Engineer, Community Support Engineering  at Airbnb
+# Senior Software Engineer, Community Support Engineering at Airbnb
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | China |
 | Category | Technical Support Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7643974?gh_jid=7643974) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7811237?gh_jid=7811237) |
 
 ## About This Role
 
-This technical support engineer position at Airbnb was posted on 2026-02-20.
+This technical support engineer position at Airbnb was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Field Application Engineer - A&D at TTM Technologies
+
+| Field | Details |
+|-------|---------|
+| Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Connecticut, US |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Connecticut/Field-Application-Engineer---A-D_R15463) |
+
+## About This Role
+
+This software engineer position at TTM Technologies was posted on 2026-04-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

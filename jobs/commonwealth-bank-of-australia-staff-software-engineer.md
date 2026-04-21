@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Staff-Software-Engineer_REQ255981-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Eveleigh-NSW---1-Locomotive-Street/Staff-Software-Engineer_REQ256728) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-04-09.
+This software engineer position at Commonwealth Bank of Australia was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

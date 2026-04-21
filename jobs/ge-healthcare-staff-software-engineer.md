@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/FIN03-01-Helsinki-Kuortaneenkatu-2/Staff-Software-Engineer_R4038803-2) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Staff-Software-Engineer_R4039543-2) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-03-30.
+This software engineer position at GE HealthCare was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

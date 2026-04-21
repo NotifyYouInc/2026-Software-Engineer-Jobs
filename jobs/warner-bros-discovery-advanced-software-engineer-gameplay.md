@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Utah, US |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Remote-California/Advanced-Software-Engineer--Gameplay_R000101536) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Remote-Utah/Advanced-Software-Engineer--Gameplay_R000104426-1) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-03-13.
+This software engineer position at Warner Bros Discovery was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Experienced Software Engineer - Developer at Boeing
+# Experienced Software Engineer, Developer at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tukwila, Washington, United States |
+| Location | Seal Beach, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experienced-Software-Engineer---Developer_JR2026500758-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Software-Engineer--Developer_JR2026504257-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-03-13.
+This software engineer position at Boeing was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

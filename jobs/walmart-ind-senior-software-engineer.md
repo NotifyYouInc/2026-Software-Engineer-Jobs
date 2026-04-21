@@ -1,16 +1,16 @@
-# IND) SENIOR, SOFTWARE ENGINEER at Walmart
+# (IND) SENIOR, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/IND--SENIOR--SOFTWARE-ENGINEER_R-2449703) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP2/XMLNAME--IND--SENIOR--SOFTWARE-ENGINEER_R-2450376-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-07.
+This software engineer position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/SAP-Platform-Engineer_51577512) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/SAP-Platform-Engineer_51577847) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-13.
+This software engineer position at DXC Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

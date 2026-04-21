@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Quebec, CA |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93666) |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109783) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-02-19.
+This software engineer position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

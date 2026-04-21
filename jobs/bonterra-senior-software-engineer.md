@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bonterra](https://scoutify.ai/companies/bonterra?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ontario, CA |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Senior-Software-Engineer_R2026-0120) |
+| Location | California, US |
+| Category | Software Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-US-California/Senior-Software-Engineer_R2026-0127) |
 
 ## About This Role
 
-This frontend engineer position at Bonterra was posted on 2026-03-26.
+This software engineer position at Bonterra was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

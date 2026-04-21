@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Peabody, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NC-North-Carolina-Remote-Employees/Field-Applications-Engineer_R242612) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Peabody-Massachusetts-Technology-Dr/Field-Applications-Engineer_R239741) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-04-03.
+This software engineer position at Arrow Electronics was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
