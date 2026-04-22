@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Assoc--P2--Software-Eng-II---Job-Level---Associate_PT-JR029557-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Assoc--P2--Software-Eng-II---Job-Level---Associate_PT-JR033310) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-03-02.
+This software engineer position at Morgan Stanley was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer---Target-India_R0000430051) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer---Target-India_R0000435293-1) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-02-18.
+This software engineer position at Target was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

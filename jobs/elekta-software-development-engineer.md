@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elekta](https://scoutify.ai/companies/elekta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Development-Engineer_R2026-0579) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Shanghai/Software-Development-Engineer_R2026-0418) |
 
 ## About This Role
 
-This software engineer position at Elekta was posted on 2026-04-10.
+This software engineer position at Elekta was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

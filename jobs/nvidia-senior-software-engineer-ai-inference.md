@@ -1,16 +1,16 @@
-# Senior Software Engineer, AI Inference at Nvidia
+# Senior Software Engineer - AI Inference at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Santa Clara, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Software-Engineer--AI-Inference_JR2016014) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Inference_JR2016392) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-04-10.
+This ai / llm engineer position at Nvidia was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

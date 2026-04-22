@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior--Software-Engineer_R-2467937-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior--Software-Engineer_R-2456296) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-13.
+This software engineer position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

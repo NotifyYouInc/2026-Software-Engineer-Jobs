@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HackerRank](https://scoutify.ai/companies/hackerrank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hackerrank/jobs/7548049) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hackerrank/jobs/7729186) |
 
 ## About This Role
 
-This software engineer position at HackerRank was posted on 2026-02-09.
+This software engineer position at HackerRank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

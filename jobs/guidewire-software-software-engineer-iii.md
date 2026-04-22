@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Canada---Toronto/Software-Engineer-III_JR_14670-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer-III_JR_14718) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-04-10.
+This software engineer position at Guidewire Software was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

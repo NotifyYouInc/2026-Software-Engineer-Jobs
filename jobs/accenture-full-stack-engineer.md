@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 8 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Full-Stack-Engineer_ATCI-5202574-S1921596-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Full-Stack-Engineer_ATCP-1372872-S422283) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-13.
+This software engineer position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

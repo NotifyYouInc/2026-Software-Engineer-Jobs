@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist-I_570067-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist-I_567140) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-03-10.
+This software engineer position at Philips was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

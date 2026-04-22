@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I_580824) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I_579945) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-04-09.
+This software engineer position at Philips was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

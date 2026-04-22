@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical Writer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000925358-eg-senior-software-engineer-java) |
+| Category | Software Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000998590-eg-senior-software-engineer-java) |
 
 ## About This Role
 
-This technical writer position at NCS was posted on 2026-03-11.
+This software engineer position at NCS was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

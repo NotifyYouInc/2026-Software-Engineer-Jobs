@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Limerick, Munster, Ireland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Engineer--Test-Engineering---Product-Development_R261276-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-Engineer--Test-Engineering---Product-Development_R262103) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-03-27.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
