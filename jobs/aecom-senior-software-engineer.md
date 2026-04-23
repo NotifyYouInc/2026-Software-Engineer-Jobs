@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000118620558-senior-software-engineer) |
+| Location | Houston, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121059228-senior-software-engineer) |
 
 ## About This Role
 
-This devops engineer position at AECOM was posted on 2026-04-03.
+This software engineer position at AECOM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

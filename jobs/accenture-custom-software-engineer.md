@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Software-Development-Engineer_ATCI-5066612-S1878315) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5526398-S2014848-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-14.
+This software engineer position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Chandler, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Staff-Engineer--Digital-Design-Engineering_R261543) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Staff-Engineer--Digital-Design-Engineering_R261739) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-13.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

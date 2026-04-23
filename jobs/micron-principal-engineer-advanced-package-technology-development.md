@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Principal-Engineer-Advanced-Package-Technology-Development_JR95525) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Principal-Engineer-Advanced-Package-Technology-Development_JR95526-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-13.
+This semiconductor / chip design position at Micron was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

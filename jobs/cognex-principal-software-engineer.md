@@ -5,12 +5,12 @@
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Aachen, North Rhine-Westphalia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Aachen-Germany/Principal-Software-Engineer_R0011835) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Aachen-Germany/Principal-Software-Engineer_R0011901) |
 
 ## About This Role
 
-This software engineer position at Cognex was posted on 2026-04-06.
+This software engineer position at Cognex was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

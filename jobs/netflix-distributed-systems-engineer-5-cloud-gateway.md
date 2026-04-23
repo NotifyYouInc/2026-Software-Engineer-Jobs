@@ -1,16 +1,16 @@
-# Distributed Systems Engineer 5 – Cloud Gateway at Netflix
+# Distributed Systems Engineer 5 - Cloud Gateway at Netflix
 
 | Field | Details |
 |-------|---------|
 | Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/North-Carolina---Remote/Distributed-Systems-Engineer--L5----Cloud-Gateway_JR36748) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Distributed-Systems-Engineer-5---Cloud-Gateway_JR40075) |
 
 ## About This Role
 
-This software engineer position at Netflix was posted on 2026-04-11.
+This software engineer position at Netflix was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

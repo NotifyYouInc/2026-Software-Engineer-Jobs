@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Georgia, US |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Georgia-FIELD/Engineer--Software-Engineer--Manufacturing-Applications----OpCenter-MES_20175847-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Georgia-FIELD/Engineer--Software-Engineer--Manufacturing-Applications----OpCenter-MES_20179038) |
 
 ## About This Role
 
-This software engineer position at Cardinal Health was posted on 2026-02-27.
+This software engineer position at Cardinal Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

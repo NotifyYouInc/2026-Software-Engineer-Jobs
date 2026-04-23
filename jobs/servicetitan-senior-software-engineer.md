@@ -5,12 +5,12 @@
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer_JR113956) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer_JR114183) |
 
 ## About This Role
 
-This software engineer position at ServiceTitan was posted on 2026-02-19.
+This software engineer position at ServiceTitan was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

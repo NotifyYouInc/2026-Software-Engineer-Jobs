@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Senior-Software-Engineer---Marketing-Cloud-Platform-Department--MCPD-_1032340-159) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Senior-Software-Engineer---Marketing-Cloud-Platform-Department--MCPD-_1032954-143) |
 
 ## About This Role
 
-This software engineer position at Rakuten was posted on 2026-03-18.
+This software engineer position at Rakuten was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

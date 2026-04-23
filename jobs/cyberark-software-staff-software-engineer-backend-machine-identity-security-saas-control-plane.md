@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000119482147-staff-software-engineer-backend-machine-identity-security-saas-control-plane) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000121085377-staff-software-engineer-backend-machine-identity-security-saas-control-plane) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-04-08.
+This software engineer position at CyberArk Software was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R167204) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R167784) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-04-15.
+This software engineer position at Adobe was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

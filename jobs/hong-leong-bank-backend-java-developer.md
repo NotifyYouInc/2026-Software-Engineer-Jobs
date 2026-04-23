@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Backend-Java-Developer_JR0000024183) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Backend-Java-Developer_JR0000024290) |
 
 ## About This Role
 
-This software engineer position at Hong Leong Bank was posted on 2026-04-10.
+This software engineer position at Hong Leong Bank was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

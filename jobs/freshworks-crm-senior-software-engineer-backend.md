@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Mateo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108683156-senior-software-engineer-backend) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000121050326-senior-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-02-11.
+This software engineer position at Freshworks CRM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

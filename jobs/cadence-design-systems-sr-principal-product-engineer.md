@@ -1,16 +1,16 @@
-# Sr Principal Product Engineer at Cadence Design Systems
+# Sr. Principal Product Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Product-Engineer_R53758-4) |
+| Location | India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Product-Engineer_R54391) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-24.
+This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

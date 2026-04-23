@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Ohio, US |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Engineer--Application-Development-and-Maintenance_20175929) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--Application-Development-and-Maintenance_20177380) |
 
 ## About This Role
 
-This software engineer position at Cardinal Health was posted on 2026-02-23.
+This software engineer position at Cardinal Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

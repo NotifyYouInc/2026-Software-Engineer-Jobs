@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118320967-lead-software-engineer-backend) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121101057-lead-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-02.
+This software engineer position at Grab was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

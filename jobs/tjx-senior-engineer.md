@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mascot, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Senior-Engineer_REQ100584-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mascot-NSW-2020/Senior-Engineer_REQ108952) |
 
 ## About This Role
 
-This software engineer position at TJX was posted on 2026-03-16.
+This software engineer position at TJX was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

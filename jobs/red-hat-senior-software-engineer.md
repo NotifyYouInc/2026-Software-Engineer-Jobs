@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Principal-Software-Engineer_R-049252-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer_R-056088-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-04-06.
+This software engineer position at Red Hat was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

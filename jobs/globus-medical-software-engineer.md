@@ -5,12 +5,12 @@
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Software-Engineer_JR105748) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Software-Engineer_JR106386) |
 
 ## About This Role
 
-This software engineer position at Globus Medical was posted on 2026-02-05.
+This software engineer position at Globus Medical was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

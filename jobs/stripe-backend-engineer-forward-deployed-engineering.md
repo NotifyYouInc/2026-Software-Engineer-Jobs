@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7249744) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7819618) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-03-03.
+This software engineer position at Stripe was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

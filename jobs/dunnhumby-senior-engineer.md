@@ -5,12 +5,12 @@
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7697108003) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7702290003) |
 
 ## About This Role
 
-This software engineer position at dunnhumby was posted on 2026-04-10.
+This software engineer position at dunnhumby was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Da Nang, Da Nang City, Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000112092721-senior-java-software-engineer-based-in-da-nang) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000121099767-senior-java-software-engineer-based-in-da-nang) |
 
 ## About This Role
 
-This software engineer position at KMS Technology was posted on 2026-03-02.
+This software engineer position at KMS Technology was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
