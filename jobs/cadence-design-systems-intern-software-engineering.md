@@ -1,16 +1,16 @@
-# Intern-Software Engineering at Cadence Design Systems
+# Intern - Software Engineering at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Michigan, US |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GYEONGGI-DO-Seoul/Intern---Software-Engineering_R52121) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-14.
+This software engineer position at Cadence Design Systems was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

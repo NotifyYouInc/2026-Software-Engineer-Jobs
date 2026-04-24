@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000102854) |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000103735) |
 
 ## About This Role
 
-This frontend engineer position at Warner Bros Discovery was posted on 2026-03-26.
+This software engineer position at Warner Bros Discovery was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

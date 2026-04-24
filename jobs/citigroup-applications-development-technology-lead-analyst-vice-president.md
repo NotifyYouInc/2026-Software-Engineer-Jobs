@@ -1,16 +1,16 @@
-# Applications Development Technology Lead Analyst -Vice President at Citigroup
+# Applications Development Technology Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Development-Technology-Lead-Analyst--Vice-President_26940634) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Technology-Lead-Analyst---Vice-President_26951051) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-03-23.
+This software engineer position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

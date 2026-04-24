@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GYEONGGI-DO-Seoul/Lead-Product-Engineer_R54341) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Product-Engineer_R48413) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-04-13.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

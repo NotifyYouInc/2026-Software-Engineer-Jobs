@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Santiago--Chile/Apps-Dev-Intmd-Programmer-Analyst_25900308) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Apps-Dev-Intmd-Programmer-Analyst_26952132) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-06.
+This software engineer position at Citigroup was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ashburn, Virginia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Full-Stack-Developer_R-00178976) |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Full-Stack-Developer_R-00181113) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-03-20.
+This software engineer position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

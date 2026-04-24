@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108633) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110557) |
 
 ## About This Role
 

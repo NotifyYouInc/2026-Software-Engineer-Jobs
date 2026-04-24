@@ -1,16 +1,16 @@
-# Senior Software Engineer- Fullstack at Microsoft
+# Senior Software Engineer -Fullstack at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834825) |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858871) |
 
 ## About This Role
 
-This frontend engineer position at Microsoft was posted on 2026-03-17.
+This software engineer position at Microsoft was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

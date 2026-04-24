@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karntaka-India/Software-Engineer-II--Data-Center-Packet-Forwarding-_1202810) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Software-Engineer-II--Data-Center-Packet-Forwarding-_1203857) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-05.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

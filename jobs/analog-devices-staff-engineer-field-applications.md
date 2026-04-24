@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261453) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Staff-Engineer--Field-Applications_R262048) |
 
 ## About This Role
 
-This customer success position at Analog Devices was posted on 2026-03-20.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

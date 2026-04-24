@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Italy |
-| Category | Customer Success |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/TAVAGNACCO-01/Sr-Application-Engineer_R53797) |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VELIZY-Paris/Sr-Application-Engineer_R54185) |
 
 ## About This Role
 
-This customer success position at Cadence Design Systems was posted on 2026-03-14.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kernel](https://scoutify.ai/companies/kernel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kernel/f0f66ea4-cf94-4672-a82c-d76bf392d4d6) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kernel/fa906a02-51be-4d21-bf8a-2e918965dd8a) |
 
 ## About This Role
 
-This software engineer position at Kernel was posted on 2026-02-13.
+This frontend engineer position at Kernel was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

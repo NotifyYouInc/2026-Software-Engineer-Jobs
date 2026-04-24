@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forrester](https://scoutify.ai/companies/forrester?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/India/Senior-Software-Engineer_R-101438) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/Bangalore---Delhi-India/Senior-Software-Engineer_R-101483) |
 
 ## About This Role
 
-This frontend engineer position at Forrester was posted on 2026-02-27.
+This software engineer position at Forrester was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

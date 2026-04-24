@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-KY-Louisville/Software-Engineer_J00175731) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IRL---Dublin/Software-Engineer_J00175562) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-04-10.
+This software engineer position at Equifax was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Alabama, US |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/5870-Trinity-Parkway-Centreville-VA/Software-Engineer_7460) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Arsenal-Alabama/Software-Engineer_7552-1) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-04-13.
+This software engineer position at AeroVironment was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
