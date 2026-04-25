@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Desarrollador-backend_14264881) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Desarrollador-backend_14264878) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-13.
+This software engineer position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

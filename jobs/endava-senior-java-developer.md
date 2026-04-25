@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Split, Split-Dalmatia, Croatia |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000118611449-senior-java-developer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000121425265-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-04-03.
+This software engineer position at Endava was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

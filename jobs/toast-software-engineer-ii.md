@@ -1,16 +1,16 @@
-# Software Engineer II  at Toast
+# Software Engineer II at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7633305) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7656431) |
 
 ## About This Role
 
-This frontend engineer position at Toast was posted on 2026-02-24.
+This software engineer position at Toast was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

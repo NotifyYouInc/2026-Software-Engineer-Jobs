@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Folsom, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0281198) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-30.
+This software engineer position at Intel was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

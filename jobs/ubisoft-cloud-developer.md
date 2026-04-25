@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000115751477-cloud-developer) |
+| Category | Software Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000121466297-cloud-developer) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-03-19.
+This software engineer position at Ubisoft was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

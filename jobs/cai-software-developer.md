@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Trenton, New Jersey, United States |
+| Location | Hamilton, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/NJ-CLIENT-STATE/Software-Developer_R7364) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/NJ-CLIENT-STATE/Software-Developer_R7571) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-03-18.
+This software engineer position at CAI was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

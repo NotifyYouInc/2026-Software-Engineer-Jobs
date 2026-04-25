@@ -5,12 +5,12 @@
 | Company | [CesiumAstro](https://scoutify.ai/companies/CesiumAstro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/1f61000f-399d-4d07-a30c-67a155d381ca) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/083bb512-2ab7-42e0-b8e1-c0cffeec03a4) |
 
 ## About This Role
 
-This software engineer position at CesiumAstro was posted on 2026-03-10.
+This software engineer position at CesiumAstro was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

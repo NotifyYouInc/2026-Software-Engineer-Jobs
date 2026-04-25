@@ -1,16 +1,16 @@
-# Senior, Software Engineer at Walmart
+# SENIOR, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2458857) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SENIOR--SOFTWARE-ENGINEER_R-2472758-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-16.
+This software engineer position at Walmart was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

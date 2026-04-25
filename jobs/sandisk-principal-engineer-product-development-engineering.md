@@ -1,16 +1,16 @@
-# Principal Engineer, Product Development Engineering at SanDisk
+# principal engineer, product development engineering at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kedah, MY |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117208617-principal-engineer-product-development-engineering) |
+| Location | Milpitas, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000121417042-principal-engineer-product-development-engineering) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-03-27.
+This electrical / hardware engineer position at SanDisk was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

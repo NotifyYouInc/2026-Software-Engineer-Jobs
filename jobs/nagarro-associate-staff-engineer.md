@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107662345-associate-staff-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121466551-associate-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-06.
+This software engineer position at Nagarro was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

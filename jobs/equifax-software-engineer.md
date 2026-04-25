@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IRL---Dublin/Software-Engineer_J00175562) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Software-Engineer_J00176051) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-04-16.
+This software engineer position at Equifax was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

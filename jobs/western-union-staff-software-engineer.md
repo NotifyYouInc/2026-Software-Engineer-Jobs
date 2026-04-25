@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA-TX---Austin---11902-Burnet-Rd/Staff-Software-Engineer_JR0125408) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA-TX---Austin---11902-Burnet-Rd/Staff-Software-Engineer_JR0130017) |
 
 ## About This Role
 
-This software engineer position at Western Union was posted on 2026-03-23.
+This software engineer position at Western Union was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

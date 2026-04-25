@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Rex Solutions](https://scoutify.ai/companies/t-rex-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hanover, Maryland, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8465350002) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8512513002) |
 
 ## About This Role
 
-This software engineer position at T-Rex Solutions was posted on 2026-03-16.
+This software engineer position at T-Rex Solutions was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

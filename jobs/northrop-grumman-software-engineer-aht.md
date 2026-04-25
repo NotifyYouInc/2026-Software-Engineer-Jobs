@@ -1,16 +1,16 @@
-# Software Engineer (AHT) at Northrop Grumman
+# Software Engineer  (AHT) at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Manhattan Beach, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-Engineer--AHT-_R10228473) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-Engineer---AHT-_R10230007) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-04-03.
+This software engineer position at Northrop Grumman was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

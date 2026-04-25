@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-PA-Philadelphia/Senior-Software-Engineer_324313) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NJ-Florham-Park/Senior-Software-Engineer_325051) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-04-03.
+This software engineer position at CACI was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

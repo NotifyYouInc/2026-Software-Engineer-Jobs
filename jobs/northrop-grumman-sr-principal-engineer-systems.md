@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Sr-Principal-Engineer-Systems_R10224883) |
+| Location | Virginia, US |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Sr-Principal-Engineer-Systems_R10229818) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-05.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

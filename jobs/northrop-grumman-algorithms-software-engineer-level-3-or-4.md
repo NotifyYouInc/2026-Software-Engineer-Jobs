@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boulder, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Principal---Sr-Principal-Algorithms-Software-Engineer_R10209316) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-3-or-4_R10230059) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-09.
+This software engineer position at Northrop Grumman was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

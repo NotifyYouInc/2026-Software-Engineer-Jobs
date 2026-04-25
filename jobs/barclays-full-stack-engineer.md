@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Engineer_JR-0000094867-1) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Full-Stack-Engineer_JR-0000102281-1) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-04-01.
+This software engineer position at Barclays was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

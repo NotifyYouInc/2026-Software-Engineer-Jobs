@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woodland Hills, California, United States |
+| Location | Rolling Meadows, Illinois, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Embedded-Software-Engineer_R10223916) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Embedded-Software-Engineer_R10229977) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-02-24.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

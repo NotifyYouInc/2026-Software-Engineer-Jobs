@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Dallas-TX/Summer-2026-Internship---Computer-Science-Majors_R12233) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Dallas-TX/Summer-2026-Internship---Computer-Science-Majors_R12241) |
 
 ## About This Role
 
-This software engineer position at Western Alliance Bancorporation was posted on 2026-03-25.
+This software engineer position at Western Alliance Bancorporation was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

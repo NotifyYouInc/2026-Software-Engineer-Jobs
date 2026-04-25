@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110557) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110668) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-16.
+This software engineer position at IBM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

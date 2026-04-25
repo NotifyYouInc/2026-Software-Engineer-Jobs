@@ -1,16 +1,16 @@
-# Software Engineer at Twilio
+# Software Engineer  at Twilio
 
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7785202) |
 
 ## About This Role
 
-This software engineer position at Twilio was posted on 2026-02-11.
+This software engineer position at Twilio was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

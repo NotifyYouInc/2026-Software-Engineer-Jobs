@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Aachen, North Rhine-Westphalia, Germany |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Aachen-Germany/Senior-Software-Engineer_R0011900) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Budapest-Hungary/Senior-Software-Engineer_R0011708) |
 
 ## About This Role
 
-This software engineer position at Cognex was posted on 2026-04-15.
+This software engineer position at Cognex was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

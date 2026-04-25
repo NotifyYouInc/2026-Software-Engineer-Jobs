@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Principal--Software-Engineer_R-2234253-1) |
+| Location | Bentonville, Arkansas, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Principal--Software-Engineer_R-2479340-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Walmart was posted on 2026-02-15.
+This software engineer position at Walmart was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

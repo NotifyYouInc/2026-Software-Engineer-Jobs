@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Software-Engineer_REQ495906) |
+| Location | Mexico |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Software-Engineer_REQ500139) |
 
 ## About This Role
 
-This frontend engineer position at JLL was posted on 2026-04-01.
+This ai / llm engineer position at JLL was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

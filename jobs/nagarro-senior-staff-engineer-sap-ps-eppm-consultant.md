@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000120999399-senior-staff-engineer-sap-ps-eppm-consultant) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121485639-senior-staff-engineer-sap-ps-eppm-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Nagarro was posted on 2026-04-15.
+This technology / it consulting position at Nagarro was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

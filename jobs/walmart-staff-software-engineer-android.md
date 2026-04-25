@@ -1,16 +1,16 @@
-# Staff, Software Engineer - ANDROID at Walmart
+# Staff, Software Engineer - Android at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Mobile Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer---ANDROID_R-2422692-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer---Android_R-2470157) |
 
 ## About This Role
 
-This mobile engineer position at Walmart was posted on 2026-04-03.
+This mobile engineer position at Walmart was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
