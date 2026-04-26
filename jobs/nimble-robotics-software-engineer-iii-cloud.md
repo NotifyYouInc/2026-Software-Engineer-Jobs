@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Software Engineer III, Cloud at Nimble Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Nimble Robotics](https://scoutify.ai/companies/nimble-robotics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nimblerobotics/jobs/4225783009) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Nimble Robotics was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

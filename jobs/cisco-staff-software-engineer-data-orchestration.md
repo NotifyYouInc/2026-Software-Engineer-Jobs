@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Staff Software Engineer, Data Orchestration at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2010892) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Cisco was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

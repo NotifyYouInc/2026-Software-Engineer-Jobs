@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Michigan, US |
+| Location | Reston, Virginia, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Developer_R-00181181) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Developer_R-00181246) |
 
 ## About This Role
 

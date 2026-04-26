@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Principal Engineer, Python Devops at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574287-principal-engineer-python-devops) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This devops engineer position at Nagarro was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

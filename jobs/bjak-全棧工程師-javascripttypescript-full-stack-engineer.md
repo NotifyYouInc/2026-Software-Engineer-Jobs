@@ -1,12 +1,12 @@
-# Lead Software Engineer (Remote) at Bjak
+# 全棧工程師, JavaScript/TypeScript (Full Stack Engineer) at Bjak
 
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e0b2b1c7-f98f-4761-bc25-fc29097a576d) |
 
 ## About This Role
 

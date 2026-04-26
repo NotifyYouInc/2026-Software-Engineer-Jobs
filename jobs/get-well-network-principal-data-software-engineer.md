@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Principal Data Software Engineer at Get Well Network
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Get Well Network](https://scoutify.ai/companies/get-well-network?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/getwellnetwork/jobs/5193322008) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Get Well Network was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

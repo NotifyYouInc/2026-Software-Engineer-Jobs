@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Technical Lead at Cineplex
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cineplex](https://scoutify.ai/companies/cineplex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cineplex.wd3.myworkdayjobs.com/cineplex/job/Toronto-Canada/Technical-Lead_JR-111372) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Cineplex was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

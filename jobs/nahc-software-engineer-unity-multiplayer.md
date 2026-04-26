@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Software Engineer (Unity Multiplayer) at Nahc
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Nahc](https://scoutify.ai/companies/nahc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.lever.co/nahc/a0398d76-ecff-4665-ac48-fcd43f80264c) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Nahc was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

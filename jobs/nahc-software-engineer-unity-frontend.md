@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Software Engineer (Unity Frontend) at Nahc
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Nahc](https://scoutify.ai/companies/nahc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.lever.co/nahc/4c95f686-57ae-496e-ada8-d849b300e98a) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Nahc was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

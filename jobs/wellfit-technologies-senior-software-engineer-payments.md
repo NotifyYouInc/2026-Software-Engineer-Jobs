@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Senior Software Engineer, Payments at Wellfit Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Wellfit Technologies](https://scoutify.ai/companies/wellfit-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.lever.co/wellfit/133e53e5-b2a8-46f5-b50a-7f8ead95ec33) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Wellfit Technologies was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

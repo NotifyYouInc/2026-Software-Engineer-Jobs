@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Senior Software Developer, Derivatives at Robinhood
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/5400711?t=gh_src=&gh_jid=5400711) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Robinhood was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

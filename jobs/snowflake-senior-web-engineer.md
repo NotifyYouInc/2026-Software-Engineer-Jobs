@@ -1,16 +1,16 @@
-# Lead Software Engineer (Remote) at Bjak
+# Senior Web Engineer at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/ac6fae3a-8ace-4ef4-857d-b03cc1f870ac) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Snowflake was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

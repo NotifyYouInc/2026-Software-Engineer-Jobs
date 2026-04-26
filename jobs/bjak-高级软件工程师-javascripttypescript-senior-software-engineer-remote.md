@@ -1,12 +1,12 @@
-# Lead Software Engineer (Remote) at Bjak
+# 高级软件工程师, JavaScript/TypeScript (Senior Software Engineer) (Remote) at Bjak
 
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | China |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8531fe0e-36ae-438b-8500-488cfac8832e) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d883cf6a-67f0-41fd-a003-06550a38c918) |
 
 ## About This Role
 

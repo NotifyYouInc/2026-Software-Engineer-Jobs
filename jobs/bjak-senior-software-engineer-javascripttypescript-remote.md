@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fc9bfc7e-10fc-4c91-ae40-d9f60ddc281d) |
+| Location | Indonesia |
+| Category | Software Engineer |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d338800d-b435-46f6-8e4a-d9f418bbf929) |
 
 ## About This Role
 
-This frontend engineer position at Bjak was posted on 2026-03-27.
+This software engineer position at Bjak was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

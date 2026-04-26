@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000120173767-staff-engineer-java-backbase) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-11.
+This software engineer position at Nagarro was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
