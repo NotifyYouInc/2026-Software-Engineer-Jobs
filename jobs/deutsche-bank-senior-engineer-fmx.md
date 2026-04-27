@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/Senior-Engineer--f-m-x-_R0427247-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/Senior-Engineer--f-m-x-_R0425883) |
 
 ## About This Role
 
-This frontend engineer position at Deutsche Bank was posted on 2026-03-27.
+This software engineer position at Deutsche Bank was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

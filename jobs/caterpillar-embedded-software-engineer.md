@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000358499) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Christchurch--New-Zealand/Embedded-Software-Engineer_R0000362604) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-03-24.
+This embedded / firmware engineer position at Caterpillar was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

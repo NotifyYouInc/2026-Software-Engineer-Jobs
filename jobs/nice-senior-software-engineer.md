@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Israel |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4813644101?gh_jid=4813644101) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4844811101?gh_jid=4844811101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-03-22.
+This software engineer position at NiCE was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

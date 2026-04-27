@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Vietnam |
 | Category | Mobile Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114898317-senior-software-engineer-mobile-android) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121677777-senior-software-engineer-mobile-android) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-03-16.
+This mobile engineer position at Grab was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

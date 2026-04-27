@@ -1,0 +1,22 @@
+# Technology Intern - University of Auckland IT Internship Programme at University of Auckland
+
+| Field | Details |
+|-------|---------|
+| Company | [University of Auckland](https://scoutify.ai/companies/university-of-auckland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Software Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000121670467-technology-intern-university-of-auckland-it-internship-programme) |
+
+## About This Role
+
+This software engineer position at University of Auckland was posted on 2026-04-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

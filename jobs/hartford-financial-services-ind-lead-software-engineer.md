@@ -1,16 +1,16 @@
-# IND Lead Software Engineer at Hartford Financial Services
+# IND - Lead Software Engineer at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer_R2624756) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Lead-Software-Engineer_R2624905) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-04-17.
+This software engineer position at Hartford Financial Services was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

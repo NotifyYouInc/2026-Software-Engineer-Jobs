@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Software-Engineer_1203703-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Software-Engineer_1203642-1) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-03.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

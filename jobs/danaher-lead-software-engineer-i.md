@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer-I_R1306733) |
+| Category | Software Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer-I_R1309448-1) |
 
 ## About This Role
 
-This frontend engineer position at Danaher was posted on 2026-03-06.
+This software engineer position at Danaher was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New South Wales, AU |
-| Category | Mobile Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Moorebank-New-South-Wales-Australia/Software-Engineer_JR00028142) |
+| Location | Karnataka, IN |
+| Category | Software Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Software-Engineer_JR00031438) |
 
 ## About This Role
 
-This mobile engineer position at ABB was posted on 2026-03-26.
+This software engineer position at ABB was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

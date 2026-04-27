@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Senior-Engineer---Software-Development_JR102153) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Mumbai/Specialist---Software-Development--PCI_JR101901) |
 
 ## About This Role
 
-This software engineer position at Accelya World was posted on 2026-03-13.
+This software engineer position at Accelya World was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556751888) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556855385) |
 
 ## About This Role
 

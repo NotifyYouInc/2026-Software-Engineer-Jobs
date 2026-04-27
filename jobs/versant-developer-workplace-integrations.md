@@ -6,7 +6,7 @@
 | Location | New York, US |
 | Category | Software Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000121473244-developer-workplace-integrations) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000121483418-developer-workplace-integrations) |
 
 ## About This Role
 

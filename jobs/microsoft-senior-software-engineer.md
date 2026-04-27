@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858375) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556641698) |
 
 ## About This Role
 

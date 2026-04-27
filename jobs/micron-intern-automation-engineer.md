@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern-Automation-Engineer_JR98113) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern-Automation-Engineer_JR98115) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-04-16.
+This industrial automation position at Micron was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000347199) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000363753) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-05.
+This software engineer position at Caterpillar was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

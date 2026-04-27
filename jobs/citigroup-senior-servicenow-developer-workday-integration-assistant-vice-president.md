@@ -1,16 +1,16 @@
-# Senior ServiceNow developer  (Workday Integration) -  Assistant Vice President at Citigroup
+# Senior ServiceNow developer (Workday Integration) - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-ServiceNow-developer---Workday-Integration-----Assistant-Vice-President_26950032) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-ServiceNow-developer--Workday-Integration----Assistant-Vice-President_26949826) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-09.
+This software engineer position at Citigroup was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

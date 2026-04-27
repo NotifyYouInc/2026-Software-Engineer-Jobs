@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nagoya, Aichi, Japan |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Ariake---Tokyo-Japan/SW-Engineer--Telematics_R-52513-2026-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Ariake---Tokyo-Japan/SW-Engineer--Telematics_R-52514-2026-1) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-03-30.
+This software engineer position at HARMAN International was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
