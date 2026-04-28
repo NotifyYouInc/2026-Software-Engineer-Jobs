@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4844811101?gh_jid=4844811101) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4842983101?gh_jid=4842983101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-04-19.
+This software engineer position at NiCE was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore/Principal-Engineer--Digital-Design-Engineering_R260977) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Principal-Engineer--Digital-Design-Engineering_R261841) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-13.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

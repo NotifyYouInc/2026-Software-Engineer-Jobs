@@ -5,12 +5,12 @@
 | Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/fed139c1-e972-423a-835c-b7bd19ea8b3a) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7) |
 
 ## About This Role
 
-This software engineer position at Mercor was posted on 2026-03-25.
+This software engineer position at Mercor was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

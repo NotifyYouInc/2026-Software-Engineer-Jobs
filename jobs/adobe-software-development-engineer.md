@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-3_R164977) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167606) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-04-16.
+This software engineer position at Adobe was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

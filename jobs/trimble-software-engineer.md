@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westminster, Colorado, United States |
+| Location | Minnesota, US |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R52998) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-MN/Software-Engineer_R55753-1) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-04-13.
+This software engineer position at Trimble was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

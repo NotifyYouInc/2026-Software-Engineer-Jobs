@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Lead-Java-Engineer---Merchant-Services_JR117379) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Lead-Java-Engineer---Merchant-Services_JR117771) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-04-05.
+This software engineer position at National Australia Bank (NAB) was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

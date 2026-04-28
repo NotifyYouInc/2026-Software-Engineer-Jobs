@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7728280?gh_jid=7728280) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7310605?gh_jid=7310605) |
 
 ## About This Role
 
-This software engineer position at Zuora was posted on 2026-03-23.
+This software engineer position at Zuora was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

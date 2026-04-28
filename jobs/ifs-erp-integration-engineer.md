@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000119516723-erp-integration-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000121935867-erp-integration-engineer) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-04-09.
+This software engineer position at IFS was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

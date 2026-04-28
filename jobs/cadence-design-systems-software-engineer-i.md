@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53533-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R50810-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-09.
+This software engineer position at Cadence Design Systems was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

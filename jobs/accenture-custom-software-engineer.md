@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Developer_ATCI-4987065-S1921341-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5438873-S1980466-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-19.
+This software engineer position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/4102236004) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/5977189004) |
 
 ## About This Role
 
-This software engineer position at Loop was posted on 2026-04-06.
+This software engineer position at Loop was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

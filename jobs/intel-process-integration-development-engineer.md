@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hillsboro, Oregon, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer_JR0282758) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer_JR0283219) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-07.
+This semiconductor / chip design position at Intel was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

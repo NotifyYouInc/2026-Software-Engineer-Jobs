@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineering-Lead_R107731) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Australia---Sydney/Software-Engineering-Lead_R111619) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-11.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

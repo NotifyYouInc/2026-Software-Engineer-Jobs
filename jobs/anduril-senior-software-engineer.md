@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | Waltham, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5036672007?gh_jid=5036672007) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5115222007?gh_jid=5115222007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-06.
+This software engineer position at Anduril was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

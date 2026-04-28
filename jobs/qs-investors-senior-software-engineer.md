@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Senior-Software-Engineer_866991) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Senior-Software-Engineer_867639) |
 
 ## About This Role
 
-This software engineer position at QS Investors was posted on 2026-04-16.
+This software engineer position at QS Investors was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

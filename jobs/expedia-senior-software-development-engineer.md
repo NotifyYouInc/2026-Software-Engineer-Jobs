@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Software-Development-Engineer_R-103148) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Senior-Software-Development-Engineer_R-104521) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-03-30.
+This software engineer position at Expedia was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

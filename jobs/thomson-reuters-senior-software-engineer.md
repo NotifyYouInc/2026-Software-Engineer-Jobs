@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/Senior-Software-Engineer_JREQ199517) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer_JREQ199850) |
 
 ## About This Role
 
-This frontend engineer position at Thomson Reuters was posted on 2026-03-24.
+This software engineer position at Thomson Reuters was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

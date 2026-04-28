@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000120593377-senior-software-developer) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121881048-senior-software-developer) |
 
 ## About This Role
 
-This software engineer position at SGS was posted on 2026-04-14.
+This software engineer position at SGS was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Embedded-Software-Engineer_R030114) |
+| Location | Burlington, North Carolina, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Burlington--154-Middlesex-Turnpike/Embedded-Software-Engineer_R030535) |
 
 ## About This Role
 
-This software engineer position at Ciena was posted on 2026-02-16.
+This embedded / firmware engineer position at Ciena was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

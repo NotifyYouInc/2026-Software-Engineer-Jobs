@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/Full-Stack-Developer_JR1037315-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Full-Stack-Developer_JR1038990) |
 
 ## About This Role
 
-This frontend engineer position at Synechron was posted on 2026-03-09.
+This software engineer position at Synechron was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

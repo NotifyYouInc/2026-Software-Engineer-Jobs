@@ -1,16 +1,16 @@
-# Sr. Software Engineer at GE Vernova
+# Sr Software Engineer at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Sr-Software-Engineer_R5034866-2) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Sr-Software-Engineer_R5039197-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-03-11.
+This software engineer position at GE Vernova was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

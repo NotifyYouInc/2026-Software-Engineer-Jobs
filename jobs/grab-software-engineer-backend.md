@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113887533-software-engineer-backend) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121932777-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-03-11.
+This software engineer position at Grab was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

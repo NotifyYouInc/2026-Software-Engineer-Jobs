@@ -1,16 +1,16 @@
-# AI Software Engineer - Intern at Intel
+# AI Software Engineer Intern at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer---Intern_JR0282187) |
+| Category | AI / ML Research |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0283195) |
 
 ## About This Role
 
-This ai / llm engineer position at Intel was posted on 2026-03-20.
+This ai / ml research position at Intel was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

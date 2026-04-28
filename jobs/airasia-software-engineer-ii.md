@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bengaluru---Vaishnavi-Signature-Bellandur/Software-Engineer-II_JR0034154) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Software-Engineer-II_JR0034534) |
 
 ## About This Role
 
-This software engineer position at Airasia was posted on 2026-03-02.
+This software engineer position at Airasia was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
