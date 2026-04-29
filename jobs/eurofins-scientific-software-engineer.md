@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000112592707-software-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122168542-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Eurofins Scientific was posted on 2026-03-04.
+This software engineer position at Eurofins Scientific was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

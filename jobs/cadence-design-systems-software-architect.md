@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Architect_R54411) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Architect_R54463) |
 
 ## About This Role
 
-This technical & solutions architect position at Cadence Design Systems was posted on 2026-04-17.
+This technical & solutions architect position at Cadence Design Systems was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---PLANO/ServiceNow-Developer_51577715) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/ServiceNow-Developer_51578208) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-09.
+This software engineer position at DXC Technology was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

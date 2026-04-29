@@ -1,16 +1,16 @@
-# Applications Development - Assistant Vice President at Citigroup
+# Applications Development – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Haryana, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Development---Assistant-Vice-President_26942340) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Applications-Development---Assistant-Vice-President_26956975) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-06.
+This software engineer position at Citigroup was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

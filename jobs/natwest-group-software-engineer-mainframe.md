@@ -1,16 +1,16 @@
-# Software Engineer, Mainframe at NatWest Group
+# Software Engineer - Mainframe at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Software-Engineer--Mainframe_R-00271368-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer---Mainframe_R-00275614-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-02-10.
+This software engineer position at NatWest Group was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
