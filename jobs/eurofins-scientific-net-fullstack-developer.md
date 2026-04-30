@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115726538-net-fullstack-developer) |
+| Category | Software Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122375849-net-fullstack-developer) |
 
 ## About This Role
 
-This frontend engineer position at Eurofins Scientific was posted on 2026-03-19.
+This software engineer position at Eurofins Scientific was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

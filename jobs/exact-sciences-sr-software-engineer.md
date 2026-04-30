@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Sr-Software-Engineer_R25-11839) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Sr-Software-Engineer_R26-13046) |
 
 ## About This Role
 
-This software engineer position at Exact Sciences was posted on 2026-02-24.
+This software engineer position at Exact Sciences was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

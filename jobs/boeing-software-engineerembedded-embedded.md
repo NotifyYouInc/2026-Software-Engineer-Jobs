@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Long Beach, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Software-Engineer-Embedded--Embedded-_JR2026506936) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-16.
+This embedded / firmware engineer position at Boeing was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

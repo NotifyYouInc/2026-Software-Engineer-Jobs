@@ -5,12 +5,12 @@
 | Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5117618008) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/4945094008) |
 
 ## About This Role
 
-This software engineer position at Tenable was posted on 2026-02-11.
+This software engineer position at Tenable was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

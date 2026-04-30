@@ -5,12 +5,12 @@
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7695717003) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7711644003) |
 
 ## About This Role
 
-This software engineer position at Fivetran was posted on 2026-04-09.
+This software engineer position at Fivetran was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Staff Engineer – Applications at Microchip Technology
+# Technical Staff Engineer- Applications at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Technical-Staff-Engineer---Applications_R1225-26) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Technical-Staff-Engineer--Applications_R1750-26) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-04-01.
+This embedded / firmware engineer position at Microchip Technology was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120147725-sr-software-development-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122343269-sr-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-04-11.
+This software engineer position at Renesas Electronics was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior, Software Engineer (Android) at Walmart
+# Senior Software Engineer- Android at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Mobile Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer--Android-_R-2425159) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer--Android_R-2487735) |
 
 ## About This Role
 
-This mobile engineer position at Walmart was posted on 2026-04-16.
+This mobile engineer position at Walmart was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

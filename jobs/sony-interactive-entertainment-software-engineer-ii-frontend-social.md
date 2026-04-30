@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712558004) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712556004) |
 
 ## About This Role
 
-This frontend engineer position at Sony Interactive Entertainment was posted on 2026-03-05.
+This frontend engineer position at Sony Interactive Entertainment was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

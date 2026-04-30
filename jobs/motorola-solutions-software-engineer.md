@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Allen, Texas, United States |
+| Location | Melville, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer_R62831) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melville-NY/Software-Engineer_R64140) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-04-06.
+This software engineer position at Motorola Solutions was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

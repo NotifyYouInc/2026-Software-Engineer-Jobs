@@ -1,16 +1,16 @@
-# Software Engineer (Level 2 or 3) at Northrop Grumman
+# Software Engineer Level 2 or 3 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Engineer--Level-2-or-3-_R10227192) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-2-or-3_R10230590) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-24.
+This software engineer position at Northrop Grumman was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

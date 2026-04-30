@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shenzhen, Guangdong, China |
 | Category | Software Engineer |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Senior-Software-Development-Engineer_R-104521) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/China---Shenzhen/Senior-Software-Development-Engineer_R-99415) |
 
 ## About This Role
 

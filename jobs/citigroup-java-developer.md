@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Developer_26951635) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Java-Developer_26958309) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-09.
+This software engineer position at Citigroup was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

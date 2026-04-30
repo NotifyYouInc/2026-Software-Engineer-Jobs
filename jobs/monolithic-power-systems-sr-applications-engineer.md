@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Applications-Engineer_R-1108) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Sr---Applications-Engineer---High-Power_R-898) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-04-03.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

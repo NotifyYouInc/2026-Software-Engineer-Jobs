@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Sr-Engineer--Software_REQ346716-1) |
+| Location | 2 locations |
+| Category | Mobile Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Engineer--Software_REQ350329-1) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-04-10.
+This mobile engineer position at T-Mobile was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

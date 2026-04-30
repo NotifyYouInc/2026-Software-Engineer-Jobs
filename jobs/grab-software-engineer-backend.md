@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121932777-software-engineer-backend) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000122381791-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-21.
+This software engineer position at Grab was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

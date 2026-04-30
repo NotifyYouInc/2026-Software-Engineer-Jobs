@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | China |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000109145385-software-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000122366860-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-02-13.
+This software engineer position at Solidigm was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

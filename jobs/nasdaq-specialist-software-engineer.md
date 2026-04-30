@@ -5,12 +5,12 @@
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Specialist-Software-Engineer_R0025176) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Specialist-Software-Engineer_R0025467) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-09.
+This software engineer position at Nasdaq was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Software-Engineer_JR0143217) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Software-Engineer_JR0146106-1) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-02-25.
+This software engineer position at McKesson was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

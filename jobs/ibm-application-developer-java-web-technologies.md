@@ -1,12 +1,12 @@
-# Application Developer-Java & Web Technologies at IBM
+# Application Developer - Java & Web Technologies at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110635) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110688) |
 
 ## About This Role
 

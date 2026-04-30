@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7436034) |
+| Location | Not specified |
+| Category | Developer Relations |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=6567104) |
 
 ## About This Role
 
-This frontend engineer position at Stripe was posted on 2026-02-24.
+This developer relations position at Stripe was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

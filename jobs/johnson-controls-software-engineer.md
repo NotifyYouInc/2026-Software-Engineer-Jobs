@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Software-Engineer_WD30264663) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Software-Engineer_WD30267619) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-04-06.
+This software engineer position at Johnson Controls was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

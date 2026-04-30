@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Aliso Viejo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5645363004) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5679579004) |
 
 ## About This Role
 
-This software engineer position at Sony Interactive Entertainment was posted on 2026-03-06.
+This software engineer position at Sony Interactive Entertainment was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Forward Deployed Engineer (Multiple Levels) <<based in South Korea>> at Salesforce
+# Forward Deployed Engineer  (Multiple Levels) <<based in South Korea>> at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of---Seoul/Forward-Deployed-Engineer--Multiple-Levels----based-in-South-Korea--_JR331254) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of---Seoul/Forward-Deployed-Engineer---Multiple-Levels----based-in-South-Korea--_JR331252) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-02-27.
+This software engineer position at Salesforce was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
