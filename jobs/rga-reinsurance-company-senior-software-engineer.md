@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Chesterfield, Missouri, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Senior-Software-Engineer_J27097-1) |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Senior-Software-Engineer_J26989) |
 
 ## About This Role
 

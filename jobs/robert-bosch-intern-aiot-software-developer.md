@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115923607-intern-aiot-software-developer) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122598249-intern-aiot-software-developer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-20.
+This software engineer position at Robert Bosch was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

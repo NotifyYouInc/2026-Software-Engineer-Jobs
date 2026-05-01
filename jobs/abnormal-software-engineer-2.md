@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abnormal](https://scoutify.ai/companies/abnormal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://abnormal.ai/careers/jobs/7694596003?gh_jid=7694596003) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://abnormal.ai/careers/jobs/7694668003?gh_jid=7694668003) |
 
 ## About This Role
 
-This software engineer position at Abnormal was posted on 2026-04-10.
+This software engineer position at Abnormal was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Embedded Software Engineer (Level 1 or 2) at Northrop Grumman
+# Embedded Software Engineer – Level 1 or 2 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
+| Location | Rolling Meadows, Illinois, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Embedded-Software-Engineer--Level-1-or-2-_R10225179) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Embedded-Software-Engineer---Level-1-or-2_R10230736) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-03-06.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

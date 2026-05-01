@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Salesforce-Developer_14006193) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur/Salesforce-Developer_R00247599) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-06.
+This software engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

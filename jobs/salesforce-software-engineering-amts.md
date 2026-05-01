@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineering-AMTS_JR337452) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-04-10.
+This software engineer position at Salesforce was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

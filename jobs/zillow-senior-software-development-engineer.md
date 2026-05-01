@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-WA/Senior-Software-Development-Engineer_P749149) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P748924-1) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-02-20.
+This software engineer position at Zillow was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

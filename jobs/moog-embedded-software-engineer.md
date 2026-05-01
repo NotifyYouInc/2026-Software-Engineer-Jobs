@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tewkesbury, England, United Kingdom |
+| Location | Goleta, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Embedded-Software-Engineer_R-26-16239) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Moog was posted on 2026-02-20.
+This embedded / firmware engineer position at Moog was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

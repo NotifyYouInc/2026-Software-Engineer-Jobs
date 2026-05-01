@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Staff-Engineer--FE-Labor-Prod---Data-Engrg_JR97582) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/Senior-Staff-Engineer--FE-Labor-Prod---Data-Engrg_JR99744) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-04-14.
+This software engineer position at Micron was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

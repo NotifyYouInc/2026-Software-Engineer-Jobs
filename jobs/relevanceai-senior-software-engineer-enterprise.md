@@ -5,12 +5,12 @@
 | Company | [Relevanceai](https://scoutify.ai/companies/relevanceai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-01-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/relevanceai/f303021e-ebd6-4d63-8e88-7e4f63c11946) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/relevanceai/7449b91f-abf6-4b0d-a05b-002fc265cf18) |
 
 ## About This Role
 
-This software engineer position at Relevanceai was posted on 2026-01-08.
+This software engineer position at Relevanceai was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

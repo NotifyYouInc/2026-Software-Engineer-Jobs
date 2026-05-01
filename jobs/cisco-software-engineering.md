@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering_2012172) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering_2012177) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-22.
+This software engineer position at Cisco was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

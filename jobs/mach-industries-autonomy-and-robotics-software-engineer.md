@@ -5,12 +5,12 @@
 | Company | [Mach Industries](https://scoutify.ai/companies/mach?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Huntington Beach, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mach/2bfbf257-e70b-42f1-93e9-7ef1322d4c1d) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mach/6b5d8da6-e887-4b23-9603-2a4ffae8db66) |
 
 ## About This Role
 
-This robotics engineer position at Mach Industries was posted on 2026-04-17.
+This robotics engineer position at Mach Industries was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

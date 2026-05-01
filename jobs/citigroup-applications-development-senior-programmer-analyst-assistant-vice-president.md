@@ -1,16 +1,16 @@
-# Applications Development Senior Programmer Analyst - Assistant Vice President at Citigroup
+# Applications Development Senior Programmer Analyst – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26953379) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26957000) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-13.
+This software engineer position at Citigroup was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

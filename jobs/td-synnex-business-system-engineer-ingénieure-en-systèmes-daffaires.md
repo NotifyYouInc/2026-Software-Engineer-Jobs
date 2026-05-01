@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-System-Engineer---Ingnieur-e--en-systmes-d-affaires_R47880) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-System-Engineer---Ingnieur-e--en-systmes-d-affaires_R50024) |
 
 ## About This Role
 
-This software engineer position at TD Synnex was posted on 2026-02-20.
+This software engineer position at TD Synnex was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

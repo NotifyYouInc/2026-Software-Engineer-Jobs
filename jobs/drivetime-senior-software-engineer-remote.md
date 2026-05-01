@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DriveTime](https://scoutify.ai/companies/drivetime?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Tempe, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Senior-Software-Engineer---Remote_R14727-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Senior-Software-Engineer---Remote_R15244) |
 
 ## About This Role
 
-This software engineer position at DriveTime was posted on 2026-02-18.
+This software engineer position at DriveTime was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

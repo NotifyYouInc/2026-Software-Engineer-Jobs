@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DriveCam](https://scoutify.ai/companies/drivecam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Office---Bangalore-India/Software-Engineer-I_R-3888) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Office---Bangalore-India/Software-Engineer-I_R-4177-1) |
 
 ## About This Role
 
-This frontend engineer position at DriveCam was posted on 2026-03-24.
+This software engineer position at DriveCam was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

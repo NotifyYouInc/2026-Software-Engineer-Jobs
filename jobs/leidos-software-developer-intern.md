@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lawton, Oklahoma, United States |
+| Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Software-Developer-Intern_R-00177923) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-12.
+This software engineer position at Leidos was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Actimize-SAM-Lead-Engineer--Vice-President--Software-Engineering_JR033822-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Actimize-SAM-Lead-Engineer--Vice-President--Software-Engineering_PT-JR034173) |
 
 ## About This Role
 
-This engineering manager position at Morgan Stanley was posted on 2026-04-03.
+This software engineer position at Morgan Stanley was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

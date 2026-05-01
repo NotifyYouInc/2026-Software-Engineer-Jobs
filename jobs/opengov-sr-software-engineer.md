@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/7cfeb797-8f9e-4e20-818f-787797b2d3aa) |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/9b5d91ac-5787-4df0-a043-2273feae3e0f) |
 
 ## About This Role
 
-This frontend engineer position at OpenGov was posted on 2026-04-03.
+This software engineer position at OpenGov was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

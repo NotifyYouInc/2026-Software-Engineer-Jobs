@@ -1,16 +1,16 @@
-# SOFTWARE DEVELOPMENT ENGINEER at Micron
+# Software Development Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | China |
-| Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Xian-China/SOFTWARE-DEVELOPMENT-ENGINEER_JR96096) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/Software-Development-Engineer_JR97832) |
 
 ## About This Role
 
-This frontend engineer position at Micron was posted on 2026-04-02.
+This software engineer position at Micron was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

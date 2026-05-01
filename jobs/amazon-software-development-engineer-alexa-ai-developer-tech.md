@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3200254/software-development-engineer-alexa-ai-developer-tech) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10402222/software-development-engineer-alexa-ai-developer-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-10.
+This ai / llm engineer position at Amazon was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

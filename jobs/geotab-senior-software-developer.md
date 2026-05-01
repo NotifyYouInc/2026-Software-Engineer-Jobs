@@ -1,16 +1,16 @@
-# Senior Software Developer  at Geotab
+# Senior Software Developer at Geotab
 
 | Field | Details |
 |-------|---------|
 | Company | [Geotab](https://scoutify.ai/companies/geotab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Detroit, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5179921008) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5192074008) |
 
 ## About This Role
 
-This software engineer position at Geotab was posted on 2026-04-16.
+This software engineer position at Geotab was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

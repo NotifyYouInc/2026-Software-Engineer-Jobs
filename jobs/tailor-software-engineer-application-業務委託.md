@@ -1,0 +1,22 @@
+# Software Engineer, Application [業務委託] at Tailor
+
+| Field | Details |
+|-------|---------|
+| Company | [Tailor](https://scoutify.ai/companies/tailor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Software Engineer |
+| Posted | 2025-03-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tailor/46d12474-7b94-4b5f-a62d-4c65222626b8) |
+
+## About This Role
+
+This software engineer position at Tailor was posted on 2025-03-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

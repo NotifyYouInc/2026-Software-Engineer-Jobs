@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer_P749825) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer_P748929-1) |
 
 ## About This Role
 
-This frontend engineer position at Zillow was posted on 2026-04-01.
+This software engineer position at Zillow was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

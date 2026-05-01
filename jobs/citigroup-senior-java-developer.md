@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Java-Developer_26953340) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Senior-Java-Developer_26957092-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-16.
+This software engineer position at Citigroup was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

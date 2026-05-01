@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Tianjin, Tianjin, China |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/EEDP-EID_R4039722-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tianjin/EEDP-EID_R4040131-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-16.
+This software engineer position at GE HealthCare was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

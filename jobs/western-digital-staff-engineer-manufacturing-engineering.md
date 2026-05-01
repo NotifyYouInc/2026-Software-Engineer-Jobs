@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
-| Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118830377-staff-engineer-manufacturing-engineering) |
+| Location | Thailand |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122591769-staff-engineer-manufacturing-engineering) |
 
 ## About This Role
 
-This engineering manager position at Western Digital was posted on 2026-04-06.
+This electrical / hardware engineer position at Western Digital was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

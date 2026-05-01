@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Cloud-Technical-Lead_31144981-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Cloud-Technical-Lead_31148600-1) |
 
 ## About This Role
 
-This software engineer position at Abbott was posted on 2026-03-25.
+This software engineer position at Abbott was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

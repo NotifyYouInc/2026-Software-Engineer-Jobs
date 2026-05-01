@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Hortolândia, São Paulo, Brazil |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107989) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111661) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-04-06.
+This it & systems administration position at IBM was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

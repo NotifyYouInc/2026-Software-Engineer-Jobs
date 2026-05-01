@@ -1,16 +1,16 @@
-# IT Software Engineer at Micron
+# IT SOFTWARE ENGINEER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/IT-Software-Engineer_JR96374) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/IT-SOFTWARE-ENGINEER_JR98031) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-03-26.
+This software engineer position at Micron was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

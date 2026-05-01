@@ -1,16 +1,16 @@
-# Sr Software Engineer- Android at T-Mobile
+# Sr Software Engineer, Android at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Mobile Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Software-Engineer--Android_REQ347867-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Software-Engineer--Android_REQ350330-1) |
 
 ## About This Role
 
-This mobile engineer position at T-Mobile was posted on 2026-03-06.
+This mobile engineer position at T-Mobile was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
