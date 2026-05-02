@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Palantir-Software-Engineer_R0237983) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0238659) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-04-17.
+This software engineer position at Booz Allen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

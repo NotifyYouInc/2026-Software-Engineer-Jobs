@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Enterprise-Applications-Developer_JR117289) |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Enterprise-Applications-Developer_JR118129) |
 
 ## About This Role
 
-This frontend engineer position at Dexcom was posted on 2026-03-18.
+This software engineer position at Dexcom was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

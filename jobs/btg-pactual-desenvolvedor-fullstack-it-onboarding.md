@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5798438004) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5980627004) |
 
 ## About This Role
 
-This customer success position at BTG Pactual was posted on 2026-02-09.
+This software engineer position at BTG Pactual was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

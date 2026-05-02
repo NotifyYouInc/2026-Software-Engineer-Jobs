@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Software-Engineer_R40337) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Chicago-IL/Software-Engineer_R42924-1) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-23.
+This software engineer position at SS&C Technologies was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Norfolk, Virginia, United States |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/SMIT-Service-Desk-Technical-Lead--NNPI-SIPR-_R-00175708) |
+| Category | Customer Success |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/SMIT-Service-Desk-Technical-Lead--NNPI-SIPR-_R-00181771) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-10.
+This customer success position at Leidos was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

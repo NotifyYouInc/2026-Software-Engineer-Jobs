@@ -5,12 +5,12 @@
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/2f1534e6-6b68-4fab-aee0-07d3a8121d36) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/935201b4-629a-426a-86e8-ec09789c2a61) |
 
 ## About This Role
 
-This software engineer position at Deel was posted on 2026-03-05.
+This software engineer position at Deel was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Blumenau, Santa Catarina, Brazil |
-| Category | Mobile Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114113023-analista-de-desenvolvimento-de-software-pleno) |
+| Category | Software Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122750602-analista-de-desenvolvimento-de-software-pleno) |
 
 ## About This Role
 
-This mobile engineer position at Experian was posted on 2026-03-11.
+This software engineer position at Experian was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

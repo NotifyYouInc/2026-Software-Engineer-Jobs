@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Cottonwood Heights, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sofi.com/careers/job/7701303003?gh_jid=7701303003) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://sofi.com/careers/job/7713729003?gh_jid=7713729003) |
 
 ## About This Role
 
-This software engineer position at SoFi was posted on 2026-04-14.
+This software engineer position at SoFi was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

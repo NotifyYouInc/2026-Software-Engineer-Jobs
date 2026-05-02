@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Software-Engineer_R26_1279-2) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Software-Engineer_R26_1594) |
 
 ## About This Role
 
-This software engineer position at Ameriprise Financial was posted on 2026-04-07.
+This software engineer position at Ameriprise Financial was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

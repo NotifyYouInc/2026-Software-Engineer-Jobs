@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Service-Request-Automation-Engineer_R388295-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Service-Request-Automation-Engineer_R388300-2) |
 
 ## About This Role
 
-This industrial automation position at Merck was posted on 2026-03-18.
+This industrial automation position at Merck was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

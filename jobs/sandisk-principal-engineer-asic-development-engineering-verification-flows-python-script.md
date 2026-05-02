@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000121096197-principal-engineer-asic-development-engineering-verification-flows-python-scripting) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000122821519-principal-engineer-asic-development-engineering-verification-flows-python-scripting) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-04-16.
+This semiconductor / chip design position at SanDisk was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108162768-senior-staff-engineer) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122769039-senior-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-09.
+This software engineer position at Nagarro was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

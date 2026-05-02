@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Engineer_R-00179586) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Systems-Engineer_R-00181755) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-30.
+This software engineer position at Leidos was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

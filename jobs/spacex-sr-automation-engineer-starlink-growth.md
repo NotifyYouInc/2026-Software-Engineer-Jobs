@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Bastrop, Louisiana, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8496335002?gh_jid=8496335002) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8522501002?gh_jid=8522501002) |
 
 ## About This Role
 
-This industrial automation position at SpaceX was posted on 2026-04-07.
+This industrial automation position at SpaceX was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

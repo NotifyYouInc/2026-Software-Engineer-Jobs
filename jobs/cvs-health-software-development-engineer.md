@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Software-Development-Engineer_R0888469) |
+| Location | Washington, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Software-Development-Engineer_R0884100-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-04-17.
+This ai / llm engineer position at CVS Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

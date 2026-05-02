@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | West Valley City, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Senior-Software-Engineer_01835810) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338-Ast-Salt-Lake-City/Senior-Software-Engineer_01840931) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-03.
+This software engineer position at RTX was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Numerical Control Programmer (Associate or Mid Level) at Boeing
+# Numerical Control Programmer (Associate or Mid-level) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Charleston-SC/Numerical-Control-Programmer--Associate-or-Mid-Level-_JR2026500915-2) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Engineering Manager |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Numerical-Control-Programmer--Associate-or-Mid-level-_JR2026504071-1) |
 
 ## About This Role
 
-This industrial automation position at Boeing was posted on 2026-03-20.
+This engineering manager position at Boeing was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

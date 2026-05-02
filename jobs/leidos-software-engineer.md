@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Software-Engineer_R-00180483) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer_R-00181731) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-10.
+This software engineer position at Leidos was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

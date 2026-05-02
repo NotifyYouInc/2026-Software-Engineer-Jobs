@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121068477-associate-principal-engineer-infraops) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122760649-associate-principal-engineer-infraops) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-04-15.
+This devops engineer position at Nagarro was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
