@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bratislava-Slovakia/Software-Engineering-Technical-Leader_2011570) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader_2008322) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-03-25.
+This software engineer position at Cisco was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

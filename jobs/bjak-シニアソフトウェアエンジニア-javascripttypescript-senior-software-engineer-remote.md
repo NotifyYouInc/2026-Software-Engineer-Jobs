@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/46cf98a8-85d1-4072-903e-36c2d364c7a8) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3e6ef535-c21b-4302-b29c-218582da8f7c) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

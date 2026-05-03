@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2e1e3461-e65f-4892-be6c-ef99c95fa69a) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/bf2c4ce8-6385-4082-9858-12a8dcb7f008) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

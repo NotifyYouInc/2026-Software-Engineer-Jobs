@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e0b2b1c7-f98f-4761-bc25-fc29097a576d) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/23f35e48-2fd5-4f87-babb-777024e3f26b) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-18.
+This software engineer position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
