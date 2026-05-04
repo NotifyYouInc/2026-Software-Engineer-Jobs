@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000112583613-lead-software-engineer-ai-platform-services) |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000123110469-lead-software-engineer-ai-platform-services) |
 
 ## About This Role
 
-This engineering manager position at SEEK was posted on 2026-03-04.
+This software engineer position at SEEK was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

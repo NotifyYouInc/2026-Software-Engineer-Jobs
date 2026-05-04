@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7693175?gh_jid=7693175) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7829899?gh_jid=7829899) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-03-30.
+This software engineer position at Thoughtworks was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

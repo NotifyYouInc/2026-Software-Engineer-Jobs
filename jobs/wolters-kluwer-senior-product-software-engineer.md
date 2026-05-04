@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Product-Software-Engineer_R0055436-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Product-Software-Engineer_R0052911-2) |
 
 ## About This Role
 
-This frontend engineer position at Wolters Kluwer was posted on 2026-03-20.
+This software engineer position at Wolters Kluwer was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113406597-developpeurse-java-defense-securite-lille) |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123118189-developpeurse-java-defense-securite-lille) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-03-09.
+This software engineer position at Sopra Steria was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

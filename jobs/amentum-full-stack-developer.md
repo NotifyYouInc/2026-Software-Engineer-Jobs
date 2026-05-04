@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Georgia, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-GA-Fort-Gordon/Full-Stack-Developer_R0155821) |
+| Category | Software Engineer |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-GA-Fort-Gordon/Full-Stack-Developer_R0159783) |
 
 ## About This Role
 
-This frontend engineer position at Amentum was posted on 2026-03-05.
+This software engineer position at Amentum was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

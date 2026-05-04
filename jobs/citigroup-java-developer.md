@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Java-Developer_26958309) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Java-Developer_26957008) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-22.
+This software engineer position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

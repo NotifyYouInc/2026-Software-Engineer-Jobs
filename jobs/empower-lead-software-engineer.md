@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Software-Engineer_R0056956-2) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Software-Engineer_R0057957) |
 
 ## About This Role
 
-This frontend engineer position at Empower was posted on 2026-03-12.
+This software engineer position at Empower was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

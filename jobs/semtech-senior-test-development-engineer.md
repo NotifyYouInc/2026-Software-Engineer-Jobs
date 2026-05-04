@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Semtech](https://scoutify.ai/companies/semtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alhambra, Arizona, United States |
+| Location | Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---Alhambra-CA/Senior-Test-Development-Engineer_REQ3163-1) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/TWN---Remote/Senior-Test-Development-Engineer_REQ3313) |
 
 ## About This Role
 
-This semiconductor / chip design position at Semtech was posted on 2026-03-26.
+This semiconductor / chip design position at Semtech was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

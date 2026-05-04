@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7593685?gh_jid=7593685) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7831195?gh_jid=7831195) |
 
 ## About This Role
 
-This frontend engineer position at Okta was posted on 2026-04-02.
+This frontend engineer position at Okta was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Murex-Developer--MEA-Tech_JR68690) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Murex-Developer--MEA-Tech_JR68705) |
 
 ## About This Role
 
-This software engineer position at UOB Group was posted on 2026-04-17.
+This software engineer position at UOB Group was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

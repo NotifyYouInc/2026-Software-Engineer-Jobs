@@ -1,16 +1,16 @@
-# Development Engineer 1 at Comcast
+# Development engineer 1 at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R428918) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-engineer-1_R434083) |
 
 ## About This Role
 
-This software engineer position at Comcast was posted on 2026-03-20.
+This software engineer position at Comcast was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
