@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbus-OH/Senior-Software-Engineer_R-00181521) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Software-Engineer_R-00181869) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-24.
+This software engineer position at Leidos was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

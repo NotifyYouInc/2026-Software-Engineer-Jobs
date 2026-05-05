@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Team-Lead---Principal-Software-Engineer_R-00176720) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Team-Lead---Principal-Software-Engineer_R-00181870-1) |
 
 ## About This Role
 
-This engineering manager position at Leidos was posted on 2026-02-23.
+This engineering manager position at Leidos was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

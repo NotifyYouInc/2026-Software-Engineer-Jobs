@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-3_R165606-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-3_R168015-1) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-02-18.
+This software engineer position at Adobe was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

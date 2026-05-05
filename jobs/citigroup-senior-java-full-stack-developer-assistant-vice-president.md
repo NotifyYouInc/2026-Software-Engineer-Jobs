@@ -1,16 +1,16 @@
-# Senior Java Full stack Developer - Assistant Vice President at Citigroup
+# Senior Java Full Stack Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Applications-Development-Sr-Programmer-Analyst_25903936) |
+| Location | Canada |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ontario-Canada/Senior-Java-Full-Stack-Developer---Assistant-Vice-President_26945372) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-03-13.
+This software engineer position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

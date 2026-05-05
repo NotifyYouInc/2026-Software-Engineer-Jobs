@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Boise, Idaho, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Process-Integration-Engineer_JR91085) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Process-Integration-Engineer_JR99897) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-15.
+This semiconductor / chip design position at Micron was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

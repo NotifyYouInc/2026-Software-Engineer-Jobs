@@ -5,12 +5,12 @@
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kansas-City---Broadway-Square-Garage/Sr-Software-Engineer_R40559-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kansas-City-MO/Sr-Software-Engineer_R42671) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-26.
+This software engineer position at SS&C Technologies was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zhubei, Taiwan, Taiwan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Sr-Principal-Software-Engineer_R54344) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Software-Engineer_R54469) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-04-21.
+This software engineer position at Cadence Design Systems was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

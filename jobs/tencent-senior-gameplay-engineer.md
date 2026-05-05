@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irvine, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine/Senior-Gameplay-Engineer_R106920-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Senior-Gameplay-Engineer_R107391-1) |
 
 ## About This Role
 
-This software engineer position at Tencent was posted on 2026-02-27.
+This software engineer position at Tencent was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

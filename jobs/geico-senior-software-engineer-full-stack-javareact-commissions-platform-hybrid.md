@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Senior-Software-Engineer--Full-Stack-Java-React----Commissions-Platform---HYBRID_R0062732) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Software-Engineer--Full-Stack-Java-React----Commissions-Platform---HYBRID_R0063651) |
 
 ## About This Role
 
-This frontend engineer position at Geico was posted on 2026-03-06.
+This software engineer position at Geico was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

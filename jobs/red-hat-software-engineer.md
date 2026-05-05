@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer_R-056095-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer_R-056802) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-04-24.
+This software engineer position at Red Hat was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

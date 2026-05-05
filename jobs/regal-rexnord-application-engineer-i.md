@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Fort Wayne, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Application-Engineer-I_R26_01851) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineer-I_R26_01815) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-04-22.
+This software engineer position at Regal Rexnord was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Universidad del Valle de Guatemala](https://scoutify.ai/companies/universidaddelvalledeguatemala?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guatemala City, Guatemala, Guatemala |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000116705408-desarrollador-full-stack) |
+| Category | Software Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000123320729-desarrollador-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at Universidad del Valle de Guatemala was posted on 2026-03-25.
+This software engineer position at Universidad del Valle de Guatemala was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 6 locations |
-| Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Field-Application-Engineer_R20435) |
+| Category | Software Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Field-Application-Engineer_R21546) |
 
 ## About This Role
 
-This customer success position at nVent was posted on 2026-03-06.
+This software engineer position at nVent was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

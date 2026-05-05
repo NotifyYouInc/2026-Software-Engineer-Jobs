@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodwin Procter](https://scoutify.ai/companies/goodwin-procter?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/San-Francisco/AI-Solutions-Engineer_R04173) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/Boston/AI-Solutions-Engineer_R04172) |
 
 ## About This Role
 
-This ai / llm engineer position at Goodwin Procter was posted on 2026-04-15.
+This ai / llm engineer position at Goodwin Procter was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

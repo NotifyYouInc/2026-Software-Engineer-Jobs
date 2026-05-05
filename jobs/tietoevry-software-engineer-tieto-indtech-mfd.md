@@ -1,16 +1,16 @@
-# Software Engineer- Tieto Indtech (m/f/d) at Tietoevry
+# Software Engineer - Tieto Indtech (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000117198939-software-engineer-tieto-indtech-mfd) |
+| Category | Software Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000123358179-software-engineer-tieto-indtech-mfd) |
 
 ## About This Role
 
-This frontend engineer position at Tietoevry was posted on 2026-03-27.
+This software engineer position at Tietoevry was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
