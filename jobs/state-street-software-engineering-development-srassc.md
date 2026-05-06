@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--SrAssc_R-788978) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--SrAssc_R-789325-1) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-04-22.
+This software engineer position at State Street was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

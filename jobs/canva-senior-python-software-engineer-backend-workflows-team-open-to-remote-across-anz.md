@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000919456-senior-python-software-engineer-backend-workflows-team-open-to-remote-across-anz) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001033125-senior-python-software-engineer-backend-workflows-team-open-to-remote-across-anz) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-03-09.
+This software engineer position at Canva was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

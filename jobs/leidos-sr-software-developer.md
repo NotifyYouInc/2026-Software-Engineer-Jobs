@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Sr-Software-Developer_R-00179299) |
+| Location | Alexandria, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Sr-Software-Developer_R-00181986) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-03-25.
+This software engineer position at Leidos was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

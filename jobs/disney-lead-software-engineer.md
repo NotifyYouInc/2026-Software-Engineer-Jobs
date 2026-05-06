@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glendale, Arizona, United States |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Lead-Software-Engineer_10146420) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bay-Lake-FL-USA/Lead-Software-Engineer_10148470) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-04-07.
+This software engineer position at Disney was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

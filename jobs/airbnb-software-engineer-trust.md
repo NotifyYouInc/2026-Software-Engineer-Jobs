@@ -1,16 +1,16 @@
-# Software Engineer, Trust  at Airbnb
+# Software Engineer, Trust at Airbnb
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7862376?gh_jid=7862376) |
 
 ## About This Role
 
-This software engineer position at Airbnb was posted on 2026-02-12.
+This software engineer position at Airbnb was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

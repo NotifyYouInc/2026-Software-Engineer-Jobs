@@ -1,16 +1,16 @@
-# IN_Senior Associate_Full Stack Developer_Data & Analytics _Advisory _PAN India at PwC
+# IN_Senior Associate_Full Stack Developer _Data & Analytics _Advisory _PAN India at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kolkata, West Bengal, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Full-Stack-Developer-Data---Analytics--Advisory--PAN-India_717241WD-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager-Full-Stack-Developer--Data---Analytics--Advisory--PAN-India_717041WD) |
 
 ## About This Role
 
-This frontend engineer position at PwC was posted on 2026-03-30.
+This software engineer position at PwC was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Development-Intern_JR0283312) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Development-Intern_JR0283307) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-04-25.
+This software engineer position at Intel was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

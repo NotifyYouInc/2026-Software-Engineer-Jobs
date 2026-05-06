@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Packaged-SaaS-Application-Engineer_ATCP-1322456-S410771) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5445342-S1985311-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-28.
+This software engineer position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

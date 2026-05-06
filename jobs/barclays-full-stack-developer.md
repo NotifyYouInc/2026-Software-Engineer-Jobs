@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Whippany, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Developer_JR-0000094859-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Full-Stack-Developer_JR-0000109459) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-03-11.
+This software engineer position at Barclays was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

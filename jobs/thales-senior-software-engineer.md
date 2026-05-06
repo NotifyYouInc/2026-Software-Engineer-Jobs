@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/San-Jose/Senior-Software-Engineer_R0321330-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Senior-Software-Engineer_R0326859-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-04-03.
+This software engineer position at Thales was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

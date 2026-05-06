@@ -5,12 +5,12 @@
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Java-Developer_R030628) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Java-Developer_R030346) |
 
 ## About This Role
 
-This software engineer position at Ciena was posted on 2026-04-14.
+This software engineer position at Ciena was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

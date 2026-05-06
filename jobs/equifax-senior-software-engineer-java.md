@@ -1,16 +1,16 @@
-# Senior Software Engineer - Java at Equifax
+# Senior Software Engineer (Java) at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kerala, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Senior-Software-Engineer---Java_J00173051-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Senior-Software-Engineer--Java-_J00176413-2) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-13.
+This software engineer position at Equifax was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

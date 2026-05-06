@@ -1,12 +1,12 @@
-# Senior Software Engineer (Hybrid) at Cisco
+# Senior Software Engineer, (Hybrid) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | North Carolina, US |
 | Category | Software Engineer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Senior-Software-Engineer--Hybrid-_2010965) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Senior-Software-Engineer---Hybrid-_2012173) |
 
 ## About This Role
 

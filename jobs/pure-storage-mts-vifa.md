@@ -1,16 +1,16 @@
-# MTS - VIFA at Pure Storage
+# MTS-VIFA at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7731284) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7792526) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-03-20.
+This software engineer position at Pure Storage was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

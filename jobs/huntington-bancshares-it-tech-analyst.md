@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Tech-Analyst_R0070884) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Tech-Analyst_R0071578) |
 
 ## About This Role
 
-This software engineer position at Huntington Bancshares was posted on 2026-04-03.
+This software engineer position at Huntington Bancshares was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

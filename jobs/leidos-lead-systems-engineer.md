@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Lead-Systems-Engineer_R-00178827-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Lead-Systems-Engineer_R-00182000) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-19.
+This software engineer position at Leidos was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

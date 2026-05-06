@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108406018-senior-software-engineer-managed-kubernetes-platform) |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000123599959-senior-software-engineer-managed-kubernetes-platform) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-02-10.
+This software engineer position at Grab was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7687376003) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7715087003) |
 
 ## About This Role
 
-This software engineer position at Affinidi was posted on 2026-04-02.
+This software engineer position at Affinidi was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Process-Integration-Engineer---APTD_JR97649) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Process-Integration-Engineer---APTD_JR99971) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-10.
+This semiconductor / chip design position at Micron was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

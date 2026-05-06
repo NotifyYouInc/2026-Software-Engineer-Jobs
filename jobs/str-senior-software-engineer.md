@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woburn, Massachusetts, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4668790006) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4677275006) |
 
 ## About This Role
 
-This software engineer position at STR was posted on 2026-04-16.
+This software engineer position at STR was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

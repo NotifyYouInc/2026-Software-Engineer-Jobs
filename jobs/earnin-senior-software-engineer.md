@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7573108) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Frontend Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7862534) |
 
 ## About This Role
 
-This software engineer position at EarnIn was posted on 2026-02-11.
+This frontend engineer position at EarnIn was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

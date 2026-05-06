@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5470131-S2010130-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Trust & Safety |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Responsible-AI-Tech-Lead_ATCI-5271860-S2019487-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-02.
+This trust & safety position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

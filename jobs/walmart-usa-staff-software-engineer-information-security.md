@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Software-Engineer--Information-Security_R-2403853) |
+| Location | 4 locations |
+| Category | Security Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Software-Engineer--Information-Security_R-2487791) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-05.
+This security engineer position at Walmart was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Quertaro/Developer_Req1554888) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Quertaro/Developer_Req1567028) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-03-23.
+This software engineer position at Santander was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Senior-Software-Engineer_10129542) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bay-Lake-FL-USA/Sr-Software-Engineer_10148700) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-03-23.
+This software engineer position at Disney was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
