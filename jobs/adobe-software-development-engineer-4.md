@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-4_R164870) |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-4_R168379) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-03-13.
+This software engineer position at Adobe was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

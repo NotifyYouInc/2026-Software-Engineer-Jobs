@@ -1,16 +1,16 @@
-# Software Engineer -Wired Assurance at Hewlett Packard Enterprise
+# Software Engineer - Wired Assurance at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California/Sr-Staff-Product-Manager--SD-WAN_1192071) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Software-Engineer---Wired-Assurance_1202256) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-10.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

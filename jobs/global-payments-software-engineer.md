@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Mexico-City-CDMX-Mexico/Software-Engineer_R0069879) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/eft-Office---Shenzhen-China/Software-Engineer_R0071171) |
 
 ## About This Role
 
-This frontend engineer position at Global Payments was posted on 2026-02-17.
+This software engineer position at Global Payments was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

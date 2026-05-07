@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Senior-Software-Developer_R09033) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Senior-Software-Developer_R09978) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-04-13.
+This software engineer position at SOTI was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

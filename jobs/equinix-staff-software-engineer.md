@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Staff-Software-Engineer_JR-159274) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Staff-Software-Engineer_JR-160369-1) |
 
 ## About This Role
 
-This frontend engineer position at Equinix was posted on 2026-03-20.
+This software engineer position at Equinix was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

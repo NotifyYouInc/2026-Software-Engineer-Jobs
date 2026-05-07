@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Systems-Engineer_R-00181197) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Senior-Systems-Engineer_R-00182104) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-17.
+This software engineer position at Leidos was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Florida, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-II_R60656) |
+| Location | Seattle, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-II_R63748) |
 
 ## About This Role
 
-This frontend engineer position at Blue Origin was posted on 2026-03-25.
+This software engineer position at Blue Origin was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

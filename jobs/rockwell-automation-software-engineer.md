@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mayfield Heights, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Software-Engineer--C--Net_R25-5685) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-2068-1) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-02-17.
+This software engineer position at Rockwell Automation was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

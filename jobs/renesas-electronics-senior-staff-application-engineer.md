@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111187481-senior-staff-application-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000123794570-senior-staff-application-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-02-24.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

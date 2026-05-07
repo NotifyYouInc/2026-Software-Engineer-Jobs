@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378699/software-development-engineer) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407542/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-28.
+This software engineer position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

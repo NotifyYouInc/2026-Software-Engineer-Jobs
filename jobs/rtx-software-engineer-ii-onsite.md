@@ -1,16 +1,16 @@
-# Software Engineer II (Onsite) at RTX
+# Software Engineer II, Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Florida, US |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-II--Onsite-_01835527) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineer-II--Onsite_01841927-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-06.
+This software engineer position at RTX was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

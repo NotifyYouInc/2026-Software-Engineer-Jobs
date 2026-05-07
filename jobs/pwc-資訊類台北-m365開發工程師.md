@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Taipei/---M365_702587WD) |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Taipei/---M365_725635WD) |
 
 ## About This Role
 
-This frontend engineer position at PwC was posted on 2026-02-23.
+This software engineer position at PwC was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

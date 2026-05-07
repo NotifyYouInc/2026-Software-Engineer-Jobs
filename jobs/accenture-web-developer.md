@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Web-Developer_ATCI-5484399-S2017045-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Web-Developer_ATCI-5517582-S2019899-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-22.
+This software engineer position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

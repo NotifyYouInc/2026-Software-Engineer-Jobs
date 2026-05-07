@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SingleStore](https://scoutify.ai/companies/singlestore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/7790334) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/7868076) |
 
 ## About This Role
 
-This software engineer position at SingleStore was posted on 2026-04-23.
+This software engineer position at SingleStore was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

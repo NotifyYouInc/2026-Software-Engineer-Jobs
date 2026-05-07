@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Hyderabad/Sr-Software-Engineer_254116) |
+| Location | Dallas, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Sr-Software-Engineer_261283) |
 
 ## About This Role
 
-This devops engineer position at Blue Yonder was posted on 2026-02-11.
+This software engineer position at Blue Yonder was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

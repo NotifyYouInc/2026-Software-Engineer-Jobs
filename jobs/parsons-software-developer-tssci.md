@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Chantilly/Software-Developer---TS-SCI_R179966) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Chantilly/Software-Developer---TS-SCI_R180334) |
 
 ## About This Role
 
-This software engineer position at Parsons was posted on 2026-04-22.
+This software engineer position at Parsons was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Lead-Analyst-Vice-President_26951738) |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Lead-Analyst-Vice-President_26956117) |
 
 ## About This Role
 
-This ai / ml research position at Citigroup was posted on 2026-04-07.
+This software engineer position at Citigroup was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

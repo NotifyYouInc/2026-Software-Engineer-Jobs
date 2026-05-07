@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7769825?gh_jid=7769825) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7866674?gh_jid=7866674) |
 
 ## About This Role
 
-This software engineer position at Coinbase was posted on 2026-04-01.
+This software engineer position at Coinbase was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

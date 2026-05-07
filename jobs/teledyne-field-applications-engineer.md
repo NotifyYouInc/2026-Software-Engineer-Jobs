@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Massachusetts, US |
-| Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Field-Applications-Engineer_REQ33623) |
+| Location | Milpitas, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Milpitas-CA/Field-Applications-Engineer_REQ34462) |
 
 ## About This Role
 
-This customer success position at Teledyne was posted on 2026-03-05.
+This software engineer position at Teledyne was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

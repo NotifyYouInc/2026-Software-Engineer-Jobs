@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Hashimoto, Wakayama, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/CAD-Environment-Programming-Staff-Engineer-Senior-Engineer_JR96879) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hashimoto-Japan/CAD-Environment-Programming-Staff-Engineer-Senior-Engineer_JR86808) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-07.
+This semiconductor / chip design position at Micron was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

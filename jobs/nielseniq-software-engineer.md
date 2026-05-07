@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123847799-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This software engineer position at NielsenIQ was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

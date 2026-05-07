@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMEG](https://scoutify.ai/companies/imeg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/New-York-NY/Electrical-Engineering-New-Grad---New-York--NY_R-15161) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/New-York-NY/Electrical-Engineering-New-Grad---New-York--NY_R-16063) |
 
 ## About This Role
 
-This electrical / hardware engineer position at IMEG was posted on 2026-04-13.
+This electrical / hardware engineer position at IMEG was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
