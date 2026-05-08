@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Blumenau, Santa Catarina, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114682077-analista-de-desenvolvimento-de-software-junior) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124020129-analista-de-desenvolvimento-de-software-junior) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-13.
+This software engineer position at Experian was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

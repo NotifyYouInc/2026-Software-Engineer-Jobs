@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minnesota, US |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-MN/Software-Engineer_R55753-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Software-Engineer_R55765-1) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-04-20.
+This software engineer position at Trimble was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Gurgaon/Senior-Engineer---Java_R000108597-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Gurgaon/Senior-Engineer---Java_R000109176-1) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-02-09.
+This software engineer position at Guardian Life was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil---Remote/Senior-Software-Development-Engineer_R20909) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Staff-Software-Development-Engineer_R21469) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-02-13.
+This software engineer position at Wex was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

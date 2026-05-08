@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turing](https://scoutify.ai/companies/turing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/turing/jobs/5502989004) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/turing/jobs/5984688004) |
 
 ## About This Role
 
-This ai / llm engineer position at Turing was posted on 2026-04-23.
+This ai / llm engineer position at Turing was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

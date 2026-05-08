@@ -5,12 +5,12 @@
 | Company | [Armada](https://scoutify.ai/companies/armada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armada/jobs/5126607008) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armada/jobs/5206617008) |
 
 ## About This Role
 
-This software engineer position at Armada was posted on 2026-02-19.
+This software engineer position at Armada was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

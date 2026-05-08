@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Owatonna, Minnesota, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111937415-senior-software-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124016047-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Robert Bosch was posted on 2026-02-27.
+This software engineer position at Robert Bosch was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

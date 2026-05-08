@@ -1,16 +1,16 @@
-# Sr. Software Engineer, High Performance Computing (Starlink) at SpaceX
+# Sr. Software Engineer, High Performance Computing (Starlink)    at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8478516002?gh_jid=8478516002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8530439002?gh_jid=8530439002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-03-25.
+This software engineer position at SpaceX was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | San Diego, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Engineer-Mission-Assurance_R10228965-2) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Mission-Assurance_R10231572) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-04-13.
+This engineering manager position at Northrop Grumman was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Systems Development Engineer, AI Infrastructure at Google
+# Systems Development Engineer, AI, Infrastructure at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/101174149027635910-systems-development-engineer-ai-infrastructure?sort_by=date&page=1) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZw2Xjx0Bju_UVy4xfg1HRKhUlW1vSabY6fKDs2MHEP8EjsACxwdTAx4F0F4IzCH7PzzVMPvS9Q3wp9lrK9KQBXUgsXyFWNTpuYD_N3rtgb5kyPpxr0OrHB1JrmkMA%3D%3D_V2&loc=PL&title=Systems+Development+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-26.
+This devops engineer position at Google was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

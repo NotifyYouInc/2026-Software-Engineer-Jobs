@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [April](https://scoutify.ai/companies/april?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2025-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/april/204a0700-479c-4572-9fd8-b4b7c838aac4) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/april/eeb8f204-ef0f-4a01-a92b-f5e9e3dd909e) |
 
 ## About This Role
 
-This software engineer position at April was posted on 2025-08-13.
+This software engineer position at April was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

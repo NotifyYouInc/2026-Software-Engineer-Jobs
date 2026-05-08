@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lakewood, Colorado, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Software-Engineer-Lead_R215486-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Lead_R219920-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-03-24.
+This software engineer position at PNC Financial was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

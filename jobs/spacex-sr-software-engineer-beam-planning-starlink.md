@@ -1,16 +1,16 @@
-# Sr. Software Engineer, Beam Planning (Starlink) at SpaceX
+# Sr. Software Engineer, Beam Planning (Starlink)    at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8478512002?gh_jid=8478512002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8530390002?gh_jid=8530390002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-03-25.
+This software engineer position at SpaceX was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

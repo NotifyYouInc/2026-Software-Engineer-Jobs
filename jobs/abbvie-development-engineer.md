@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012688057-development-engineer) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922184-development-engineer) |
 
 ## About This Role
 
-This engineering manager position at AbbVie was posted on 2026-04-20.
+This engineering manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

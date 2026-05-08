@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Java-Software-Engineer_R-532646) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Java-Software-Engineer_R-536995) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-30.
+This software engineer position at Wells Fargo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Quantico-VA/Software-Engineer_R0236210) |
+| Location | Chantilly, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0239083) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-18.
+This software engineer position at Booz Allen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

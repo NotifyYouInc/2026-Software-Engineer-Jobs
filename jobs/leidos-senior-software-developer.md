@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/Senior-Software-Developer_R-00179536) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Software-Developer_R-00182210) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Leidos was posted on 2026-04-09.
+This software engineer position at Leidos was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

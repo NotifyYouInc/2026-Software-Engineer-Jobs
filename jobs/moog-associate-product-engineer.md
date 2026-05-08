@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Associate-Product-Engineer_R-26-16999) |
+| Location | Buffalo, New York, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16306) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Moog was posted on 2026-04-09.
+This embedded / firmware engineer position at Moog was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

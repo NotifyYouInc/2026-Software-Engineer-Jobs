@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Qingdao, Shandong, China |
+| Location | Illinois, US |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Qingdao-Shandong/Embedded-Software-Engineer_R0000364432) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000366382) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-04-22.
+This embedded / firmware engineer position at Caterpillar was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sarasota, Florida, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Senior-Software-Engineer_R-50825) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Austin-TX-USA/Senior-Software-Engineer_R-51161) |
 
 ## About This Role
 
-This frontend engineer position at Crowe was posted on 2026-03-27.
+This software engineer position at Crowe was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

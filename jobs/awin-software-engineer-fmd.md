@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Romania |
+| Location | Iaşi, Iași County, Romania |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7620049003) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7721615003) |
 
 ## About This Role
 
-This software engineer position at Awin was posted on 2026-02-05.
+This software engineer position at Awin was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

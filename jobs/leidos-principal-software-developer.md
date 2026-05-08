@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Principal-Software-Developer_R-00179831) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Principal-Software-Developer_R-00182213-1) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-02.
+This software engineer position at Leidos was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

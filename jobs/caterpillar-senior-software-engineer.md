@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Software-Engineer_R0000328643) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Software-Engineer_R0000367249-1) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-24.
+This software engineer position at Caterpillar was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

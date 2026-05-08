@@ -1,16 +1,16 @@
-# Senior System Software Engineer - Robotics at Nvidia
+# Senior System Software Engineer, Robotics at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Robotics_JR2012761) |
+| Location | Shanghai, Shanghai, China |
+| Category | Robotics Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-System-Software-Engineer--Robotics_JR2017337) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-09.
+This robotics engineer position at Nvidia was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Distinguished Engineer (Card Tech) at Capital One
+# Distinguished Engineer ( Card Tech) at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Engineer--Card-Tech-_R240311-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Distinguished-Engineer---Card-Tech-_R241679-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-04-10.
+This software engineer position at Capital One was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

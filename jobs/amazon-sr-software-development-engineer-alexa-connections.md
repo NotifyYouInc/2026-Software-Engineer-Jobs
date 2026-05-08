@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381951/sr-software-development-engineer-alexa-connections) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408594/sr-software-development-engineer-alexa-connections) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-02.
+This software engineer position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

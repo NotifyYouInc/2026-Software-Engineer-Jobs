@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Australia |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000116295767-senior-software-engineer-design-system) |
+| Location | Cremorne, New South Wales, Australia |
+| Category | Software Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000124080059-senior-software-engineer-design-system) |
 
 ## About This Role
 
-This frontend engineer position at SEEK was posted on 2026-03-23.
+This software engineer position at SEEK was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Cachan, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.esri.com/careers/5102885007?gh_jid=5102885007) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.esri.com/careers/5125422007?gh_jid=5125422007) |
 
 ## About This Role
 
-This software engineer position at Esri was posted on 2026-04-09.
+This software engineer position at Esri was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
