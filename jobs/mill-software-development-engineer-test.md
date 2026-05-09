@@ -5,12 +5,12 @@
 | Company | [Mill](https://scoutify.ai/companies/mill?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mill/jobs/4666993005) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mill/jobs/4691800005) |
 
 ## About This Role
 
-This software engineer position at Mill was posted on 2026-02-26.
+This software engineer position at Mill was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

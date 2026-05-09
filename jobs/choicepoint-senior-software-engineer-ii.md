@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Alpharetta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Australia---Sydney/Senior-Software-Engineer-II_R111629) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Software-Engineer-II_R112783) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-04-30.
+This software engineer position at ChoicePoint was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

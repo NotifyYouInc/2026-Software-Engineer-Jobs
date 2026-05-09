@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Contagem, Minas Gerais, Brazil |
+| Location | Cedar Rapids, Iowa, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012163396-systems-engineer) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012934826-systems-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-03-16.
+This software engineer position at Wabtec was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

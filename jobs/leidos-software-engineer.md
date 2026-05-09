@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00182227) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Engineer_R-00182034-1) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-30.
+This software engineer position at Leidos was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

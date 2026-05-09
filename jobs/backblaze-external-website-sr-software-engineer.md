@@ -5,12 +5,12 @@
 | Company | [Backblaze External Website](https://scoutify.ai/companies/backblaze-external-website?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5206759008) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5205128008) |
 
 ## About This Role
 
-This software engineer position at Backblaze External Website was posted on 2026-04-30.
+This software engineer position at Backblaze External Website was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Laval, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000346179) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-19.
+This software engineer position at Caterpillar was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

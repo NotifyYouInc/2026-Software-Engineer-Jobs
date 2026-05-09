@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Scottsdale, Arizona, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8440658002) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8532913002) |
 
 ## About This Role
 
-This technical & solutions architect position at AXS was posted on 2026-03-04.
+This technical & solutions architect position at AXS was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Washington-DC/Senior-Staff-Software-Engineer---Duck-Creek_R2624961) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Senior-Staff-Software-Engineer---Duck-Creek_R2625232) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-04-15.
+This software engineer position at Hartford Financial Services was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

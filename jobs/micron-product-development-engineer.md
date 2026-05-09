@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR96371-2) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR92527) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-03-27.
+This semiconductor / chip design position at Micron was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

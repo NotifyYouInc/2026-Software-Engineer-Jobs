@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taylor, Michigan, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Full-Stack-DX-Engineer_R113460) |
+| Category | Developer Relations |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Full-Stack-DX-Engineer_R116863) |
 
 ## About This Role
 
-This software engineer position at Samsung was posted on 2026-02-06.
+This developer relations position at Samsung was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Staff-Engineer---NET_R0062364) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---NET_R0063486) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-03-06.
+This software engineer position at Geico was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/139653736526947014-staff-software-engineer-aiml-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWSk2amKOVQtLeOie7HTSlN79Db06wEYKld8nTgmbjP4EjsACxwdTHV2xgHb9g4duB5cBhkUOjzfKsj50giNo2BMQgvaG85XzCyvDxiaRYK7LwQL1r6butQ22D_C4w%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-27.
+This software engineer position at Google was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

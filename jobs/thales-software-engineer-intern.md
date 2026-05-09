@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Plantation, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Plantation/Software-Engineer-Intern_R0323979-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Plantation/Software-Engineer-Intern_R0326819-2) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-04-15.
+This software engineer position at Thales was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

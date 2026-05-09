@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Application-Engineer_R26_00893) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineer_R26_02094) |
 
 ## About This Role
 
-This customer success position at Regal Rexnord was posted on 2026-03-11.
+This software engineer position at Regal Rexnord was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

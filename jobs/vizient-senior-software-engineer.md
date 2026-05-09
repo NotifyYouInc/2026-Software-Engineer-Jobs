@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Senior-Software-Engineer_33212R) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60606/Senior-Software-Engineer_33361R) |
 
 ## About This Role
 
-This software engineer position at Vizient was posted on 2026-04-18.
+This software engineer position at Vizient was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

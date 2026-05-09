@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | San Antonio, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5121138007) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5125081007) |
 
 ## About This Role
 
-This software engineer position at Clarity Innovations was posted on 2026-04-27.
+This software engineer position at Clarity Innovations was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

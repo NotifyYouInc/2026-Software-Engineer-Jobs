@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008) |
 
 ## About This Role
 
-This software engineer position at Block was posted on 2026-04-30.
+This software engineer position at Block was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

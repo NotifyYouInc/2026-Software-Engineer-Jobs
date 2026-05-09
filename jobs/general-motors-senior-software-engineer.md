@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer_JR-202603933-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Software-Engineer_JR-202609882) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-03-12.
+This software engineer position at General Motors was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

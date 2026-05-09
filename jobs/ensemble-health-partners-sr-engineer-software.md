@@ -1,16 +1,16 @@
-# Sr. Engineer, Software at Ensemble Health Partners
+# Sr Engineer, Software at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Engineer--Software_R037397) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Engineer--Software_R042738) |
 
 ## About This Role
 
-This software engineer position at Ensemble Health Partners was posted on 2026-04-13.
+This software engineer position at Ensemble Health Partners was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

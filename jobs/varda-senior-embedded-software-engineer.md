@@ -5,12 +5,12 @@
 | Company | [Varda](https://scoutify.ai/companies/vardaspace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7638532003) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7722335003) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Varda was posted on 2026-02-20.
+This embedded / firmware engineer position at Varda was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

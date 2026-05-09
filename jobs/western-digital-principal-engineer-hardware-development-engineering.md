@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fremont, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112270129-principal-engineer-hardware-development-engineering) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000124163837-principal-engineer-hardware-development-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-03-02.
+This electrical / hardware engineer position at Western Digital was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

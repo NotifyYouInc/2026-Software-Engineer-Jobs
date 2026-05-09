@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/XMLNAME--USA--Senior--Software-Engineer_R-2451021) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Senior--Software-Engineer_R-2449315) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-29.
+This software engineer position at Walmart was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

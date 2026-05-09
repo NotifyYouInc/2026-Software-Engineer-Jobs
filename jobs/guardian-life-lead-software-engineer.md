@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethlehem, Pennsylvania, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/Lead-Software-Engineer_R000108451) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/Lead-Software-Engineer_R000109202) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-02-10.
+This software engineer position at Guardian Life was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

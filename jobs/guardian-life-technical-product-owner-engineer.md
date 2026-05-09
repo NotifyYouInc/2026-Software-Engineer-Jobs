@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
+| Location | Bethlehem, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/Technical-Product-Owner--Engineer_R000108473) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/Technical-Product-Owner--Engineer_R000109079) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-02-13.
+This software engineer position at Guardian Life was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

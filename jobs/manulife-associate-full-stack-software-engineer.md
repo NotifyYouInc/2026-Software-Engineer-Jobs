@@ -1,16 +1,16 @@
-# Associate Full Stack Software Engineer at Manulife
+# Associate Full-Stack Software Engineer at Manulife
 
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR26040054-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25121019-2) |
 
 ## About This Role
 
-This software engineer position at Manulife was posted on 2026-04-24.
+This software engineer position at Manulife was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

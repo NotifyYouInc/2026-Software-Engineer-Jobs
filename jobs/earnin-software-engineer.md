@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7724337) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7301892) |
 
 ## About This Role
 
-This software engineer position at EarnIn was posted on 2026-03-18.
+This software engineer position at EarnIn was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

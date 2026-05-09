@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000123525949-sr-software-engineer-planpoint-gui-c) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124158599-sr-software-engineer-planpoint-gui-c) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-04-28.
+This software engineer position at Intuitive Surgical was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

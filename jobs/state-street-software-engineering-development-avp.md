@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering---Development--AVP_R-785434) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering---Development--AVP_R-789477-1) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-03-09.
+This software engineer position at State Street was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

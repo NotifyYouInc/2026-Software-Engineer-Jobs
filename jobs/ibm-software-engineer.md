@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103550) |
+| Location | Irvine, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113361) |
 
 ## About This Role
 
-This engineering manager position at IBM was posted on 2026-03-17.
+This software engineer position at IBM was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

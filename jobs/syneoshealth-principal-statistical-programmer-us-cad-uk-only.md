@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Florida, US |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Remote/Principal-Statistical-Programmer--US--CAD--UK-only-_25105560) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CAN-Remote/Principal-Statistical-Programmer--US--CAD--UK-only-_25107724) |
 
 ## About This Role
 
-This software engineer position at Syneoshealth was posted on 2026-02-06.
+This software engineer position at Syneoshealth was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

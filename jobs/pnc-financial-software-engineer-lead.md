@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Lead_R219920-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Software-Engineer-Lead_R211692-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-04-30.
+This software engineer position at PNC Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

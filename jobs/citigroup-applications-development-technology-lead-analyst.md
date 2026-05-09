@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Development-Technology-Lead-Analyst_26943262-1) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Software Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Technology-Lead-Analyst_26956238) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-03-26.
+This software engineer position at Citigroup was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

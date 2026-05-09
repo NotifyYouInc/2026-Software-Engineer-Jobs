@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0280882) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/EDA-Tools-Software-Engineer_JR0280762-1) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-20.
+This software engineer position at Intel was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

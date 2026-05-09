@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer_JR-0105552) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Development-Engineer_JR-0106565) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-04-17.
+This software engineer position at Workday was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

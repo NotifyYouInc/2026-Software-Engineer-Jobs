@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87266976203711174-senior-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdcDanm0E2AfL4ipkdMxbBHYmI7w8KFygsHnqFgdPcu5EjsACxwdTJ0kQhhvleU5dkF4vnR6AEvi4tCcGUB1YOGF9l73Kd5Fjn6BOqbRJK2vs_6fvUfNbgcu-l0Lag%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-26.
+This devops engineer position at Google was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

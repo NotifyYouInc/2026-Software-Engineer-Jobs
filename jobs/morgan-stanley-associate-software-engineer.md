@@ -1,16 +1,16 @@
-# Associate Software Engineer at Morgan Stanley
+# Associate, Software Engineer at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR032341) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR021174) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-03-19.
+This software engineer position at Morgan Stanley was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

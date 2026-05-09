@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/IT-Quality-Tech-Lead-Analyst_26952742) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/IT-Quality-Tech-Lead-Analyst_26954908) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-22.
+This software engineer position at Citigroup was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

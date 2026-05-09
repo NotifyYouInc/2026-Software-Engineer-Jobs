@@ -1,16 +1,16 @@
-# Python Software Engineer  at IMC Trading
+# Python Software Engineer at IMC Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4796149101) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4850337101) |
 
 ## About This Role
 
-This software engineer position at IMC Trading was posted on 2026-04-16.
+This software engineer position at IMC Trading was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

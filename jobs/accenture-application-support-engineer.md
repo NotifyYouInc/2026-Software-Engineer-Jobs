@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5543138-S2020147-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Application-Support-Engineer_ATCI-5468232-S1998362-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-04-30.
+This technical support engineer position at Accenture was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
