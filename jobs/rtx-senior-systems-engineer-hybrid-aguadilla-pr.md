@@ -1,4 +1,4 @@
-# Senior Software Engineer (Hybrid - Aguadilla, PR) at RTX
+# Senior Systems Engineer (Hybrid - Aguadilla, PR) at RTX
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | PR & External Communications |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Senior-Software-Engineer--Hybrid---Aguadilla--PR-_01842789) |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Senior-Systems-Engineer--Hybrid---Aguadilla--PR-_01839962) |
 
 ## About This Role
 

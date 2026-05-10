@@ -1,16 +1,16 @@
-# Sr. Software Developer at EVERSANA
+# Senior Systems Engineer – Performance & Reliability (Analysis) at Graphcore
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Software Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8533897002) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-05-02.
+This software engineer position at Graphcore was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

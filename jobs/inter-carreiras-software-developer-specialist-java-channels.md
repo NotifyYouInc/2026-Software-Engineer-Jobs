@@ -1,16 +1,16 @@
-# Sr. Software Developer at EVERSANA
+# SOFTWARE DEVELOPER SPECIALIST JAVA - Channels at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Software Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4662379005?gh_jid=4662379005) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-05-02.
+This software engineer position at Inter Carreiras was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

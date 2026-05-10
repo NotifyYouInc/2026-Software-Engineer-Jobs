@@ -1,16 +1,16 @@
-# Software Engineer at Nox Metals
+# Software Engineer  at Nox Metals
 
 | Field | Details |
 |-------|---------|
 | Company | [Nox Metals](https://scoutify.ai/companies/nox-metals?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nox-metals/1cf759db-73e4-4bbb-b1a9-dcb71611d172) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nox-metals/82698f55-d4d2-4fbf-8951-181c28103dc5) |
 
 ## About This Role
 
-This software engineer position at Nox Metals was posted on 2026-04-26.
+This software engineer position at Nox Metals was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Software Developer at EVERSANA
+# Senior XRM Developer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943726-senior-xrm-developer) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-05-02.
+This software engineer position at City of New York was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Software Developer at EVERSANA
+# Software Engineer, Databases (Technical Leadership) at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
+| Posted | 2026-05-03 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/922434207363047) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-05-02.
+This software engineer position at Meta was posted on 2026-05-03.
 
 ## Get Real-Time Alerts
 

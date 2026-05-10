@@ -1,16 +1,16 @@
-# Sr. Software Developer at EVERSANA
+# Forward Deployed Engineer at Modernfi
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Company | [Modernfi](https://scoutify.ai/companies/modernfi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/modernfi/3a6ee2f6-a8f8-479a-83e4-b80ccdbb6474) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-05-02.
+This software engineer position at Modernfi was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

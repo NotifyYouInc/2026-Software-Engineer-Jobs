@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Serbia |
-| Category | Frontend Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/b4d1cb92-4052-424e-a7b1-a3b1773f6a83) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0ba7d0a2-4b13-43f8-90cf-eeb8836df25e) |
 
 ## About This Role
 
-This frontend engineer position at Ruby Labs was posted on 2026-02-21.
+This software engineer position at Ruby Labs was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
