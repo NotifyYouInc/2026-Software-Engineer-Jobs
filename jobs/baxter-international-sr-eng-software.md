@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Sr-Eng--Software_JR-188520) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Sr-Eng--Software_JR-197277) |
 
 ## About This Role
 
-This frontend engineer position at Baxter International was posted on 2026-03-30.
+This software engineer position at Baxter International was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

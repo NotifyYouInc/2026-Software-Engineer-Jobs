@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/auditboard/eec4da84-2e5d-40ab-89f6-7eb5a79e96d2) |
+| Category | Software Engineer |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/f4003f87-8e70-41c2-a58e-6731c06c9fb1) |
 
 ## About This Role
 
-This frontend engineer position at AuditBoard was posted on 2026-03-03.
+This software engineer position at AuditBoard was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

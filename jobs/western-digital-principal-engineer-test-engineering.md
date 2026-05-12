@@ -1,16 +1,16 @@
-# Principal Engineer Test Engineering at Western Digital
+# Principal Engineer, Test Engineering at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Johor Bahru, Johor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114707377-principal-engineer-test-engineering) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000124553429-principal-engineer-test-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-03-13.
+This software engineer position at Western Digital was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

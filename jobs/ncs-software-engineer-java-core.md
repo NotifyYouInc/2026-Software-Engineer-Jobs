@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000964869-software-engineer-java-core) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001045727-software-engineer-java-core) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-03-30.
+This software engineer position at NCS was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Senior-Software-Engineer_6790-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Senior-Software-Engineer_7656) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-02-16.
+This software engineer position at AeroVironment was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

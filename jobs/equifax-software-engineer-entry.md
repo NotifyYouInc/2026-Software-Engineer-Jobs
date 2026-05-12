@@ -1,16 +1,16 @@
-# Software Engineer-Entry at Equifax
+# Software Engineer - Entry at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kerala, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Software-Engineer-Entry_J00174216) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Software-Engineer---Entry_J00175916) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-19.
+This software engineer position at Equifax was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

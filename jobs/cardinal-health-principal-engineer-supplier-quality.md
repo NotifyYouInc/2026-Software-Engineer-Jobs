@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/China-Shanghai-Sourcing-Office-Kerry-Everbright-City/Principal-Engineer--Supplier-Quality_20177518) |
+| Location | United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Principal-Engineer--Supplier-Quality_20179580-1) |
 
 ## About This Role
 
-This compliance & risk management position at Cardinal Health was posted on 2026-03-20.
+This engineering manager position at Cardinal Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

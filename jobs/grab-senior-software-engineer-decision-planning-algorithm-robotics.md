@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Robotics Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000123116540-senior-software-engineer-decision-planning-algorithm-robotics) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000124464004-senior-software-engineer-decision-planning-algorithm-robotics) |
 
 ## About This Role
 
-This robotics engineer position at Grab was posted on 2026-04-27.
+This robotics engineer position at Grab was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

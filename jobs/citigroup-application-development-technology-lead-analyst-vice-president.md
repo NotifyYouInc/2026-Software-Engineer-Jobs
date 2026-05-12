@@ -1,16 +1,16 @@
-# Application Development Technology Lead Analyst, Vice President at Citigroup
+# Application Development Technology Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Application-Development-Technology-Lead-Analyst--Vice-President_26955641) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Development-Technology-Lead-Analyst_26952825) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-17.
+This software engineer position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

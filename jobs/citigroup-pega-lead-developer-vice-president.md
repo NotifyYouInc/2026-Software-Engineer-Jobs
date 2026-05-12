@@ -1,16 +1,16 @@
-# Pega Lead Developer, Vice President at Citigroup
+# Pega Lead Developer- Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Pega-Lead-Developer--Vice-President_26955313) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Pega-Lead-Developer--Vice-President_26954849) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-28.
+This software engineer position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

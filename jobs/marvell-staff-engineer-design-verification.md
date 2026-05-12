@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Staff-Engineer--Design-Verification_2600789) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/TW---Hsinchu/Staff-Engineer--Design-Verification_2601662-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-12.
+This semiconductor / chip design position at Marvell was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

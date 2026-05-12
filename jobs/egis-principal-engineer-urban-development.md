@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000123350689-principal-engineer-urban-development) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000124523579-principal-engineer-urban-development) |
 
 ## About This Role
 
-This engineering manager position at Egis was posted on 2026-04-28.
+This engineering manager position at Egis was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Texas, US |
 | Category | Software Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8533843002?gh_jid=8533843002) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8533847002?gh_jid=8533847002) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Senior enterprise technology engineer at BP
+# Senior Enterprise Technology Engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Texas---Houston/Senior-enterprise-technology-engineer_RQ109655) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-Enterprise-Technology-Engineer_RQ110139) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-04-23.
+This software engineer position at BP was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

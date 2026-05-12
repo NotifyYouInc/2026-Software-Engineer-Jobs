@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prophecy](https://scoutify.ai/companies/prophecy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/4876131007) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/5125696007) |
 
 ## About This Role
 
-This software engineer position at Prophecy was posted on 2026-02-12.
+This ai / llm engineer position at Prophecy was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

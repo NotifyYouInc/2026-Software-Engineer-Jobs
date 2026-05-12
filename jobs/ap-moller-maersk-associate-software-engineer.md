@@ -1,16 +1,16 @@
-# Associate Software Engineer at A.P. Moller - Maersk
+# Associate software engineer at A.P. Moller - Maersk
 
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Associate-Software-Engineer_R172671) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Associate-software-engineer_R180304) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-02-11.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
