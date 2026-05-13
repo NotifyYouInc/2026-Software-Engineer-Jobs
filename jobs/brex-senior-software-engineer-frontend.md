@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Frontend Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.brex.com/careers/8501025002?gh_jid=8501025002) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.brex.com/careers/8536763002?gh_jid=8536763002) |
 
 ## About This Role
 
-This frontend engineer position at Brex was posted on 2026-04-09.
+This frontend engineer position at Brex was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

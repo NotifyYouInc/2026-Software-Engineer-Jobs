@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irvine, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202673070) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202676821) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-02-16.
+This software engineer position at Cox was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3202988/software-development-engineer-fraud-reduction-enforcement-systems-and-controls-in-advertising-fresca) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411996/software-development-engineer-fraud-reduction-enforcement-systems-and-controls-in-advertising-fresca) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-03-12.
+This industrial automation position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

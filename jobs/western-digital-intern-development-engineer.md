@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Thailand |
-| Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118825416-intern-development-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000124798988-intern-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-04-06.
+This electrical / hardware engineer position at Western Digital was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

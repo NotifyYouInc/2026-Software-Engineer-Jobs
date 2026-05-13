@@ -5,12 +5,12 @@
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Software-Development-Engineer_R10823) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Software-Development-Engineer_R2402-1) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-04-16.
+This software engineer position at Clearwateranalytics was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Software-Engineer_AP-23953939) |
+| Category | Frontend Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Software-Engineer_AP-23973463-1) |
 
 ## About This Role
 
-This software engineer position at Morningstar was posted on 2026-04-07.
+This frontend engineer position at Morningstar was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

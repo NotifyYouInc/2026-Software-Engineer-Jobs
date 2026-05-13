@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LiveFlow](https://scoutify.ai/companies/liveflow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/liveflow/44a4e8f8-76fc-433e-963f-f5ffcfdccd46) |
+| Location | Mountain View, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/liveflow/e1ba2bad-030a-4bc2-9bbd-f1375f712a57) |
 
 ## About This Role
 
-This frontend engineer position at LiveFlow was posted on 2026-03-24.
+This ai / llm engineer position at LiveFlow was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

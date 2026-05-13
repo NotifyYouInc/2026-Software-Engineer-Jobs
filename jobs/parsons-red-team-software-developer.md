@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
+| Location | Fort Belvoir, Virginia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Fort-Belvoir/Red-Team-Software-Developer_R177752-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Fort-Belvoir/Red-Team-Software-Developer_R180544) |
 
 ## About This Role
 
-This offensive security & pentesting position at Parsons was posted on 2026-02-20.
+This offensive security & pentesting position at Parsons was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

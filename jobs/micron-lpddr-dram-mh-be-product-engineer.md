@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/LPDDR-DRAM-MH-BE-Product-Engineer_JR97866) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/LPDDR-DRAM-MH-BE-Product-Engineer_JR100221) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-04-28.
+This electrical / hardware engineer position at Micron was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

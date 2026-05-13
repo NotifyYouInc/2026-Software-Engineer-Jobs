@@ -5,12 +5,12 @@
 | Company | [Nuro](https://scoutify.ai/companies/nuro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=7701347) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=7896063) |
 
 ## About This Role
 
-This robotics engineer position at Nuro was posted on 2026-03-10.
+This robotics engineer position at Nuro was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

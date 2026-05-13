@@ -1,16 +1,16 @@
-# Software Engineer II at Cloudera
+# Software Engineer - II at Cloudera
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Software-Engineer-II_260229-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Software-Engineer---II_260528) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-02-25.
+This software engineer position at Cloudera was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

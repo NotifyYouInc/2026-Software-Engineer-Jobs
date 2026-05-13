@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Java-Developer_JR-0000066703) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Java-Developer_JR-0000111166-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-17.
+This software engineer position at Barclays was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

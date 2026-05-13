@@ -5,12 +5,12 @@
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Ana, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Santa-Ana-CA/Sales-Application-Engineer_R15502) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Santa-Ana-CA/Sales-Application-Engineer_R15918) |
 
 ## About This Role
 
-This software engineer position at TTM Technologies was posted on 2026-04-07.
+This software engineer position at TTM Technologies was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

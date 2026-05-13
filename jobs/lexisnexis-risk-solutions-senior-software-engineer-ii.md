@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Software-Engineer-II_R111347) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Software-Engineer-II_R112173) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-04-22.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

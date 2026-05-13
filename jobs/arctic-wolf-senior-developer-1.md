@@ -1,16 +1,16 @@
-# Senior developer-1 at Arctic Wolf
+# Senior Developer 1 at Arctic Wolf
 
 | Field | Details |
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-developer-1_R26_232-2) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Developer-1_R26_477) |
 
 ## About This Role
 
-This software engineer position at Arctic Wolf was posted on 2026-03-18.
+This software engineer position at Arctic Wolf was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

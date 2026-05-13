@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--Texas--Austin/Senior-Software-Engineer_260327-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Software-Engineer_260657) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-03-11.
+This software engineer position at Cloudera was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

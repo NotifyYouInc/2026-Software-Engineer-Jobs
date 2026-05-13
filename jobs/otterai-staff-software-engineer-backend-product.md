@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otter.ai](https://scoutify.ai/companies/otterai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://otter.ai/careers?gh_jid=6531765003) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://otter.ai/careers?gh_jid=7725393003) |
 
 ## About This Role
 
-This software engineer position at Otter.ai was posted on 2026-04-23.
+This software engineer position at Otter.ai was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

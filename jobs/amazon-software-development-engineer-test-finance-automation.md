@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3187637/software-development-engineer-test-finance-automation) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412083/software-development-engineer-test-finance-automation) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-24.
+This software engineer position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
