@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Hartford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Staff-Software-Development-Engineer_R0881159) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Staff-Software-Development-Engineer_R0900819) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-04-28.
+This software engineer position at CVS Health was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

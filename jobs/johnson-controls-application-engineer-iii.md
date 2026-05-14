@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-III_WD30266788-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-III_WD30266786) |
 
 ## About This Role
 
-This engineering manager position at Johnson Controls was posted on 2026-04-20.
+This engineering manager position at Johnson Controls was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

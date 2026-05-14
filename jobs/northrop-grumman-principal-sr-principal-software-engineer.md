@@ -1,16 +1,16 @@
-# Principal / Sr. Principal Software Engineer at Northrop Grumman
+# Principal / Sr Principal Software Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woodland Hills, California, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal---Sr-Principal-Software-Engineer_R10223964) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal---Sr-Principal-Software-Engineer_R10231498) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-24.
+This software engineer position at Northrop Grumman was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

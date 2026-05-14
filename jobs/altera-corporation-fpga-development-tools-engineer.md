@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02272-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02462) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-04-03.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

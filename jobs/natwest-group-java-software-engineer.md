@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Java-Software-Engineer_R-00276241) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Java-Software-Engineer_R-00277778-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-04-07.
+This software engineer position at NatWest Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

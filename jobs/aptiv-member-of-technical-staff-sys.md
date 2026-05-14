@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Chennai-India/Member-of-Technical-Staff---Sys_9977) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-India-Chennai--WR/Member-of-Technical-Staff---Sys_J000698017) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-03-07.
+This software engineer position at Aptiv was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

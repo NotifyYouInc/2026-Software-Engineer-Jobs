@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Staff-Software-Engineer_R34224) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Singapore/Staff-Software-Engineer_R34764) |
 
 ## About This Role
 
-This frontend engineer position at Zendesk was posted on 2026-03-26.
+This software engineer position at Zendesk was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

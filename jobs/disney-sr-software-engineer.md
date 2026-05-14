@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Florida, US |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bay-Lake-FL-USA/Sr-Software-Engineer_10148700) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Software-Engineer_10150083) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-04-28.
+This software engineer position at Disney was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

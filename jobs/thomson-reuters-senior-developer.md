@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sweden |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Senior-Developer_JREQ200032) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Stockholm/Senior-Developer_JREQ200031) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-05-02.
+This software engineer position at Thomson Reuters was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

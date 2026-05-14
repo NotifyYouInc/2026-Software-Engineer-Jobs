@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Langenfeld, North Rhine-Westphalia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Development-Engineer_JREQ197902) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Germany-Langenfeld/Software-Development-Engineer_JREQ200387) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-28.
+This software engineer position at Thomson Reuters was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

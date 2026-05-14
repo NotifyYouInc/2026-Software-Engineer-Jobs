@@ -5,12 +5,12 @@
 | Company | [CCC Intelligent Solutions](https://scoutify.ai/companies/cccis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Senior-Backend-Engineer---DPS-Core---Data-Engine-Squad_0014479) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Senior-Backend-Engineer---DPS-Core---Data-Engine-Squad_0014665) |
 
 ## About This Role
 
-This software engineer position at CCC Intelligent Solutions was posted on 2026-03-02.
+This software engineer position at CCC Intelligent Solutions was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

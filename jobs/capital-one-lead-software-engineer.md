@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R240650) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer_R242065-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-04-16.
+This software engineer position at Capital One was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

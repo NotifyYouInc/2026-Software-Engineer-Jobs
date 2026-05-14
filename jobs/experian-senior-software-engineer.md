@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Database Administration |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117501237-senior-software-engineer) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Software Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124995379-senior-software-engineer) |
 
 ## About This Role
 
-This database administration position at Experian was posted on 2026-03-29.
+This software engineer position at Experian was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

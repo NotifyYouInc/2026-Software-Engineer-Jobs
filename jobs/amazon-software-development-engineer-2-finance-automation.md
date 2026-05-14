@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203017/software-development-engineer-2-finance-automation) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413245/software-development-engineer-2-finance-automation) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-12.
+This software engineer position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

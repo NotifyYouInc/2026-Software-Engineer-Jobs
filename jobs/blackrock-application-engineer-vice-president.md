@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Application-Engineer--Vice-President_R257619) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/M11---Commers-III-43-44--45-Fl-Internatl-Business-Park-Oberoi-Garden-City/Application-Engineer--Vice-President_R260415) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-04-14.
+This software engineer position at Blackrock was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chile |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Las-Condes-Region-Metropolitana-de-Santiago/ANALISTA-PROGRAMADOR_JR00102704) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Las-Condes-Region-Metropolitana-de-Santiago/ANALISTA-PROGRAMADOR_JR00103186) |
 
 ## About This Role
 
-This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-30.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-Engineer--Digital-IC-Design_2600235) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/TW---Hsinchu/Senior-Staff-Engineer--Digital-IC-Design_2601670) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-02-23.
+This semiconductor / chip design position at Marvell was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

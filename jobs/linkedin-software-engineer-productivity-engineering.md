@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000124555309-software-engineer-productivity-engineering) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000125037540-software-engineer-productivity-engineering) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-05-05.
+This software engineer position at LinkedIn was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

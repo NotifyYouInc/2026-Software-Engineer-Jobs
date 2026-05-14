@@ -1,16 +1,16 @@
-# Applications Development Senior Programmer Analyst - Assistant Vice President at Citigroup
+# Applications Development Senior Programmer Analyst – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26957274) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26960101) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-05.
+This software engineer position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

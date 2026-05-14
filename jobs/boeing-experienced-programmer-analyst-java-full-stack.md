@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Experienced-Programmer-Analyst---Java-Full-Stack_JR2026495256-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Experienced-Programmer-Analyst---Java-Full-Stack_JR2026508962-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-09.
+This software engineer position at Boeing was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

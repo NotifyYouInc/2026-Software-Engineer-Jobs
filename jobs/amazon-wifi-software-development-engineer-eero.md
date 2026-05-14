@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380882/wifi-software-development-engineer-eero) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413190/wifi-software-development-engineer-eero) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-01.
+This software engineer position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

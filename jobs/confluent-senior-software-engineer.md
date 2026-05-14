@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | Portland, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/8b41454a-1025-418b-b7eb-642dd8408219) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/406d4c74-8ebd-4f51-ab1b-1db71018d387) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-03-04.
+This software engineer position at Confluent was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

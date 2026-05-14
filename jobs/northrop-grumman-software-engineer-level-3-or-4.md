@@ -1,16 +1,16 @@
-# Software Engineer - Level 3 or 4 at Northrop Grumman
+# Software Engineer Level 3 or 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10231647) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-3-or-4_R10231947) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-01.
+This software engineer position at Northrop Grumman was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Software-Engineer_R-274948) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Ramat-Gan-Israel/Lead-Software-Engineer_R-276370) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-04-16.
+This software engineer position at Mastercard was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
