@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Software-Engineer_R4040342-1) |
+| Location | 2 locations |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tianjin/Staff-Software-Engineer_R4040834-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-28.
+This embedded / firmware engineer position at GE HealthCare was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

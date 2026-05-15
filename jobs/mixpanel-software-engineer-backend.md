@@ -5,12 +5,12 @@
 | Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7850958) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7774151) |
 
 ## About This Role
 
-This software engineer position at Mixpanel was posted on 2026-04-25.
+This software engineer position at Mixpanel was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

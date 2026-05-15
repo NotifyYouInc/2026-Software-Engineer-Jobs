@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Blueprints---NIM-Integrations_JR2001038) |
+| Location | Santa Clara, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Apps-and-Frameworks_JR2017857) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-13.
+This ai / llm engineer position at Nvidia was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

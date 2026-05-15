@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Mississippi, US |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OH-Dayton/HPC-Computational-Scientist_RQ217079-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MS-Stennis-Space-Center/HPC-Computational-Scientist_RQ218532-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-23.
+This software engineer position at General Dynamics Information Technology was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

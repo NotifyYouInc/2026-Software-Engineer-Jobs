@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ohio, US |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Field-Application-Engineer_R239499-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/VN-HCM-Vietnam-Remote/Field-Application-Engineer_R241346) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-02-20.
+This software engineer position at Arrow Electronics was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

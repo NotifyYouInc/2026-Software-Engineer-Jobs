@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Java-Fullstack-Developer--Assistant-Vice-President_26941104) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Java-Fullstack-Developer--Assistant-Vice-President_26959847) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-02-25.
+This software engineer position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10148452) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II_10149907) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-04-30.
+This software engineer position at Disney was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

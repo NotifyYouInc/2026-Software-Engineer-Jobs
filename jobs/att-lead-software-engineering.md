@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Software Engineer |
+| Location | Bothell, Washington, United States |
+| Category | Mobile Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Software-Engineering_R-108018) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Lead-Software-Engineering_R-108767) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-05-07.
+This mobile engineer position at AT&T was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

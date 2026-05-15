@@ -1,16 +1,16 @@
-# Senior Software Engineer, Motion Planning  at Kodiak Robotics
+# Senior Software Engineer, Motion Planning at Kodiak Robotics
 
 | Field | Details |
 |-------|---------|
 | Company | [Kodiak Robotics](https://scoutify.ai/companies/kodiak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Mountain View, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4183788009) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4243323009) |
 
 ## About This Role
 
-This robotics engineer position at Kodiak Robotics was posted on 2026-03-13.
+This robotics engineer position at Kodiak Robotics was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

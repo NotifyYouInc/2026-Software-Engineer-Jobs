@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000124805569-senior-software-engineer-i-payex-frontend) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125254679-senior-software-engineer-i-payex-frontend) |
 
 ## About This Role
 
-This frontend engineer position at Flywire was posted on 2026-05-06.
+This frontend engineer position at Flywire was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

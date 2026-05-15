@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rayong, Rayong, Thailand |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Rayong/Senior-Development-Engineer_JR77628) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Rayong/Senior-Development-Engineer_JR77799) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Electrolux was posted on 2026-04-28.
+This electrical / hardware engineer position at Electrolux was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

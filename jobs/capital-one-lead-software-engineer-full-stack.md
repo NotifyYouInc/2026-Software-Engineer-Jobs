@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R241539-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Full-Stack_R242029-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-05-01.
+This software engineer position at Capital One was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

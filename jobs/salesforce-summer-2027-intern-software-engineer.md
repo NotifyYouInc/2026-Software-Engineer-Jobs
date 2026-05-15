@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-04-23.
+This software engineer position at Salesforce was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

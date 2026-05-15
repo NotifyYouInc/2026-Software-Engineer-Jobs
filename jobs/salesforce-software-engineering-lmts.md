@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-LMTS_JR329472) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR328821) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-02-17.
+This software engineer position at Salesforce was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

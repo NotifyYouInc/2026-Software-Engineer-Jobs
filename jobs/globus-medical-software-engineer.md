@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pennsylvania, US |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Software-Engineer_JR106386) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/San-Diego-CA/Software-Engineer_JR106494) |
 
 ## About This Role
 
-This software engineer position at Globus Medical was posted on 2026-04-15.
+This software engineer position at Globus Medical was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

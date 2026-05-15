@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000926652-senior-backend-engineer-video-ai-engine) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001057274-senior-backend-engineer-video-ai-engine) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-03-12.
+This software engineer position at Canva was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

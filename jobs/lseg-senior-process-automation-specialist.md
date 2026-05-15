@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taiwan |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Taipei-City-Taiwan/Senior-Process-Automation-Specialist_R0117284-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Taipei---Nan-Shan-Plaza/Senior-Process-Automation-Specialist_R0118681-1) |
 
 ## About This Role
 
-This frontend engineer position at LSEG was posted on 2026-03-17.
+This software engineer position at LSEG was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

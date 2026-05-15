@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/LLM-Full-Stack-Engineer-Senior-Manager_14210571) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/LLM-Full-Stack-Engineer-Senior-Manager_14210570) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-24.
+This ai / llm engineer position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Software-Developer-Scrum-Master_R-00181446) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Software-Developer-Scrum-Master_R-00181781-1) |
 
 ## About This Role
 
-This scrum master & agile coach position at Leidos was posted on 2026-04-24.
+This scrum master & agile coach position at Leidos was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

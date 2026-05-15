@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00180872) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-16.
+This software engineer position at Leidos was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

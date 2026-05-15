@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Software-Engineer---Notification-Platform_JR-202601018) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer---Notification-Platform_JR-202605445) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-06.
+This software engineer position at General Motors was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

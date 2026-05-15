@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-LLVM-Compiler-Engineer_JR2014411) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-LLVM-Compiler-Engineer_JR2017389-1) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-08.
+This software engineer position at Nvidia was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

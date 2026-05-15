@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Westford, Massachusetts, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Software-Engineer_1206089) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Westford-Massachusetts/Software-Engineer_1205914) |
 
 ## About This Role
 

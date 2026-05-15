@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coahuila, MX |
+| Location | Torreón, Coahuila, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Development-Engineer-II-MXT_R0446869-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Development-Engineer-II-MXT_R0460261) |
 
 ## About This Role
 
-This software engineer position at Tyson Foods was posted on 2026-02-25.
+This software engineer position at Tyson Foods was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Full-Stack-Software-Developer_R0236746) |
+| Location | Charlottesville, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Software-Developer_R0239613) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-03-25.
+This software engineer position at Booz Allen was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

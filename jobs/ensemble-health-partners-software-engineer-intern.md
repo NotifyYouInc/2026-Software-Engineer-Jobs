@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Software-Engineer-Intern_R040783) |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R040778) |
 
 ## About This Role
 
-This frontend engineer position at Ensemble Health Partners was posted on 2026-02-27.
+This software engineer position at Ensemble Health Partners was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

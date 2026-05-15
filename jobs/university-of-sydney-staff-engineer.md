@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Darlington-Campus/Staff-Engineer_0147439-1) |
+| Location | Darlington, Western Australia, Australia |
+| Category | Engineering Manager |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Darlington-Campus/Staff-Engineer_0149732-3) |
 
 ## About This Role
 
-This electrical / hardware engineer position at University of Sydney was posted on 2026-03-11.
+This engineering manager position at University of Sydney was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
