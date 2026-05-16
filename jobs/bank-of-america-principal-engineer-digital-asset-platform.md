@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Principal-Engineer---Digital-Asset-Platform_26004851-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Principal-Engineer---Digital-Asset-Platform_26016026-2) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-02-24.
+This software engineer position at Bank of America was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

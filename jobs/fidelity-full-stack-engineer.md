@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Full-Stack-Engineer_2122161-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Full-Stack-Engineer_2127705-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-30.
+This software engineer position at Fidelity was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

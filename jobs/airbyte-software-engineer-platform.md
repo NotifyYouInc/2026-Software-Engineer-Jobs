@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbyte](https://scoutify.ai/companies/airbyte?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airbyte/702e1178-140c-45e3-bb19-25a86cc66925) |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airbyte/c08927ad-466d-4989-9ca7-493b5bd30a22) |
 
 ## About This Role
 
-This devops engineer position at Airbyte was posted on 2026-03-17.
+This software engineer position at Airbyte was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

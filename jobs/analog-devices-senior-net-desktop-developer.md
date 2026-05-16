@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Limerick, Munster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-NET-Desktop-Developer_R261106) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-NET-Desktop-Developer_R262285) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-02-27.
+This software engineer position at Analog Devices was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beverly, Massachusetts, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/Senior-Software-Engineer_30199384) |
+| Location | East Syracuse, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Senior-Software-Engineer_30205736-1) |
 
 ## About This Role
 
-This frontend engineer position at Carrier Global was posted on 2026-02-20.
+This software engineer position at Carrier Global was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

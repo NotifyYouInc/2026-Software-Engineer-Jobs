@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Senior-Software-Engineer_10148215) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Senior-Software-Engineer_10149873-2) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-04-23.
+This software engineer position at Disney was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

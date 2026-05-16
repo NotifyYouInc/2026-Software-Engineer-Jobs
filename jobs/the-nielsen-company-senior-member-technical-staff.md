@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012100636-senior-member-technical-staff) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013055676-senior-member-technical-staff) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-03-12.
+This software engineer position at The Nielsen Company was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

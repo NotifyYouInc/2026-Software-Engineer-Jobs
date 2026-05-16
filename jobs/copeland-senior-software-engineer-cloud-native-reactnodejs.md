@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote---US/Senior-Software-Engineer--Cloud-Native--React-Nodejs-_JR113626-1) |
+| Location | Kennesaw, Georgia, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Senior-Software-Engineer--Cloud-Native--React-Nodejs-_JR113610) |
 
 ## About This Role
 
-This frontend engineer position at Copeland was posted on 2026-03-16.
+This software engineer position at Copeland was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

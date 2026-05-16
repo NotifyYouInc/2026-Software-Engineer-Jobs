@@ -5,12 +5,12 @@
 | Company | [Cribl](https://scoutify.ai/companies/cribl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cribl.io/job-detail/?gh_jid=5969389004) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cribl.io/job-detail/?gh_jid=5979544004) |
 
 ## About This Role
 
-This software engineer position at Cribl was posted on 2026-04-30.
+This software engineer position at Cribl was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

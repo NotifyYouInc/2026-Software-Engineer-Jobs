@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113979) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113974) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-05-07.
+This software engineer position at IBM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

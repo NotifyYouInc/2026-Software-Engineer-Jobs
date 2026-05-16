@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000124177060-desarrollador-backend-java) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000125423469-desarrollador-backend-java) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-05-01.
+This software engineer position at Inetum was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

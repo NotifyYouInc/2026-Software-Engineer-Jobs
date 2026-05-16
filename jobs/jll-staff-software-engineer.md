@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Staff-Software-Engineer_REQ495792) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Staff-Software-Engineer_REQ504977) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-03-30.
+This software engineer position at JLL was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

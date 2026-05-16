@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Frisco, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125231909-field-application-engineer-software-sales) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125383140-field-application-engineer-software-sales) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-05-07.
+This software engineer position at Renesas Electronics was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4581497101) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4568487101) |
 
 ## About This Role
 
-This software engineer position at Veeam Software was posted on 2026-03-17.
+This software engineer position at Veeam Software was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

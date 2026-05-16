@@ -1,16 +1,16 @@
-# Principal Software Engineer – Trust Infrastructure at Sectigo
+# Principal Software Engineer, Trust Infrastructure at Sectigo
 
 | Field | Details |
 |-------|---------|
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990012901746-principal-software-engineer-trust-infrastructure) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013055307-principal-software-engineer-trust-infrastructure) |
 
 ## About This Role
 
-This software engineer position at Sectigo was posted on 2026-04-30.
+This software engineer position at Sectigo was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

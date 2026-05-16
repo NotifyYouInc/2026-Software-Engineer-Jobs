@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.lever.co/plaid/f455a60a-6ea0-4d1b-890b-5f7869192c5f) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/597ed0af-461e-452e-ade4-26efa02a8b52) |
 
 ## About This Role
 
-This software engineer position at Plaid was posted on 2026-03-02.
+This software engineer position at Plaid was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
