@@ -1,16 +1,16 @@
-# Senior Software Engineer at Humana
+# Product Development Engineer at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bekasi, West Java, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000125449439-product-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-05-10.
+This software engineer position at Mattel was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

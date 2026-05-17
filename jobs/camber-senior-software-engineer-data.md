@@ -1,16 +1,16 @@
-# Senior Software Engineer at Humana
+# Senior Software Engineer, Data at Camber
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Camber](https://scoutify.ai/companies/camber?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/camber/fbc8ffb8-71bf-4d35-be44-a1a56f06ed9f) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-05-10.
+This software engineer position at Camber was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

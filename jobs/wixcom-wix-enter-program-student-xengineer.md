@@ -1,16 +1,16 @@
-# Senior Software Engineer at Humana
+# Wix Enter Program – Student xEngineer at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000125462219-wix-enter-program-student-xengineer) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-05-10.
+This software engineer position at Wix.com was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

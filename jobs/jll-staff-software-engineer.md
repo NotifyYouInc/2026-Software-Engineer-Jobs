@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Staff-Software-Engineer_REQ504977) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Staff-Software-Engineer_REQ503454) |
 
 ## About This Role
 

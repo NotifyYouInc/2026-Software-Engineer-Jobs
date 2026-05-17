@@ -1,16 +1,16 @@
-# Senior Software Engineer at Eurofins Scientific
+# Programmer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125453474-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056256-programmer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-05-09.
+This software engineer position at City of New York was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

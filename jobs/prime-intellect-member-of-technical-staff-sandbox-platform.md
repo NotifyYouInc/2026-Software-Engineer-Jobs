@@ -1,16 +1,16 @@
-# Senior Software Engineer at Humana
+# Member of Technical Staff - Sandbox Platform at Prime Intellect
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Prime Intellect](https://scoutify.ai/companies/prime-intellect?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/primeintellect/26c41d54-f823-4aac-8fdf-4e78fc760184) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-05-10.
+This software engineer position at Prime Intellect was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rutherford, New Jersey, United States |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26952702-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26956696) |
 
 ## About This Role
 

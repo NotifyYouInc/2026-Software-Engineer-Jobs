@@ -1,16 +1,16 @@
-# Senior Software Engineer at Humana
+# Junior Linux Kernel Engineer - Ubuntu at Canonical
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Canonical](https://scoutify.ai/companies/canonical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/canonical/jobs/5370815) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-05-10.
+This software engineer position at Canonical was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

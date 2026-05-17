@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical Writer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Software-Engineer_R014673) |
+| Category | Software Engineer |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Software-Engineer_R015370) |
 
 ## About This Role
 
-This technical writer position at Netsmart was posted on 2026-03-11.
+This software engineer position at Netsmart was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

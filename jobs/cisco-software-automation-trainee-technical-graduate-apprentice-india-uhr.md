@@ -1,16 +1,16 @@
-# Senior Software Engineer at Eurofins Scientific
+# Software Automation Trainee_Technical Graduate Apprentice - India UHR at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125453474-senior-software-engineer) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Automation-Trainee-Technical-Graduate-Apprentice---India-UHR_2014457) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-05-09.
+This software engineer position at Cisco was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

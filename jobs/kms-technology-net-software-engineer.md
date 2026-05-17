@@ -1,16 +1,16 @@
-# Senior Software Engineer at Eurofins Scientific
+# .NET Software Engineer at KMS Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125453474-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000125457669-net-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-05-09.
+This software engineer position at KMS Technology was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
