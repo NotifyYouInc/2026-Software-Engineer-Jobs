@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000108602451-senior-android-software-engineer) |
+| Category | Mobile Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000125748669-senior-android-software-engineer) |
 
 ## About This Role
 
-This software engineer position at H&M Group was posted on 2026-02-10.
+This mobile engineer position at H&M Group was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

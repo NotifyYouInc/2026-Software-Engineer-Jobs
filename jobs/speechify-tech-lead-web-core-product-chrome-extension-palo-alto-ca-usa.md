@@ -5,12 +5,12 @@
 | Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5976237004) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5975779004) |
 
 ## About This Role
 
-This software engineer position at Speechify was posted on 2026-04-25.
+This software engineer position at Speechify was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

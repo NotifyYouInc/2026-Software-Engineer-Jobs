@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2014693) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Development-Engineer_JR2017138) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-03-13.
+This electrical / hardware engineer position at Nvidia was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

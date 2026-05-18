@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000125447639-full-stack-developer-mern-stack-insurance) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000125749499-full-stack-developer-mern-stack-insurance) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-05-09.
+This software engineer position at VAM Systems was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
