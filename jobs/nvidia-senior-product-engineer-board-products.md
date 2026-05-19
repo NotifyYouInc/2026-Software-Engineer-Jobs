@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vietnam |
+| Location | Pune, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2014212) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Product-Engineer---Board-Products_JR2016886) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-04-03.
+This electrical / hardware engineer position at Nvidia was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

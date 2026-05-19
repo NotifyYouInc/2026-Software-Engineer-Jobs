@@ -5,12 +5,12 @@
 | Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shenzhen/Application-Engineer_JR100290) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shenzhen/Application-Engineer_JR100292) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Ambarella was posted on 2026-04-30.
+This embedded / firmware engineer position at Ambarella was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

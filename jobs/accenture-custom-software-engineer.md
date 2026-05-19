@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Custom-Software-Engineer_ATCI-5263689-S1947421-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-R1-S1942890-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-11.
+This software engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

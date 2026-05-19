@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5416429-S1984752-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead--Test-Lead-_ATCI-4981905-S1859495) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-30.
+This software engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

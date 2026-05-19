@@ -1,16 +1,16 @@
-# Staff Engineer - Java (HYBRID) at Geico
+# Staff Engineer - JAVA (HYBRID) at Geico
 
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---Java--HYBRID-_R0062021) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Staff-Engineer---JAVA--HYBRID-_R0063833) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-04-28.
+This software engineer position at Geico was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5085719007?gh_jid=5085719007) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5054234007?gh_jid=5054234007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-04-16.
+This software engineer position at Anduril was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

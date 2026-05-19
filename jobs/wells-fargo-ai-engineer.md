@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/AI-Engineer_R-542094-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/AI-Engineer_R-542087) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-05-11.
+This ai / llm engineer position at Wells Fargo was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

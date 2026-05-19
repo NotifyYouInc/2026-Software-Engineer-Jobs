@@ -1,16 +1,16 @@
-# Backend Developer- Benchmarking, Target Setting & Performance at Chevron
+# Backend Developer : Benchmarking, Target Setting & Performance at Chevron
 
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Backend-Developer--Benchmarking--Target-Setting---Performance_R000067139-3) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Backend-Developer---Benchmarking--Target-Setting---Performance_R000069686) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-03-25.
+This software engineer position at Chevron was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sejong, Sejong-si, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000125750961-aumovio-star-internship-software-engineer-user-experience) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000125971365-aumovio-star-internship-software-engineer-user-experience) |
 
 ## About This Role
 
-This software engineer position at Aumovio was posted on 2026-05-11.
+This software engineer position at Aumovio was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

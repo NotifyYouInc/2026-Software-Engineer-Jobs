@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5479557-S2001422-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-R1-S1943704-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-05-11.
+This technical support engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

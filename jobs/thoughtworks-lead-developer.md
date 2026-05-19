@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7693159?gh_jid=7693159) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7760809?gh_jid=7760809) |
 
 ## About This Role
 
-This engineering manager position at Thoughtworks was posted on 2026-03-25.
+This software engineer position at Thoughtworks was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000111768586-senior-software-engineer-tieto-caretech-mfd) |
+| Category | Software Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000126000557-senior-software-engineer-tieto-caretech-mfd) |
 
 ## About This Role
 
-This frontend engineer position at Tietoevry was posted on 2026-02-27.
+This software engineer position at Tietoevry was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

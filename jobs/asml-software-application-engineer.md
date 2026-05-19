@@ -5,12 +5,12 @@
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuhan, Hubei, China |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wuhan-China/Software-Application-Engineer_J-00330796) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wuhan-China/Software-Application-Engineer_J-00339883-1) |
 
 ## About This Role
 
-This software engineer position at ASML was posted on 2026-02-25.
+This software engineer position at ASML was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

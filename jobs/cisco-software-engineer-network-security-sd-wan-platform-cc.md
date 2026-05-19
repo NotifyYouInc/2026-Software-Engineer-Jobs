@@ -1,16 +1,16 @@
-# Software Engineer - Network Security & SD-WAN Platform (C/C++) at Cisco
+# Software Engineer - Network Security | SD-WAN Platform (C/C++) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Security---SD-WAN-Platform--C-C---_2011853) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Security---SD-WAN-Platform--C-C---_2011831) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-04-15.
+This software engineer position at Cisco was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

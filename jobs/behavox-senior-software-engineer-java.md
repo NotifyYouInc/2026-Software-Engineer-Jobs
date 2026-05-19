@@ -5,12 +5,12 @@
 | Company | [Behavox](https://scoutify.ai/companies/behavox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/7872730) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/7915156) |
 
 ## About This Role
 
-This software engineer position at Behavox was posted on 2026-04-30.
+This software engineer position at Behavox was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

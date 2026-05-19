@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Staff-Engineer--Product-Software_JR-159534) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Staff-Engineer--Product-Software_JR-160718-1) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-04-01.
+This software engineer position at Equinix was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

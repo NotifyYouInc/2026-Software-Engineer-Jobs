@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-519839-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-GenAI-Agentic-AI-Engineer_R-541341-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-17.
+This ai / llm engineer position at Wells Fargo was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
