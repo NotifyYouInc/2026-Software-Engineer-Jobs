@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextera Robotics](https://scoutify.ai/companies/nextera-robotics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
+| Category | Robotics Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/nextera-robotics/jobs/bHD8S7x-robotics-and-ai-software-engineer-autonomous-navigation) |
 
 ## About This Role
 
-This software engineer position at Nextera Robotics was posted on 2026-02-09.
+This robotics engineer position at Nextera Robotics was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

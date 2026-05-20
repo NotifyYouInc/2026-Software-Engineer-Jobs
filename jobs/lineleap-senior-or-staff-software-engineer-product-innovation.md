@@ -5,12 +5,12 @@
 | Company | [LineLeap](https://scoutify.ai/companies/lineleap?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/lineleap/jobs/ordwNmA-senior-or-staff-software-engineer-product-innovation) |
 
 ## About This Role
 
-This software engineer position at LineLeap was posted on 2026-02-22.
+This software engineer position at LineLeap was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

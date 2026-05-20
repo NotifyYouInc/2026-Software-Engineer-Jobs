@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Engineering-Lead_REQ490913) |
+| Category | Engineering Manager |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Engineering-Lead_REQ507167) |
 
 ## About This Role
 
-This electrical / hardware engineer position at JLL was posted on 2026-03-13.
+This engineering manager position at JLL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

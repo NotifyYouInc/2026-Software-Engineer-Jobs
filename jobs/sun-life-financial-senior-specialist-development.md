@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Bengaluru-Karnataka/Senior-Specialist-Development_JR00118415) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Senior-Specialist-Development_JR00123916) |
 
 ## About This Role
 
-This software engineer position at Sun Life Financial was posted on 2026-04-07.
+This software engineer position at Sun Life Financial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

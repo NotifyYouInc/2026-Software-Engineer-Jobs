@@ -1,16 +1,16 @@
-# Principal Engineer - Design Verification at Marvell
+# Principal Engineer, Design Verification at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Principal-Engineer---Design-Verification_2503846) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pune/Principal-Engineer--Design-Verification_2601772) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-14.
+This semiconductor / chip design position at Marvell was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

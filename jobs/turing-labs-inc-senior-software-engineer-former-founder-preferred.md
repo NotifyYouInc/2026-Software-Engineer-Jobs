@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turing Labs Inc.](https://scoutify.ai/companies/turing-labs-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/turing-labs-inc/jobs/Z8ebn77-senior-software-engineer-former-founder-preferred) |
 
 ## About This Role
 
-This frontend engineer position at Turing Labs Inc. was posted on 2026-04-03.
+This software engineer position at Turing Labs Inc. was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

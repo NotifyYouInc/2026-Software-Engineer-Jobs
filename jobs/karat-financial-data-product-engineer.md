@@ -5,12 +5,12 @@
 | Company | [Karat Financial](https://scoutify.ai/companies/karat-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/karat-financial/jobs/VMlnsys-data-product-engineer) |
 
 ## About This Role
 
-This software engineer position at Karat Financial was posted on 2026-02-24.
+This software engineer position at Karat Financial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

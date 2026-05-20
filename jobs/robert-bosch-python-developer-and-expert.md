@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124478380-python-developer-and-expert) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126230509-python-developer-and-expert) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-05-04.
+This software engineer position at Robert Bosch was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

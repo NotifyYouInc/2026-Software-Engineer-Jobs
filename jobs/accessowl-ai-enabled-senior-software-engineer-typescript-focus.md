@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AccessOwl](https://scoutify.ai/companies/accessowl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Frontend Engineer |
-| Posted | 2026-03-31 |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 
 ## About This Role
 
-This frontend engineer position at AccessOwl was posted on 2026-03-31.
+This software engineer position at AccessOwl was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

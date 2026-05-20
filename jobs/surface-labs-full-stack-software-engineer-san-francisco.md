@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Surface Labs](https://scoutify.ai/companies/surface-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/surface-labs/jobs/8q7TfjT-full-stack-software-engineer-san-francisco) |
 
 ## About This Role
 
-This frontend engineer position at Surface Labs was posted on 2026-02-24.
+This software engineer position at Surface Labs was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

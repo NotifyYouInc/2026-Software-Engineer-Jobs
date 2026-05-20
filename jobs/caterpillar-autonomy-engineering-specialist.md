@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Green Valley, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Engineering-Specialist_R0000347665) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/Autonomy-Engineering-Specialist_R0000363687) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-26.
+This software engineer position at Caterpillar was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JustPaid](https://scoutify.ai/companies/justpaid?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/justpaid/jobs/BTj82qc-full-stack-software-developer-work-in-silicon-valley) |
 
 ## About This Role
 
-This software engineer position at JustPaid was posted on 2026-02-05.
+This software engineer position at JustPaid was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

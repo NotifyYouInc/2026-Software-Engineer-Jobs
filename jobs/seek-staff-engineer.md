@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Australia |
+| Location | Cremorne, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000120834147-staff-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000126227279-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-04-15.
+This software engineer position at SEEK was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

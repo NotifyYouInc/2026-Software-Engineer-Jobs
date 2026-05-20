@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Athelas](https://scoutify.ai/companies/athelas?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/athelas/jobs/MQeLXbb-senior-full-stack-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Athelas was posted on 2026-02-27.
+This software engineer position at Athelas was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

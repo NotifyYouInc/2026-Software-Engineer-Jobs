@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/GenAI-Software-Architect_JR0279700-1) |
+| Category | AI / ML Research |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/GenAI-Software-Architect_JR0279699-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Intel was posted on 2026-03-19.
+This ai / ml research position at Intel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

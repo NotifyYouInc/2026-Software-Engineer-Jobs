@@ -5,12 +5,12 @@
 | Company | [BlueCargo](https://scoutify.ai/companies/bluecargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/bluecargo/jobs/4UzRNNM-senior-staff-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at BlueCargo was posted on 2026-03-24.
+This software engineer position at BlueCargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

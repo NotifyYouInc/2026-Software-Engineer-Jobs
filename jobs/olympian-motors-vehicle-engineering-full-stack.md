@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Olympian Motors](https://scoutify.ai/companies/olympian-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-22 |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/olympian-motors/jobs/cWz8Glx-vehicle-engineering-full-stack) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Olympian Motors was posted on 2026-02-22.
+This software engineer position at Olympian Motors was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

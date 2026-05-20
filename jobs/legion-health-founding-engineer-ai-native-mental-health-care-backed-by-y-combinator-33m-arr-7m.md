@@ -5,12 +5,12 @@
 | Company | [Legion Health](https://scoutify.ai/companies/legion-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/legion-health/jobs/oc6nPUu-founding-engineer-ai-native-mental-health-care-backed-by-y-combinator-3-3m-arr-7m-raised) |
 
 ## About This Role
 
-This software engineer position at Legion Health was posted on 2026-02-17.
+This software engineer position at Legion Health was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

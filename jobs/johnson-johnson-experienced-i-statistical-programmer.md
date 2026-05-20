@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Experienced-I-Statistical-Programmer---Hyderabad-Bangalore-Mumbai_R-058554) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/PENJERLA-Telangana-India/Experienced-I-Statistical-Programmer_R-074782-1) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-04-26.
+This software engineer position at Johnson & Johnson was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

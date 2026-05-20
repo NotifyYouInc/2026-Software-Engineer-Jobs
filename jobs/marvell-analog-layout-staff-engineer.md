@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Staff-Engineer_2601370) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Analog-Layout-Staff-Engineer_2600365) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-16.
+This semiconductor / chip design position at Marvell was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Laylo](https://scoutify.ai/companies/laylo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-senior-fullstack-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Laylo was posted on 2026-02-26.
+This software engineer position at Laylo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

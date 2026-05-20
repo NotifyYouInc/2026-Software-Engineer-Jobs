@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Semarang, Central Java, Indonesia |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Semarang/SAP-ABAP-Development_14069124) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jakarta/SAP-ABAP-Associate_R00265289) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-16.
+This software engineer position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
