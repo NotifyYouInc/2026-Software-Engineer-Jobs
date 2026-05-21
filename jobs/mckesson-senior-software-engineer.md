@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Georgia, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-PA-Remote/Senior-Software-Engineer_JR0137508) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Senior-Software-Engineer_JR0147218) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-02-23.
+This software engineer position at McKesson was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

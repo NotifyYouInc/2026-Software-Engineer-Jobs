@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Carlos, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000125951989-staff-software-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126403909-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-05-11.
+This software engineer position at Intuitive Surgical was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

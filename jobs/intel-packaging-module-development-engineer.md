@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kulim, Kedah, Malaysia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Packaging-Module-Development-Engineer_JR0281273) |
+| Location | Phoenix, Arizona, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283827) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Intel was posted on 2026-02-24.
+This semiconductor / chip design position at Intel was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

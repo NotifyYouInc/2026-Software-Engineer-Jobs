@@ -1,16 +1,16 @@
-# Full Stack Engineer (Cleared) at Guidehouse
+# Full-Stack Engineer (Cleared) at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Full-Stack-Engineer--Cleared-_39254) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Full-Stack-Engineer--Cleared-_39236) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-05-07.
+This software engineer position at Guidehouse was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

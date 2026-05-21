@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000122594949-sr-staff-software-engineer-machine-learning) |
+| Location | Mountain View, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126414311-sr-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-04-24.
+This ai / ml research position at LinkedIn was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

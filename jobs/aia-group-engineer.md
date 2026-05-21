@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | China |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Beijing-CN-AIA-Shared-Services-China/Engineer_JR-65578) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Engineer_JR-66600-1) |
 
 ## About This Role
 
-This software engineer position at AIA Group was posted on 2026-04-13.
+This software engineer position at AIA Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

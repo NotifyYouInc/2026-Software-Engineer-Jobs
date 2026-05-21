@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waukesha, Wisconsin, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Sr-Software-Engineer_R4038878-1) |
+| Location | Arlington Heights, Illinois, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Arlington-Heights/Sr-Software-Engineer_R4040073-2) |
 
 ## About This Role
 
-This frontend engineer position at GE HealthCare was posted on 2026-04-03.
+This software engineer position at GE HealthCare was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

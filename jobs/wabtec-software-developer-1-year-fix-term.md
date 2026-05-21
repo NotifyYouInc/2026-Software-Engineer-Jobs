@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012858980-software-developer-1-year-fix-term) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013117946-software-developer-1-year-fix-term) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-04-28.
+This software engineer position at Wabtec was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

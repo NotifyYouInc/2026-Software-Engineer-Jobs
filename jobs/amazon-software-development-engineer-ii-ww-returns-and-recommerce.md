@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205031/software-development-engineer-ii-ww-returns-and-recommerce) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419416/software-development-engineer-ii-ww-returns-and-recommerce) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-16.
+This software engineer position at Amazon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Richardson-Texas-United-States-Of-America/Field-Applications-Engineer_JR-022258) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Grand-Rapids-Michigan-United-States-Of-America/Field-Applications-Engineer_JR-022699) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-04-13.
+This software engineer position at Avnet was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

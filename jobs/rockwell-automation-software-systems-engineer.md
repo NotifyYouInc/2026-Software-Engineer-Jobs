@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/Software-Systems-Engineer_R26-3046) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Software-Systems-Engineer_R26-3254) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-05-12.
+This software engineer position at Rockwell Automation was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

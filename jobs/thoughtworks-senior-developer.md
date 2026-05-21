@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7760814?gh_jid=7760814) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7693157?gh_jid=7693157) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-04-29.
+This software engineer position at Thoughtworks was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

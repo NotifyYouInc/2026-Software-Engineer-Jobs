@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Middletown, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Principal-Software-Engineering_R-93860) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Principal-Software-Engineering_R-108362) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-11.
+This software engineer position at AT&T was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Chattanooga, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Columbia-South-Carolina-USA/Senior-Software-Engineer---Mainframe_834829) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Senior-Software-Engineer---Mainframe_835339-1) |
 
 ## About This Role
 
-This software engineer position at Unum Group was posted on 2026-03-12.
+This software engineer position at Unum Group was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

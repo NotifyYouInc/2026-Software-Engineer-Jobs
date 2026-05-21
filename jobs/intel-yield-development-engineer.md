@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Yield-Development-Engineer_JR0281661-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Yield-Development-Engineer_JR0283767) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-12.
+This software engineer position at Intel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

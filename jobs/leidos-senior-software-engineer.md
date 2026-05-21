@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbus-OH/Senior-Software-Engineer_R-00182234) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Software-Engineer_R-00183250) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-01.
+This software engineer position at Leidos was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

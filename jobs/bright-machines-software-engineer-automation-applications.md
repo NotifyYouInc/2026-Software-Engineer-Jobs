@@ -5,12 +5,12 @@
 | Company | [Bright Machines](https://scoutify.ai/companies/brightmachines?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/brightmachines/8de3a4c9-ff22-445b-9491-ebf46b1f52d6) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.lever.co/brightmachines/2ffa7a9f-e4e6-4b5f-b4aa-7ddadfe62ba8) |
 
 ## About This Role
 
-This software engineer position at Bright Machines was posted on 2026-04-28.
+This software engineer position at Bright Machines was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

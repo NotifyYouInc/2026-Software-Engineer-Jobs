@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000119524868-senior-staff-engineer-crm-salesforce-lwc) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126459025-senior-staff-engineer-crm-salesforce-lwc) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-04-09.
+This technical & solutions architect position at Nagarro was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

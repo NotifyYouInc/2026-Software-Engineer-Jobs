@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Mateo, California, United States |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985241004) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5995645004) |
 
 ## About This Role
 
-This software engineer position at Sony Interactive Entertainment was posted on 2026-05-05.
+This software engineer position at Sony Interactive Entertainment was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

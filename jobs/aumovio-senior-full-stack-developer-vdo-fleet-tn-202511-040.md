@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000113081267-senior-full-stack-developer-vdo-fleet-tn-202511-040) |
+| Category | Software Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000126458679-senior-full-stack-developer-vdo-fleet-tn-202511-040) |
 
 ## About This Role
 
-This frontend engineer position at Aumovio was posted on 2026-03-06.
+This software engineer position at Aumovio was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

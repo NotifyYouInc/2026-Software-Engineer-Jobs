@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Software-Engineer_867049) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Stamford-Connecticut-United-States-of-America/Software-Engineer_867360) |
 
 ## About This Role
 
-This software engineer position at QS Investors was posted on 2026-04-16.
+This software engineer position at QS Investors was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

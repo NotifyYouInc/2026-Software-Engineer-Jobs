@@ -1,16 +1,16 @@
-# Software Engineer II - CoreAI at Microsoft
+# Software Engineer II- CoreAI at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862995) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863227) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-05-01.
+This software engineer position at Microsoft was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

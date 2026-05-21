@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000123810113-staff-engineer-electronic-design-engineering) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126401469-staff-engineer-electronic-design-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-04-29.
+This electrical / hardware engineer position at Western Digital was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105108) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114713) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-25.
+This frontend engineer position at IBM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

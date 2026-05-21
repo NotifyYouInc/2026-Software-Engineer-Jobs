@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Software-Engineer_R0239218) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0240073) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-05-01.
+This software engineer position at Booz Allen was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

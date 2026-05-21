@@ -1,16 +1,16 @@
-# Lead, Software Engineer, ITC at Nike
+# Lead Software Engineer, ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead--Software-Engineer--ITC_R-62432) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--ITC_R-81817) |
 
 ## About This Role
 
-This frontend engineer position at Nike was posted on 2026-03-17.
+This software engineer position at Nike was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

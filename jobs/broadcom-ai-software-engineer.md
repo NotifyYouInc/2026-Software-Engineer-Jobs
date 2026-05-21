@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-GA-Atlanta---Perimeter/AI-Software-Engineer_R025454) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/AI-Software-Engineer_R026064-1) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-04-06.
+This ai / ml research position at Broadcom was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

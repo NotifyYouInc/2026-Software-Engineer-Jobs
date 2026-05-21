@@ -5,12 +5,12 @@
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/India-New-Delhi/Principal-Engineer-II---Piping_R10089541) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/India-New-Delhi/Principal-Engineer-II---Piping_R10090328) |
 
 ## About This Role
 
-This engineering manager position at Air Liquide was posted on 2026-04-29.
+This engineering manager position at Air Liquide was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
