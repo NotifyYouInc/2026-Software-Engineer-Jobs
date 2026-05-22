@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Software-Engineer---C---Linux_R-51942-2026) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---C---Linux_R-53213-2026) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-03-23.
+This software engineer position at HARMAN International was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

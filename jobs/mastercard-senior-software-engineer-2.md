@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-Software-Engineer-2_R-271755) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer-2_R-275122) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-03-02.
+This software engineer position at Mastercard was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/San-Jose-California-United-States-Of-America/Field-Application-Engineer_JR-022674) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Field-Application-Engineer_JR-022852) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-13.
+This software engineer position at Avnet was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

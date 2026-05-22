@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III--Software_R-01345236) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Engineer-III--Software_R-01336521) |
 
 ## About This Role
 
-This frontend engineer position at Thermo Fisher Scientific was posted on 2026-03-13.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

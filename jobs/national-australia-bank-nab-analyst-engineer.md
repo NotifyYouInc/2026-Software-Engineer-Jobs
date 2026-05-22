@@ -1,16 +1,16 @@
-# Analyst Engineer at National Australia Bank (NAB)
+# Analyst, Engineer at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Analyst-Engineer_JR117773) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Analyst--Engineer_JR118690) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-04-21.
+This software engineer position at National Australia Bank (NAB) was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

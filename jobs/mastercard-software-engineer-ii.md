@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-277898) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-II_R-276573) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-05-08.
+This software engineer position at Mastercard was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
