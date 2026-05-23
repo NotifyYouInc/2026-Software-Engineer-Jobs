@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Phoenix-85016/Software-Engineer_R222083-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer_R222712-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-05-08.
+This software engineer position at PNC Financial was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/EDA-Tools-Software-Engineer_JR0280762-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/EDA-Tools-Software-Engineer_JR0284069) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-01.
+This software engineer position at Intel was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

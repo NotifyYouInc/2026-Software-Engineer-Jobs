@@ -5,12 +5,12 @@
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/6367350) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7919150) |
 
 ## About This Role
 
-This robotics engineer position at DoorDash was posted on 2026-04-06.
+This robotics engineer position at DoorDash was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

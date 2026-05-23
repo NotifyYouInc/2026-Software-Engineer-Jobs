@@ -5,12 +5,12 @@
 | Company | [Cineplex](https://scoutify.ai/companies/cineplex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cineplex.wd3.myworkdayjobs.com/cineplex/job/Toronto-Canada/Technical-Lead_JR-111372) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://cineplex.wd3.myworkdayjobs.com/cineplex/job/Toronto-Canada/Technical-Lead_JR-111754) |
 
 ## About This Role
 
-This software engineer position at Cineplex was posted on 2026-04-17.
+This software engineer position at Cineplex was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Staff-Engineer-Software_R10227134) |
+| Location | Oklahoma City, Oklahoma, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Staff-Engineer-Software_R10233151) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-03-24.
+This software engineer position at Northrop Grumman was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

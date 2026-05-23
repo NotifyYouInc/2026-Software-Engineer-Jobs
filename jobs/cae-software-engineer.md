@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Orlando, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Software-Engineer_120540) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Software-Engineer_121856) |
 
 ## About This Role
 
-This software engineer position at CAE was posted on 2026-02-24.
+This software engineer position at CAE was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

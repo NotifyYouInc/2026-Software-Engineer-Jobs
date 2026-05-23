@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5809607004) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5989224004) |
 
 ## About This Role
 
-This frontend engineer position at Natera was posted on 2026-02-26.
+This software engineer position at Natera was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

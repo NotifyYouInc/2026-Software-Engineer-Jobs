@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Lead-Software-Engineer_10149877) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Lead-Software-Engineer_10149627-1) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-05-11.
+This software engineer position at Disney was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

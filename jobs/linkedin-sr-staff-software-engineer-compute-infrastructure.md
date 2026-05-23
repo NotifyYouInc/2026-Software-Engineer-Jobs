@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115530340-sr-staff-software-engineer-compute-infrastructure) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126738771-sr-staff-software-engineer-compute-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-18.
+This software engineer position at LinkedIn was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

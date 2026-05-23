@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Engineer-Electrical_R10231313-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal-Engineer-Electrical_R10233104) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northrop Grumman was posted on 2026-05-01.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

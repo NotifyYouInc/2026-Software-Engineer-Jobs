@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012952176-concepteur-logiciel-c) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013153536-concepteur-logiciel-c) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-05-04.
+This software engineer position at Wabtec was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical Support Engineer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5452541-S1998288-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-R1-S1961324-1) |
 
 ## About This Role
 

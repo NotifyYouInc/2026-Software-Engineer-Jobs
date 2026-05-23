@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Sr-Staff-Engineer--Java-_R0063024) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Los-Angeles-CA/Sr-Staff-Engineer--Java-_R0063632) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-03-13.
+This software engineer position at Geico was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

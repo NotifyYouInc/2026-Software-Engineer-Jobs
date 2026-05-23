@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002) |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002) |
 
 ## About This Role
 
-This software engineer position at Databricks was posted on 2026-05-01.
+This ai / ml research position at Databricks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

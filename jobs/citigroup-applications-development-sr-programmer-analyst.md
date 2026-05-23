@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Applications-Development-Sr-Programmer-Analyst_26954215) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26963418) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-22.
+This software engineer position at Citigroup was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

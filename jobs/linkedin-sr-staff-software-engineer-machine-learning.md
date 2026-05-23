@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126414311-sr-staff-software-engineer-machine-learning) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126740289-sr-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / ml research position at LinkedIn was posted on 2026-05-13.
+This ai / ml research position at LinkedIn was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8426076002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8550961002) |
 
 ## About This Role
 
-This software engineer position at SmithRx was posted on 2026-04-27.
+This software engineer position at SmithRx was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

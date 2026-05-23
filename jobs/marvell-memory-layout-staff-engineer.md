@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Memory-Layout-Staff-Engineer_2503899) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Memory-Layout-Staff-Engineer_2601365) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-10.
+This semiconductor / chip design position at Marvell was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
