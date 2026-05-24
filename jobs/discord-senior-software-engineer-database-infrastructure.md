@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# Senior Software Engineer- Database Infrastructure at Discord
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Discord](https://scoutify.ai/companies/discord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/discord/jobs/8200328002) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Discord was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

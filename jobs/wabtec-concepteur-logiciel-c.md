@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013153536-concepteur-logiciel-c) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013153807-concepteur-logiciel-c) |
 
 ## About This Role
 

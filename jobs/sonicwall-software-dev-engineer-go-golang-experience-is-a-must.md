@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# Software Dev Engineer - Go / Golang experience is a must at SonicWall
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [SonicWall](https://scoutify.ai/companies/sonicwall?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7705040) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at SonicWall was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

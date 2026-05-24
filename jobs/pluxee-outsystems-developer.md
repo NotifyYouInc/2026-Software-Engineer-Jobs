@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# OutSystems Developer at Pluxee
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Pluxee](https://scoutify.ai/companies/pluxee?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Milton Keynes, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://pluxee.wd3.myworkdayjobs.com/pluxee_career_site/job/Milton-Keynes/OutSystems-Developer_R4935) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Pluxee was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

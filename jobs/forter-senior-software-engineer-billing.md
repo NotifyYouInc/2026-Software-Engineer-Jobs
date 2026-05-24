@@ -1,16 +1,16 @@
-# Staff Engineer at Nagarro
+# Senior Software Engineer, Billing at Forter
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Forter](https://scoutify.ai/companies/forter?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/forter/jobs/8547143002) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Forter was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

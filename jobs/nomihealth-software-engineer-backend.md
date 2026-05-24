@@ -1,16 +1,16 @@
-# Staff Engineer at Nagarro
+# Software Engineer (Backend) at Nomihealth
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Nomihealth](https://scoutify.ai/companies/nomihealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.lever.co/nomihealth/02209b2a-6117-4be1-9871-10f22361a81f) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Nomihealth was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

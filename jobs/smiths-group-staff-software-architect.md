@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000123059529-staff-software-architect) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000126842299-staff-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Smiths Group was posted on 2026-04-26.
+This technical & solutions architect position at Smiths Group was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

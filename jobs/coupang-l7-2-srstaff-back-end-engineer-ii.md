@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# L7-2 Sr,Staff Back-end Engineer II at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7912289) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Coupang was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

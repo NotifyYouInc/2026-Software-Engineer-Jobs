@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# 3D Engineer, Computational 3D & Asset Generation at Customuse
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Customuse](https://scoutify.ai/companies/customuse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/customuse/542cdb13-2c35-4d3b-bf18-43b8d216e131) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Customuse was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

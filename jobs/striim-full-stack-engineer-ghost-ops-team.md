@@ -1,16 +1,16 @@
-# Custom Software Engineering Analyst at Accenture
+# Full Stack Engineer (Ghost Ops Team)  at Striim
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Striim](https://scoutify.ai/companies/striiminc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Analyst_AIOC-S01645753-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striiminc/jobs/5138411007) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-15.
+This software engineer position at Striim was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

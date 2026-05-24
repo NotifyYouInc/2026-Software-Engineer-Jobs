@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# Staff Software Engineer at Arcana Analytics
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Arcana Analytics](https://scoutify.ai/companies/arcana-analytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Posted | 2025-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005211009) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Arcana Analytics was posted on 2025-06-16.
 
 ## Get Real-Time Alerts
 

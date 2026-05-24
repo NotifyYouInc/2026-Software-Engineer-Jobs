@@ -1,16 +1,16 @@
-# Staff Engineer at Nagarro
+# Software Engineer at Flip
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Flip](https://scoutify.ai/companies/flip?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Marina del Rey, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flip/jobs/5046152008) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Flip was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

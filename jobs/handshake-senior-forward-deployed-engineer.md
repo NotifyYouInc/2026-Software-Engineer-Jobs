@@ -1,16 +1,16 @@
-# Senior Software Engineer at Clarivate
+# Senior Forward Deployed Engineer at Handshake
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer_JREQ135159) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/6a644ba3-0afd-441c-a8d6-38e12ff0624a) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-16.
+This software engineer position at Handshake was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Engineer at Nagarro
+# Backend Engineer (AI Agents) at Mazehq
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Company | [Mazehq](https://scoutify.ai/companies/mazehq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
+| Posted | 2025-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mazehq/dc1cb28c-c866-4fba-a991-6ae8c7ad4128) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Mazehq was posted on 2025-04-23.
 
 ## Get Real-Time Alerts
 
