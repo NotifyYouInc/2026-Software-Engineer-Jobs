@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Senior-Java-Developer_R0000363752) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Java-Developer_R0000370072) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-04-15.
+This software engineer position at Caterpillar was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

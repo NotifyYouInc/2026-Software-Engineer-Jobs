@@ -1,16 +1,16 @@
-# Staff Back-end Engineer at Coupang
+# Staff Back-end Engineer  at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7892757) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7927972) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-05-07.
+This software engineer position at Coupang was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

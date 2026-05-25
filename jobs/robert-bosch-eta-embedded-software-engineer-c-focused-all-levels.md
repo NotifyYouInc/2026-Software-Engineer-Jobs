@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126221021-eta-embedded-software-engineer-c-focused-all-levels) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126916385-eta-embedded-software-engineer-c-focused-all-levels) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-05-13.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

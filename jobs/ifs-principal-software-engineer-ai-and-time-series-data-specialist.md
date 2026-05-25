@@ -1,16 +1,16 @@
-# Principal Software Engineer  (AI and Time Series Data Specialist) at IFS
+# Principal Software Engineer (AI and Time Series Data Specialist) at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000125380925-principal-software-engineer-ai-and-time-series-data-specialist) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000126906819-principal-software-engineer-ai-and-time-series-data-specialist) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-05-08.
+This software engineer position at IFS was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

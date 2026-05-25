@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012649896-software-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013174346-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-04-17.
+This software engineer position at Wabtec was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

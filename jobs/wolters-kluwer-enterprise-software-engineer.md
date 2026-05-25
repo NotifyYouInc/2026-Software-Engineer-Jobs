@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Enterprise-Software-Engineer_R0056366) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Enterprise-Software-Engineer_R0057104) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-05-12.
+This software engineer position at Wolters Kluwer was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

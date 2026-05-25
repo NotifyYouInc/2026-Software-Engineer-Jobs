@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaleris](https://scoutify.ai/companies/kaleris?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | British Columbia, CA |
 | Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Rotterdam/Software-Engineer_R-100408) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/British-Columbia/Software-Engineer_R-100527-1) |
 
 ## About This Role
 
-This software engineer position at Kaleris was posted on 2026-03-31.
+This software engineer position at Kaleris was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

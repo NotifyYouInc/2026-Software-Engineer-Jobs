@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000121100918-senior-java-software-engineer-javaspringazure) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000126902496-senior-java-software-engineer-javaspringazure) |
 
 ## About This Role
 
-This software engineer position at KMS Technology was posted on 2026-04-16.
+This software engineer position at KMS Technology was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Scalable-Design-Solutions---Cloud-Applications-Engineer_JR-2601635) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Scalable-Design-Solutions---Cloud-Applications-Engineer_JR-2601468) |
 
 ## About This Role
 
-This software engineer position at GlobalFoundries was posted on 2026-04-14.
+This software engineer position at GlobalFoundries was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

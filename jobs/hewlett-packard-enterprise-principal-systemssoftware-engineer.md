@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Principal-Systems-Software-Engineer_1205522) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Principal-Systems-Software-Engineer_1205898) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-05-14.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

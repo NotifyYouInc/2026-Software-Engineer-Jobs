@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850429101) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4868630101) |
 
 ## About This Role
 
-This software engineer position at Unframe was posted on 2026-04-26.
+This software engineer position at Unframe was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [FWD Group](https://scoutify.ai/companies/fwd-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Philippines---BGC-Taguig/Systems-Developer_JR-0025758) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Philippines---BGC-Taguig/Systems-Developer_JR-0026907) |
 
 ## About This Role
 
-This software engineer position at FWD Group was posted on 2026-02-26.
+This software engineer position at FWD Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

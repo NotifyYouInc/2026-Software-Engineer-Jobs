@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Knoxville, Tennessee, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Knoxville-Tennessee-United-States-of-America/Controls-Pre-Install-Application-Engineer_WD30264945) |
+| Location | Horsham, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Horsham-Pennsylvania-United-States-of-America/Controls-Pre-Install-Application-Engineer_WD30268940-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-03-25.
+This engineering manager position at Johnson Controls was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

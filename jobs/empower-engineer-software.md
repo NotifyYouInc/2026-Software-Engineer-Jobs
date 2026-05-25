@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Software_R0058083) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Software_R0056144) |
 
 ## About This Role
 
-This software engineer position at Empower was posted on 2026-04-22.
+This software engineer position at Empower was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
