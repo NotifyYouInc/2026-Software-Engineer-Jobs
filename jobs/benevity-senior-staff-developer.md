@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benevity](https://scoutify.ai/companies/benevity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://benevity.com/job-posting?gh_jid=5829641004) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://benevity.com/job-posting?gh_jid=5741001004) |
 
 ## About This Role
 
-This software engineer position at Benevity was posted on 2026-04-29.
+This technical & solutions architect position at Benevity was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

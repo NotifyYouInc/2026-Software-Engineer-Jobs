@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Systems-Engineer_R2122864) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Systems-Engineer_R2122870) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-04-29.
+This software engineer position at KBR was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

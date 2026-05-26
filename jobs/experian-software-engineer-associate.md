@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125995540-software-engineer-associate) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127133779-software-engineer-associate) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-05-12.
+This software engineer position at Experian was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Mobile Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82401390827053766-senior-software-engineer-android-google-one?sort_by=date&page=1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV0P0e5SpVEknyBqFyqNdjFKY3kjCou2w7JtfzRq7H9lEjsACxwdTOyLRDB4xvBDSsyQQgwqOTk1vs4tZLj33HCO_aFmOEXyx16Gqs7n0xUOqisugOfwr8pvHu49mg%3D%3D_V2&loc=IN&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This mobile engineer position at Google was posted on 2026-03-04.
+This mobile engineer position at Google was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

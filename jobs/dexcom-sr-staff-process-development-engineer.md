@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-Staff-Process-Development-Engineer_JR118629) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-Staff-Process-Development-Engineer_JR118686-1) |
 
 ## About This Role
 
-This engineering manager position at Dexcom was posted on 2026-05-14.
+This engineering manager position at Dexcom was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

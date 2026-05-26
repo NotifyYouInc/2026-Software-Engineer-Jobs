@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000116529568-staff-engineer-essd-memory-system-architecture) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000127052859-staff-engineer-essd-memory-system-architecture) |
 
 ## About This Role
 
-This embedded / firmware engineer position at SanDisk was posted on 2026-03-25.
+This electrical / hardware engineer position at SanDisk was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

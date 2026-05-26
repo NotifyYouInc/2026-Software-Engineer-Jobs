@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Principal-Engineer_R31885-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Principal-Engineer_R34983-2) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-04-27.
+This software engineer position at Amadeus was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

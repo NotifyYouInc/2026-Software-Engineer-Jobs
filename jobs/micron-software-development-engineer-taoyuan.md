@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taoyuan, Taiwan, Taiwan |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SOFTWARE-DEVELOPMENT-ENGINEER--Taoyuan-_JR84230-1) |
+| Category | Software Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SOFTWARE-DEVELOPMENT-ENGINEER--Taoyuan-_JR84249) |
 
 ## About This Role
 
-This frontend engineer position at Micron was posted on 2026-03-23.
+This software engineer position at Micron was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

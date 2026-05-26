@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mexico-City-Mexico/Sr-Manager-Software-Engineering-IC_R231073) |
+| Category | Engineering Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mexico-City-Mexico/Sr-Manager-Software-Engineering-IC_R242856) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-04-29.
+This engineering manager position at Capital One was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

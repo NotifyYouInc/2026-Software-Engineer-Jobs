@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Principal-Software-Engineer_2123206-2) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Principal-Software-Engineer_2126019-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-09.
+This software engineer position at Fidelity was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

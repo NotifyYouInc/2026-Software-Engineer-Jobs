@@ -5,12 +5,12 @@
 | Company | [Amplitude](https://scoutify.ai/companies/amplitude?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8541649002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8555732002) |
 
 ## About This Role
 
-This software engineer position at Amplitude was posted on 2026-05-08.
+This software engineer position at Amplitude was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

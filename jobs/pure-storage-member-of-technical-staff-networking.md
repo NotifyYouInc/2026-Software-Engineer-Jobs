@@ -1,16 +1,16 @@
-# Member Of Technical Staff, Networking at Pure Storage
+# Member Of Technical staff, Networking at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7775450) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7929620) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-04-16.
+This software engineer position at Pure Storage was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

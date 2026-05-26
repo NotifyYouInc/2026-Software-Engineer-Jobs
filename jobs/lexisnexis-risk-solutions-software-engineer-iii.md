@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Software-Engineer-III_R110056-1) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Alpharetta-GA/Software-Engineer-III_R112946) |
 
 ## About This Role
 
-This frontend engineer position at LexisNexis Risk Solutions was posted on 2026-03-16.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application development Programmer Analyst at Citigroup
+# Application Development Programmer Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-development-Programmer-Analyst_26935604) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Application-Development-Programmer-Analyst_26961497) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-13.
+This software engineer position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

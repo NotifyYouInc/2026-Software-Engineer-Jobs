@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116324392-staff-software-engineer-python) |
+| Category | AI / ML Research |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127123449-staff-software-engineer-python) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-03-24.
+This ai / ml research position at SIA was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

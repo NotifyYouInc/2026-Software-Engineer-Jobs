@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Specialty-Software-Engineer_R-538245) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Lead-Specialty-Software-Engineer_R-545297) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-04-24.
+This software engineer position at Wells Fargo was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

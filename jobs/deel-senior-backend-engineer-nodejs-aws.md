@@ -5,12 +5,12 @@
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/4276e9ff-94b8-4651-95f0-6f3dc9d80724) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/bdba8171-9a9e-4795-82d7-62cfe5ac3f8d) |
 
 ## About This Role
 
-This software engineer position at Deel was posted on 2026-04-24.
+This software engineer position at Deel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

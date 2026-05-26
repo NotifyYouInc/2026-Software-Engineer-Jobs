@@ -5,12 +5,12 @@
 | Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8496124002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8539560002) |
 
 ## About This Role
 
-This software engineer position at Wellhub was posted on 2026-04-10.
+This software engineer position at Wellhub was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

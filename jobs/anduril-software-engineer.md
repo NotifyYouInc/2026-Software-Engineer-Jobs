@@ -1,16 +1,16 @@
-# Software Engineer at Anduril
+# Software Engineer  at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5070913007?gh_jid=5070913007) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5140969007?gh_jid=5140969007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-03-05.
+This software engineer position at Anduril was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

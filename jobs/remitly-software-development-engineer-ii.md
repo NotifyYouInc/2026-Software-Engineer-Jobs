@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II_R_106181) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Krakow-Poland/Software-Development-Engineer-II_R_106246) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-05-04.
+This software engineer position at Remitly was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Tech-Lead-Software-Engineer_R-2026-65572) |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Tech-Lead-Software-Engineer_R-2026-68056) |
 
 ## About This Role
 
-This engineering manager position at Southwest Airlines was posted on 2026-02-24.
+This ai / ml research position at Southwest Airlines was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

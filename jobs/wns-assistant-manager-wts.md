@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125252968-assistant-manager-wts) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000127124228-assistant-manager-wts) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-05-08.
+This software engineer position at WNS was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

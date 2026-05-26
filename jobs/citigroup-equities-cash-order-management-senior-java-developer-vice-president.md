@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Equities-Cash-Order-Management-Senior-Java-Developer---Vice-President_26956693) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Equities-Cash-Order-Management-Senior-Java-Developer---Vice-President_26963505) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-27.
+This software engineer position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

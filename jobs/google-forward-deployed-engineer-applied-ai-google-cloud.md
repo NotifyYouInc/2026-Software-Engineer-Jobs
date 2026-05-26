@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 14 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVWYzunjev0I8n1w8Xxh7uOXfW6t6j3svUTUJnOgsMdeEjsACxwdTA2J8-e8XzaiqChcJ5fbzimtZSCPuifGbwvkGAuTmiB7DT3bBMcgllVNjIuNSc8bLbBPqdzsdg%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVvk5jaGrx9S_ue3ke2kJHZ1Jz_FjB3K4oWEXPPiLpVVEjsACxwdTGsBZvPwtwYrnP1nQXoPZa-x3UEQAZACBWedwJaAv9tnu3DDOrZu9GsWVJJD928iJBE2hVqLug%3D%3D_V2&loc=IT&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-23.
+This software engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
