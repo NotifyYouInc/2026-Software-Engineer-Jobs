@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Reston, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00182920) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00183632) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-13.
+This software engineer position at Leidos was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

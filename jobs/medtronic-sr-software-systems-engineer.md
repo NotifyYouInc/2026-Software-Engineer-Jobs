@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Mounds View, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Systems-Engineer_R64172-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R66175-2) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-04-13.
+This software engineer position at Medtronic was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Analyst-II-ERP-Package-Applications_51561766) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MH---PUNE/Analyst-II-ERP-Package-Applications_51559826) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-20.
+This software engineer position at DXC Technology was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

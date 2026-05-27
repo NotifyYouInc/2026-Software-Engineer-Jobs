@@ -1,16 +1,16 @@
-# Staff Software Engineer - Full Stack (.NET, React, Next.js) at Cba
+# Staff Software Engineer - Full Stack (.NET / React, Next.js) at Cba
 
 | Field | Details |
 |-------|---------|
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Staff-Software-Engineer---Full-Stack--NET--React--Nextjs-_REQ246109-2) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Staff-Software-Engineer---Full-Stack--NET---React--Nextjs-_REQ250454-2) |
 
 ## About This Role
 
-This software engineer position at Cba was posted on 2026-05-06.
+This software engineer position at Cba was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

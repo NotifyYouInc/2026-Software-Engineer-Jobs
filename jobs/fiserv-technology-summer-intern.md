@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10390246) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Noida-India/Technology---Summer-Intern_R-10381731) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-05-02.
+This software engineer position at Fiserv was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

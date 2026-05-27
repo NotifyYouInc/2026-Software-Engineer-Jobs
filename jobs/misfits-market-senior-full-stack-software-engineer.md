@@ -5,12 +5,12 @@
 | Company | [Misfits Market](https://scoutify.ai/companies/misfits-market?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/misfitsmarket/jobs/7696265003) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/misfitsmarket/jobs/7740534003) |
 
 ## About This Role
 
-This software engineer position at Misfits Market was posted on 2026-04-10.
+This software engineer position at Misfits Market was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

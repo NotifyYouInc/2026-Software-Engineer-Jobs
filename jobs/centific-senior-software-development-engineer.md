@@ -5,12 +5,12 @@
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Senior-Software-Development-Engineer_JR107304-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Senior-Software-Development-Engineer_JR107335-1) |
 
 ## About This Role
 
-This software engineer position at Centific was posted on 2026-05-18.
+This software engineer position at Centific was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

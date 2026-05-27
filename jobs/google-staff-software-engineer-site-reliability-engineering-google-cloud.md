@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kirkland, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85718863831802566-staff-software-engineer-site-reliability-engineering-google-cloud?sort_by=date&page=1) |
+| Location | Sunnyvale, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FcketsJi-dNlVcpw5VyFuOYCjgOtFZn71oA3wGqeoJkulsEjsACxwdTFHj5_sImhUk5zfkOp4AyU85LRMUwaOFJj2kML5Vggcvh9aw7N5Kx0QKUK9TdK5fS7zgUzhq9A%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-26.
+This devops engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

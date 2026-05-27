@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kensho](https://scoutify.ai/companies/spgi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Software-Engineer_328052) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/New-York-NY/Software-Engineer-II_328045) |
 
 ## About This Role
 
-This software engineer position at Kensho was posted on 2026-04-16.
+This software engineer position at Kensho was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

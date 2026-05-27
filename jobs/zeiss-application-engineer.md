@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
-| Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CA/Application-Engineer_JR_1047686-1) |
+| Location | Shanghai, Shanghai, China |
+| Category | Marketing |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Application-Engineer_JR_1049846) |
 
 ## About This Role
 
-This customer success position at Zeiss was posted on 2026-03-13.
+This marketing position at Zeiss was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Engineer, Systems Design at Thermo Fisher Scientific
+# Staff Engineer Systems design at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Staff-Engineer--Systems-Design_R-01346251) |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Staff-Engineer-Systems-design_R-01352469) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Thermo Fisher Scientific was posted on 2026-03-30.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

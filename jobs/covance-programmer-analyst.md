@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Programmer-Analyst_261695) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Programmer-Analyst_26582) |
 
 ## About This Role
 
-This software engineer position at Covance was posted on 2026-04-06.
+This software engineer position at Covance was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Software-Development-Engineer_ATCI-R1-S1871770-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5402313-S1972884-1) |
 
 ## About This Role
 
-This mobile engineer position at Accenture was posted on 2026-05-19.
+This technical support engineer position at Accenture was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

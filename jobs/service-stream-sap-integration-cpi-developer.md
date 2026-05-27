@@ -5,12 +5,12 @@
 | Company | [Service Stream](https://scoutify.ai/companies/service-stream?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/VIC---Melbourne---655-Collins-St/SAP-Integration--CPI--Developer_JR-117745) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/VIC---Melbourne---655-Collins-St/SAP-Integration--CPI--Developer_JR-118017) |
 
 ## About This Role
 
-This software engineer position at Service Stream was posted on 2026-04-15.
+This software engineer position at Service Stream was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

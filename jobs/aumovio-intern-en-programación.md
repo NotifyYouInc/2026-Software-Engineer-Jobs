@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Silao, Guanajuato, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000121283287-intern-en-programacion) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000127292293-intern-en-programacion) |
 
 ## About This Role
 
-This software engineer position at Aumovio was posted on 2026-04-16.
+This software engineer position at Aumovio was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

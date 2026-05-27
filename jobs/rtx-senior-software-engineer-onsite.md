@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Senior-Software-Engineer--Onsite-_01839404) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Senior-Software-Engineer--Onsite-_01846760) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-24.
+This software engineer position at RTX was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

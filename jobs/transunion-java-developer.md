@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Burlington, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Java-Developer_19038899) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Java-Developer_19040487) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-02-05.
+This software engineer position at TransUnion was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

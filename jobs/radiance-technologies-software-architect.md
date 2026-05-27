@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | St. Louis, Missouri, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Software-Architect_HR102048-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/St-Louis-MO/Software-Architect_HR102207) |
 
 ## About This Role
 
-This technical & solutions architect position at Radiance Technologies was posted on 2026-03-12.
+This technical & solutions architect position at Radiance Technologies was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

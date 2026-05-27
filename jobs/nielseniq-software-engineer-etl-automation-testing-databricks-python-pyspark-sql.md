@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125993939-software-engineer-etl-automation-testing-databricks-python-pyspark-sql) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127355419-software-engineer-etl-automation-testing-databricks-python-pyspark-sql) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-05-12.
+This software engineer position at NielsenIQ was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

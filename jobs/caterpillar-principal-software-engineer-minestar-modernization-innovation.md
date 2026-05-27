@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Principal-Software-Engineer---MineStar-Modernization---Innovation_R0000370571) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Principal-Software-Engineer---MineStar-Modernization---Innovation_R0000371199) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-05-19.
+This software engineer position at Caterpillar was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
