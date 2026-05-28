@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Staff-Software-Engineer_R000102539) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Stockholm-Tegeluddsvgen-80/Staff-Software-Engineer_R000099122) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-02-05.
+This software engineer position at Warner Bros Discovery was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

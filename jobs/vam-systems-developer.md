@@ -1,16 +1,16 @@
-# Developer  at VAM Systems
+# Developer at VAM Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000113978197-developer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000127571949-developer) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-03-11.
+This software engineer position at VAM Systems was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

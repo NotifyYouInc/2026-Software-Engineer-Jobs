@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283827) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284086-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-14.
+This semiconductor / chip design position at Intel was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

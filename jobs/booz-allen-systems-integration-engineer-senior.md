@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Systems-Integration-Engineer--Senior_R0237175) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Systems-Integration-Engineer--Senior_R0240628) |
 
 ## About This Role
 
-This engineering manager position at Booz Allen was posted on 2026-04-06.
+This engineering manager position at Booz Allen was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

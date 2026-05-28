@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8555892002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8285682002#open-roles) |
 
 ## About This Role
 
-This software engineer position at Workato was posted on 2026-05-20.
+This software engineer position at Workato was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

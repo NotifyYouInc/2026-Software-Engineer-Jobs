@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Vancouver/Software-Developer--CBS-Monetization_REQ-4683) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Vancouver/Software-Developer--CBS-Monetization_REQ-5002) |
 
 ## About This Role
 
-This software engineer position at Clio was posted on 2026-05-06.
+This software engineer position at Clio was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

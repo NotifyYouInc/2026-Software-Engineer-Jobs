@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gambrills, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012989796-senior-software-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013241061-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-05-05.
+This software engineer position at Wabtec was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

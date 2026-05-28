@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bothell, Washington, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Lead-Software-Engineering_R-108767) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Software-Engineering_R-106067) |
 
 ## About This Role
 
-This mobile engineer position at AT&T was posted on 2026-05-07.
+This software engineer position at AT&T was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

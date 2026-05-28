@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8499107002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8227978002#open-roles) |
 
 ## About This Role
 
-This software engineer position at Workato was posted on 2026-05-05.
+This software engineer position at Workato was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

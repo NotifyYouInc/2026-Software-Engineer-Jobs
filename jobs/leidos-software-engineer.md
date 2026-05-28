@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00183632) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Software-Engineer_R-00183742) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-19.
+This software engineer position at Leidos was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

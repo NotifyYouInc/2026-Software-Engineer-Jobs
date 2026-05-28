@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Mobile Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Engineer--Software_REQ350329-1) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Engineer--Software_REQ354629-1) |
 
 ## About This Role
 
-This mobile engineer position at T-Mobile was posted on 2026-04-23.
+This software engineer position at T-Mobile was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

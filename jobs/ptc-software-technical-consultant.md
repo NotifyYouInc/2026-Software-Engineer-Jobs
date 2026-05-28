@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Software-Technical-Consultant_JR112145) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Software-Technical-Consultant_JR112220-1) |
 
 ## About This Role
 
-This technology / it consulting position at PTC was posted on 2026-05-07.
+This technology / it consulting position at PTC was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

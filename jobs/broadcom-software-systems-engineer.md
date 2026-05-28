@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Software-Systems-Engineer_R025305) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Software-Systems-Engineer_R025953) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-03-05.
+This software engineer position at Broadcom was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

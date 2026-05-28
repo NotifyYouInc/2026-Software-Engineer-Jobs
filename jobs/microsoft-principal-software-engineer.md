@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866969) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867661) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-05-19.
+This technical & solutions architect position at Microsoft was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

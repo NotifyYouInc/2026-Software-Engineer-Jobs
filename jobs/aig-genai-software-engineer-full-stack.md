@@ -5,12 +5,12 @@
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/GenAI-Software-Engineer--Full-Stack-_JR2600982) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/GenAI-Software-Engineer--Full-Stack-_JR2601292-1) |
 
 ## About This Role
 
-This software engineer position at AIG was posted on 2026-04-13.
+This software engineer position at AIG was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

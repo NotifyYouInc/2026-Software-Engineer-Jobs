@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maharashtra, IN |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Maharashtra-DTA/Development-Engineer-4_R437109) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Maharashtra-DTA/Development-Engineer-4_R437599) |
 
 ## About This Role
 
-This software engineer position at Comcast was posted on 2026-05-09.
+This software engineer position at Comcast was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

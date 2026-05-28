@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SingleStore](https://scoutify.ai/companies/singlestore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/7868684) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/7868649) |
 
 ## About This Role
 
-This software engineer position at SingleStore was posted on 2026-04-29.
+This software engineer position at SingleStore was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
