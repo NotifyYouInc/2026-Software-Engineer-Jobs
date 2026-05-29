@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Lead-Application-Engineer_R5018012-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Lead-Application-Engineer_R5042478-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-03-13.
+This software engineer position at GE Vernova was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

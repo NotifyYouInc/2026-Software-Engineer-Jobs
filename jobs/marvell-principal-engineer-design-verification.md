@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pune/Principal-Engineer--Design-Verification_2601772) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Design-Verification_2602168) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-13.
+This semiconductor / chip design position at Marvell was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

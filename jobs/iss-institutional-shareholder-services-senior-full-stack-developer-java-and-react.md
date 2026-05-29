@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ISS | Institutional Shareholder Services](https://scoutify.ai/companies/iss-institutional-shareholder-services?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Senior-Full-Stack-Developer--Java-and-React-_JR_9388) |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Senior-Full-Stack-Developer_JR_9393) |
 
 ## About This Role
 
-This frontend engineer position at ISS | Institutional Shareholder Services was posted on 2026-03-23.
+This software engineer position at ISS | Institutional Shareholder Services was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

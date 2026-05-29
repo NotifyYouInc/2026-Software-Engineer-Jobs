@@ -1,16 +1,16 @@
-# Customer Application Engineer  at Ivalua
+# Customer Application Engineer at Ivalua
 
 | Field | Details |
 |-------|---------|
 | Company | [Ivalua](https://scoutify.ai/companies/ivalua?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/ivalua/jobs/7476863?gh_jid=7476863) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/ivalua/jobs/7869239?gh_jid=7869239) |
 
 ## About This Role
 
-This customer success position at Ivalua was posted on 2026-02-17.
+This customer success position at Ivalua was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

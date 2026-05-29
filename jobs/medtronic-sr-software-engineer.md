@@ -1,16 +1,16 @@
-# Sr. Software Engineer at Medtronic
+# Sr Software Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minnesota, US |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Software-Engineer_R64345-2) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Sr-Software-Engineer_R67061-2) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-04-20.
+This software engineer position at Medtronic was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

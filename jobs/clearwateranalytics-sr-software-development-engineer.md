@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---London/Sr-Software-Development-Engineer_R11789) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Chicago/Sr-Software-Development-Engineer_R6482) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-05-19.
+This software engineer position at Clearwateranalytics was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

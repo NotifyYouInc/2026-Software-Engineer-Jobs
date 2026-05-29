@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead--Test-Lead-_ATCI-5378434-S1985126-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Quality-Engineering-Lead--Test-Lead-_ATCP-1258601-S421729) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-03-30.
+This software engineer position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

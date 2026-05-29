@@ -1,16 +1,16 @@
-# Sr. Software Engineer - Java/ SpringBoot / AWS at Earlywarning
+# Sr. Software Engineer - Java / SpringBoot / AWS at Earlywarning
 
 | Field | Details |
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/San-Francisco/Sr-Software-Engineer---Java--SpringBoot---AWS_REQ2026431-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Sr-Software-Engineer---Java---SpringBoot---AWS_REQ2026507) |
 
 ## About This Role
 
-This software engineer position at Earlywarning was posted on 2026-05-15.
+This software engineer position at Earlywarning was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

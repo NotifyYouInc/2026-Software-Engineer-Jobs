@@ -1,16 +1,16 @@
-# Staff Engineer, Physical Design  at Renesas Electronics
+# Staff Engineer, Physical Design at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113318977-staff-engineer-physical-design) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127803420-staff-engineer-physical-design) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-07.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

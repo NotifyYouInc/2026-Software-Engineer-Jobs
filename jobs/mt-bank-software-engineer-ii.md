@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer-II_R85296) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Software-Engineer-II_R86426) |
 
 ## About This Role
 
-This software engineer position at M&T Bank was posted on 2026-04-17.
+This software engineer position at M&T Bank was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Gamma](https://scoutify.ai/companies/gamma?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/06543c2b-65c6-4bb2-9784-a3902ee87b59) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/77de89fb-517c-48f0-9c18-546769aea3b8) |
 
 ## About This Role
 
-This software engineer position at Gamma was posted on 2026-05-20.
+This software engineer position at Gamma was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

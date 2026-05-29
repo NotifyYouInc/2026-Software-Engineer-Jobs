@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | China |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Senior-Specialist_JR-66602-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Senior-Specialist_JR-66821-1) |
 
 ## About This Role
 
-This software engineer position at AIA Group was posted on 2026-05-14.
+This software engineer position at AIA Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

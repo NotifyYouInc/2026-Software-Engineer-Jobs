@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Universal City, California, United States |
+| Location | New York City, New York, United States |
 | Category | Mobile Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127528389-principal-software-engineer-apps) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127732539-principal-software-engineer-apps) |
 
 ## About This Role
 
-This mobile engineer position at NBCUniversal was posted on 2026-05-20.
+This mobile engineer position at NBCUniversal was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

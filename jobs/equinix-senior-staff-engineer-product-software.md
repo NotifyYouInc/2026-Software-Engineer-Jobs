@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas/Senior-Staff-Engineer--Product-Software_JR-160225-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Remote-Location---United-States-of-America/Senior-Staff-Engineer--Product-Software_JR-160935-1) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-04-28.
+This software engineer position at Equinix was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intermediate Application Developer - Java Full Stack at United Parcel Service (UPS)
+# Intermediate Application Developer - Java Full stack at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Intermediate-Application-Developer---Java-Full-Stack_R25022021) |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Intermediate-Application-Developer---Java-Full-stack_R26012851) |
 
 ## About This Role
 
-This frontend engineer position at United Parcel Service (UPS) was posted on 2026-02-23.
+This software engineer position at United Parcel Service (UPS) was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

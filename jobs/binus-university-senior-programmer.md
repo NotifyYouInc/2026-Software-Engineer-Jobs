@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Binus University](https://scoutify.ai/companies/binus-university?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Technical Writer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Programmer_JR2026037627) |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Programmer_JR2026057825) |
 
 ## About This Role
 
-This technical writer position at Binus University was posted on 2026-03-12.
+This software engineer position at Binus University was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff AI Engineer  at Robots and Pencils
+# Staff AI Engineer at Robots and Pencils
 
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Newark, New Jersey, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5227351008) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5227345008) |
 
 ## About This Role
 
-This ai / llm engineer position at Robots and Pencils was posted on 2026-05-20.
+This ai / llm engineer position at Robots and Pencils was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/e55c686f-3f38-43c1-aab9-3c05c3a5d1ec) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/10b51db3-dcb6-4381-a2f4-426b81a7f22f) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-04-03.
+This ai / llm engineer position at UiPath was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

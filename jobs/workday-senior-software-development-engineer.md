@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Senior-Software-Development-Engineer_JR-0105043) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Development-Engineer_JR-0107127) |
 
 ## About This Role
 
-This technical writer position at Workday was posted on 2026-03-06.
+This software engineer position at Workday was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

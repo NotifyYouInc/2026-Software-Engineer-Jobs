@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115794147-software-engineer-salesforce) |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000127800709-software-engineer-salesforce) |
 
 ## About This Role
 
-This frontend engineer position at LinkedIn was posted on 2026-03-20.
+This software engineer position at LinkedIn was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/131253853164053190-senior-software-engineer-infrastructure-high-performance-networking?sort_by=date&page=1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckew9k5tJmxYTfGitvzMXIKhGnFttMK95iGOQeBUnaoO7EjsACxwdTGgoNiFLdYPR8Cy3Mfk67t18wDIjRNS6E9fvtLHPHgaq5gh3sfcl2m_xgqVUkeDryRpIk3nHTQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-06.
+This software engineer position at Google was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

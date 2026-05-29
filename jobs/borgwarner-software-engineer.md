@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Beijing---China/Software-Engineer_R2026-1942) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/Software-Engineer_R2026-2007) |
 
 ## About This Role
 
-This software engineer position at BorgWarner was posted on 2026-05-20.
+This software engineer position at BorgWarner was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R54764-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN-03/Software-Engineer-I_R53009-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-05-13.
+This software engineer position at Cadence Design Systems was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Sr-SW-Development-Engineer_JR117025) |
+| Location | San Diego, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-SW-Development-Engineer_JR117755) |
 
 ## About This Role
 
-This software engineer position at Dexcom was posted on 2026-03-09.
+This embedded / firmware engineer position at Dexcom was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

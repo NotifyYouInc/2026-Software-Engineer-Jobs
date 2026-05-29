@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Software-Development-Engineer_R0884100-1) |
+| Location | Hartford, Connecticut, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer_R0916742) |
 
 ## About This Role
 
-This ai / llm engineer position at CVS Health was posted on 2026-04-24.
+This software engineer position at CVS Health was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

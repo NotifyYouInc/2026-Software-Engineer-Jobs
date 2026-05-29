@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R167783) |
+| Category | Frontend Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R169031) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-05-11.
+This frontend engineer position at Adobe was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
