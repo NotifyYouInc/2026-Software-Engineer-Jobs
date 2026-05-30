@@ -5,12 +5,12 @@
 | Company | [Astucemedia](https://scoutify.ai/companies/astucemedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Astucemedia/744000124142517-lead-front-back-end-developer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Astucemedia/744000127508644-lead-front-back-end-developer) |
 
 ## About This Role
 
-This software engineer position at Astucemedia was posted on 2026-05-01.
+This software engineer position at Astucemedia was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

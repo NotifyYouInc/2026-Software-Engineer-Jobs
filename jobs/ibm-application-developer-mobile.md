@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Mobile Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111743) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111748) |
 
 ## About This Role
 
-This mobile engineer position at IBM was posted on 2026-04-29.
+This mobile engineer position at IBM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

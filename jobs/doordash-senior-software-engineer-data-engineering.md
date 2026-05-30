@@ -5,12 +5,12 @@
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/6021795) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/6108388) |
 
 ## About This Role
 
-This software engineer position at DoorDash was posted on 2026-03-02.
+This software engineer position at DoorDash was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5cb883c5-1e48-459e-a6da-c814a8fcb4d4) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4d4b6cd8-13b1-4e10-9f3c-6299a7599709) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-05-09.
+This software engineer position at Bjak was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

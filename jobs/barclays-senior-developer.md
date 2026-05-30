@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Developer_JR-0000086127) |
+| Location | Canary Wharf, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Developer_JR-0000089097) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-02-27.
+This software engineer position at Barclays was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

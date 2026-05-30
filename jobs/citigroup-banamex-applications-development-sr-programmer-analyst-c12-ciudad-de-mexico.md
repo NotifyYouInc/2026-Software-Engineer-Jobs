@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Applications-Development-Sr-Programmer-Analyst---C12---Ciudad-De-Mexico_26951436) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Applications-Development-Sr-Programmer-Analyst---C12---Ciudad-De-Mexico_26939125) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-18.
+This software engineer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

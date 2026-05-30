@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Promise](https://scoutify.ai/companies/promise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/promise/d058e192-2b72-4908-8dc2-676e370bd7c1) |
+| Posted | 2026-02-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/promise/5329faa8-bcfb-462f-956f-35499d6f81c1) |
 
 ## About This Role
 
-This engineering manager position at Promise was posted on 2026-03-12.
+This engineering manager position at Promise was posted on 2026-02-15.
 
 ## Get Real-Time Alerts
 

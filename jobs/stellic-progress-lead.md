@@ -5,12 +5,12 @@
 | Company | [Stellic](https://scoutify.ai/companies/stellic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/stellic/4b706540-7c56-44e6-815a-1b7294450328) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stellic/28266f39-9c7b-4460-972c-fd12c5ba2aef) |
 
 ## About This Role
 
-This software engineer position at Stellic was posted on 2026-04-30.
+This software engineer position at Stellic was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

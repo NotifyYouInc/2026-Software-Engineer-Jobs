@@ -5,12 +5,12 @@
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7633425003) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7747279003) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Rocket Lab was posted on 2026-02-18.
+This electrical / hardware engineer position at Rocket Lab was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

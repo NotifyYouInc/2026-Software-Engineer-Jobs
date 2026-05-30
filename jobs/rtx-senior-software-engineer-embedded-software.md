@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Senior-Software-Engineer---Embedded-Software_01838672) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Senior-Software-Engineer---Embedded-Software_01847433) |
 
 ## About This Role
 
-This embedded / firmware engineer position at RTX was posted on 2026-04-16.
+This embedded / firmware engineer position at RTX was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

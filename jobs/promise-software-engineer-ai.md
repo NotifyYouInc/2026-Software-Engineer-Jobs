@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Promise](https://scoutify.ai/companies/promise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/promise/aed7d514-6a36-498b-9659-4fb6ae38dca4) |
+| Posted | 2025-10-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/promise/ea0b2ad0-7270-413a-91f9-0be0b99052e1) |
 
 ## About This Role
 
-This ai / llm engineer position at Promise was posted on 2026-03-10.
+This ai / llm engineer position at Promise was posted on 2025-10-21.
 
 ## Get Real-Time Alerts
 

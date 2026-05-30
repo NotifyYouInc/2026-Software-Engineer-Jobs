@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127513869-senior-ruby-developer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127908311-senior-ruby-developer) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-05-20.
+This software engineer position at Endava was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

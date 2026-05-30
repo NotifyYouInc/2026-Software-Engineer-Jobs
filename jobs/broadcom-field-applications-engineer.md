@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado, US |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA---Colorado---Remote-location/Field-Applications-Engineer_R024614) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Field-Applications-Engineer_R026113-1) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-04-06.
+This software engineer position at Broadcom was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

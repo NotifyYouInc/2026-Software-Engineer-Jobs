@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Lead_R-00178469) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineering-Lead_R-00183975) |
 
 ## About This Role
 
-This engineering manager position at Leidos was posted on 2026-03-16.
+This engineering manager position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | PR & External Communications |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Principal-Software-Engineer--Hybrid---Aguadilla--PR-_01834423) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Principal-Software-Engineer--Hybrid---Aguadilla--PR-_01847023) |
 
 ## About This Role
 
-This pr & external communications position at RTX was posted on 2026-04-06.
+This pr & external communications position at RTX was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

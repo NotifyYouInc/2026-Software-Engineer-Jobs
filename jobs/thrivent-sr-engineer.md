@@ -5,12 +5,12 @@
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Sr-Engineer_REQ-46653-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Sr-Engineer_REQ-47043-1) |
 
 ## About This Role
 
-This software engineer position at Thrivent was posted on 2026-04-14.
+This software engineer position at Thrivent was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

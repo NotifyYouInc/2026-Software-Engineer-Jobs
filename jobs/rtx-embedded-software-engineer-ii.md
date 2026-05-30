@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Indianapolis, Indiana, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Embedded-Software-Engineer-II_01834357) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Embedded-Software-Engineer-II_01847723) |
 
 ## About This Role
 
-This embedded / firmware engineer position at RTX was posted on 2026-03-30.
+This embedded / firmware engineer position at RTX was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

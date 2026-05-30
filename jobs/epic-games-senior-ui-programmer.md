@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/5837450004?gh_jid=5837450004) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6004769004?gh_jid=6004769004) |
 
 ## About This Role
 
-This software engineer position at Epic Games was posted on 2026-03-25.
+This software engineer position at Epic Games was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000125379365-product-integration-lead-ad-technology) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127947089-product-integration-lead-ad-technology) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-05-08.
+This software engineer position at NBCUniversal was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

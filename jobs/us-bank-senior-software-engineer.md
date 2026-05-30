@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Senior-Software-Engineer_2026-0006111) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Software-Engineer_2026-0013526) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-03-16.
+This software engineer position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

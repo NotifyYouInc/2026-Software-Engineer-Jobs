@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127731749-robotics-software-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127959159-robotics-software-engineer) |
 
 ## About This Role
 
-This robotics engineer position at Intuitive Surgical was posted on 2026-05-21.
+This robotics engineer position at Intuitive Surgical was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

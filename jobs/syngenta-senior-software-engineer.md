@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124518459-senior-software-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127948714-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-05-04.
+This software engineer position at Syngenta was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

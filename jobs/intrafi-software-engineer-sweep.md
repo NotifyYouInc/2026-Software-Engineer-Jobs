@@ -5,12 +5,12 @@
 | Company | [Intrafi](https://scoutify.ai/companies/intrafi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/intrafi/e1f2654b-217c-49ec-a354-ca21c0542596) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.lever.co/intrafi/eeae9603-9abb-4815-8a67-a2ffa00e9aca) |
 
 ## About This Role
 
-This software engineer position at Intrafi was posted on 2026-05-07.
+This software engineer position at Intrafi was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

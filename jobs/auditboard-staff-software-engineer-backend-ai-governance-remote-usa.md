@@ -5,12 +5,12 @@
 | Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Trust & Safety |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/optro/c0efcde7-04cb-4381-9e56-36f89a14a622) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/b90487bd-0665-4d73-90b5-69a27e6cb5d8) |
 
 ## About This Role
 
-This trust & safety position at AuditBoard was posted on 2026-05-15.
+This trust & safety position at AuditBoard was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | North Bethesda, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5115281007) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/4987617007) |
 
 ## About This Role
 
-This software engineer position at Xometry was posted on 2026-04-20.
+This software engineer position at Xometry was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

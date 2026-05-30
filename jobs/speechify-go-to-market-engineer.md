@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Product Marketing |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5989934004) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/6003596004) |
 
 ## About This Role
 
-This product marketing position at Speechify was posted on 2026-05-06.
+This software engineer position at Speechify was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

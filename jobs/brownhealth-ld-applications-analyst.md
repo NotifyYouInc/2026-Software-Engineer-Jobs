@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Providence, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Remote/Ld-Applications-Analyst_JR-106461) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Ld-Applications-Analyst_JR-109749) |
 
 ## About This Role
 
-This software engineer position at Brownhealth was posted on 2026-03-06.
+This software engineer position at Brownhealth was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
