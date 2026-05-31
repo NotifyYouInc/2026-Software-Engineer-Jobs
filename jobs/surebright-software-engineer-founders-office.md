@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# Software Engineer, Founder’s Office at SureBright
 
 | Field | Details |
 |-------|---------|
-| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [SureBright](https://scoutify.ai/companies/surebright?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/surebright/jobs/F4YIgxx-software-engineer-founder-s-office) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at SureBright was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

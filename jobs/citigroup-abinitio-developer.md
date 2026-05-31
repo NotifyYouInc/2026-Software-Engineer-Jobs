@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# AbInitio Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/AbInitio-Developer_26959010) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Citigroup was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

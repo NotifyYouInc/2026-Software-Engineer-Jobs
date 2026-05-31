@@ -1,16 +1,16 @@
-# Software Engineer, Full-Stack at Loop
+# Backend Engineer - Payment (Java) at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jobs.lever.co/binance/cd45063a-740a-4526-8d50-51f689dad920) |
 
 ## About This Role
 
-This software engineer position at Loop was posted on 2026-04-29.
+This software engineer position at Binance was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

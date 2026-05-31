@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# Full Stack Software Engineer at Conductorai
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Conductorai](https://scoutify.ai/companies/conductorai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Lead_ATCI-5146668-S1895451-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/conductorai/3c518501-fc9e-4585-ad50-051fdc7df838) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-22.
+This software engineer position at Conductorai was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

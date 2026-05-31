@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Senior-Software-Engineer_R-00183896) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Software-Engineer_R-00183992) |
 
 ## About This Role
 

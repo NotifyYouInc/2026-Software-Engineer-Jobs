@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# Senior Staff Software Development Engineering at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5140595007) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Zscaler was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

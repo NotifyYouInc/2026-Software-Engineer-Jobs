@@ -1,16 +1,16 @@
-# Software Engineer, Full-Stack at Loop
+# Software Engineer (Endpoint DLP) at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4860424101?gh_jid=4860424101) |
 
 ## About This Role
 
-This software engineer position at Loop was posted on 2026-04-29.
+This software engineer position at Cato Networks was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reliaquest](https://scoutify.ai/companies/reliaquest?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Tampa-FL/Associate-Software-Engineer_R15047) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 
 ## About This Role
 
-This software engineer position at Reliaquest was posted on 2026-04-13.
+This software engineer position at Reliaquest was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

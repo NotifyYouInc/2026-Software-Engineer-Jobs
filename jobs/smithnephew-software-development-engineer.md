@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# Software Development Engineer at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
-| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Smith+Nephew was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

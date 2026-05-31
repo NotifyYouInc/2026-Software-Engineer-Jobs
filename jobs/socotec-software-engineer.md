@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coral Gables, Florida, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000127915903-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000127919859-software-engineer) |
 
 ## About This Role
 

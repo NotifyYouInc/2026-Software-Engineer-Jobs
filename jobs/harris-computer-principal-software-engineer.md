@@ -1,4 +1,4 @@
-# Sr Software Engineer at Harris Computer
+# Principal Software Engineer at Harris Computer
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Bangalore-Baroda-India/Principal-Software-Engineer_R0040357-2) |
 
 ## About This Role
 

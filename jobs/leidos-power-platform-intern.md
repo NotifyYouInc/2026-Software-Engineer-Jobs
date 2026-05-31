@@ -1,16 +1,16 @@
-# Software Engineer, Full-Stack at Loop
+# Power Platform Intern at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Power-Platform-Intern_R-00183950) |
 
 ## About This Role
 
-This software engineer position at Loop was posted on 2026-04-29.
+This software engineer position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

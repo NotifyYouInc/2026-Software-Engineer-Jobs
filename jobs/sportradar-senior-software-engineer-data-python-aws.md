@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# Senior Software Engineer - Data (Python, AWS) at Sportradar
 
 | Field | Details |
 |-------|---------|
-| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Vienna, Vienna, Austria |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000128002249-senior-software-engineer-data-python-aws) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Sportradar was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

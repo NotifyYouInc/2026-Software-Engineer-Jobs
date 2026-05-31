@@ -1,16 +1,16 @@
-# Software Engineer, Full-Stack at Loop
+# Go-to-Market Engineer - Kolkata, India at Speechify
 
 | Field | Details |
 |-------|---------|
-| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/6004249004) |
 
 ## About This Role
 
-This software engineer position at Loop was posted on 2026-04-29.
+This software engineer position at Speechify was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
