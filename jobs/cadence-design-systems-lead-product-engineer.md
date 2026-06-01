@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Product-Engineer_R54042) |
+| Location | Hsinchu, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Product-Engineer_R54731) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-05.
+This software engineer position at Cadence Design Systems was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

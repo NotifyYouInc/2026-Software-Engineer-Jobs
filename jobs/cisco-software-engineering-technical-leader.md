@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boston-Massachusetts-US/Software-Engineering-Technical-Leader_2014331) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering-Technical-Leader_2010516) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-05-18.
+This technical & solutions architect position at Cisco was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

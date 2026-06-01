@@ -1,16 +1,16 @@
-# Software Engineer I  at UiPath
+# Software Engineer I at UiPath
 
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/10473afc-6e1e-4aa3-a9e5-a434a952fcc4) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/a720562e-7a23-438e-8d9d-5819c4233eca) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-02-17.
+This software engineer position at UiPath was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

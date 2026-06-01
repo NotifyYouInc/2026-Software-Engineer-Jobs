@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gauteng, ZA |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Steyn-City-Capital-Park/Senior-Developer_JR104378) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/Senior-Developer_JR104949) |
 
 ## About This Role
 
-This software engineer position at Telesure was posted on 2026-03-22.
+This software engineer position at Telesure was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tainan, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Software-Engineer_R2617919) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Software-Engineer_R2617916) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-04-27.
+This software engineer position at Applied Materials was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

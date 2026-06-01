@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7874424) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7896395) |
 
 ## About This Role
 
-This software engineer position at Navan was posted on 2026-05-12.
+This software engineer position at Navan was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

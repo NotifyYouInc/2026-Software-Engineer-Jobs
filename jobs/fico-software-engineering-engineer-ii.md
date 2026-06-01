@@ -1,16 +1,16 @@
-# Software Engineering – Engineer II at FICO
+# Software Engineering Engineer II at FICO
 
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Software-Engineering---Engineer-II_31611) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Software-Engineering-Engineer-II_31709-1) |
 
 ## About This Role
 
-This software engineer position at FICO was posted on 2026-03-17.
+This software engineer position at FICO was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

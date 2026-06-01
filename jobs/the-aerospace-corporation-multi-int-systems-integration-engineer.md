@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Multi-INT-Systems-Integration-Engineer_R015481-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Westfield-VA/Multi-INT-Systems-Integration-Engineer_R015465) |
 
 ## About This Role
 
-This engineering manager position at The Aerospace Corporation was posted on 2026-05-22.
+This engineering manager position at The Aerospace Corporation was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

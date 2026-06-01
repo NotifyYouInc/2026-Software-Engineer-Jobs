@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001092487-senior-backend-engineer-java-product-platform) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001100518-senior-backend-engineer-java-product-platform) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-05-21.
+This software engineer position at Canva was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

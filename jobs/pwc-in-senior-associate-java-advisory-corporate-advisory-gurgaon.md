@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Java-Advisory-Corporate-Advisory-Gurgaon_731138WD-2) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Java-Advisory-Corporate-Advisory-Gurgaon_731195WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-05-22.
+This software engineer position at PwC was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

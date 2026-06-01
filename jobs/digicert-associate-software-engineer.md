@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8559589002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8392173002) |
 
 ## About This Role
 
-This software engineer position at DigiCert was posted on 2026-05-21.
+This software engineer position at DigiCert was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
