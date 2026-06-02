@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Java-Fullstack-Developer_26960313) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Midrange-Fullstack-lead_26964138) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-19.
+This software engineer position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

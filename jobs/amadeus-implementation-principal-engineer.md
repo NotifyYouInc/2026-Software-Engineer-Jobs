@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Implementation-Principal-Engineer_R34684) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore-II/Implementation-Principal-Engineer_R34685) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-05-15.
+This customer success position at Amadeus was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

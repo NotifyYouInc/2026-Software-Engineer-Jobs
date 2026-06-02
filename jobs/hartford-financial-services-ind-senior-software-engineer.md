@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Software-Engineer_R2625237) |
+| Category | AI / ML Research |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Software-Engineer_R2625528) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-05-05.
+This ai / ml research position at Hartford Financial Services was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116579) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116575) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-05-25.
+This software engineer position at IBM was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

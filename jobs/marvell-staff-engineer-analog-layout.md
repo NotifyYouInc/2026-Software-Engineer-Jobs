@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Staff-Engineer--Analog-Layout_2601341) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Staff-Engineer--Analog-Layout_2602016) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-23.
+This semiconductor / chip design position at Marvell was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

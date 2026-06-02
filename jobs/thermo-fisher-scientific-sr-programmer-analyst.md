@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Sr-Programmer-Analyst_R-01354668) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Sr-Programmer-Analyst_R-01354655) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-05-23.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

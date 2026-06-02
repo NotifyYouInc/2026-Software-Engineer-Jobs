@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Senior-Software-Engineer---Career_J00176822) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Senior-Software-Engineer---Career_J00177244-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-05-07.
+This software engineer position at Equifax was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

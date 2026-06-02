@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--AVP_R-00276177) |
+| Location | 2 locations |
+| Category | Mobile Engineer |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--AVP_R-00279239) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-04-06.
+This mobile engineer position at NatWest Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

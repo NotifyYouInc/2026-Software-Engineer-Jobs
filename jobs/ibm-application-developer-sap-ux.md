@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113788) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117394) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-05-07.
+This software engineer position at IBM was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Software-Engineer_REQ-056011-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Software-Engineer_AP-23655239) |
 
 ## About This Role
 
-This software engineer position at Morningstar was posted on 2026-04-22.
+This software engineer position at Morningstar was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

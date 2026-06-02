@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pavia, Lombardy, Italy |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pavia-Italy/Analog-Layout-Staff-Engineer_2600744) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Analog-Layout-Staff-Engineer_2602131) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-15.
+This semiconductor / chip design position at Marvell was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
