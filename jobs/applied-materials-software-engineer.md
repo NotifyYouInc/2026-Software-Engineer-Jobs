@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Software-Engineer_R2617916) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Software-Engineer_R2619142) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-05-25.
+This software engineer position at Applied Materials was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

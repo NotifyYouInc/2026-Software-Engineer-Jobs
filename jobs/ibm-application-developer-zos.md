@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111336) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117025) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-23.
+This software engineer position at IBM was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

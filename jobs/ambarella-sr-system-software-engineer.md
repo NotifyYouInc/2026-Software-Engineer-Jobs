@@ -5,12 +5,12 @@
 | Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shanghai/Sr-System-Software-Engineer_JR100310) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shanghai/Sr-System-Software-Engineer_JR100311) |
 
 ## About This Role
 
-This software engineer position at Ambarella was posted on 2026-05-25.
+This software engineer position at Ambarella was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

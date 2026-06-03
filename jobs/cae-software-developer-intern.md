@@ -1,16 +1,16 @@
-# Software Developer Intern at CAE
+# Software Developer - Intern at CAE
 
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Bangalore-India/Software-Developer-Intern_120254) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Bangalore---Whitefield/Software-Developer---Intern_122019) |
 
 ## About This Role
 
-This software engineer position at CAE was posted on 2026-02-13.
+This software engineer position at CAE was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

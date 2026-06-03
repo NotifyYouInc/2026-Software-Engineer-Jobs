@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Apps-Dev-Tech-Lead-Analyst---VP---NEW-YORK_26963772) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Apps-Dev-Tech-Lead-Analyst---VP---NEW-YORK_26963776) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-21.
+This software engineer position at Citigroup was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Software-Engineer_R-542872) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHOENIX-AZ/Lead-Software-Engineer_R-546714) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-05-20.
+This software engineer position at Wells Fargo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

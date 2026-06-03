@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116101173-software-engineer-full-stack) |
+| Category | Software Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128636468-software-engineer-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at Robert Bosch was posted on 2026-03-23.
+This software engineer position at Robert Bosch was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
