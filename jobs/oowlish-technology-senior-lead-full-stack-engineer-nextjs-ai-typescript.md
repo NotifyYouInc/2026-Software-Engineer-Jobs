@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oowlish Technology](https://scoutify.ai/companies/oowlish-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/oowlish/d9fc66ec-df8e-4d47-aa61-e7e783ee0cfd) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/oowlish/de9f9986-f0ca-4eb0-8793-a5ebdb97260b) |
 
 ## About This Role
 
-This software engineer position at Oowlish Technology was posted on 2026-04-20.
+This software engineer position at Oowlish Technology was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

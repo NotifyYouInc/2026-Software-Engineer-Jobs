@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CUMIS](https://scoutify.ai/companies/cumis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=5e249262-f92e-476e-a40d-b8dc27db1225) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6ef469b1-bc51-4854-ba75-88d63d792a6b) |
 
 ## About This Role
 
-This software engineer position at CUMIS was posted on 2026-02-17.
+This software engineer position at CUMIS was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

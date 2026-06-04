@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Senior-Software-Engineer_R-049108-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/Senior-Software-Engineer_R-050677) |
 
 ## About This Role
 
-This software engineer position at LPL Financial Holdings was posted on 2026-03-17.
+This software engineer position at LPL Financial Holdings was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beavercreek, Ohio, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0235359) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0241119) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-09.
+This electrical / hardware engineer position at Booz Allen was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

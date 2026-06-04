@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Technology-Analyst-Trainee--Apprentice-_R-10388715) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Technology-Analyst-Trainee--Apprentice-_R-10385789) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-05-08.
+This software engineer position at Fiserv was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

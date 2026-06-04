@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Gyeonggi-do, KR |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5067608007) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5146210007) |
 
 ## About This Role
 
-This software engineer position at Sonatus was posted on 2026-03-09.
+This software engineer position at Sonatus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

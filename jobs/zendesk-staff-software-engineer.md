@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Singapore/Staff-Software-Engineer_R34764) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Staff-Software-Engineer_R34225-1) |
 
 ## About This Role
 
-This software engineer position at Zendesk was posted on 2026-05-07.
+This software engineer position at Zendesk was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Product-Integration-Engineer--PIE--YE_JR97186) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Product-Integration-Engineer--PIE--YE_JR101952) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-06.
+This semiconductor / chip design position at Micron was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

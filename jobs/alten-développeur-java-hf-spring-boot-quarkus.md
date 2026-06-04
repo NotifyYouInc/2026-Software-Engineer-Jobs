@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118621362-developpeur-java-hf-spring-boot-quarkus) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000128756299-developpeur-java-hf-spring-boot-quarkus) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-04-03.
+This software engineer position at ALTEN was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

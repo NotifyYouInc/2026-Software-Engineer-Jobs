@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cloud-Engineering-Lead-Analyst---HIH---Evernorth_26001225) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cloud-Engineering-Lead-Analyst---HIH---Evernorth_26006156) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-02-16.
+This ai / llm engineer position at Cigna was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

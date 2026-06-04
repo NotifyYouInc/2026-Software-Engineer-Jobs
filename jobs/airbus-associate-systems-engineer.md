@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Associate-Systems-Engineer_JR10412879) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Associate-Systems-Engineer_JR10417217) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-05-14.
+This software engineer position at Airbus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-BQuant/18779) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-BQuant/19940) |
 
 ## About This Role
 
-This software engineer position at Bloomberg was posted on 2026-05-24.
+This software engineer position at Bloomberg was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

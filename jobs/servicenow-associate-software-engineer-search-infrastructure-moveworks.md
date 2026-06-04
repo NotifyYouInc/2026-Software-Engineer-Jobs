@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123802354-associate-software-engineer-search-infrastructure-moveworks) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128795277-associate-software-engineer-search-infrastructure-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-04-29.
+This software engineer position at ServiceNow was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

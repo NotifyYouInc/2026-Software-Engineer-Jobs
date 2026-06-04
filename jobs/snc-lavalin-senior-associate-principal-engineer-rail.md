@@ -5,12 +5,12 @@
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Derby, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBDerby4-Roundhouse-Road/Senior--Associate-Principal-Engineer--Rail-_R-149420) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBDerby4-Roundhouse-Road/Senior--Associate-Principal-Engineer--Rail-_R-156395) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-04-27.
+This engineering manager position at SNC-Lavalin was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

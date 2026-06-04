@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Takasaki, Gunma, Japan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125254069-product-engineer) |
+| Location | Austin, Texas, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128793519-product-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-08.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

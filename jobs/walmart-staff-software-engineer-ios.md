@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Mobile Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer---iOS_R-2470158-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer---iOS_R-2473230) |
 
 ## About This Role
 
-This mobile engineer position at Walmart was posted on 2026-04-17.
+This mobile engineer position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

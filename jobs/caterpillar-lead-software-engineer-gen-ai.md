@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Software-Engineer--Gen-AI_R0000364000-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Software-Engineer--Gen-AI_R0000372964) |
 
 ## About This Role
 
-This ai / llm engineer position at Caterpillar was posted on 2026-04-16.
+This ai / llm engineer position at Caterpillar was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

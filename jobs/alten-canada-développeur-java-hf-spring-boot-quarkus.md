@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000126018350-developpeur-java-hf-spring-boot-quarkus) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000128756299-developpeur-java-hf-spring-boot-quarkus) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-12.
+This software engineer position at ALTEN Canada was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

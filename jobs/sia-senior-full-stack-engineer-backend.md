@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127123186-senior-full-stack-engineer-backend) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000128856289-senior-full-stack-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-05-19.
+This software engineer position at SIA was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

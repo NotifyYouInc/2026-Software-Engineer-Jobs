@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Technical-Lead_R0293878-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore---Indraprastha/Technical-Lead_R0329018-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-09.
+This embedded / firmware engineer position at Thales was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

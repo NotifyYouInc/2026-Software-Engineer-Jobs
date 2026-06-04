@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117061817-especialista-de-desenvolvimento-de-software-ii) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128795329-especialista-de-desenvolvimento-de-software-ii) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-26.
+This software engineer position at Experian was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

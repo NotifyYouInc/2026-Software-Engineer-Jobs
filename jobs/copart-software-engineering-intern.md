@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR108058) |
+| Category | Software Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109217) |
 
 ## About This Role
 
-This frontend engineer position at Copart was posted on 2026-03-26.
+This software engineer position at Copart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

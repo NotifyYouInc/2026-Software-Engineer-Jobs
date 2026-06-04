@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---QNX-BSP-and-IOs-Virtualization_JR2014551-1) |
+| Location | Santa Clara, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---QNX-BSP-and-IOs-Virtualization_JR2018599) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-18.
+This embedded / firmware engineer position at Nvidia was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

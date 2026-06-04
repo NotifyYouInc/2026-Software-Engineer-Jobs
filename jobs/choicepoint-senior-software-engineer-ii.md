@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Franklin, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Australia---Sydney/Senior-Software-Engineer-II_R111380-3) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Franklin-TN/Senior-Software-Engineer-II_R113295-1) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-05-18.
+This software engineer position at ChoicePoint was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

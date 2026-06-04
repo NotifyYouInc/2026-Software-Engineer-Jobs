@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Engineer_JR98628) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/Software-Engineer_JR100868) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-04-17.
+This software engineer position at Micron was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
