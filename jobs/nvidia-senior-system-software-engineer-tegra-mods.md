@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS_JR2014141) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS_JR2018837) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-03.
+This software engineer position at Nvidia was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

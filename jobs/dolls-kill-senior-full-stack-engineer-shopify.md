@@ -5,12 +5,12 @@
 | Company | [Dolls Kill](https://scoutify.ai/companies/dolls-kill?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Oakland, California, United States |
 | Category | Software Engineer |
-| Posted | 2025-10-15 |
-| Apply | [View on company site](https://jobs.lever.co/dollskill/0b747976-22a4-4d9e-a67a-a027494350e9) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/dollskill/c4827b6d-728e-4a42-b13f-084eccb93b24) |
 
 ## About This Role
 
-This software engineer position at Dolls Kill was posted on 2025-10-15.
+This software engineer position at Dolls Kill was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

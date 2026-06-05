@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000107851805-desarrollador-full-stack-it) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129024099-desarrollador-full-stack-it) |
 
 ## About This Role
 
-This software engineer position at SGS was posted on 2026-02-06.
+This software engineer position at SGS was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

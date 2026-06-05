@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556869010) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867011) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-05-28.
+This ai / ml research position at Microsoft was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

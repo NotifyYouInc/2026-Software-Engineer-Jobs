@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5124745007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5140601007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-05-14.
+This software engineer position at Zscaler was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

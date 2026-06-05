@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Folsom, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0283942) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0284406) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-18.
+This software engineer position at Intel was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

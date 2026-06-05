@@ -1,16 +1,16 @@
-#  Software Engineer, AI Squads at Telnyx
+# Software Engineer, AI Squads at Telnyx
 
 | Field | Details |
 |-------|---------|
 | Company | [Telnyx](https://scoutify.ai/companies/telnyx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/telnyx54/jobs/7696681003) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/telnyx54/jobs/7751729003) |
 
 ## About This Role
 
-This software engineer position at Telnyx was posted on 2026-04-10.
+This ai / llm engineer position at Telnyx was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

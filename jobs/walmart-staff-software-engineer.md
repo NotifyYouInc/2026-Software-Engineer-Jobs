@@ -1,16 +1,16 @@
-# Staff Software Engineer at Walmart
+# Staff, Software Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Staff-Software-Engineer_R-2484160-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Staff--Software-Engineer_R-2485120) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-05-21.
+This software engineer position at Walmart was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

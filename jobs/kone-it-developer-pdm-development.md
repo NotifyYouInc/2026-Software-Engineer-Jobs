@@ -5,12 +5,12 @@
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/IT-Developer---PDM-Development_R0658230-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/IT-Developer---PDM-Development_R0658229) |
 
 ## About This Role
 
-This software engineer position at Kone was posted on 2026-03-10.
+This software engineer position at Kone was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

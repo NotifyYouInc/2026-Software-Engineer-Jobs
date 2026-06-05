@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer-in-Test_2130022) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Software-Engineer-in-Test_2128063-2) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-05-27.
+This software engineer position at Fidelity was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

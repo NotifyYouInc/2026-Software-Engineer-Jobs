@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---London/Senior-Software-Development-Engineer_R11808) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Senior-Software-Development-Engineer_R11841) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-05-19.
+This software engineer position at Clearwateranalytics was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

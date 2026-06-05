@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Developer-Principal_R214684-2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Dallas/Software-Developer-Principal_R222678) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-04-17.
+This software engineer position at PNC Financial was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

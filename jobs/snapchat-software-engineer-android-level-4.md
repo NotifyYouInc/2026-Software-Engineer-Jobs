@@ -5,12 +5,12 @@
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Mobile Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Software-Engineer--Android--Level-4_R0045498-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Santa-Monica---3100-Ocean-Park-Blvd/Software-Engineer--Android--Level-4_R0045600) |
 
 ## About This Role
 
-This mobile engineer position at Snapchat was posted on 2026-05-20.
+This mobile engineer position at Snapchat was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

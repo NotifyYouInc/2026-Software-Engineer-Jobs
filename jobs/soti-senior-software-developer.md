@@ -5,12 +5,12 @@
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Senior-Software-Developer_R09978) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Senior-Software-Developer_R10133) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-04-29.
+This software engineer position at SOTI was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

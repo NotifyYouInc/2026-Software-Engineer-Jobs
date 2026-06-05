@@ -5,12 +5,12 @@
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Richland, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USWARichland/Civil-Engineering-Lead-Energy---Remote_R-148610-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USWARichland/Civil-Engineering-Lead-Energy---Remote_R-156714-1) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-04-27.
+This engineering manager position at SNC-Lavalin was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
