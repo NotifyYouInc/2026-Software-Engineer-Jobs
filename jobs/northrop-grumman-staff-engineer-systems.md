@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Engineer-Systems_R10232045) |
+| Location | San Diego, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Engineer-Systems_R10234414) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-05-06.
+This software engineer position at Northrop Grumman was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

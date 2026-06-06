@@ -5,12 +5,12 @@
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7914339) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7951118) |
 
 ## About This Role
 
-This software engineer position at Instacart was posted on 2026-05-11.
+This software engineer position at Instacart was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

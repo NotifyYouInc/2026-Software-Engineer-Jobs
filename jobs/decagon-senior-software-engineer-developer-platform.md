@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed) |
+| Location | New York City, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/c15c3dc8-6df7-43ca-aeeb-dc2beed2668e) |
 
 ## About This Role
 
-This devops engineer position at Decagon was posted on 2026-02-11.
+This software engineer position at Decagon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

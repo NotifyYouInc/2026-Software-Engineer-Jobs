@@ -5,12 +5,12 @@
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Product-Engineer_R-26-17201) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Product-Engineer_R-26-18010-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Moog was posted on 2026-04-28.
+This electrical / hardware engineer position at Moog was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

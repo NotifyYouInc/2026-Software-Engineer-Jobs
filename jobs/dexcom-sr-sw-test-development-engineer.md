@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/Sr-SW-Test-Engineer---Phone-Compatibility_JR111574) |
+| Location | San Diego, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-SW-Test-Development-Engineer_JR118743) |
 
 ## About This Role
 
-This semiconductor / chip design position at Dexcom was posted on 2026-03-03.
+This embedded / firmware engineer position at Dexcom was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922184-development-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013374526-development-engineer) |
 
 ## About This Role
 
-This engineering manager position at AbbVie was posted on 2026-05-01.
+This embedded / firmware engineer position at AbbVie was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157432/) |
+| Location | Sunnyvale, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/159804/) |
 
 ## About This Role
 
-This software engineer position at Uber was posted on 2026-03-21.
+This security engineer position at Uber was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

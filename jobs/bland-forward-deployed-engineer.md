@@ -5,12 +5,12 @@
 | Company | [Bland](https://scoutify.ai/companies/bland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70) |
 
 ## About This Role
 
-This software engineer position at Bland was posted on 2026-04-11.
+This software engineer position at Bland was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7902085?gh_jid=7902085) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7968145?gh_jid=7968145) |
 
 ## About This Role
 
-This software engineer position at Asana was posted on 2026-05-06.
+This software engineer position at Asana was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axle](https://scoutify.ai/companies/axle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
+| Posted | 2026-05-29 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
 
 ## About This Role
 
-This software engineer position at Axle was posted on 2026-02-18.
+This software engineer position at Axle was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

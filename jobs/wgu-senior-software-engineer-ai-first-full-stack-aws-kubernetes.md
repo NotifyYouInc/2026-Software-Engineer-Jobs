@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Software-Engineer--AI-First--Full-Stack--AWS--Kubernetes-_JR-024980) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Software-Engineer--AI-First--Full-Stack--AWS--Kubernetes-_JR-025155) |
 
 ## About This Role
 
-This software engineer position at WGU was posted on 2026-05-01.
+This ai / llm engineer position at WGU was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

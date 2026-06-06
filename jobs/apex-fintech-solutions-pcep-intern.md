@@ -5,12 +5,12 @@
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Portland-OR/PCEP-Intern_JR104820) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Portland-OR/PCEP-Intern_JR104816-1) |
 
 ## About This Role
 
-This software engineer position at Apex Fintech Solutions was posted on 2026-05-28.
+This software engineer position at Apex Fintech Solutions was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

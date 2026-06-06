@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Quito, Pichincha, Ecuador |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4855179101) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4863979101) |
 
 ## About This Role
 
-This software engineer position at Neoris was posted on 2026-04-30.
+This software engineer position at Neoris was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

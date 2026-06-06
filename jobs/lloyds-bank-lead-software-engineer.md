@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Lead-Software-Engineer_143910) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Lead-Software-Engineer_157493-2) |
 
 ## About This Role
 
-This frontend engineer position at Lloyds Bank was posted on 2026-03-20.
+This software engineer position at Lloyds Bank was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/5800-SOUTH-CORPORATE-PLACE/Mainframe-Application-Development---Vice-President_26956654-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/5800-SOUTH-CORPORATE-PLACE/Mainframe-Application-Development---Vice-President_26965020) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-06.
+This software engineer position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GYEONGGI-DO-Seoul/Principal-Application-Engineer_R54410) |
+| Location | San Jose, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Principal-Application-Engineer_R54688) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-05-06.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

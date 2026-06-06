@@ -5,12 +5,12 @@
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7629069003) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
 
 ## About This Role
 
-This software engineer position at Affirm was posted on 2026-02-18.
+This software engineer position at Affirm was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

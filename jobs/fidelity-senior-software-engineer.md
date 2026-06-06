@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Westlake, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Software-Engineer_2128693) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer_2129462-2) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-05-19.
+This software engineer position at Fidelity was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

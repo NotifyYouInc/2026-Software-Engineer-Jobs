@@ -1,16 +1,16 @@
-# Engineer I-Software at Microchip Technology
+# Engineer I- Software at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Engineer-I-Software_R322-26) |
+| Location | Boulder, Colorado, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Boulder/Engineer-I--Software_R518-26) |
 
 ## About This Role
 
-This frontend engineer position at Microchip Technology was posted on 2026-03-02.
+This software engineer position at Microchip Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

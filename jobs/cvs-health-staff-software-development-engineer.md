@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | Rhode Island, US |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Staff-Software-Development-Engineer_R0910884) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Staff-Software-Development-Engineer_R0921945-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-05-22.
+This software engineer position at CVS Health was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

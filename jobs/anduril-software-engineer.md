@@ -1,16 +1,16 @@
-# Software Engineer  at Anduril
+# Software Engineer at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Broomfield, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5140969007?gh_jid=5140969007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-05-18.
+This software engineer position at Anduril was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

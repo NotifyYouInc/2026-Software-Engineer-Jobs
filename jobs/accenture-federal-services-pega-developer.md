@@ -5,12 +5,12 @@
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4672239006?gh_jid=4672239006) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4685541006?gh_jid=4685541006) |
 
 ## About This Role
 
-This software engineer position at Accenture Federal Services was posted on 2026-04-10.
+This software engineer position at Accenture Federal Services was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

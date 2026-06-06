@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Senior-Engineer-II--Software-Edge-AI_R991-26) |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Senior-Engineer-II--Software-Edge-AI_R2293-26) |
 
 ## About This Role
 
-This frontend engineer position at Microchip Technology was posted on 2026-03-09.
+This software engineer position at Microchip Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
