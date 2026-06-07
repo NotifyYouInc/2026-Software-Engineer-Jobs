@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Software Technologist at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist_581033) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Philips was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

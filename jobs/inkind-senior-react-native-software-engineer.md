@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Senior React Native Software Engineer at inKind
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
+| Company | [inKind](https://scoutify.ai/companies/inkind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Mobile Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inkind/jobs/5236903008) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This mobile engineer position at inKind was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

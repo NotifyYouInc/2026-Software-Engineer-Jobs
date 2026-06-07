@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Full Stack Development at Float
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Float](https://scoutify.ai/companies/float?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2025-10-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/float/732ea90e-c7e1-4623-ac69-0cddc71aac88) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Float was posted on 2025-10-28.
 
 ## Get Real-Time Alerts
 

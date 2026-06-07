@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Senior Staff Software Engineer, Data at Arteria AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Arteria AI](https://scoutify.ai/companies/arteria-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arteriaai/jobs/5236068008) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Arteria AI was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

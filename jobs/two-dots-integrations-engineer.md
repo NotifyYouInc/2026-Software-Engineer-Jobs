@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Integrations Engineer at Two Dots
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Two Dots](https://scoutify.ai/companies/two-dots?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/two-dots/e5b1e24e-51bb-4cad-9685-676e7d807564) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Two Dots was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Senior Data Platform Engineer at Moderna
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Sr-Data-Platform-Engineer_R19117-1) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Moderna was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Staff Python Engineer at Lawhive
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
+| Company | [Lawhive](https://scoutify.ai/companies/lawhive?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | London, England, United Kingdom |
+| Category | AI / ML Research |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lawhive/8d685322-2a0d-4b05-afbf-47b58ff52389) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This ai / ml research position at Lawhive was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

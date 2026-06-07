@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Senior Full Stack Engineer at LiveFlow
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [LiveFlow](https://scoutify.ai/companies/liveflow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2023-01-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/liveflow/4f3f4e32-76bf-4fc2-8afc-4b6db9d969b2) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at LiveFlow was posted on 2023-01-20.
 
 ## Get Real-Time Alerts
 

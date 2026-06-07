@@ -1,4 +1,4 @@
-# Senior/Lead Software Engineer, Layer1 at Arista Networks
+# Senior/Lead Software Engineer, Network Systems at Arista Networks
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129324079-seniorlead-software-engineer-layer1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129324059-seniorlead-software-engineer-network-systems) |
 
 ## About This Role
 

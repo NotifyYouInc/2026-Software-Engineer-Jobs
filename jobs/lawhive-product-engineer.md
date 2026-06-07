@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Product Engineer at Lawhive
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Lawhive](https://scoutify.ai/companies/lawhive?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lawhive/9b1efcc6-a88c-40dd-b925-c07b934531ed) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Lawhive was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

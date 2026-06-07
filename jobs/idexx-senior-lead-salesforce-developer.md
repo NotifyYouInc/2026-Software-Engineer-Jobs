@@ -1,16 +1,16 @@
-# HVDC C&P Engineer - Intern at Hitachi
+# Senior Lead Salesforce Developer at IDEXX
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Westbrook, Maine, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-C-P-Engineer---Intern_R0132238) |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Senior-Lead-Salesforce-Developer_J-053323) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-05-31.
+This software engineer position at IDEXX was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

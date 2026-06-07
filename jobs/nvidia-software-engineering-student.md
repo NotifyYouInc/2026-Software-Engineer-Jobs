@@ -1,16 +1,16 @@
-# HVDC C&P Engineer - Intern at Hitachi
+# Software Engineering Student at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Software Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-C-P-Engineer---Intern_R0132238) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineering-Student_JR2018722) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-05-31.
+This software engineer position at Nvidia was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

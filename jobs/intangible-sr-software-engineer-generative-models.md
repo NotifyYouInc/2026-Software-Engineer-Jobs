@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Sr. Software Engineer, Generative Models at Intangible
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Intangible](https://scoutify.ai/companies/intangible?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Canada |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/intangible.ai/1f19de5f-9cf5-47ab-a190-6d4c55edecb0) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Intangible was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

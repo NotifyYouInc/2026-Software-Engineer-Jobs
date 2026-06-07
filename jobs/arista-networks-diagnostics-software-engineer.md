@@ -1,16 +1,16 @@
-# HVDC C&P Engineer - Intern at Hitachi
+# Diagnostics Software Engineer at Arista Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Nashua, New Hampshire, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-C-P-Engineer---Intern_R0132238) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129323999-diagnostics-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-05-31.
+This software engineer position at Arista Networks was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Go-to-Market Engineer - Ljubljana, Slovenia at Speechify
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/6004230004) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Speechify was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

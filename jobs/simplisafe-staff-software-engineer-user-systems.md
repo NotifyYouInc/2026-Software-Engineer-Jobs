@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Staff Software Engineer - User Systems at SimpliSafe
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [SimpliSafe](https://scoutify.ai/companies/simplisafe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simplisafe/jobs/7966867) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at SimpliSafe was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Porto, Porto, Portugal |
 | Category | Software Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/PRT---Porto/Product-Software-Engineer_R0056708) |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/PRT---Porto/Product-Software-Engineer_R0057400) |
 
 ## About This Role
 

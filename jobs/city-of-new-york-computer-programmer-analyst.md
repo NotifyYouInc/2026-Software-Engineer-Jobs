@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# COMPUTER PROGRAMMER ANALYST at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hawthorne, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387481-computer-programmer-analyst) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at City of New York was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

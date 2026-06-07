@@ -5,12 +5,12 @@
 | Company | [Muon Space](https://scoutify.ai/companies/muonspace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/muonspace/jobs/5083758007) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/muonspace/jobs/5150891007) |
 
 ## About This Role
 
-This software engineer position at Muon Space was posted on 2026-03-18.
+This software engineer position at Muon Space was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Head-up Guidance System Software Engineer  (Onsite) at RTX
+# Head-up Guidance System Software Engineer (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wilsonville, Oregon, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-System-Software-Engineer---Onsite-_01824388) |
+| Category | Software Engineer |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-System-Software-Engineer--Onsite-_01849007) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-02-16.
+This software engineer position at RTX was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

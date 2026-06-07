@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# SW Engineer  at AppsFlyer
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [AppsFlyer](https://scoutify.ai/companies/appsflyer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8537144002?gh_jid=8537144002) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at AppsFlyer was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# HVDC C&P Engineer - Intern at Hitachi
+# Software Engineer, Data Privacy (Remote – EMEA/LatAm) at Lavendo
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Lavendo](https://scoutify.ai/companies/lavendo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Software Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-C-P-Engineer---Intern_R0132238) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/d4eb3723-23ec-4d5d-a152-f34949e1621c) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-05-31.
+This software engineer position at Lavendo was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

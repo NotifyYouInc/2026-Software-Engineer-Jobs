@@ -1,16 +1,16 @@
-# Odoo Developer at Cityfurnish
+# Staff Software Engineer at Truewind
 
 | Field | Details |
 |-------|---------|
-| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Truewind](https://scoutify.ai/companies/truewind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/mtQzGoe-odoo-developer) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/truewind/jobs/0naXaQ1-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Cityfurnish was posted on 2026-05-30.
+This software engineer position at Truewind was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
