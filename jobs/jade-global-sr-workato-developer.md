@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Sr-Workato-Developer_R-105215) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Sr-Workato-Developer_R-105315) |
 
 ## About This Role
 
-This software engineer position at Jade Global was posted on 2026-04-23.
+This software engineer position at Jade Global was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

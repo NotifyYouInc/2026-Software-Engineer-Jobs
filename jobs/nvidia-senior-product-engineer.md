@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Shenzhen, Guangdong, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Product-Engineer_JR2014219) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-Product-Engineer_JR2018278) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-04-23.
+This electrical / hardware engineer position at Nvidia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

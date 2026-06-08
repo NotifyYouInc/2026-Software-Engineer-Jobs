@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150389007?gh_jid=5150389007) |
 
 ## About This Role
 

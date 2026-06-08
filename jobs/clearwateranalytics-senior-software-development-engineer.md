@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Senior-Software-Development-Engineer_R11841) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Senior-Software-Development-Engineer_R2375) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-05-28.
+This software engineer position at Clearwateranalytics was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Sr-Dot-Net-Developer---C---AWS_JR1040160) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Sr-Dot-Net-Developer---C---AWS_JR1040197) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-05-29.
+This software engineer position at Synechron was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

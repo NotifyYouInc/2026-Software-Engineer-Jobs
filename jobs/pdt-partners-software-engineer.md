@@ -1,16 +1,16 @@
-# Software Engineer  at PDT Partners
+# Software Engineer at PDT Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [PDT Partners](https://scoutify.ai/companies/pdtpartners?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pdtpartners/jobs/7964007) |
 
 ## About This Role
 
-This software engineer position at PDT Partners was posted on 2026-02-03.
+This software engineer position at PDT Partners was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

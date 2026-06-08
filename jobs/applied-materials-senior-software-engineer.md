@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reẖovot, Central District, Israel |
-| Category | Software Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2610892) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Senior-Software-Engineer_R2619140) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-05-17.
+This devops engineer position at Applied Materials was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

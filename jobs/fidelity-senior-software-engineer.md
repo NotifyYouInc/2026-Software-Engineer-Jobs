@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Software-Engineer_2129462-2) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Senior-Software-Engineer_2129537) |
 
 ## About This Role
 

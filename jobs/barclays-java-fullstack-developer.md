@@ -1,16 +1,16 @@
-# JAVA Fullstack Developer at Barclays
+# Java FullStack Developer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/JAVA-Fullstack-Developer_JR-0000100624) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Java-FullStack-Developer_JR-0000105856) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-03-27.
+This software engineer position at Barclays was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

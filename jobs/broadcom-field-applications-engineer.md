@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Field-Applications-Engineer_R026113-1) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R026109) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-05-22.
+This embedded / firmware engineer position at Broadcom was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

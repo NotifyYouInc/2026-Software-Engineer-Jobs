@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Experienced-Embedded-Firmware-Software-Engineer_R-10063302) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Experienced-Embedded-Firmware-Software-Engineer_R-10063585) |
 
 ## About This Role
 
-This embedded / firmware engineer position at NXP Semiconductors was posted on 2026-05-12.
+This embedded / firmware engineer position at NXP Semiconductors was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

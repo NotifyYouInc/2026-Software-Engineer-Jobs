@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Analog-Layout-Staff-Engineer_2602131) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Analog-Layout-Staff-Engineer_2602192) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-26.
+This semiconductor / chip design position at Marvell was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

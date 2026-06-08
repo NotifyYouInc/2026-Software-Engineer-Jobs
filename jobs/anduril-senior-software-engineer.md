@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | Fort Collins, Colorado, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150327007?gh_jid=5150327007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) |
 
 ## About This Role
 

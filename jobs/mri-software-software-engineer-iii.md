@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Pune-India-Office/Software-Engineer-III_R-107405) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Software-Engineer-III_R-106120-1) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-04-09.
+This software engineer position at MRI Software was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

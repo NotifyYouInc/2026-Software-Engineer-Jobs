@@ -6,7 +6,7 @@
 | Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072635) |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072638) |
 
 ## About This Role
 
