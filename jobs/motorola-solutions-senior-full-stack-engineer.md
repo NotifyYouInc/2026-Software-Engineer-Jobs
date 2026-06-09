@@ -1,16 +1,16 @@
-# Senior Full-Stack Engineer at Motorola Solutions
+# Senior Full Stack Engineer at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Senior-Full-Stack-Engineer_R63322) |
+| Location | Florida, US |
+| Category | Software Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Florida-US-Offsite/Senior-Full-Stack-Engineer_R65481) |
 
 ## About This Role
 
-This frontend engineer position at Motorola Solutions was posted on 2026-03-24.
+This software engineer position at Motorola Solutions was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Technology-Strategy-Applications-Engineer_WD30270318) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Technology-Strategy-Applications-Engineer_WD30270314-1) |
 
 ## About This Role
 
-This engineering manager position at Johnson Controls was posted on 2026-05-25.
+This engineering manager position at Johnson Controls was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

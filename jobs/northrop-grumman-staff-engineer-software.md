@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Staff-Engineer-Software_R10233981) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer-Software_R10234432) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-28.
+This software engineer position at Northrop Grumman was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

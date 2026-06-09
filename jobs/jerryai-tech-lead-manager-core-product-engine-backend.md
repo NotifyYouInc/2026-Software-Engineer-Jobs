@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Engineering Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6cd9dbc0-04f8-4ce1-89ac-fb0319e78887) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d3321120-28ca-46ba-9d0f-9590b78aead9) |
 
 ## About This Role
 
-This engineering manager position at Jerry.ai was posted on 2026-04-27.
+This engineering manager position at Jerry.ai was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

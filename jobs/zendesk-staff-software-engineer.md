@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Staff-Software-Engineer_R34225-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Staff-Software-Engineer_R34990) |
 
 ## About This Role
 
-This software engineer position at Zendesk was posted on 2026-05-28.
+This software engineer position at Zendesk was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

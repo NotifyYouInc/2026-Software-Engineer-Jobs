@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127120741-eca-embedded-software-engineer-chinese-speaking) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129660199-eca-embedded-software-engineer-chinese-speaking) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-05-19.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

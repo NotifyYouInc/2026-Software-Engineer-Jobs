@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer_R2620555) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Software-Engineer_R2618920) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-05-27.
+This software engineer position at Applied Materials was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

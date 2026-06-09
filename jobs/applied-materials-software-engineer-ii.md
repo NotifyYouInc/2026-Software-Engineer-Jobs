@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Benicia, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeniciaCA/Software-Engineer-II_R2618677) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2617253-1) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-05-07.
+This software engineer position at Applied Materials was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Java-Developer_R-10388376-1) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Java-Developer_R-10382084) |
 
 ## About This Role
 
-This frontend engineer position at Fiserv was posted on 2026-02-18.
+This software engineer position at Fiserv was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

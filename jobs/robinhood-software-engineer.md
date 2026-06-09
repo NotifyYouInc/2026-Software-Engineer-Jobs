@@ -5,12 +5,12 @@
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7489724?t=gh_src=&gh_jid=7489724) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734) |
 
 ## About This Role
 
-This software engineer position at Robinhood was posted on 2026-02-06.
+This software engineer position at Robinhood was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

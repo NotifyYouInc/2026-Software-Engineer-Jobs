@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | La Vergne, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000118259215-senior-integration-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000129577014-senior-integration-engineer) |
 
 ## About This Role
 
-This software engineer position at Ingram Content Group was posted on 2026-04-01.
+This software engineer position at Ingram Content Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Senior-Java-Developer_51572236) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HANOI-CITY/Senior-Java-Developer_51579423) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-06.
+This software engineer position at DXC Technology was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

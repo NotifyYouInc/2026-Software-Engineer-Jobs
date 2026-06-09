@@ -5,12 +5,12 @@
 | Company | [AnaVation LLC](https://scoutify.ai/companies/anavationllc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/anavationllc/47c3943c-528b-402e-b058-ee03b433b6bf) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.lever.co/anavationllc/a1c8ac01-a158-485b-9c32-e94eb0f73423) |
 
 ## About This Role
 
-This software engineer position at AnaVation LLC was posted on 2026-04-23.
+This software engineer position at AnaVation LLC was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

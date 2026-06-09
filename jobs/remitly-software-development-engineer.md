@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_106300) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_106363) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-05-21.
+This software engineer position at Remitly was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

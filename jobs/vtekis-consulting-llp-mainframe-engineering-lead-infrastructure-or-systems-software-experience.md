@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126721679-mainframe-engineering-lead-infrastructure-or-systems-software-experience) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000129560254-mainframe-engineering-lead-infrastructure-or-systems-software-experience) |
 
 ## About This Role
 
-This engineering manager position at VTekis Consulting LLP was posted on 2026-05-15.
+This engineering manager position at VTekis Consulting LLP was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

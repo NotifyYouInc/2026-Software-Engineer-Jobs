@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Thermal-Systems-Simulation-Integration-Engineer_JR-202610159) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Thermal-Systems-Simulation-Integration-Engineer_JR-202612179) |
 
 ## About This Role
 
-This engineering manager position at General Motors was posted on 2026-05-18.
+This engineering manager position at General Motors was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

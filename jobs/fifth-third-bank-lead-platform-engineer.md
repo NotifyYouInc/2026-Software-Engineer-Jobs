@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Michigan, US |
+| Location | Ohio, US |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Platform-Engineer_R68625-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual---Ohio/Lead-Platform-Engineer_R68570-1) |
 
 ## About This Role
 
-This software engineer position at Fifth Third Bank was posted on 2026-05-29.
+This software engineer position at Fifth Third Bank was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Principal-Application-Engineer_R54688) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Application-Engineer_R52625) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-30.
+This engineering manager position at Cadence Design Systems was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

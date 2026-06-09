@@ -5,12 +5,12 @@
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Senior-Staff-Software-Engineer_REQ-12544) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Senior-Staff-Software-Engineer_REQ-12549) |
 
 ## About This Role
 
-This software engineer position at Q2 was posted on 2026-05-22.
+This software engineer position at Q2 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

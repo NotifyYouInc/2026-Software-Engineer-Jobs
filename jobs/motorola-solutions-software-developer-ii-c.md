@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer-II--C--_R63318) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer-II--C--_R65446) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-03-25.
+This software engineer position at Motorola Solutions was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

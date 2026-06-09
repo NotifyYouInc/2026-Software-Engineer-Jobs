@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Fire-Application-Engineer-I_WD30269122) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Fire-Application-Engineer-I_WD30270960) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-05-19.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

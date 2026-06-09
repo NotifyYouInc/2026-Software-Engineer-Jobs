@@ -1,16 +1,16 @@
-# Digital Software Engineer Senior Analyst Assistant Vice President at Citigroup
+# Digital Software Engineer Senior Analyst - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-Software-Engineer-Senior-Analyst-Assistant-Vice-President_26956648) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Digital-Software-Engineer-Senior-Analyst---Assistant-Vice-President_26966533) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-30.
+This software engineer position at Citigroup was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

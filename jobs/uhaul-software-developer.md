@@ -5,12 +5,12 @@
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R241870) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R246615) |
 
 ## About This Role
 
-This software engineer position at Uhaul was posted on 2026-04-07.
+This software engineer position at Uhaul was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

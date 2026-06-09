@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Lead-Developer-Engineer_R1122738-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Belgrade/Lead-Developer-Engineer_R1124079) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-05-18.
+This software engineer position at Dentsu was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

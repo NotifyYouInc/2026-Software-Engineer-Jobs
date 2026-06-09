@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | San Jose, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Principal-Software-Engineer_R024329) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Principal-Software-Engineer_R026152) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Broadcom was posted on 2026-03-12.
+This embedded / firmware engineer position at Broadcom was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126719870-vice-president-full-stack-engineer-java) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000129559439-vice-president-full-stack-engineer-java) |
 
 ## About This Role
 
-This software engineer position at VTekis Consulting LLP was posted on 2026-05-15.
+This software engineer position at VTekis Consulting LLP was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

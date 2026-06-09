@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shanghai/System-Software-Engineer_JR100305) |
+| Category | Security Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/China-Shanghai/System-Software-Engineer_JR100312) |
 
 ## About This Role
 
-This software engineer position at Ambarella was posted on 2026-05-20.
+This security engineer position at Ambarella was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

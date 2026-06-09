@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Principal-Software-Development-Engineer_R-102791-1) |
+| Location | Seattle, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Software-Development-Engineer_R-106472) |
 
 ## About This Role
 
-This devops engineer position at Expedia was posted on 2026-03-06.
+This software engineer position at Expedia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Software-Engineer-III_R-2517013) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2463315) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-05-27.
+This software engineer position at Walmart was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

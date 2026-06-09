@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Java-Development-Lead---Equity-Finance---Vice-President_26940537) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Java-Development-Lead---Equity-Finance---Vice-President_26967464) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-27.
+This software engineer position at Citigroup was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

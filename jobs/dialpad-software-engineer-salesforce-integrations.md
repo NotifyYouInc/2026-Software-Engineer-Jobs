@@ -1,16 +1,16 @@
-# Software Engineer, Salesforce (Integrations)) at Dialpad
+# Software Engineer, Salesforce (Integrations) at Dialpad
 
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8421279002) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8573833002) |
 
 ## About This Role
 
-This software engineer position at Dialpad was posted on 2026-02-23.
+This software engineer position at Dialpad was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

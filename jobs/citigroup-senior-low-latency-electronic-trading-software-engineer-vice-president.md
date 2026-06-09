@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kowloon, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Senior-Low-Latency-Electronic-Trading-Software-Engineer--Vice-President-_26962971) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Senior-Low-Latency-Electronic-Trading-Software-Engineer--Vice-President-_26962967) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-20.
+This software engineer position at Citigroup was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

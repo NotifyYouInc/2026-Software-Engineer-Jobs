@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Software-Engineer-in-Test---Anywhere-Cloud_260535) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Software-Engineer-in-Test---Anywhere-Cloud_260533) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-04-16.
+This software engineer position at Cloudera was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

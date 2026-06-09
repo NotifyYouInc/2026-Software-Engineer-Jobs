@@ -5,12 +5,12 @@
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hong Kong |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/IT-Engineer---Intern_JR00122464-2) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/IT-Engineer---Summer-Intern_JR00122463) |
 
 ## About This Role
 
-This it & systems administration position at Sun Life was posted on 2026-05-20.
+This it & systems administration position at Sun Life was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

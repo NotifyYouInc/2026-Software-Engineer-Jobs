@@ -1,16 +1,16 @@
-# Java Lead Developer - Vice President- Software Engineering at Morgan Stanley
+# Java Lead Developer - Vice President - Software Engineering at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Java-Lead-Developer---Vice-President--Software-Engineering_JR032633-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Java-Lead-Developer---Vice-President---Software-Engineering_JR037978) |
 
 ## About This Role
 
-This engineering manager position at Morgan Stanley was posted on 2026-03-19.
+This software engineer position at Morgan Stanley was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

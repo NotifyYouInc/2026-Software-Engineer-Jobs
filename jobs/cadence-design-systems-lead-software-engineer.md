@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Software-Engineer_R53674) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Software-Engineer-II_R51886) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-05-30.
+This software engineer position at Cadence Design Systems was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

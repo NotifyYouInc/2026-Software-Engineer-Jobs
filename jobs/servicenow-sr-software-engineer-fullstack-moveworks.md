@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108870090-sr-software-engineer-fullstack-moveworks) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129575916-sr-software-engineer-fullstack-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-11.
+This software engineer position at ServiceNow was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
