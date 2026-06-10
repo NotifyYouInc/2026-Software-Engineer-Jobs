@@ -1,16 +1,16 @@
-# Java developer at Citigroup
+# Java Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-developer_26961217-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Developer_26963953) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-02.
+This software engineer position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-Product-Engineer_JR2018278) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Senior-Product-Engineer_JR2018993) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-06-01.
+This electrical / hardware engineer position at Nvidia was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

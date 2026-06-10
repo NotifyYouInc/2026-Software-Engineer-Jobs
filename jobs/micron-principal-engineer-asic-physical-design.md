@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-Physical-Design_JR94783) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-Physical-Design_JR103319-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-22.
+This semiconductor / chip design position at Micron was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

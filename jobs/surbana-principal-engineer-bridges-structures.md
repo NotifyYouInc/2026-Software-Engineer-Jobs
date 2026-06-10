@@ -1,16 +1,16 @@
-# Principal Engineer- Bridges & Structures at SURBANA
+# Principal Engineer – Bridges & Structures at SURBANA
 
 | Field | Details |
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Principal-Engineer--Bridges---Structures_JR116416) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Perth/Principal-Engineer---Bridges---Structures_JR116913) |
 
 ## About This Role
 
-This engineering manager position at SURBANA was posted on 2026-04-30.
+This engineering manager position at SURBANA was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Engineer- Backend at Target
+# Sr Engineer - Backend at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer--Backend_R0000387032) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Backend_R0000441080-1) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-05-29.
+This software engineer position at Target was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000127079790-senior-backend-rust-engineer-tiktok-style-video-infrastructure) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000129304669-senior-backend-rust-engineer-tiktok-style-video-infrastructure) |
 
 ## About This Role
 
-This software engineer position at Travoom was posted on 2026-05-18.
+This software engineer position at Travoom was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

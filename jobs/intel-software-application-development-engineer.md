@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0283376) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Software-Application-Development-Engineer_JR0284122) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-04-30.
+This software engineer position at Intel was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000125452539-staff-engineer-sap-ariba) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000129924679-staff-engineer-sap-ariba) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-09.
+This software engineer position at Nagarro was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

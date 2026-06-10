@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Singapore, Singapore |
 | Category | Mobile Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000127795765-senior-software-engineer-mobile-android) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129915409-senior-software-engineer-mobile-android) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-05-22.
+This mobile engineer position at Grab was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
