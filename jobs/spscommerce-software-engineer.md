@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/PL-Warsaw-Workspace/Software-Engineer_R-000522-1) |
+| Location | Brampton, Ontario, Canada |
+| Category | Software Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/CA-ON-Brampton-Office/Software-Engineer_R-000852) |
 
 ## About This Role
 
-This frontend engineer position at Spscommerce was posted on 2026-03-19.
+This software engineer position at Spscommerce was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trulioo](https://scoutify.ai/companies/trulioo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/085a7c07-26cd-41f8-8b68-96ad6798a699) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/13bfe8cc-3940-4066-8333-cddc216896ac) |
 
 ## About This Role
 
-This software engineer position at Trulioo was posted on 2026-04-24.
+This software engineer position at Trulioo was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

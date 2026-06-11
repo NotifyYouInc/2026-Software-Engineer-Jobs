@@ -5,12 +5,12 @@
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/6843318?t=gh_src=&gh_jid=6843318) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7782529?t=gh_src=&gh_jid=7782529) |
 
 ## About This Role
 
-This software engineer position at Robinhood was posted on 2026-03-27.
+This software engineer position at Robinhood was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

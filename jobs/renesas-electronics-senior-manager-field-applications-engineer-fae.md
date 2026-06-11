@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128794000-senior-manager-field-applications-engineer-fae) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130088084-senior-manager-field-applications-engineer-fae) |
 
 ## About This Role
 
-This engineering manager position at Renesas Electronics was posted on 2026-05-27.
+This engineering manager position at Renesas Electronics was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

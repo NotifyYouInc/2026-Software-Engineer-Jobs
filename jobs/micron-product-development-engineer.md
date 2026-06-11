@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Product-Development-Engineer_JR101848-1) |
+| Location | Boise, Idaho, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR103405) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-05-15.
+This semiconductor / chip design position at Micron was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

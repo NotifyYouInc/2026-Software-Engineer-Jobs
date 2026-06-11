@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Lead_ATCI-5318953-S1957382-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Lead_ATCP-1154369-S392719) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-19.
+This software engineer position at Accenture was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

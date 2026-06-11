@@ -5,12 +5,12 @@
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8438468002) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8574785002) |
 
 ## About This Role
 
-This software engineer position at AlphaSense was posted on 2026-05-27.
+This software engineer position at AlphaSense was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

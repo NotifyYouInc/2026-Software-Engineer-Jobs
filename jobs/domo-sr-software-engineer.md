@@ -5,12 +5,12 @@
 | Company | [Domo](https://scoutify.ai/companies/domo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | American Fork, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://domo.wd12.myworkdayjobs.com/domocareers/job/American-Fork-Utah/Sr-Software-Engineer_JR100221) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://domo.wd12.myworkdayjobs.com/domocareers/job/American-Fork-Utah/Sr-Software-Engineer_JR100282) |
 
 ## About This Role
 
-This software engineer position at Domo was posted on 2026-04-13.
+This software engineer position at Domo was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

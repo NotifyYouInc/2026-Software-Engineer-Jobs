@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack--People-Leader-_R237033-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack--People-Leader-_R243505-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-02.
+This engineering manager position at Capital One was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

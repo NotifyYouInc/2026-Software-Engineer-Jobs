@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guangzhou, Guangdong, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Guangzhou/Unit-Module-Development-Engineer--Tech-Transfer-_JR-2601886) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Guangzhou/Unit-Module-Development-Engineer--Tech-Transfer-_JR-2602316) |
 
 ## About This Role
 
-This semiconductor / chip design position at GlobalFoundries was posted on 2026-05-22.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

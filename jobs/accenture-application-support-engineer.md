@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical Support Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5590855-S2027078-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1397054-S421702) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-06-03.
+This technical support engineer position at Accenture was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

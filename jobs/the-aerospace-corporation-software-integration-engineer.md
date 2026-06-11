@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Software-Integration-Engineer_R014995) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Software-Integration-Engineer_R015565) |
 
 ## About This Role
 
-This software engineer position at The Aerospace Corporation was posted on 2026-04-07.
+This software engineer position at The Aerospace Corporation was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

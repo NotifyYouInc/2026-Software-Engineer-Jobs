@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Full-Stack-Engineer_R-407903-1) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Work-at-Home---Kentucky/Lead-Full-Stack-Engineer_R-417643) |
 
 ## About This Role
 
-This frontend engineer position at Humana was posted on 2026-03-23.
+This software engineer position at Humana was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

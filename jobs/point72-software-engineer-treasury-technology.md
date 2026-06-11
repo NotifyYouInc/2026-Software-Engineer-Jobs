@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8462115002?gh_jid=8462115002) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8576953002?gh_jid=8576953002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-03-13.
+This software engineer position at Point72 was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

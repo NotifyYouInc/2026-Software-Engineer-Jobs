@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Principal-Engineer--VP_R-00275830) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Principal-Engineer--VP_R-00279685) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-03-30.
+This software engineer position at NatWest Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

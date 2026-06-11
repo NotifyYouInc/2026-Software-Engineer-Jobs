@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bukit Damansara, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125960184-principal-engineer-overhead-line-ohl) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130106499-principal-engineer-overhead-line-ohl) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-05-12.
+This electrical / hardware engineer position at AECOM was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Software-Engineer_REQ500139) |
+| Location | Chicago, Illinois, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Software-Engineer_REQ510703) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-04-17.
+This software engineer position at JLL was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

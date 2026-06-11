@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000120870578-software-engineer-fullstack-insurance-operations) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000130155559-software-engineer-fullstack-insurance-operations) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-15.
+This software engineer position at Grab was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

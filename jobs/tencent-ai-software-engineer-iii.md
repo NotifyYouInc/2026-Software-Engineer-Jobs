@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-III_R107464) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-III_R107574) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-05-20.
+This ai / ml research position at Tencent was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

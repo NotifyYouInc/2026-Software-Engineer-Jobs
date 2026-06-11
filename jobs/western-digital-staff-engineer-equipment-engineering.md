@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109838226-staff-engineer-equipment-engineering) |
+| Location | Bayan Lepas, Penang, Malaysia |
+| Category | Engineering Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000130136939-staff-engineer-equipment-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-02-18.
+This engineering manager position at Western Digital was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

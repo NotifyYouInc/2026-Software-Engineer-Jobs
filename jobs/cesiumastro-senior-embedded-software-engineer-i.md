@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [CesiumAstro](https://scoutify.ai/companies/CesiumAstro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westminster, Colorado, United States |
+| Company | [CesiumAstro](https://scoutify.ai/companies/cesiumastro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Melbourne, Florida, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/f041b996-5d2c-447d-960b-c4f31f47b0be) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/bddd270e-32d6-4d90-a1e1-b180c306ab06) |
 
 ## About This Role
 
-This embedded / firmware engineer position at CesiumAstro was posted on 2026-03-03.
+This embedded / firmware engineer position at CesiumAstro was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

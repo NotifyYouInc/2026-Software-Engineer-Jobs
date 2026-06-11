@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lowell, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116280907-senior-field-applications-engineer-fae) |
+| Location | San Jose, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130090639-senior-field-applications-engineer-fae) |
 
 ## About This Role
 
-This customer success position at Renesas Electronics was posted on 2026-03-23.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

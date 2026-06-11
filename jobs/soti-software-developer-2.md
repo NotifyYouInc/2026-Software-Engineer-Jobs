@@ -5,12 +5,12 @@
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kochi, Kerala, India |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Software-Developer-2_R09057) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Software-Developer-2_R08988) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-05-06.
+This software engineer position at SOTI was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

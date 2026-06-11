@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000120029904-bios-seniorlead-software-engineer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130074930-bios-seniorlead-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Arista Networks was posted on 2026-04-10.
+This embedded / firmware engineer position at Arista Networks was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

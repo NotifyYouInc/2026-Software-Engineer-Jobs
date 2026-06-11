@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-SMTS_JR338147) |
+| Location | Redwood City, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR344325) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-05-08.
+This devops engineer position at Salesforce was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Software Engineer, AI at Cloudera
+# Staff Software Engineer - AI at Cloudera
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Staff-Software-Engineer--AI_260103-2) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Staff-Software-Engineer---AI_251517-1) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-03-25.
+This software engineer position at Cloudera was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

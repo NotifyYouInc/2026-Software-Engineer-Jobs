@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-221-River-St-NJ-HOBOKEN-Home-Office/XMLNAME--USA--Principal--Software-Engineer_R-2479393) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-BELLEVUE-WALMART-GLOBAL-TECH-WA-BELLEVUE-Home-Office/XMLNAME--USA--Principal--Software-Engineer_R-2523143) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-05-27.
+This software engineer position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

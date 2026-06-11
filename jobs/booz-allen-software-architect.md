@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Software-Architect_R0234886) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Software-Architect_R0234006) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-02-27.
+This technical & solutions architect position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

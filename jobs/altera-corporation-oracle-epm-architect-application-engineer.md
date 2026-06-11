@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Penang, MY |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Oracle-EPM-Architect---Application-Engineer_R02097) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Oracle-EPM-Architect---Application-Engineer_R02552) |
 
 ## About This Role
 
-This technical & solutions architect position at Altera Corporation was posted on 2026-03-02.
+This technical & solutions architect position at Altera Corporation was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

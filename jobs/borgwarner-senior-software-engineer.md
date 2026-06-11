@@ -5,12 +5,12 @@
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Shanghai---China/Senior-Software-Engineer_R2026-1945-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Shanghai---China/Senior-Software-Engineer_R2026-1944) |
 
 ## About This Role
 
-This embedded / firmware engineer position at BorgWarner was posted on 2026-06-01.
+This embedded / firmware engineer position at BorgWarner was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

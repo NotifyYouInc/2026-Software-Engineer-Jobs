@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Diego, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/SW-Test-Development-Engineer-2_JR118237) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Test-Development-Engineer-2_JR118997) |
 
 ## About This Role
 
-This semiconductor / chip design position at Dexcom was posted on 2026-04-29.
+This semiconductor / chip design position at Dexcom was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

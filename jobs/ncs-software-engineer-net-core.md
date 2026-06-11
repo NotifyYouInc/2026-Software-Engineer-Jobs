@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000954978-software-engineer-net-core) |
+| Category | Software Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001132219-software-engineer-net-core) |
 
 ## About This Role
 
-This frontend engineer position at NCS was posted on 2026-03-25.
+This software engineer position at NCS was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

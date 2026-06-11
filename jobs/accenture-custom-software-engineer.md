@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Developer_ATCI-5225042-S1919739-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Custom-Software-Engineer_ATCP-1239048-S425047) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-03.
+This software engineer position at Accenture was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129324059-seniorlead-software-engineer-network-systems) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130074031-seniorlead-software-engineer-network-systems) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-05-31.
+This software engineer position at Arista Networks was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

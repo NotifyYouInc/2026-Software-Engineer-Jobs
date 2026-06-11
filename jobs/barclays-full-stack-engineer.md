@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Full-Stack-Engineer_JR-0000102281-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000093675) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-04-17.
+This software engineer position at Barclays was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
