@@ -5,12 +5,12 @@
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7256285?gh_jid=7256285) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7964840?gh_jid=7964840) |
 
 ## About This Role
 
-This software engineer position at Riot Games was posted on 2026-02-27.
+This software engineer position at Riot Games was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Principal Engineer, Software Engineering at ASM
+# Senior / Principal Engineer, Software Engineering  at ASM
 
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4824172101) |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4845116101) |
 
 ## About This Role
 
-This engineering manager position at ASM was posted on 2026-03-27.
+This software engineer position at ASM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

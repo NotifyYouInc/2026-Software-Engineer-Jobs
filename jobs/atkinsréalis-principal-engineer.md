@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCardiff2-Capital-Quarter-Tyndall-street/Principal-Engineer_R-156392) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBelfast---The-Vantage/Principal-Engineer_R-150673) |
 
 ## About This Role
 
-This engineering manager position at AtkinsRéalis was posted on 2026-05-29.
+This engineering manager position at AtkinsRéalis was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

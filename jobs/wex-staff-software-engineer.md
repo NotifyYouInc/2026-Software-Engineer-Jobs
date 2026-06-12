@@ -1,16 +1,16 @@
-# Staff, Software Engineer at Wex
+# Staff Software Engineer at Wex
 
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Staff--Software-Engineer_R20593-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Staff-Software-Engineer_R21946-1) |
 
 ## About This Role
 
-This devops engineer position at Wex was posted on 2026-03-09.
+This software engineer position at Wex was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Odenton, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Developer_R-00184726) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Software-Developer_R-00184816) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-03.
+This software engineer position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

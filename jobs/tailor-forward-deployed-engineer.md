@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tailor](https://scoutify.ai/companies/tailor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2025-11-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tailor/5ea5a5ac-90be-4795-b07a-23aaa20c4440) |
+| Category | Customer Success |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tailor/99cd6ed3-8829-4bbd-bd48-b46d9d03cab0) |
 
 ## About This Role
 
-This software engineer position at Tailor was posted on 2025-11-17.
+This customer success position at Tailor was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

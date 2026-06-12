@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/SailPoint-Engineer_34721) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/SailPoint-Engineer_35849) |
 
 ## About This Role
 
-This security engineer position at Guidehouse was posted on 2026-02-24.
+This security engineer position at Guidehouse was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

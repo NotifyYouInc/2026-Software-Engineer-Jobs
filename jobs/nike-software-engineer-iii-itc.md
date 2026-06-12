@@ -1,16 +1,16 @@
-# Software Engineer III, ITC at Nike
+# Software Engineer III. ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-III--ITC_R-81809) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-III-ITC_R-85373) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-05-14.
+This software engineer position at Nike was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

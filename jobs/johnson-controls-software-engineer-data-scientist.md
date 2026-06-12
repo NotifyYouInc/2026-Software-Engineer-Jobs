@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Software-Engineer---Data-Scientist_WD30270707) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Software-Engineer---Data-Scientist_WD30271443) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-01.
+This software engineer position at Johnson Controls was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

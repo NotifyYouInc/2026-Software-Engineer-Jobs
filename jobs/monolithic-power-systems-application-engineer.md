@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Hangzhou---China/Application-Engineer_R-1214) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Chengdu---China/Application-Engineer_R-1468) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-03-27.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

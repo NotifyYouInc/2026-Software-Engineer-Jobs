@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kallang, Singapore |
-| Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Kallang-Central-Region/Application-Engineer--PhD-graduates-preferred-_248606W-1) |
+| Location | Hwaseong-si, Gyeonggi-do, South Korea |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hwaseong-si-Gyenggi-do/Application-Engineer_251672W) |
 
 ## About This Role
 
-This engineering manager position at Qnity was posted on 2026-04-30.
+This software engineer position at Qnity was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

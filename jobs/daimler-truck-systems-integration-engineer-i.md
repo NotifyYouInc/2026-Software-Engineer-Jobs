@@ -5,12 +5,12 @@
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Systems-Integration-Engineer-I_DT-17833) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Systems-Integration-Engineer-I_DT-18222-2) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Daimler Truck was posted on 2026-05-07.
+This embedded / firmware engineer position at Daimler Truck was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

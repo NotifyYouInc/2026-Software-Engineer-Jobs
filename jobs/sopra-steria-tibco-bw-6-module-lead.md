@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111013275-tibco-bw-6-module-lead) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130376987-tibco-bw-6-module-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-24.
+This software engineer position at Sopra Steria was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

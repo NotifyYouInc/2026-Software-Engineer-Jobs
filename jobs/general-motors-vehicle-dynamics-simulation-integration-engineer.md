@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Dynamics-Simulation-Integration-Engineer_JR-202603504) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Dynamics-Simulation-Integration-Engineer_JR-202612071) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-27.
+This embedded / firmware engineer position at General Motors was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Quantico-VA/Systems-Integration-Engineer_R0235329) |
+| Location | Fort Meade, Maryland, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Integration-Engineer_R0241581) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-06.
+This software engineer position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Lafayette, Louisiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Principal-Software-Engineer_R62960) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Software-Engineer_R68389-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-03-31.
+This software engineer position at Medtronic was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

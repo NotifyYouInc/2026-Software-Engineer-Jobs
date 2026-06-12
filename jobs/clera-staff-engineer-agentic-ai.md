@@ -1,16 +1,16 @@
-# Staff Engineer - Agentic AI at Clera
+# Staff Engineer — Agentic AI at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e9fcbd0f-21b0-4a42-8f39-a37207c4eaef) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/80df478c-dd73-425b-a721-e5743ce02547) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-03.
+This ai / llm engineer position at Clera was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

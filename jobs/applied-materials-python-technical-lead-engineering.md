@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Python-Technical-Lead---Engineering_R2620298) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Python-Tech-Lead_R2617437) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-05-19.
+This software engineer position at Applied Materials was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

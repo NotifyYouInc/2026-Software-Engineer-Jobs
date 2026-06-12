@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Software-Enabling-and-Optimization-Engineer_JR0283760) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Enabling-and-Optimization-Engineer_JR0284574) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-08.
+This software engineer position at Intel was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

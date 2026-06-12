@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Georgia, US |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Staff-Software-Engineer--Remote-_Req180514-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Staff-Software-Engineer--Remote-_Req180734-1) |
 
 ## About This Role
 
-This software engineer position at The Home Depot was posted on 2026-05-15.
+This software engineer position at The Home Depot was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

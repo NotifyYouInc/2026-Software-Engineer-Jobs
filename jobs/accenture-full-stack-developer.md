@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Edmonton, Alberta, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Full-Stack-Developer_14358236) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Edmonton-10180-101-Street-ACN-Tech/Full-Stack-Developer_R00328652-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-06.
+This software engineer position at Accenture was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
-| Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-1098/Senior-Software-Engineer_R182884) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Senior-Software-Engineer_R174316) |
 
 ## About This Role
 
-This devops engineer position at A.P. Moller - Maersk was posted on 2026-05-27.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

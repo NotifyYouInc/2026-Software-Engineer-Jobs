@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Java-Full-Stack-Developer---Senior-Associate_R-790613) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Java-Full-Stack-Developer---Senior-Associate_R-791207) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-05-18.
+This software engineer position at State Street was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

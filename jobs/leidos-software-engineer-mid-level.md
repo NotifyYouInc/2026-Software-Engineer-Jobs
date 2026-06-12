@@ -1,16 +1,16 @@
-# Software Engineer; Mid-Level at Leidos
+# Software Engineer - Mid Level at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Clarksburg, West Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer--Mid-Level_R-00182281) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Clarksburg-WV/Software-Engineer---Mid-Level_R-00184855) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-01.
+This software engineer position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

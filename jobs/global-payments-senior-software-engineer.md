@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/BENGALURU--INDIA/Senior-Software-Engineer_R0070605-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-Software-Engineer_R0071412-1) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-05-28.
+This software engineer position at Global Payments was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexxen](https://scoutify.ai/companies/nexxen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Carlos, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nexxen/3e286114-51f3-43ff-a094-06e8e19fcd4b) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nexxen/633124c6-a3d8-4577-bbf6-422f7347d16b) |
 
 ## About This Role
 
-This software engineer position at Nexxen was posted on 2026-05-18.
+This software engineer position at Nexxen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

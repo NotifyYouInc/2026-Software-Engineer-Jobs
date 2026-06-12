@@ -5,12 +5,12 @@
 | Company | [Litmos](https://scoutify.ai/companies/litmos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/litmos/jobs/4837294101) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/litmos/jobs/4884042101) |
 
 ## About This Role
 
-This software engineer position at Litmos was posted on 2026-04-19.
+This software engineer position at Litmos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

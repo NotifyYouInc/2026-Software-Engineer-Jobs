@@ -5,12 +5,12 @@
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Tokyo/Field-Application-Engineer--Automotive-_JR-111614-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Tokyo/Field-Application-Engineer--Automotive-_JR-111794-2) |
 
 ## About This Role
 
-This software engineer position at Littelfuse was posted on 2026-05-14.
+This software engineer position at Littelfuse was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
