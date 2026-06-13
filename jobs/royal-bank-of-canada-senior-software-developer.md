@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Port of Spain, Port of Spain, Trinidad and Tobago |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000168047-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Port-of-Spain-Trinidad-and-Tobago/Senior-Software-Developer_R-0000155161) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-04-24.
+This software engineer position at Royal Bank of Canada was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/6c8acf8b-e1d8-4c02-b2fa-44c0c4494aaa) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5096f149-30c2-4e62-aa8a-7d70b27849aa) |
 
 ## About This Role
 
-This ai / ml research position at Clera was posted on 2026-06-03.
+This ai / ml research position at Clera was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

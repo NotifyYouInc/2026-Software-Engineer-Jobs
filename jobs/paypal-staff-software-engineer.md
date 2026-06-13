@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Mobile Engineer |
+| Location | 2 locations |
+| Category | Software Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0136881) |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0133420-1) |
 
 ## About This Role
 
-This mobile engineer position at PayPal was posted on 2026-06-05.
+This software engineer position at PayPal was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

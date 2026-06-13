@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alameda, California, United States |
+| Location | 2 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Sr-Embedded-Software-Engineer_31148168-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Sr-Embedded-Software-Engineer_31152383) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Abbott was posted on 2026-04-20.
+This embedded / firmware engineer position at Abbott was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

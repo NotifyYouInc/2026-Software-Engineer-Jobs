@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | San Jose, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7802390?gh_jid=7802390) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/7799596?gh_jid=7799596) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Roku was posted on 2026-04-09.
+This embedded / firmware engineer position at Roku was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

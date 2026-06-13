@@ -1,16 +1,16 @@
-# Java Developer - Bilingual (English / Korean) at Woongjin
+# Java Developer- Bilingual (English/ Korean) at Woongjin
 
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irvine, California, United States |
+| Location | Duluth, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000125950769-java-developer-bilingual-english-korean) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000130553730-java-developer-bilingual-english-korean) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-05-11.
+This software engineer position at Woongjin was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Associate-Director--Lead-Software-Developer_R-0000162557-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate-Director--Lead-Software-Developer_R-0000175610) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-04-05.
+This software engineer position at Royal Bank of Canada was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

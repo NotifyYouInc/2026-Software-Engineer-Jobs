@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sri-Lanka-Colombo/Software-Engineer_JREQ200043) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Software-Engineer_JREQ201179) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-05-05.
+This software engineer position at Thomson Reuters was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

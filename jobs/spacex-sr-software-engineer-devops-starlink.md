@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8443739002?gh_jid=8443739002) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8576894002?gh_jid=8576894002) |
 
 ## About This Role
 
-This devops engineer position at SpaceX was posted on 2026-03-09.
+This devops engineer position at SpaceX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

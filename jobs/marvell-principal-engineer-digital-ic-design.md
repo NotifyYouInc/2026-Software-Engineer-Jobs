@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Pavia, Lombardy, Italy |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Principal-Engineer---Digital-IC-Design_2402806) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pavia-Italy/Principal-Engineer---Digital-IC-Design_2600875) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-14.
+This semiconductor / chip design position at Marvell was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202673485) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202677329-1) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-02-18.
+This software engineer position at Cox was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

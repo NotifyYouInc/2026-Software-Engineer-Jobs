@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Java-Tech-Lead---Microservices-_R00326437) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Java-Tech-Lead---Microservices-_R00332851) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-23.
+This software engineer position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

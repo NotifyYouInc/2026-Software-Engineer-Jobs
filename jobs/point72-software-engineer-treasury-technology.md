@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8576953002?gh_jid=8576953002) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8576950002?gh_jid=8576950002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-06-04.
+This software engineer position at Point72 was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

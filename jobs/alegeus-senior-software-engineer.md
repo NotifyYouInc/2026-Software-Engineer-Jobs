@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alegeus](https://scoutify.ai/companies/alegeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Milwaukee/Senior-Software-Engineer_R-101169) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Boston/Senior-Software-Engineer_R-101243) |
 
 ## About This Role
 
-This software engineer position at Alegeus was posted on 2026-04-10.
+This software engineer position at Alegeus was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117673594-sr-software-engineer-backend) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130564019-sr-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-03-30.
+This software engineer position at Delivery Hero was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

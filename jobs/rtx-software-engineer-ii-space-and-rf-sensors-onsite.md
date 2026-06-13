@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fort Wayne, Indiana, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II---Space-and-RF-Sensors--Onsite-_01846457) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II---Space-and-RF-Sensors--Onsite-_01850519) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-05-19.
+This electrical / hardware engineer position at RTX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

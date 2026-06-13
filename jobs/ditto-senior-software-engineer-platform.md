@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ditto](https://scoutify.ai/companies/ditto?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-01-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ditto/2e12ece6-3308-4c31-a114-712cb783209b) |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ditto/556fd003-1533-4cc8-ad56-7b33b0aae810) |
 
 ## About This Role
 
-This devops engineer position at Ditto was posted on 2026-01-14.
+This software engineer position at Ditto was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

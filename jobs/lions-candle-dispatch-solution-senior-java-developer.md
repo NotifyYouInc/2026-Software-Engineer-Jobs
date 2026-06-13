@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000126408079-senior-java-developer) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000130628059-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-13.
+This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

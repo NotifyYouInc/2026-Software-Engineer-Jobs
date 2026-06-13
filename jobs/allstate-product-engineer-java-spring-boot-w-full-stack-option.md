@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Entry-Level-Product-Engineer---Java-Spring-Boot-w--Full-Stack-Option_R27487) |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Product-Engineer---Java-Spring-Boot-w--Full-Stack-Option_R31310) |
 
 ## About This Role
 
-This frontend engineer position at Allstate was posted on 2026-03-11.
+This software engineer position at Allstate was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

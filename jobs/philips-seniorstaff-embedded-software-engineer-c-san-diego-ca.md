@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Senior-Staff-Embedded-Software-Engineer---C----San-Diego--CA-_575867) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Senior-Staff-Embedded-Software-Engineer---C----San-Diego--CA-_580045) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Philips was posted on 2026-02-20.
+This embedded / firmware engineer position at Philips was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Developer_R-00177216) |
+| Location | St. Louis, Missouri, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00184931) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-03-02.
+This software engineer position at Leidos was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

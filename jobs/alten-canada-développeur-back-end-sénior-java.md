@@ -1,16 +1,16 @@
-# Développeur Back-End Sénior Java at ALTEN Canada
+# Développeur Back-End Sénior Java  at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Dakar, Dakar, Senegal |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000118778127-developpeur-back-end-senior-java) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130556989-developpeur-back-end-senior-java) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-04-05.
+This software engineer position at ALTEN Canada was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

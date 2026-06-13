@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115068337-senior-embedded-software-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130569839-senior-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Intuitive Surgical was posted on 2026-03-16.
+This embedded / firmware engineer position at Intuitive Surgical was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

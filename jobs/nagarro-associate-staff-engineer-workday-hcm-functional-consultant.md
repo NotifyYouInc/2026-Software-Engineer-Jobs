@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000123853479-associate-staff-engineer-workday-hcm-functional-consultant) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130628449-associate-staff-engineer-workday-hcm-functional-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Nagarro was posted on 2026-04-30.
+This implementation / professional services position at Nagarro was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

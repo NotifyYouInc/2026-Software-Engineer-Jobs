@@ -5,12 +5,12 @@
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/dc87a56d-934c-4280-af09-135f40dc7dca) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9) |
 
 ## About This Role
 
-This software engineer position at Sierra was posted on 2026-03-27.
+This software engineer position at Sierra was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/System-Software-Engineer---HP-IQ_3161802) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/System-Software-Engineer---HP-IQ_3163235-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Hewlett Packard (HP) was posted on 2026-04-24.
+This embedded / firmware engineer position at Hewlett Packard (HP) was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

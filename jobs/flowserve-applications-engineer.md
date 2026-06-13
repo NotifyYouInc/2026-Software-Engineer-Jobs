@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Querétaro, MX |
-| Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-Mexico/Applications-Engineer_R-17002) |
+| Location | Pasadena, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/Applications-Engineer_R-19414) |
 
 ## About This Role
 
-This account executive position at Flowserve was posted on 2026-03-23.
+This software engineer position at Flowserve was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

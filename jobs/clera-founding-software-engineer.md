@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/a4a3f45b-6227-491f-af9b-4f18f77878cc) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/c3e4de69-4d04-406b-970d-ab0468fe23f4) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-06-03.
+This ai / llm engineer position at Clera was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

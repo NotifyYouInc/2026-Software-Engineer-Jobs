@@ -5,12 +5,12 @@
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4690209005?gh_jid=4690209005) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4692287005?gh_jid=4692287005) |
 
 ## About This Role
 
-This software engineer position at Inter Carreiras was posted on 2026-05-08.
+This software engineer position at Inter Carreiras was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

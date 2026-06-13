@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
+| Location | McKinney, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Principal-Software-Engineer_01825848) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Principal-Software-Engineer_01850584) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-02-20.
+This software engineer position at RTX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

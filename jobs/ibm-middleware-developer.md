@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96293) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119034) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-26.
+This software engineer position at IBM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

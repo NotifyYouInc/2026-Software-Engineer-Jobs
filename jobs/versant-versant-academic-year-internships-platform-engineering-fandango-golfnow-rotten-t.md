@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000126409269-versant-academic-year-internships-platform-engineering-fandango-golfnow-rotten-tomatoes) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000130519424-versant-academic-year-internships-platform-engineering-fandango-golfnow-rotten-tomatoes) |
 
 ## About This Role
 
-This software engineer position at Versant was posted on 2026-05-13.
+This software engineer position at Versant was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

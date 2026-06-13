@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127363235-reconversion-ingenieure-informatique-java-nantes) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130527159-reconversion-ingenieure-informatique-java-nantes) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-20.
+This software engineer position at Sopra Steria was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

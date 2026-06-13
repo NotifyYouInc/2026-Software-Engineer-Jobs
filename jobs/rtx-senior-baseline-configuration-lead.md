@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Baseline-Configuration-Lead_01848793) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Baseline-Configuration-Lead_01850114-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-05-28.
+This software engineer position at RTX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

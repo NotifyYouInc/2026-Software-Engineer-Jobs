@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Speciality-Software-Engineer_R-533250) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Speciality-Software-Engineer_R-548628) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-04-06.
+This software engineer position at Wells Fargo was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

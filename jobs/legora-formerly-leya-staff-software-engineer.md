@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/9cbd8455-89f5-46c7-b7ad-9a6255c8ebb4) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/a7d29888-3159-4651-915a-d1a4814d1916) |
 
 ## About This Role
 
-This software engineer position at Legora (formerly Leya) was posted on 2026-02-13.
+This software engineer position at Legora (formerly Leya) was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

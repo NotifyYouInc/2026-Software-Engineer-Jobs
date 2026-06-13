@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sugar Land, Texas, United States |
+| Location | Newnan, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Sugar-Land/APPLICATIONS-ENGINEER_R-10637) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Newnan/APPLICATIONS-ENGINEER_R-11737) |
 
 ## About This Role
 
-This customer success position at Yokogawa was posted on 2026-04-01.
+This customer success position at Yokogawa was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

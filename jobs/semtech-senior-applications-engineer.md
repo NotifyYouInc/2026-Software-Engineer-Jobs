@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Semtech](https://scoutify.ai/companies/semtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Diego-CA/Senior-Applications-Engineer_REQ3250) |
+| Location | Burlington, Ontario, Canada |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Senior-Applications-Engineer_REQ3386) |
 
 ## About This Role
 
-This software engineer position at Semtech was posted on 2026-04-09.
+This embedded / firmware engineer position at Semtech was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer - CoreAI at Microsoft
+# Senior Software Engineer, CoreAI at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556778473) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866572) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-10.
+This software engineer position at Microsoft was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

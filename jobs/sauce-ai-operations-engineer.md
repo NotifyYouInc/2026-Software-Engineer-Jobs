@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sauce](https://scoutify.ai/companies/sauce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Argentina |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.lever.co/Sauce/0151d7a6-1461-4296-86ba-ab253661ef38) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.lever.co/Sauce/2e30b45a-c6ae-48da-aaa5-6303cc3a8dd0) |
 
 ## About This Role
 
-This software engineer position at Sauce was posted on 2026-04-22.
+This software engineer position at Sauce was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
