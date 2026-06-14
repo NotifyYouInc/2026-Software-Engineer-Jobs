@@ -5,12 +5,12 @@
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Espoo, Uusimaa, Finland |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skylotechnologies/jobs/7598404003) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/9ba892ed-22a9-4971-beca-07d4fe01be4a) |
 
 ## About This Role
 
-This software engineer position at Skylo Technologies was posted on 2026-04-08.
+This software engineer position at Skylo Technologies was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

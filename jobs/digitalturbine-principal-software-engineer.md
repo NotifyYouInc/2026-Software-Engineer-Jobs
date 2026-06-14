@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Principal-Software-Engineer_JR100976) |
+| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Principal-Software-Engineer_JR100977) |
 
 ## About This Role
 

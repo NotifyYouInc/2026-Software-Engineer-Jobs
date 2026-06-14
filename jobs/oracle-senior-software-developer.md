@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333652) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335151) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-05-14.
+This software engineer position at Oracle was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

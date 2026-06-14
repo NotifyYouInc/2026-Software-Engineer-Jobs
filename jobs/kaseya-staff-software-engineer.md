@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5981347004/?gh_jid=5981347004) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6015830004/?gh_jid=6015830004) |
 
 ## About This Role
 
-This software engineer position at Kaseya was posted on 2026-05-01.
+This software engineer position at Kaseya was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#329029) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335112) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-03-03.
+This software engineer position at Oracle was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

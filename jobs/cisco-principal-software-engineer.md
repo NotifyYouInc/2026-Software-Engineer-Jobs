@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milpitas, California, United States |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Principal-Software-Engineer_2004135) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Principal-Software-Engineer_2016142) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-27.
+This software engineer position at Cisco was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

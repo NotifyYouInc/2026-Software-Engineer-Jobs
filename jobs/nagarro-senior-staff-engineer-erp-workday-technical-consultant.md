@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108265091-senior-staff-engineer-erp-workday-technical-consultant) |
+| Location | India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130629849-senior-staff-engineer-erp-workday-technical-consultant) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-09.
+This technology / it consulting position at Nagarro was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

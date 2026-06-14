@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Software-Engineer_R-546089) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-537683-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-05-29.
+This software engineer position at Wells Fargo was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
