@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Technology-Lead-Analyst---Vice-President_26949953) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Technology-Lead-Analyst---Vice-President_26963420) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-17.
+This software engineer position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

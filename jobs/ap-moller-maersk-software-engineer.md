@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenzhen, Guangdong, China |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Guangdong-Shenzhen-518007/Software-Engineer_R176062) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Software-Engineer_R178079) |
 
 ## About This Role
 
-This frontend engineer position at A.P. Moller - Maersk was posted on 2026-03-19.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

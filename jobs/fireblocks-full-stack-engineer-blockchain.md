@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Prague, Prague, Czechia |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4674611006?gh_jid=4674611006) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position/4674612006?gh_jid=4674612006) |
 
 ## About This Role
 
-This software engineer position at Fireblocks was posted on 2026-04-26.
+This software engineer position at Fireblocks was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

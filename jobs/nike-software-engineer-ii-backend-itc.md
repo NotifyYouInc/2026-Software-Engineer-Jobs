@@ -1,16 +1,16 @@
-# Software Engineer II - Backend,  ITC at Nike
+# Software Engineer II - Backend , ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II---Backend---ITC_R-79745) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II---Backend---ITC_R-85505) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-02-25.
+This software engineer position at Nike was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

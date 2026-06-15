@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Serbia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.tide.co/careers/?gh_jid=6612996003) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6614106003) |
 
 ## About This Role
 
-This software engineer position at Careers at Tide was posted on 2026-04-29.
+This software engineer position at Careers at Tide was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

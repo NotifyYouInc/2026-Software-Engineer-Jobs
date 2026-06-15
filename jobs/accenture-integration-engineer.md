@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5489251-S2027407-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5609109-S2027807-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-05.
+This software engineer position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

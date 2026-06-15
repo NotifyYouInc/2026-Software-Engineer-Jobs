@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/36330404-8e1e-4fd9-a578-3bea3f6fb79c) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/30ac5eb1-d2a8-4b08-812b-676eae68a5ff) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-06-03.
+This software engineer position at Clera was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

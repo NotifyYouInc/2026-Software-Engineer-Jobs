@@ -5,12 +5,12 @@
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Software-Engineer-III_R-106120-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Software-Engineer-III_R-108126) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-06-01.
+This software engineer position at MRI Software was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

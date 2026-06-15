@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Staff-Product-Engineer--GenAI--AI-ML---Advanced-Data-Analytics-_JR99439) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Staff-Product-Engineer--GenAI--AI-ML---Advanced-Data-Analytics-_JR99446) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-05-18.
+This software engineer position at Micron was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

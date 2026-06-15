@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130149808-sap-c4c-v2-btp-technical-consultant) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130717639-sap-c4c-v2-btp-technical-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-06-04.
+This technology / it consulting position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334298) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#332906) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-06-05.
+This software engineer position at Oracle was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

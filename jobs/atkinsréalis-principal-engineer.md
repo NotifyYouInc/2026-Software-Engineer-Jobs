@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBelfast---The-Vantage/Principal-Engineer_R-150673) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/SNC-Lavalin-Atkins-Pune-Office/Principal-Engineer_R-156618) |
 
 ## About This Role
 
-This engineering manager position at AtkinsRéalis was posted on 2026-06-04.
+This engineering manager position at AtkinsRéalis was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

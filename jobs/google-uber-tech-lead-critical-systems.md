@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYJPqO_r3MT5aoMgDV3M6-cc7tgKedaqPCYJvs8fy_mQEjsACxwdTCis8LoliZteXxfvQ6Yaqoh7GzM-z4ER6JhabnN_Jga-4SpdDKYnWZYIXzHkAJU4GtouYRXEAg%3D%3D_V2&loc=GB&title=Uber+Tech+Lead) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXyU2205H4W1Hx9twV2Tj3IRDrDExTEpmZa2mo8qgXy-EjsACxwdTPJPgh5QlEiURqh9_7a6fA7pPhgeIBtofIdAL80vhcGReQg6SxjrpbqMPjA-BeaaU0caNhi3BA%3D%3D_V2&loc=GB&title=Uber+Tech+Lead) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-15.
+This software engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

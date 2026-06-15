@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBCardiff2-Capital-Quarter-Tyndall-street/Principal-Engineer_R-156392) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/SNC-Lavalin-Atkins-Pune-Office/Principal-Engineer_R-156618) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-05-29.
+This engineering manager position at SNC-Lavalin was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

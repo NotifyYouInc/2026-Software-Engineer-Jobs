@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Staff-Software-Engineer_R02885) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---Bangalore---Elnath/Staff-Software-Engineer_R02611) |
 
 ## About This Role
 
-This software engineer position at Cohesity was posted on 2026-03-05.
+This software engineer position at Cohesity was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

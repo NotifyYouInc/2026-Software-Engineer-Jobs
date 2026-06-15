@@ -1,16 +1,16 @@
-# Senior Software Engineer (Java Full stack Developer) at Mastercard
+# Senior Software Engineer (Java Full stack developer) at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Java-Full-stack-Developer-_R-265107) |
+| Category | Software Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Java-Full-stack-developer-_R-279299) |
 
 ## About This Role
 
-This frontend engineer position at Mastercard was posted on 2026-03-20.
+This software engineer position at Mastercard was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

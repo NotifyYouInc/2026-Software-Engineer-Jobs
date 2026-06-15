@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Engineer-Student-Intern_R256421) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Engineer-Student-Intern_R263213) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-05-06.
+This software engineer position at Analog Devices was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

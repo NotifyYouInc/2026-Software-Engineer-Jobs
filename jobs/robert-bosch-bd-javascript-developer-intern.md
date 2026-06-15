@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116744502-bd-javascript-developer-intern) |
+| Category | Software Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130701199-bd-javascript-developer-intern) |
 
 ## About This Role
 
-This frontend engineer position at Robert Bosch was posted on 2026-03-26.
+This software engineer position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
