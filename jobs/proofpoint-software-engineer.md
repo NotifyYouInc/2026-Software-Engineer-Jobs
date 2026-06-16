@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Draper, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Software-Engineer-I_R14146-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Software-Engineer_R14069) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-05-19.
+This software engineer position at Proofpoint was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

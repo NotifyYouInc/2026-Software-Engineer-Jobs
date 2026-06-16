@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Mobile Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129915409-senior-software-engineer-mobile-android) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131028475-senior-software-engineer-mobile-android) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-06-03.
+This mobile engineer position at Grab was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

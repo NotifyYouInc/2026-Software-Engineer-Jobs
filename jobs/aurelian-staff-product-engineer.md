@@ -5,12 +5,12 @@
 | Company | [Aurelian](https://scoutify.ai/companies/aurelian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/e61b6794-d899-4a9e-b5ac-5cba4419effd) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/c4a0d04e-56c3-483b-8286-da8fd3e71ae2) |
 
 ## About This Role
 
-This software engineer position at Aurelian was posted on 2026-04-27.
+This software engineer position at Aurelian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

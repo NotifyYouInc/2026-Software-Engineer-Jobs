@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Software-Engineer_R0241192) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Software-Engineer_R0241787) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-05-28.
+This software engineer position at Booz Allen was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

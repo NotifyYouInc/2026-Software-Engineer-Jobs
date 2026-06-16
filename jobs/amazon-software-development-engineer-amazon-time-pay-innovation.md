@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427781/software-development-engineer-amazon-time-pay-innovation) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416365/software-development-engineer-amazon-time-pay-innovation) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-22.
+This software engineer position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

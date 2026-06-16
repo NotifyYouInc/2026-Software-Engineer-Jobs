@@ -5,12 +5,12 @@
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Big-Data_P750004) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Big-Data_P750297-1) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-04-13.
+This software engineer position at Zillow was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Wuxi, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Software-Engineer_R0000373340) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Engineer_R0000375101) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-05-29.
+This software engineer position at Caterpillar was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

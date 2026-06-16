@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Technology-Lead-Analyst---Vice-President_26963420) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Applications-Development-Technology-Lead-Analyst---Vice-President_26967827) |
 
 ## About This Role
 

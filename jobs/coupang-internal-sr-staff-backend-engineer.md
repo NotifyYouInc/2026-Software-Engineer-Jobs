@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7921833?gh_jid=7921833) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7991838?gh_jid=7991838) |
 
 ## About This Role
 
-This software engineer position at Coupang Internal was posted on 2026-05-20.
+This software engineer position at Coupang Internal was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

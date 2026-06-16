@@ -1,16 +1,16 @@
-# Staff Engineer, Test Engineering - Product Development at Analog Devices
+# Staff Engineer, Test Engineering – Product Development at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Limerick, Munster, Ireland |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-Engineer--Test-Engineering---Product-Development_R262103) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Staff-Engineer--Test-Engineering---Product-Development_R263121) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-04-14.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Software-Engineer_1207825) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Software-Engineer_1207578-2) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-06-05.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

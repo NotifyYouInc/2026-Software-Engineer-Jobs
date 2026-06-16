@@ -5,12 +5,12 @@
 | Company | [Aurelian](https://scoutify.ai/companies/aurelian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/5cad3354-9ca3-4667-8a4b-3c4c489f7acc) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/16b937fd-2c63-4bec-a94c-1c588d814c37) |
 
 ## About This Role
 
-This devops engineer position at Aurelian was posted on 2026-04-27.
+This devops engineer position at Aurelian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

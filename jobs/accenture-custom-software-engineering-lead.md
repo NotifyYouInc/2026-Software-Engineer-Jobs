@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5303186-S1935630-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Robotics Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5595839-S2027837-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-05.
+This robotics engineer position at Accenture was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

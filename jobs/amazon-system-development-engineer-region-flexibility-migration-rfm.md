@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404674/system-development-engineer-region-flexibility-migration-rfm) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410040/system-development-engineer-region-flexibility-migration-rfm) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-28.
+This software engineer position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

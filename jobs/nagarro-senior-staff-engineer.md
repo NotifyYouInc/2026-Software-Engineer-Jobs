@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126000874-senior-staff-engineer) |
+| Location | Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130883879-senior-staff-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-05-12.
+This devops engineer position at Nagarro was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

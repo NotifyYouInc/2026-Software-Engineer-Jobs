@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Singapore-Office/Software-Engineer-II_R-106758) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Software-Engineer-II_R-108224) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-04-07.
+This ai / ml research position at MRI Software was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

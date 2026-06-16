@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-279916) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Software-Engineer_R-278174-1) |
 
 ## About This Role
 

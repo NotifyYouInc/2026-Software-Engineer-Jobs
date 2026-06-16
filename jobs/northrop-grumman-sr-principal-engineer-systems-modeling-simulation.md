@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Azusa, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Sr-Principal-Engineer-Systems-Modeling-Simulation_R10223870) |
+| Location | Melbourne, Florida, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Engineer-Systems-Modeling-Simulation_R10234841) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-19.
+This engineering manager position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

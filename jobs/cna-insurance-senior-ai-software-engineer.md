@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Senior-AI-Software-Engineer_R-7518) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Senior-AI-Software-Engineer_R-7607) |
 
 ## About This Role
 
-This ai / ml research position at CNA Insurance was posted on 2026-05-22.
+This ai / llm engineer position at CNA Insurance was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
