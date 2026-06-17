@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Principal-Software-Engineer_REQ258094-1) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Principal-Software-Engineer_REQ259690) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-06-09.
+This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

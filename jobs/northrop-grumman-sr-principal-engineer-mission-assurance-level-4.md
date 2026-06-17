@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chandler, Arizona, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Sr-Principal-Engineer-Mission-Assurance--Level-4-_R10225212) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Sr-Principal-Engineer-Mission-Assurance--Level-4-_R10234686-1) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-04-20.
+This engineering manager position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

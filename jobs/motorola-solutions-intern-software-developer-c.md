@@ -1,16 +1,16 @@
-# Intern Software Developer (C#) at Motorola Solutions
+# Intern Software Developer C# at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R61243) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-_R65499) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-05.
+This software engineer position at Motorola Solutions was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Hinjewadi-Ascendas/Java-Developer_JR1039989) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Java-Developer_JR1040323-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-06-09.
+This software engineer position at Synechron was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

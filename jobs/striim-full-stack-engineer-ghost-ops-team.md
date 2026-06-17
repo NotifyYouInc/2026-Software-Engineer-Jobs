@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striim](https://scoutify.ai/companies/striiminc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striiminc/jobs/5138411007) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striiminc/jobs/5159613007) |
 
 ## About This Role
 
-This software engineer position at Striim was posted on 2026-05-15.
+This software engineer position at Striim was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

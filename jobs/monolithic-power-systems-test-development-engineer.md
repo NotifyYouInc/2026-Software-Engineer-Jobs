@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malaysia |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Penang---Malaysia/Sr-Test-Development-Engineer_R-664) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Hsinchu---Taiwan/Test-Development-Engineer_R-1518) |
 
 ## About This Role
 
-This semiconductor / chip design position at Monolithic Power Systems was posted on 2026-05-08.
+This semiconductor / chip design position at Monolithic Power Systems was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

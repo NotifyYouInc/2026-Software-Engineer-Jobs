@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-022424-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-023261) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-04-16.
+This software engineer position at Avnet was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

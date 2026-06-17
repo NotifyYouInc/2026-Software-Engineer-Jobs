@@ -5,12 +5,12 @@
 | Company | [Lapel](https://scoutify.ai/companies/lapel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lapel/39b5e326-ca8b-40fe-9540-952450426048) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lapel/b213d089-85db-422a-8c67-0116f619950a) |
 
 ## About This Role
 
-This software engineer position at Lapel was posted on 2026-05-04.
+This software engineer position at Lapel was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Westborough, Massachusetts, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Design-Verification_2602168) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Principal-Engineer--Design-Verification_2602615-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-21.
+This semiconductor / chip design position at Marvell was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

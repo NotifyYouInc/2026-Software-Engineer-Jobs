@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000114893287-lead-software-engineer-full-stack) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131309109-lead-software-engineer-full-stack) |
 
 ## About This Role
 
-This frontend engineer position at Freshworks CRM was posted on 2026-03-16.
+This software engineer position at Freshworks CRM was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

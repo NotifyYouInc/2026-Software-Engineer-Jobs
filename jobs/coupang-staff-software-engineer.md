@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7912217) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7366755) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-05-29.
+This software engineer position at Coupang was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

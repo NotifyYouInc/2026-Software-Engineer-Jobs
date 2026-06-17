@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Software-Engineer_R20944) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Mobile Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Engineer_R19802) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-02-19.
+This mobile engineer position at Wex was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Engineer - Digital IC Design at Marvell
+# Principal Engineer, Digital IC Design at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pavia, Lombardy, Italy |
+| Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pavia-Italy/Principal-Engineer---Digital-IC-Design_2600875) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Digital-IC-Design_2602607) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-06-05.
+This semiconductor / chip design position at Marvell was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7865034) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7994869) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-05-18.
+This ai / llm engineer position at Coupang was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

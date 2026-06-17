@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124995379-senior-software-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Mobile Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131370244-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-05-06.
+This mobile engineer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

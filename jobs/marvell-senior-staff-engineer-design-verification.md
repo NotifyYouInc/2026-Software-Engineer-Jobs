@@ -1,16 +1,16 @@
-# Senior Staff Engineer - Design Verification at Marvell
+# Senior Staff Engineer, Design Verification at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Westborough, Massachusetts, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Senior-Staff-Engineer---Design-Verification_2601733) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602613-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-07.
+This semiconductor / chip design position at Marvell was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

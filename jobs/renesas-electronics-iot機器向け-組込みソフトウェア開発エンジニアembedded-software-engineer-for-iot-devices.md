@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kodaira, Tokyo, Japan |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128048833-iot-embedded-software-engineer-for-iot-devices) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131375586-iot-embedded-software-engineer-for-iot-devices) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Renesas Electronics was posted on 2026-05-25.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

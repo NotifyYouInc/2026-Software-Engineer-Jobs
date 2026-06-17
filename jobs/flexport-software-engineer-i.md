@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7839298?gh_jid=7839298) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7994960?gh_jid=7994960) |
 
 ## About This Role
 
-This software engineer position at Flexport was posted on 2026-04-23.
+This software engineer position at Flexport was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

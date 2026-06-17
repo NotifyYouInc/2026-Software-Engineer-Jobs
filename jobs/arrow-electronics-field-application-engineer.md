@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Austria |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/VN-HCM-Vietnam-Remote/Field-Application-Engineer_R241346) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/AT-Austria---Remote/Field-Application-Engineer_R243061) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-05-08.
+This software engineer position at Arrow Electronics was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

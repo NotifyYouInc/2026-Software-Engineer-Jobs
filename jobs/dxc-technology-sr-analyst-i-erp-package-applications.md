@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/QAT---DA---DOHA/Sr-Analyst-I-ERP-Package-Applications_51577379) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-I-ERP-Package-Applications_51578948) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-06.
+This software engineer position at DXC Technology was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

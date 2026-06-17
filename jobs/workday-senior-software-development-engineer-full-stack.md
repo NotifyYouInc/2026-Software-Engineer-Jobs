@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Software-Development-Engineer--Full-Stack-_JR-0105034) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Development-Engineer--Full-Stack-_JR-0107683) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-04-23.
+This software engineer position at Workday was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

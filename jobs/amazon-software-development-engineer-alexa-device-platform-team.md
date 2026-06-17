@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3202831/software-development-engineer-alexa-device-platform-team) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444179/software-development-engineer-alexa-device-platform-team) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-12.
+This embedded / firmware engineer position at Amazon was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Westborough, Massachusetts, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Senior-Principal-Engineer--Design-Verification_2600799) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Senior-Principal-Engineer--Design-Verification_2602610) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-24.
+This semiconductor / chip design position at Marvell was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
