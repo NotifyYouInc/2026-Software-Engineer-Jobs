@@ -5,12 +5,12 @@
 | Company | [Silvus Technologies](https://scoutify.ai/companies/silvus-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/silvus/jobs/5147168008) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/silvus/jobs/5254281008) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Silvus Technologies was posted on 2026-03-10.
+This embedded / firmware engineer position at Silvus Technologies was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

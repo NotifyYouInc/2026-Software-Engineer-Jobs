@@ -1,16 +1,16 @@
-# Software Development Engineer II, FinTech, FinTech at Amazon
+# Software Development Engineer II - FinTech, FinTech at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10377858/software-development-engineer-ii-fintech-fintech) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417622/software-development-engineer-ii-fintech-fintech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-27.
+This software engineer position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

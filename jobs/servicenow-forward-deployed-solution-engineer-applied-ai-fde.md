@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116702082-forward-deployed-solution-engineer-applied-ai-fde) |
+| Location | London, England, United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131534959-forward-deployed-solution-engineer-applied-ai-fde) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-03-25.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal-Engineer-Manufacturing_R10234532) |
+| Location | Sunnyvale, California, United States |
+| Category | Industrial Automation |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Engineer-Manufacturing_R10234347) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-06-01.
+This industrial automation position at Northrop Grumman was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

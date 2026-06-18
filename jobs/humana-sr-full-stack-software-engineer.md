@@ -1,16 +1,16 @@
-# Sr. Full Stack Software Engineer at Humana
+# Sr Full Stack Software Engineer at Humana
 
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kentucky, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Sr-Full-Stack-Software-Engineer_R-410929) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Sr-Full-Stack-Software-Engineer_R-418750) |
 
 ## About This Role
 
-This frontend engineer position at Humana was posted on 2026-03-26.
+This software engineer position at Humana was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

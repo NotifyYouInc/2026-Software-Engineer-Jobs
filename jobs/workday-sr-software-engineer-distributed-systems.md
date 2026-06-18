@@ -1,16 +1,16 @@
-# Sr Software Engineer (Distributed Systems) at Workday
+# Sr. Software Engineer (Distributed Systems) at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Sr-Software-Engineer--Distributed-Systems-_JR-0106560) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Software-Engineer--Distributed-Systems-_JR-0108061) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-04-17.
+This software engineer position at Workday was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Senior-Integration-Software-Engineer_R000063947-6) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Integration-Software-Engineer_R000064220-6) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-02-19.
+This software engineer position at Chevron was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

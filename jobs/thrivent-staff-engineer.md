@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Staff-Engineer_REQ-46991) |
+| Category | Software Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Staff-Engineer_REQ-47294) |
 
 ## About This Role
 
-This technical & solutions architect position at Thrivent was posted on 2026-06-03.
+This software engineer position at Thrivent was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

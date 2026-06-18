@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redwood City, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR344325) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR344278) |
 
 ## About This Role
 
-This devops engineer position at Salesforce was posted on 2026-06-03.
+This ai / ml research position at Salesforce was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

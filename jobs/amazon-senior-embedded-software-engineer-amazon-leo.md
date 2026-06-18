@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183393/senior-embedded-software-engineer-amazon-leo) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431862/senior-embedded-software-engineer-amazon-leo) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-02-18.
+This embedded / firmware engineer position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

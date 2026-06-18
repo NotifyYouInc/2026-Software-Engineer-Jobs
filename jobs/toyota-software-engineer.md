@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10299748) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10328391) |
 
 ## About This Role
 
-This software engineer position at Toyota was posted on 2026-06-04.
+This devops engineer position at Toyota was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

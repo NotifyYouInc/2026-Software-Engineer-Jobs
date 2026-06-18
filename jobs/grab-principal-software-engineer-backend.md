@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126734929-principal-software-engineer-backend) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131593679-principal-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-05-15.
+This software engineer position at Grab was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

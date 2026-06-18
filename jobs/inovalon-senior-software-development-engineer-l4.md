@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7685341003) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7702188003) |
 
 ## About This Role
 
-This frontend engineer position at Inovalon was posted on 2026-04-16.
+This software engineer position at Inovalon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

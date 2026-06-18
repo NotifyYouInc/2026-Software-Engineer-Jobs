@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4791658101) |
+| Category | Software Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4889000101) |
 
 ## About This Role
 
-This frontend engineer position at Neoris was posted on 2026-02-26.
+This software engineer position at Neoris was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

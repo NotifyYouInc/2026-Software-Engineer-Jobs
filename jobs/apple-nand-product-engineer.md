@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2025-09-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200622656/nand-product-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667734/nand-product-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2025-09-24.
+This semiconductor / chip design position at Apple was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

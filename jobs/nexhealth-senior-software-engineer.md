@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NexHealth](https://scoutify.ai/companies/nexhealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.nexhealth.com/careers/open-positions?gh_jid=6013397004) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.nexhealth.com/careers/open-positions?gh_jid=5546317004) |
 
 ## About This Role
 
-This software engineer position at NexHealth was posted on 2026-06-04.
+This software engineer position at NexHealth was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

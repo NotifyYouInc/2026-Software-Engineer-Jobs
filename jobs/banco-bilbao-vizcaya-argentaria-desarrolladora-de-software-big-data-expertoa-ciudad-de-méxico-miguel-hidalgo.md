@@ -1,16 +1,16 @@
-# Desarrollador/a de software big data experto/a (Ciudad de México, Miguel Hidalgo) at Banco Bilbao Vizcaya Argentaria
+# Desarrollador/a de Software Big Data Experto/a (Ciudad de México, Miguel Hidalgo) at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Desarrollador-a-de-software-big-data-experto-a--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00096752) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Desarrollador-a-de-Software-Big-Data-Experto-a--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00106456) |
 
 ## About This Role
 
-This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-23.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

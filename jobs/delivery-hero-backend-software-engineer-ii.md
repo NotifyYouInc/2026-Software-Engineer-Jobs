@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126903105-backend-software-engineer-ii) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131600203-backend-software-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-05-18.
+This software engineer position at Delivery Hero was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

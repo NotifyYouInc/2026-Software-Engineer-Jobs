@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5092677007?gh_jid=5092677007) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5161842007?gh_jid=5161842007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-03-30.
+This embedded / firmware engineer position at Anduril was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

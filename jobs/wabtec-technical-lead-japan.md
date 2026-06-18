@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013221711-technical-lead-japan) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013572206-technical-lead-japan) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-05-20.
+This engineering manager position at Wabtec was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

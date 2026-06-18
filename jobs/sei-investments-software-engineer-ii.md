@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---Chicago/Software-Engineer-II_R0036226) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---MA---Boston/Software-Engineer-II_R0036453) |
 
 ## About This Role
 
-This software engineer position at SEI Investments was posted on 2026-04-13.
+This software engineer position at SEI Investments was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

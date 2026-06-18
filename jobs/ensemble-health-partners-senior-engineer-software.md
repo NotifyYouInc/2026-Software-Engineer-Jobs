@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Engineer--Software_R045147) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Senior-Engineer--Software_R046643-1) |
 
 ## About This Role
 
-This software engineer position at Ensemble Health Partners was posted on 2026-06-01.
+This software engineer position at Ensemble Health Partners was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

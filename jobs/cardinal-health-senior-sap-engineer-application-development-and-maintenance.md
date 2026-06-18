@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-SAP-Engineer--Application-Development-and-Maintenance_20176437) |
+| Category | Software Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-SAP-Engineer--Application-Development-and-Maintenance_20181903) |
 
 ## About This Role
 
-This devops engineer position at Cardinal Health was posted on 2026-03-03.
+This software engineer position at Cardinal Health was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

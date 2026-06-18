@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | Motion / Video Production |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6001698004?gh_jid=6001698004) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6019216004?gh_jid=6019216004) |
 
 ## About This Role
 

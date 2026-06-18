@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeta Global](https://scoutify.ai/companies/zeta-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/6004789004) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/5671126004) |
 
 ## About This Role
 
-This software engineer position at Zeta Global was posted on 2026-05-22.
+This software engineer position at Zeta Global was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

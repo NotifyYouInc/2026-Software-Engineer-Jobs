@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127954489-engenheiro-de-software-senior) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131533799-engenheiro-de-software-senior) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-05-22.
+This software engineer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

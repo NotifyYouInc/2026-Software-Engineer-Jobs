@@ -1,16 +1,16 @@
-# Associate Software Engineer (Test & Verification) at Boeing
+# Associate Software Engineer – Test & Verification at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Hazelwood, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer--Test---Verification-_JR2026510763-2) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer---Test---Verification_JR2026511888-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-05-18.
+This software engineer position at Boeing was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

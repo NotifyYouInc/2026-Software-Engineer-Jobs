@@ -1,16 +1,16 @@
-# System Development Engineer, AFT - Platform Engineering & Services at Amazon
+# System Development Engineer, AFT Platform Engineering & Services at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444194/system-development-engineer-aft-platform-engineering-services) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445380/system-development-engineer-aft-platform-engineering-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-09.
+This software engineer position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

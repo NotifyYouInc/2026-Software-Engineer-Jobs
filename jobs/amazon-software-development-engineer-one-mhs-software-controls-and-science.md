@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439467/software-development-engineer-one-mhs-software-controls-and-science) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417163/software-development-engineer-one-mhs-software-controls-and-science) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-06-04.
+This industrial automation position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

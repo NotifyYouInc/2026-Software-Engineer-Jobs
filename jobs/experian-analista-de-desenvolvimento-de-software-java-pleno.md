@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Blumenau, Santa Catarina, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116679097-analista-de-desenvolvimento-de-software-java-pleno) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131527188-analista-de-desenvolvimento-de-software-java-pleno) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-25.
+This software engineer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

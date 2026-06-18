@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000117148908-ai-web-application-developer-intern-ida-00011) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000131584539-ai-web-application-developer-intern-ida-00011) |
 
 ## About This Role
 
-This software engineer position at Aumovio was posted on 2026-03-27.
+This ai / llm engineer position at Aumovio was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

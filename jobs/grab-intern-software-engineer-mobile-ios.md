@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Mobile Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126900779-intern-software-engineer-mobile-ios) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131510664-intern-software-engineer-mobile-ios) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-05-18.
+This mobile engineer position at Grab was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

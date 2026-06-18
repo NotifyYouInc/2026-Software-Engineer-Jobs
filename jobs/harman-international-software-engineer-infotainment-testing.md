@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Infotainment-Testing_R-53781-2026) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Infotainment-Testing_R-53779-2026) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-06-09.
+This software engineer position at HARMAN International was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

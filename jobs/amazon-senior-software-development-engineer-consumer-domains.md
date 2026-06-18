@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Newark, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415940/senior-software-development-engineer-consumer-domains) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431670/senior-software-development-engineer-consumer-domains) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-11.
+This software engineer position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

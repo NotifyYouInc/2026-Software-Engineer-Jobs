@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Newark, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Vice-President--Software-Engineer_26019259) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Vice-President--Software-Engineer_26020234) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-06-03.
+This software engineer position at Bank of America was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

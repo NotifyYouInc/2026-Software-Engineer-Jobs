@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124015760-analista-de-desenvolvimento-de-software-iii) |
+| Category | Frontend Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131529627-analista-de-desenvolvimento-de-software-iii) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-04-30.
+This frontend engineer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
