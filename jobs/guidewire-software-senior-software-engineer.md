@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Canada---Toronto/Senior-Software-Engineer_JR_14667-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Malaysia---Kuala-Lumpur/Senior-Software-Engineer_JR_14888) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-04-10.
+This software engineer position at Guidewire Software was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

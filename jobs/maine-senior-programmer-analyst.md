@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Senior-Programmer-Analyst_R26-02116) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Senior-Programmer-Analyst_R26-02391) |
 
 ## About This Role
 
-This software engineer position at Maine was posted on 2026-05-22.
+This software engineer position at Maine was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

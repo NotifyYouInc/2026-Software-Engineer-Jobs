@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Python-Developer---Vice-President_26944980-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Senior-Python-Developer---Vice-President_26964654) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-07.
+This software engineer position at Citigroup was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

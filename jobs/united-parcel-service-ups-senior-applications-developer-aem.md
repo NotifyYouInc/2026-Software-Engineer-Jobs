@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Applications-Developer---AEM_R26015551) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Applications-Developer---AEM_R26015542) |
 
 ## About This Role
 
-This software engineer position at United Parcel Service (UPS) was posted on 2026-06-01.
+This software engineer position at United Parcel Service (UPS) was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

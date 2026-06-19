@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7953040) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7994997) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-06-08.
+This software engineer position at Coupang was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

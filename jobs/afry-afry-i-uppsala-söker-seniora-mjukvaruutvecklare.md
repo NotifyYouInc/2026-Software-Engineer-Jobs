@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Uppsala, Uppsala, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000119079137-afry-i-uppsala-soker-seniora-mjukvaruutvecklare) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000131818790-afry-i-uppsala-soker-seniora-mjukvaruutvecklare) |
 
 ## About This Role
 
-This software engineer position at AFRY was posted on 2026-04-07.
+This software engineer position at AFRY was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Direct Supply](https://scoutify.ai/companies/directsupply?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Illinois, US |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Durham-NC/AI-Engineer_REQ-2026-2440) |
+| Apply | [View on company site](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Remote-Illinois/AI-Engineer_REQ-2026-2441) |
 
 ## About This Role
 

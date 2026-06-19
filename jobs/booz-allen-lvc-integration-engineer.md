@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | California, US |
 | Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Pendleton-CA/LVC-Integration-Engineer_R0239495-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Twenty-Nine-Palms-CA/LVC-Integration-Engineer_R0242342) |
 
 ## About This Role
 
-This engineering manager position at Booz Allen was posted on 2026-05-06.
+This engineering manager position at Booz Allen was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

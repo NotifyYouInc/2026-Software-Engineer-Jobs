@@ -1,16 +1,16 @@
-# Sr. Principal Application Engineer at Cadence Design Systems
+# Sr Principal Application Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Home, Washington, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Principal-Application-Engineer_R54935) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CO/Sr-Principal-Application-Engineer_R55110-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-04.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

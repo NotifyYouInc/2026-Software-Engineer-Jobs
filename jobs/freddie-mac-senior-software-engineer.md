@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Senior-Software-Engineer_JR17254) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Senior-Software-Engineer_JR17300) |
 
 ## About This Role
 
-This software engineer position at Freddie Mac was posted on 2026-05-21.
+This software engineer position at Freddie Mac was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

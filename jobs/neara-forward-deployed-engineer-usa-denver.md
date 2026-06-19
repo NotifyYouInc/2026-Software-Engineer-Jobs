@@ -5,12 +5,12 @@
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/e9a06a0d-0760-468c-be31-9e35c7de54fb) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/09aa69c3-7015-43dc-8fc0-edcab5f4345d) |
 
 ## About This Role
 
-This software engineer position at Neara was posted on 2026-04-16.
+This software engineer position at Neara was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

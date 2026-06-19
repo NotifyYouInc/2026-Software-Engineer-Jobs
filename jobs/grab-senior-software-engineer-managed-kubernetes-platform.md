@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000123599959-senior-software-engineer-managed-kubernetes-platform) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131804769-senior-software-engineer-managed-kubernetes-platform) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-29.
+This software engineer position at Grab was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

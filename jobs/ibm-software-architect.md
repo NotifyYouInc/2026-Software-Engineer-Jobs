@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94838) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119760) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-24.
+This technical & solutions architect position at IBM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

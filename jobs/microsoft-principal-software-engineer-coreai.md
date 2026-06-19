@@ -1,16 +1,16 @@
-# Principal Software Engineer - CoreAI at Microsoft
+# Principal Software Engineer, CoreAI at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556825169) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874647) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-26.
+This software engineer position at Microsoft was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

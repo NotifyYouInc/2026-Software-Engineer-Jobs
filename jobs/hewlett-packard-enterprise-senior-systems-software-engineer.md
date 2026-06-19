@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1206239) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1206247-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-05-29.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

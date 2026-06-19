@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7776) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR8137) |
 
 ## About This Role
 
-This software engineer position at CTBC Financial Holding was posted on 2026-05-18.
+This software engineer position at CTBC Financial Holding was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | Talent Acquisition / Recruiting |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376636/senior-executive-search-researcher-principal-engineer-recruiting) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376634/senior-executive-search-researcher-principal-engineer-recruiting) |
 
 ## About This Role
 

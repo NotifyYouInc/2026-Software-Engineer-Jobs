@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Angular-Developer_26958020) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Angular-Developer_26970462) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-05-12.
+This frontend engineer position at Citigroup was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

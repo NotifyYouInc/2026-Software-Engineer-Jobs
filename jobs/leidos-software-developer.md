@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Odenton, Maryland, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Software-Developer_R-00184816) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Developer_R-00185315) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-04.
+This software engineer position at Leidos was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Developer-ServiceNow at IBM
+# Application Developer ServiceNow at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102202) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119852) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-25.
+This software engineer position at IBM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

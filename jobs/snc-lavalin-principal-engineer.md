@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/SNC-Lavalin-Atkins-Pune-Office/Principal-Engineer_R-156618) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBelfast---The-Vantage/Principal-Engineer_R-157659) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-06-08.
+This engineering manager position at SNC-Lavalin was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000126025960-tech-lead-energy-storage-hf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000131823059-tech-lead-energy-storage-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-12.
+This software engineer position at ALTEN Canada was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

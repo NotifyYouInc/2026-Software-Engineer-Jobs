@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Woodland Hills, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Software-Engineer--C---and-TS-Clearance-_R10226268) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Software-Engineer--C---and-TS-Clearance-_R10236134) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-17.
+This software engineer position at Northrop Grumman was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

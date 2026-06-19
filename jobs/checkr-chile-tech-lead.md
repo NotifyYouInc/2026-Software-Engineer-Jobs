@@ -5,12 +5,12 @@
 | Company | [Checkr - Chile](https://scoutify.ai/companies/checkr-chile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chile/jobs/7592307) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chile/jobs/7958664) |
 
 ## About This Role
 
-This software engineer position at Checkr - Chile was posted on 2026-02-05.
+This software engineer position at Checkr - Chile was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

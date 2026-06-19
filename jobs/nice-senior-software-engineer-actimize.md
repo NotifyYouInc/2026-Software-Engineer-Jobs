@@ -1,16 +1,16 @@
-# Senior Software Engineer - Actimize at NiCE
+# Senior Software Engineer, Actimize at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4819874101?gh_jid=4819874101) |
+| Location | Santa Clara, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4895975101?gh_jid=4895975101) |
 
 ## About This Role
 
-This frontend engineer position at NiCE was posted on 2026-04-03.
+This software engineer position at NiCE was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

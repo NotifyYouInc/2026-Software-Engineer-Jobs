@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6001694004?gh_jid=6001694004) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6020649004?gh_jid=6020649004) |
 
 ## About This Role
 

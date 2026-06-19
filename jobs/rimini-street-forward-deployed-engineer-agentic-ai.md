@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Singapore/Forward-Deployed-Engineer--Agentic-AI-_R-102255) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Forward-Deployed-Engineer--Agentic-AI-_R-102260) |
 
 ## About This Role
 
-This ai / ml research position at Rimini Street was posted on 2026-06-09.
+This ai / ml research position at Rimini Street was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

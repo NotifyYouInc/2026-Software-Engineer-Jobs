@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aaon](https://scoutify.ai/companies/aaon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Longview, Texas, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Longview-TX/CNC-Programmer-I_JR101548) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Memphis-TN/CNC-Programmer-I_JR102385) |
 
 ## About This Role
 
-This industrial automation position at Aaon was posted on 2026-04-06.
+This industrial automation position at Aaon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

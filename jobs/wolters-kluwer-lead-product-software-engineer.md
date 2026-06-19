@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Product-Software-Engineer_R0055217) |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Product-Software-Engineer_R0057755) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-06-09.
+This software engineer position at Wolters Kluwer was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

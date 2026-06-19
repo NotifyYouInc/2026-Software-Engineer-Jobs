@@ -1,16 +1,16 @@
-# Sr Software Development Engineer at Workday
+# Sr. Software Development Engineer at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Development-Engineer_JR-0106565) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Software-Development-Engineer_JR-0108085) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-05-01.
+This software engineer position at Workday was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

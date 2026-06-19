@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2012326) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Nvidia was posted on 2026-03-13.
+This embedded / firmware engineer position at Nvidia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
