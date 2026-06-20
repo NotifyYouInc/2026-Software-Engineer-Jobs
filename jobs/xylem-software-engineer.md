@@ -5,12 +5,12 @@
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Morrisville, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville---Davis-Drive/Software-Engineer_R46386) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville---Davis-Drive/Software-Engineer_R48327) |
 
 ## About This Role
 
-This software engineer position at Xylem was posted on 2026-02-24.
+This software engineer position at Xylem was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

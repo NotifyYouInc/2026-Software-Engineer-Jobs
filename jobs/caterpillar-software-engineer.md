@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | Virginia Beach, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Engineer_R0000375101) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Virginia-Beach-Virginia/Software-Engineer_R0000376140) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-06-09.
+This software engineer position at Caterpillar was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

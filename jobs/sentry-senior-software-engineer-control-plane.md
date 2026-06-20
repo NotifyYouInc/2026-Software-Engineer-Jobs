@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentry](https://scoutify.ai/companies/sentry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/8422d476-7977-4ae0-bdaf-e5fba73fca44) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/59176120-b457-487e-80fe-f1bb1a97d686) |
 
 ## About This Role
 
-This software engineer position at Sentry was posted on 2026-04-09.
+This software engineer position at Sentry was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

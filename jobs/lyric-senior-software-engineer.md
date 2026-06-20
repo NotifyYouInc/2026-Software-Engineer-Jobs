@@ -5,12 +5,12 @@
 | Company | [Lyric](https://scoutify.ai/companies/lyric?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Software-Engineer_JR811) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Software-Engineer_JR848) |
 
 ## About This Role
 
-This software engineer position at Lyric was posted on 2026-04-28.
+This software engineer position at Lyric was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Full-Stack-Developer_R-0000167175-1) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Full-Stack-Developer_R-0000175645-1) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-04-24.
+This software engineer position at Royal Bank of Canada was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

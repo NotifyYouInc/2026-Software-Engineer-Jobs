@@ -1,16 +1,16 @@
-# Software Development Engineer , Sponsored Products and Brands at Amazon
+# Software Development Engineer, Sponsored Products and Brands at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3185733/software-development-engineer-sponsored-products-and-brands) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448306/software-development-engineer-sponsored-products-and-brands) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-20.
+This software engineer position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

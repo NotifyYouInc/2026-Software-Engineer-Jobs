@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381965/senior-recruiter-principal-engineer-recruiting-pe-recruiting) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447918/senior-recruiter-principal-engineer-recruiting-pe-recruiting) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-04-02.
+This talent acquisition / recruiting position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

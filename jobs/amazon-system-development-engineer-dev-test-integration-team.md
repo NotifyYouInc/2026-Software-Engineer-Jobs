@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416579/system-development-engineer-dev-test-integration-team) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420177/system-development-engineer-dev-test-integration-team) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-05-11.
+This embedded / firmware engineer position at Amazon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Porto Alegre, Rio Grande do Sul, Brazil |
+| Location | Montréal, Quebec, Canada |
 | Category | Motion / Video Production |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6019216004?gh_jid=6019216004) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6026829004?gh_jid=6026829004) |
 
 ## About This Role
 
-This motion / video production position at Epic Games was posted on 2026-06-10.
+This motion / video production position at Epic Games was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

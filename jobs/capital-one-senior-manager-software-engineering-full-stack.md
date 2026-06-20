@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Plano, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Manager--Software-Engineering--Full-Stack_R236438-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Software-Engineering--Full-Stack_R244479-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-02-20.
+This engineering manager position at Capital One was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

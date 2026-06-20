@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Manassas-VA/TAK-Developer_R0241546) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/TAK-Developer_R0242139) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-06-05.
+This software engineer position at Booz Allen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

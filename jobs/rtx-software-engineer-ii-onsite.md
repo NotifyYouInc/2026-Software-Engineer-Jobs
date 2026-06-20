@@ -1,16 +1,16 @@
-# Software Engineer II, Onsite at RTX
+# Software Engineer II (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Cedar Rapids, Iowa, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineer-II--Onsite_01841927-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-II--Onsite-_01851417) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-29.
+This software engineer position at RTX was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3187733/software-development-engineer-ii-fintech) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447725/software-development-engineer-ii-fintech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-24.
+This software engineer position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

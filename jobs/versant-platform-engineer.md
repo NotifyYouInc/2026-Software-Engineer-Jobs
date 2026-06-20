@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000125002172-platform-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131965793-platform-engineer) |
 
 ## About This Role
 
-This software engineer position at Versant was posted on 2026-05-07.
+This software engineer position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

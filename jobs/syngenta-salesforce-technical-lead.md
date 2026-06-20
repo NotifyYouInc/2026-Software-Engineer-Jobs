@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127961978-salesforce-technical-lead) |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000131987839-salesforce-technical-lead) |
 
 ## About This Role
 
-This engineering manager position at Syngenta was posted on 2026-05-22.
+This software engineer position at Syngenta was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

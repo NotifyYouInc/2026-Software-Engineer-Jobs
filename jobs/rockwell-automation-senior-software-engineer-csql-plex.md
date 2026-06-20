@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Software-Engineer--C--SQL----Plex_R26-1558) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Software-Engineer--C--SQL----Plex_R26-3126) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-04-30.
+This software engineer position at Rockwell Automation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

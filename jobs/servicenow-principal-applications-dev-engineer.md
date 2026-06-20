@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129106705-principal-applications-dev-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131943959-principal-applications-dev-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-05-29.
+This software engineer position at ServiceNow was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

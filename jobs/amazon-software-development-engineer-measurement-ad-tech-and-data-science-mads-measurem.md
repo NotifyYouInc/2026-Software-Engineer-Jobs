@@ -1,16 +1,16 @@
-# Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS), Measurement, Ad Tech, and Data Science (MADS) at Amazon
+# Software Development Engineer, , Measurement, Ad Tech, and Data Science (MADS), Measurement, Ad Tech, and Data Science (MADS) at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404093/software-development-engineer-measurement-ad-tech-and-data-science-mads-measurement-ad-tech-and-data-science-mads) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447915/software-development-engineer-measurement-ad-tech-and-data-science-mads-measurement-ad-tech-and-data-science-mads) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-27.
+This software engineer position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

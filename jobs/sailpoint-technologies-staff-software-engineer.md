@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Staff-Software-Engineer_R013603-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Pune-India/Staff-Software-Engineer_R013496) |
 
 ## About This Role
 
-This software engineer position at SailPoint Technologies was posted on 2026-06-10.
+This software engineer position at SailPoint Technologies was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer---Guidance-Navigation-Controls_R10233915) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer---Guidance-Navigation-Controls_R10236272) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-05-21.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

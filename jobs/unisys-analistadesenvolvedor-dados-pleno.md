@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Brazil/Analista-Desenvolvedor-Dados-Pleno_REQ570686) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Brazil/Analista-Desenvolvedor-Dados-Pleno_REQ572969) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-02-24.
+This software engineer position at Unisys was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

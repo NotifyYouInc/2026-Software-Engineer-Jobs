@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Virginia, US |
 | Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/AI-Software-Engineer---Level-3-or-4_R10227724) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/AI-Software-Engineer---Level-3-or-4_R10236253) |
 
 ## About This Role
 
-This ai / ml research position at Northrop Grumman was posted on 2026-03-30.
+This ai / ml research position at Northrop Grumman was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

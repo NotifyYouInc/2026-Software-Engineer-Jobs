@@ -5,12 +5,12 @@
 | Company | [April](https://scoutify.ai/companies/april?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/april/eeb8f204-ef0f-4a01-a92b-f5e9e3dd909e) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/april/808159d1-ee75-4553-bc5b-a29d2f7731ac) |
 
 ## About This Role
 
-This software engineer position at April was posted on 2026-04-30.
+This software engineer position at April was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

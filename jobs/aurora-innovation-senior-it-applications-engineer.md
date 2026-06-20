@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aurora Innovation](https://scoutify.ai/companies/aurora-innovation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://aurora.tech/jobs/8581223002?gh_jid=8581223002) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://aurora.tech/jobs/8590102002?gh_jid=8590102002) |
 
 ## About This Role
 
-This software engineer position at Aurora Innovation was posted on 2026-06-10.
+This software engineer position at Aurora Innovation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

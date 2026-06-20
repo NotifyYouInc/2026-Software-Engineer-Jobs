@@ -1,16 +1,16 @@
-# Software Engineer II / Senior Software Engineer at Microsoft
+# Software Engineer II & Senior Software Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556629433) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874927) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-04-16.
+This software engineer position at Microsoft was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

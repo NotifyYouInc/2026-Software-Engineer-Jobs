@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Senior-Software-Engineer_JR-02515544-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Senior-Software-Engineer_JR-02559131) |
 
 ## About This Role
 
-This software engineer position at Lowe's was posted on 2026-05-20.
+This software engineer position at Lowe's was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

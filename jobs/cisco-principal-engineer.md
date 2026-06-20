@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Principal-Engineer_2010219-1) |
+| Location | San Jose, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Principal-Engineer_2016275) |
 
 ## About This Role
 
-This ai / ml research position at Cisco was posted on 2026-05-16.
+This engineering manager position at Cisco was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Dev Engineer II at Amazon
+# Software Dev Engineer-II at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386843/software-dev-engineer-ii) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448363/software-dev-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-09.
+This software engineer position at Amazon was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

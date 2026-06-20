@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Westlake, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Full-Stack-Engineer_2127728) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Full-Stack-Engineer_2130631-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-06-01.
+This software engineer position at Fidelity was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431665/software-development-engineer-shopping-personalization-ai-amazon-stores) |
+| Category | AI / ML Research |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419792/software-development-engineer-shopping-personalization-ai-amazon-stores) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-05-27.
+This ai / ml research position at Amazon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

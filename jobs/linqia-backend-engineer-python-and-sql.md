@@ -5,12 +5,12 @@
 | Company | [Linqia](https://scoutify.ai/companies/linqia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8579610002?gh_jid=8579610002) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8590415002?gh_jid=8590415002) |
 
 ## About This Role
 
-This software engineer position at Linqia was posted on 2026-06-04.
+This software engineer position at Linqia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineering-Architect_JR342821) |
+| Location | Norway |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Norway---Remote/Software-Engineering-Architect_JR346198) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-15.
+This software engineer position at Salesforce was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
