@@ -1,16 +1,16 @@
-# Cloud & AI Engineer at IBM
+# Senior Software Engineer (Sustaining Automation) at Chainguard
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Canada |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4688557006) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-13.
+This ai / llm engineer position at Chainguard was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

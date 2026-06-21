@@ -1,16 +1,16 @@
-# Cloud & AI Engineer at IBM
+# Staff Engineer, Agentic Intelligence - San Francisco at Homevision
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Homevision](https://scoutify.ai/companies/homevision?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/homevision/e66cdbbf-586c-42c4-966f-e1492b7b4c0b) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-13.
+This ai / llm engineer position at Homevision was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

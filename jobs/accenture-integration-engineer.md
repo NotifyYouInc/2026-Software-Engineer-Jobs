@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5620543-S2029261-1) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Integration-Engineer_R00336438) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-12.
+This software engineer position at Accenture was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

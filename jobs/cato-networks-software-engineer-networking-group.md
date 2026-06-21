@@ -1,16 +1,16 @@
-# .NET Software Engineer at Sutherland
+# Software Engineer – Networking Group at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000132037113-net-software-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4895403101?gh_jid=4895403101) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-06-13.
+This software engineer position at Cato Networks was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

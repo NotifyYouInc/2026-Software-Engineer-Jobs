@@ -1,16 +1,16 @@
-# Apprentice, Software Development/Engineering at S&P Global
+# Software Engineer (Must Have Java + Outsystems/ServiceNow) at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Software-Development-Engineering_329859-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001152001-software-engineer-must-have-java-outsystemsservicenow) |
 
 ## About This Role
 
-This software engineer position at S&P Global was posted on 2026-06-13.
+This software engineer position at NCS was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

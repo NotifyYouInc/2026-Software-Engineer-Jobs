@@ -1,16 +1,16 @@
-# Apprentice, Software Development/Engineering at S&P Global
+# Software Engineer (Mid to Sr Levels) at Nomic
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Company | [Nomic](https://scoutify.ai/companies/nomic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Canada |
 | Category | Software Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Software-Development-Engineering_329859-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nomic/68392c82-bf4f-459a-b216-edcdaa7e34ef) |
 
 ## About This Role
 
-This software engineer position at S&P Global was posted on 2026-06-13.
+This software engineer position at Nomic was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
