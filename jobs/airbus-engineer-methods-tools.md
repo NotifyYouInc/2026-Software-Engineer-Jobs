@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Engineer--Methods---Tools_JR10392098-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Engineer--Methods---Tools_JR10415292-1) |
 
 ## About This Role
 
-This frontend engineer position at Airbus was posted on 2026-03-18.
+This software engineer position at Airbus was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-055740-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-057905-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-04-02.
+This software engineer position at Red Hat was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

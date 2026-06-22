@@ -1,16 +1,16 @@
-# IT Engineer at Micron
+# IT ENGINEER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/IT-Engineer_JR96281) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/IT-ENGINEER_JR98008) |
 
 ## About This Role
 
-This it & systems administration position at Micron was posted on 2026-06-11.
+This it & systems administration position at Micron was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ontario, CA |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7714237) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7996770) |
 
 ## About This Role
 
-This frontend engineer position at Twilio was posted on 2026-03-13.
+This software engineer position at Twilio was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

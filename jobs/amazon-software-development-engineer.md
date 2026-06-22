@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | East Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431179/software-development-engineer) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421839/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-27.
+This software engineer position at Amazon was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

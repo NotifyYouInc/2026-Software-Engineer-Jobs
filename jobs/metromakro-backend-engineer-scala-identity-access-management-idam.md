@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Braşov, Brașov County, Romania |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000126716508-backend-engineer-scala-identity-access-management-idam) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000132130980-backend-engineer-scala-identity-access-management-idam) |
 
 ## About This Role
 
-This software engineer position at METRO/MAKRO was posted on 2026-05-15.
+This software engineer position at METRO/MAKRO was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
