@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381958/software-development-engineer-ii-seller-partner-services-tech) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435465/software-development-engineer-ii-seller-partner-services-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-02.
+This software engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

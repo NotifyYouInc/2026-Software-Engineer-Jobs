@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128186601-senior-software-engineer-in-test) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000132330490-senior-software-engineer-in-test) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-05-25.
+This software engineer position at Grab was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

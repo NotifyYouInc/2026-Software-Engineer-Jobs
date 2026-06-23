@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413231/software-development-engineer-web-emerging-modalities-prime-video) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449200/software-development-engineer-web-emerging-modalities-prime-video) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-07.
+This software engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

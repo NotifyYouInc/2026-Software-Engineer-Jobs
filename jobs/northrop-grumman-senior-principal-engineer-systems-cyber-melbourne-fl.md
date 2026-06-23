@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/FLME226/Senior-Principal-Engineer-Systems---Cyber--Melbourne-FL-_R10235038) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/FLME226/Senior-Principal-Engineer-Systems---Cyber--Melbourne-FL-_R10236436) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-03.
+This security engineer position at Northrop Grumman was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

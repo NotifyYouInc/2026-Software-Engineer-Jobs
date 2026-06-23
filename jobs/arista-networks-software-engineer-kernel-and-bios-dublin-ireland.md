@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127727230-software-engineer-kernel-and-bios-dublin-ireland) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000132172950-software-engineer-kernel-and-bios-dublin-ireland) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-05-21.
+This software engineer position at Arista Networks was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

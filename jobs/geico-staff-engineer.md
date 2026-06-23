@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Staff-Engineer_R0063613) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Staff-Engineer_R0063824-1) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-04-24.
+This software engineer position at Geico was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

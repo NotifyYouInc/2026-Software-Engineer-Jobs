@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Free Balance](https://scoutify.ai/companies/free-balance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Managua, Managua Department, Nicaragua |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.lever.co/freebalance.com/65d38f9c-aeca-4078-b3ea-304b9b71b0d1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.lever.co/freebalance.com/a3a06be9-78df-4a70-9e51-c8e46dc315d7) |
 
 ## About This Role
 
-This software engineer position at Free Balance was posted on 2026-05-30.
+This software engineer position at Free Balance was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

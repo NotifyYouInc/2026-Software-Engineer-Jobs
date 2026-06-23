@@ -1,16 +1,16 @@
-# Sr. Synon Developer at Endava
+# Sr. Synon Developer  at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117382965-sr-synon-developer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132263359-sr-synon-developer) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-03-27.
+This software engineer position at Endava was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

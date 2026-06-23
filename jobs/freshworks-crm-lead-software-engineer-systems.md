@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131313745-lead-software-engineer-systems) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000132330590-lead-software-engineer-systems) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-06-10.
+This software engineer position at Freshworks CRM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

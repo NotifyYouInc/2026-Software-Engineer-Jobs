@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-056544-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Senior-Software-Engineer_R-057967-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-04-23.
+This software engineer position at Red Hat was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

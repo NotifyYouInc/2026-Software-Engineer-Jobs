@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | East Palo Alto, California, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421839/software-development-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436399/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-16.
+This software engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

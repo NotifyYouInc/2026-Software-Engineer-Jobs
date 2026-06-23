@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Staff-Software-Engineer_REQ259545-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Software-Engineer_REQ260080) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-06-15.
+This software engineer position at Commonwealth Bank of Australia was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ostrava, Moravskoslezský, Czechia |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Product-Specialist_JR00026761) |
+| Category | Industrial Automation |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Product-Specialist_JR00038574) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-04-01.
+This industrial automation position at ABB was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

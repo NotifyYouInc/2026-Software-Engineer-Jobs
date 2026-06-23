@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Frederick, Maryland, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Principal-Engineer---Autonomy_R45075) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Principal-Engineer---Autonomy_R47412) |
 
 ## About This Role
 
-This robotics engineer position at Oshkosh was posted on 2026-04-01.
+This embedded / firmware engineer position at Oshkosh was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

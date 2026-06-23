@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Richardson-909-E-Collins-Blvd/Angular-Front-End-Developer---Hybrid---Scottsdale--AZ-or-Richardson--TX_R0839113-1) |
+| Location | Dallas, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Dallas/Software-Development-Engineer_R0907448) |
 
 ## About This Role
 
-This frontend engineer position at CVS Health was posted on 2026-06-12.
+This software engineer position at CVS Health was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

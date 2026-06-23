@@ -1,16 +1,16 @@
-# Engineer- Methods & Tools at Airbus
+# Engineer - Methods & Tools at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Engineer--Methods---Tools_JR10415292-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Engineer---Methods---Tools_JR10420124-1) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-06-15.
+This software engineer position at Airbus was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

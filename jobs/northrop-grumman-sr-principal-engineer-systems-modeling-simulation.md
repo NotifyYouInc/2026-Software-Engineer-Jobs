@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Florida, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Engineer-Systems-Modeling-Simulation_R10234841) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Engineer-Systems-Modeling-Simulation_R10233774) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-06-09.
+This engineering manager position at Northrop Grumman was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

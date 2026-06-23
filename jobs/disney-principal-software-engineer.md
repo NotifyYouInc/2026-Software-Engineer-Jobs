@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Principal-Software-Engineer_10145230) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Principal-Software-Engineer_10149993-2) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-05-19.
+This software engineer position at Disney was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

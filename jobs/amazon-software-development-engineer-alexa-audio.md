@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407221/software-development-engineer-alexa-audio) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436002/software-development-engineer-alexa-audio) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-29.
+This software engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

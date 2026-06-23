@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckadOSA-_w3MMax4hSCQ-U_hn4IvzTvthP1Tx1ZBY1yT1EjsACxwdTPjLEkysnkPTi-WiKb9JGDpnLn1oMOGwwRG_KDvNY_DZj0tlwI1JKBGglbvyuuv099Sewv8OVQ%3D%3D_V2&loc=GB&title=Staff+Forward+Deployed+Engineer) |
+| Location | 3 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfHsv48bGghdgdJvNLYdBCD8ne_H6DWCQgXQV6UAGg1zEjsA1Ny_i_RLXIDgo_ub2Z3An-UWIWOw53sziv8s9FBt5Ii-NCosLvkTxAuLC2wLIVhCl-7CHGSSdrB-Nw%3D%3D_V2&loc=PL&title=Staff+Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-24.
+This ai / ml research position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

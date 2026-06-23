@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Applications-Development-Technology-Lead-Analyst---Vice-President_26967827) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Applications-Development-Technology-Lead-Analyst---Vice-President_26967654-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-08.
+This software engineer position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

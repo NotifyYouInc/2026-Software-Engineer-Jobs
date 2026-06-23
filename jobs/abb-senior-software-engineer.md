@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Senior-Software-Engineer_JR00027951) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Software-Engineer_JR00035150) |
 
 ## About This Role
 
-This engineering manager position at ABB was posted on 2026-03-10.
+This software engineer position at ABB was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

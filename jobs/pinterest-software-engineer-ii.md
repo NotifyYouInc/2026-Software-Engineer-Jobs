@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7848208) |
+| Location | California, US |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7958766) |
 
 ## About This Role
 
-This frontend engineer position at Pinterest was posted on 2026-04-24.
+This software engineer position at Pinterest was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

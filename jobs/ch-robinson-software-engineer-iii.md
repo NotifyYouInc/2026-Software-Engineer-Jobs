@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Minnesota, US |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Software-Engineer-III_R47747) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Software-Engineer-III_R48382) |
 
 ## About This Role
 
-This software engineer position at C.H. Robinson was posted on 2026-04-09.
+This software engineer position at C.H. Robinson was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

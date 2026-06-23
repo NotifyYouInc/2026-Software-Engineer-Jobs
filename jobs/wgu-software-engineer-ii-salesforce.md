@@ -1,16 +1,16 @@
-# Software Engineer II- Salesforce at WGU
+# Software Engineer II - Salesforce at WGU
 
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-II--Salesforce_JR-025178) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-II---Salesforce_JR-025417) |
 
 ## About This Role
 
-This software engineer position at WGU was posted on 2026-05-19.
+This software engineer position at WGU was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

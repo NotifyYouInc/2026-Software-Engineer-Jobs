@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Essex Junction, Vermont, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Principal-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2602412) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Principal-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2602418) |
 
 ## About This Role
 
-This semiconductor / chip design position at GlobalFoundries was posted on 2026-06-12.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Software-Engineer_R-546691) |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-551728) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-06-08.
+This software engineer position at Wells Fargo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

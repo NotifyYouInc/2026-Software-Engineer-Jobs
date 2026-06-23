@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Engineer-Reliability_R10226389) |
+| Location | Melbourne, Florida, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Engineer-Reliability_R10233770) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-03-24.
+This engineering manager position at Northrop Grumman was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

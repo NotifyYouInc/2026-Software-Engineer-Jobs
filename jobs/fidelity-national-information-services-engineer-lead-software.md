@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Engineer-Lead--Software_JR0306943) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Engineer-Lead--Software_JR0306957-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity National Information Services was posted on 2026-05-20.
+This software engineer position at Fidelity National Information Services was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer_R202675956) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Sr-Software-Engineer_R202678659) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-04-17.
+This software engineer position at Cox was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

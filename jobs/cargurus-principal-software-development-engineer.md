@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CarGurus](https://scoutify.ai/companies/cargurus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.cargurus.com/us/en/job/7791850?gh_jid=7791850) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.cargurus.com/us/en/job/8007784?gh_jid=8007784) |
 
 ## About This Role
 
-This software engineer position at CarGurus was posted on 2026-04-23.
+This software engineer position at CarGurus was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

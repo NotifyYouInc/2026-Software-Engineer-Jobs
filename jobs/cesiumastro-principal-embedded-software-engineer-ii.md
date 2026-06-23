@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [CesiumAstro](https://scoutify.ai/companies/CesiumAstro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Florida, United States |
+| Company | [CesiumAstro](https://scoutify.ai/companies/cesiumastro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/1125b6d3-41d9-4c4f-8430-63c406454442) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/8261179d-8c1f-4d1b-9e26-ad63210f865c) |
 
 ## About This Role
 
-This embedded / firmware engineer position at CesiumAstro was posted on 2026-03-27.
+This embedded / firmware engineer position at CesiumAstro was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

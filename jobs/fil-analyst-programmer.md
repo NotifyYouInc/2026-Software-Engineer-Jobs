@@ -1,16 +1,16 @@
-# Analyst Programmer at Fil
+# ANALYST PROGRAMMER at Fil
 
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Analyst-Programmer---PL-SQL-Developer_J65234) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/ANALYST-PROGRAMMER_J68640-1) |
 
 ## About This Role
 
-This software engineer position at Fil was posted on 2026-04-28.
+This software engineer position at Fil was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

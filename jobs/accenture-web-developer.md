@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Web-Developer_ATCI-5523155-S2012605-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Web-Developer_ATCI-5231878-S2029765) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-22.
+This software engineer position at Accenture was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

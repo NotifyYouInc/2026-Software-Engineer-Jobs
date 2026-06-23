@@ -1,16 +1,16 @@
-# Analista de Desenvolvimento de Software Sênior at Experian
+# Analista de desenvolvimento de software Sênior at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131528545-analista-de-desenvolvimento-de-software-senior) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132292649-analista-de-desenvolvimento-de-software-senior) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-10.
+This software engineer position at Experian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

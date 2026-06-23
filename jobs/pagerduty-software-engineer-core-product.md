@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PagerDuty](https://scoutify.ai/companies/pagerduty?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/5987780004) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/6030951004) |
 
 ## About This Role
 
-This software engineer position at PagerDuty was posted on 2026-05-08.
+This software engineer position at PagerDuty was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

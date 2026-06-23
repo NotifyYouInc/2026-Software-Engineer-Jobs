@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, England, United Kingdom |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Virginia-United-States/Software-Developer_R0040019) |
+| Location | Alabama, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Alabama-United-States/Software-Developer_R0044325) |
 
 ## About This Role
 
-This frontend engineer position at Harris Computer was posted on 2026-03-05.
+This software engineer position at Harris Computer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

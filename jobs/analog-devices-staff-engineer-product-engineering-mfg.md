@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Product-Engineering--Mfg-_R262001) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Staff-Engineer--Product-Engineering--Mfg-_R263243) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-29.
+This semiconductor / chip design position at Analog Devices was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Porto Alegre, Rio Grande do Sul, Brazil |
-| Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7938959?gh_jid=7938959) |
+| Location | Quito, Pichincha, Ecuador |
+| Category | Software Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8008781?gh_jid=8008781) |
 
 ## About This Role
 
-This engineering manager position at Thoughtworks was posted on 2026-05-21.
+This software engineer position at Thoughtworks was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
