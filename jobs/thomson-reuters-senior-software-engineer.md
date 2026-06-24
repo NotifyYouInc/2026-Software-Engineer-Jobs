@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sri-Lanka-Colombo/Senior-Software-Engineer_JREQ200025) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Software-Engineer_JREQ201421) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-04-22.
+This software engineer position at Thomson Reuters was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

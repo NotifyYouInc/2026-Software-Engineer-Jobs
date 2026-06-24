@@ -5,12 +5,12 @@
 | Company | [Arrowstreet Capital](https://scoutify.ai/companies/arrowstreetcapital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Senior-Software-Engineer--Investment-Systems_R1457) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Senior-Software-Engineer--Investment-Systems_R1492-3) |
 
 ## About This Role
 
-This software engineer position at Arrowstreet Capital was posted on 2026-03-11.
+This software engineer position at Arrowstreet Capital was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

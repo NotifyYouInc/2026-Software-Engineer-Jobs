@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Accounting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419335/software-development-engineer-software-defined-network-controller-amazon-leo) |
+| Category | Software Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423058/software-development-engineer-software-defined-network-controller-amazon-leo) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-05-13.
+This software engineer position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

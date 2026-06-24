@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Markham, Ontario, Canada |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111538) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120734) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-28.
+This software engineer position at IBM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

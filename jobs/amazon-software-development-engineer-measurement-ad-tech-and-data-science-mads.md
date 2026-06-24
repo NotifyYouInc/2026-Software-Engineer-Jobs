@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406304/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451123/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-29.
+This software engineer position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

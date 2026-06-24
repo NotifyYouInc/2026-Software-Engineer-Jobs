@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Engineer--Software_REQ351487-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Engineer--Software_REQ360082) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-04-24.
+This software engineer position at T-Mobile was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer Level 2/3 at Northrop Grumman
+# Software Engineer - Level 2/3 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Engineer-Level-2-3_R10235968) |
+| Location | Colorado Springs, Colorado, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-DevOps-Engineer---Level-2-3_R10236589) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-11.
+This devops engineer position at Northrop Grumman was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

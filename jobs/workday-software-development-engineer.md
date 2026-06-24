@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Software-Development-Engineer_JR-0104752) |
+| Location | Pleasanton, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735) |
 
 ## About This Role
 
-This frontend engineer position at Workday was posted on 2026-03-06.
+This software engineer position at Workday was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

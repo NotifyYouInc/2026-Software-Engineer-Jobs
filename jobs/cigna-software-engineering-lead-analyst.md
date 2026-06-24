@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Software-Engineering-Lead-Analyst_26006809) |
+| Category | Engineering Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Software-Engineering-Lead-Analyst_26006522-1) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-06-15.
+This engineering manager position at Cigna was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

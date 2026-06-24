@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429619/software-dev-engineer-ii-eu-intech-partner-growth-experience-eu-intech-partner-growth-experience) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436877/software-dev-engineer-ii-eu-intech-partner-growth-experience-eu-intech-partner-growth-experience) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-05-26.
+This ai / llm engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

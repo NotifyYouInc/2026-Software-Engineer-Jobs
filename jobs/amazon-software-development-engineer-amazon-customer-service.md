@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433619/software-development-engineer-amazon-customer-service) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450676/software-development-engineer-amazon-customer-service) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-28.
+This software engineer position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

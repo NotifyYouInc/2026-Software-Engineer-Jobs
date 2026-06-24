@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | National Capital Region, PH |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Systems-Analyst_JR00120067) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Systems-Analyst_JR00124760-1) |
 
 ## About This Role
 
-This software engineer position at Sun Life Financial was posted on 2026-02-25.
+This software engineer position at Sun Life Financial was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

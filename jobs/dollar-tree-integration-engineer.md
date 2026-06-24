@@ -5,12 +5,12 @@
 | Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Integration-Engineer_R-271276) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Integration-Engineer_R-279503-1) |
 
 ## About This Role
 
-This software engineer position at Dollar Tree was posted on 2026-06-05.
+This software engineer position at Dollar Tree was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

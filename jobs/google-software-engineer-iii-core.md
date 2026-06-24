@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93110857419891398-software-engineer-iii-core?sort_by=date&page=1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYL0vZbzY5CqMlOwBJjiA-MwGwg4JM5xQzuD3gkX1kCjEjsA1Ny_i7OdQDPkj0h6sSNFVaccUdt6HFtXkpaqJxE6zWuzqDM-VFV-ZU1csICG_JVTdvoH97exA5FXDA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-06.
+This software engineer position at Google was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

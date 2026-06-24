@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430911/software-development-engineer-ads-campaign-management) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423051/software-development-engineer-ads-campaign-management) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-26.
+This software engineer position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

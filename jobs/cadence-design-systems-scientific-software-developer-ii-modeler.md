@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-01/Scientific-Software-Developer-II---Modeler_R55132-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-04.
+This software engineer position at Cadence Design Systems was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

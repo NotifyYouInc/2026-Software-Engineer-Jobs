@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434159/software-development-engineer-data-platform-prime-video-personalization-discovery) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437831/software-development-engineer-data-platform-prime-video-personalization-discovery) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-29.
+This software engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

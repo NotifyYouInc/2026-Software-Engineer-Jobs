@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424662/software-development-engineer-conversational-ads-experience) |
+| Category | Software Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437313/software-development-engineer-conversational-ads-experience) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-20.
+This software engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

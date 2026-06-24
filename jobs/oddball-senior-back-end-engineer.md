@@ -5,12 +5,12 @@
 | Company | [Oddball](https://scoutify.ai/companies/oddball?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7775271003) |
 
 ## About This Role
 
-This software engineer position at Oddball was posted on 2026-06-01.
+This software engineer position at Oddball was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

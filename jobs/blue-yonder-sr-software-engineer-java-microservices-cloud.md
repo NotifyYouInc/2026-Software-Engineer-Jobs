@@ -1,16 +1,16 @@
-# Sr Software Engineer  - Java, Microservices & Cloud at Blue Yonder
+# Sr Software Engineer - Java, Microservices & Cloud at Blue Yonder
 
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Software-Engineer----Java--Microservices---Cloud_254764) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Software-Engineer---Java--Microservices---Cloud_261765) |
 
 ## About This Role
 
-This software engineer position at Blue Yonder was posted on 2026-04-06.
+This software engineer position at Blue Yonder was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

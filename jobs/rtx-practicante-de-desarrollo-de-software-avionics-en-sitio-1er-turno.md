@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexicali, Baja California, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Practicante-de-Desarrollo-de-Software---Avionics-En-Sitio---1er-turno_01843050) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Practicante-de-Desarrollo-de-Software---Avionics-En-Sitio---1er-turno_01841787-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-04.
+This software engineer position at RTX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

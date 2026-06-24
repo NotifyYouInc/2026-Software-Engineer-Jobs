@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Auto-TechLabs/Lead-Software-Engineer_JR2025132809-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/AutoNation-Finance/Lead-Software-Engineer_JR2026143561) |
 
 ## About This Role
 
-This software engineer position at AutoNation was posted on 2026-04-21.
+This software engineer position at AutoNation was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

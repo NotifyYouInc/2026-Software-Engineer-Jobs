@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443013/software-development-engineer-alexa-excellence) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437840/software-development-engineer-alexa-excellence) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-08.
+This software engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

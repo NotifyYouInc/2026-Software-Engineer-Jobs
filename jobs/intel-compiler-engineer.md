@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Compiler-Engineer_JR0283702) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineer_JR0282391) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-05.
+This software engineer position at Intel was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

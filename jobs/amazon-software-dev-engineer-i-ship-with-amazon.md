@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373086/software-dev-engineer-i-ship-with-amazon) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416862/software-dev-engineer-i-ship-with-amazon) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-23.
+This software engineer position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Addison, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Assistant-Vice-President--Software-Engineer_26008634) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Addison/Assistant-Vice-President--Software-Engineer_26020871-1) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-03-11.
+This software engineer position at Bank of America was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

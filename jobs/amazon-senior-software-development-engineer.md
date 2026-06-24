@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442855/senior-software-development-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438036/senior-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-08.
+This software engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

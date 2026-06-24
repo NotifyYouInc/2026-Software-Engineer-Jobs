@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Pennsylvania-Pittsburgh/Senior-Software-Development-Engineer_R01129994) |
+| Location | Dublin, Leinster, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IR-Dublin/Senior-Software-Development-Engineer_R01131293) |
 
 ## About This Role
 
-This software engineer position at Solventum was posted on 2026-05-07.
+This devops engineer position at Solventum was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

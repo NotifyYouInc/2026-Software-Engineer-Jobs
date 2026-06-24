@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8525373002?gh_jid=8525373002) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8586637002?gh_jid=8586637002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-04-29.
+This software engineer position at SpaceX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

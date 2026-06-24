@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8413465002) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8593964002) |
 
 ## About This Role
 
-This software engineer position at Appnovation Technologies was posted on 2026-02-09.
+This software engineer position at Appnovation Technologies was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

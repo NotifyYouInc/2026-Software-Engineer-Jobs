@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fort Wayne, Indiana, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Senior-Software-Engineer---Space-and-RF-Sensors--Onsite-_01846461) |
+| Category | Software Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Senior-Software-Engineer---Space-and-RF-Sensors--Onsite-_01853203) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-05-19.
+This software engineer position at RTX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

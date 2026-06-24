@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | South San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5798665004) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6026757004) |
 
 ## About This Role
 
-This software engineer position at Natera was posted on 2026-02-14.
+This software engineer position at Natera was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
