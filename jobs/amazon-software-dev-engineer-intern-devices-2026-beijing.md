@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376727/software-dev-engineer-intern-devices-2026-beijing) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-26.
+This software engineer position at Amazon was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

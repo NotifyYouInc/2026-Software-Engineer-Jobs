@@ -1,16 +1,16 @@
-# Software Development Engineer - Apps,  Enterprise Technology Services at Apple
+# Software Development Engineer - Apps, Enterprise Technology Services  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-09-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200621587/software-development-engineer-apps-enterprise-technology-services) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657795/software-development-engineer-apps-enterprise-technology-services) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-09-23.
+This software engineer position at Apple was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

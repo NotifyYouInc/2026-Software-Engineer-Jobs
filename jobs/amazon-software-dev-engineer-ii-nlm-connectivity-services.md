@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441566/software-dev-engineer-ii-nlm-connectivity-services) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439311/software-dev-engineer-ii-nlm-connectivity-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-05.
+This software engineer position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

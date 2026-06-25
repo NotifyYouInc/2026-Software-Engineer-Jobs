@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2025-11-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200630327/graphics-fe-integration-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657687/graphics-fe-integration-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Apple was posted on 2025-11-10.
+This semiconductor / chip design position at Apple was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

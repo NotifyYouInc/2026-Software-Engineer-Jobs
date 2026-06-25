@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2025-09-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200622371/camera-embedded-software-engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662403/camera-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2025-09-23.
+This embedded / firmware engineer position at Apple was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

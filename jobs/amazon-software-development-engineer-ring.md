@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423038/software-development-engineer-ring) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411168/software-development-engineer-ring) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-18.
+This software engineer position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

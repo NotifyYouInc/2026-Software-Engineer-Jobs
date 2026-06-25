@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3188859/software-development-ii-risk-management-system) |
+| Category | Software Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423635/software-development-ii-risk-management-system) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-02-25.
+This software engineer position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

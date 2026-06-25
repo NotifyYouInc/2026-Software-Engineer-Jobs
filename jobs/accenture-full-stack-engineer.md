@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Full-Stack-Engineer_R00331689) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Full-Stack-Engineer_ATCI-5394496-S2030024-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-17.
+This software engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

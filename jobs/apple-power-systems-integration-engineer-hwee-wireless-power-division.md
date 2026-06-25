@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2024-07-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200556851/power-systems-integration-engineer-hwee-wireless-power-division) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663266/power-systems-integration-engineer-hwee-wireless-power-division) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2024-07-01.
+This electrical / hardware engineer position at Apple was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

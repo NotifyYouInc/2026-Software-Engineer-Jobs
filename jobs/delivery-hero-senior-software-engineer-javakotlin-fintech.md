@@ -1,16 +1,16 @@
-# Senior Software Engineer, Java/Kotlin - (Fintech) at Delivery Hero
+# Senior Software Engineer (Java/Kotlin) - Fintech at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107560306-senior-software-engineer-javakotlin-fintech) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132777235-senior-software-engineer-javakotlin-fintech) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-02-05.
+This software engineer position at Delivery Hero was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

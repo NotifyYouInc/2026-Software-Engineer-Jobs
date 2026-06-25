@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-09-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200622667/gpu-performance-modeling-driver-engineer) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660064/gpu-performance-modeling-driver-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-09-24.
+This software engineer position at Apple was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

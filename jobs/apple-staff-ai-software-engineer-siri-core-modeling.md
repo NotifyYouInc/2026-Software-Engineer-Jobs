@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648320-0836/staff-ai-software-engineer-siri-core-modeling?team=SFTWR) |
+| Location | Not specified |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200661622/staff-ai-software-engineer-siri-core-modeling) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-24.
+This ai / llm engineer position at Apple was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

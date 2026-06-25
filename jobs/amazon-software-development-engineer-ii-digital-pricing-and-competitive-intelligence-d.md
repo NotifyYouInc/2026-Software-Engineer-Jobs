@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Product Marketing |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424933/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration) |
+| Category | Software Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411914/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration) |
 
 ## About This Role
 
-This product marketing position at Amazon was posted on 2026-05-20.
+This software engineer position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

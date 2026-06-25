@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643641-0157/senior-software-engineer-enterprise-technology-services?team=SFTWR) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664502/senior-software-engineer-enterprise-technology-services) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-07.
+This software engineer position at Apple was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

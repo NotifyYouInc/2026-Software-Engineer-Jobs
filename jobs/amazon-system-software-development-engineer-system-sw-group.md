@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Haifa, Haifa, Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389189/system-software-development-engineer-system-sw-group) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423984/system-software-development-engineer-system-sw-group) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-12.
+This software engineer position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200609109/core-audio-software-engineer-audio-media-technologies) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646856/core-audio-software-engineer-audio-media-technologies) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-06-12.
+This software engineer position at Apple was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

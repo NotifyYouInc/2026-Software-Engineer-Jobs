@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200641174/software-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659431/software-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-09.
+This software engineer position at Apple was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

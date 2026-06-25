@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429742/software-development-engineer-ii-global-logistics-global-logistics) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410307/software-development-engineer-ii-global-logistics-global-logistics) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-26.
+This software engineer position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

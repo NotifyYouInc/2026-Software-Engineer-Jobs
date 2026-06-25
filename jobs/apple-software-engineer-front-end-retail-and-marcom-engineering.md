@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Not specified |
 | Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645744-0157/software-engineer-front-end-retail-and-marcom-engineering?team=SFTWR) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667258/software-engineer-front-end-retail-and-marcom-engineering) |
 
 ## About This Role
 
-This frontend engineer position at Apple was posted on 2026-03-04.
+This frontend engineer position at Apple was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

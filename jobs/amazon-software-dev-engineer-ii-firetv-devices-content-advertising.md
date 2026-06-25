@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397522/software-dev-engineer-ii-firetv-devices-content-advertising) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409350/software-dev-engineer-ii-firetv-devices-content-advertising) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-21.
+This software engineer position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

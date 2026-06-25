@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3193748/software-development-engineer-affs-amazon) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425596/software-development-engineer-affs-amazon) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-03.
+This software engineer position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

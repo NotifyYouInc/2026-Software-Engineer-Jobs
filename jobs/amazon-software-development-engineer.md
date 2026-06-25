@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450820/software-development-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452413/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-16.
+This software engineer position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

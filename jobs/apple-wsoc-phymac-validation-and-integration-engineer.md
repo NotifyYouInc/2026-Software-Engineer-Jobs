@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2025-10-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200628386/wsoc-phy-mac-validation-and-integration-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657586/wsoc-phy-mac-validation-and-integration-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2025-10-27.
+This embedded / firmware engineer position at Apple was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

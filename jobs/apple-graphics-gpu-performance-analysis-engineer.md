@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-11-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200629673/graphics-gpu-performance-analysis-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657599/graphics-gpu-performance-analysis-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-11-04.
+This software engineer position at Apple was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
