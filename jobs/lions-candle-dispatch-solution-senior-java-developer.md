@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000130628059-senior-java-developer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000133001511-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-06.
+This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

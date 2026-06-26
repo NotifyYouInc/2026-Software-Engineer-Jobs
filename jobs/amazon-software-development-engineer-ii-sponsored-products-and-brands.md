@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428850/software-development-engineer-ii-sponsored-products-and-brands) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440399/software-development-engineer-ii-sponsored-products-and-brands) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-23.
+This software engineer position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

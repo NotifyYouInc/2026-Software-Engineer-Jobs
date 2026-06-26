@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5068784007?gh_jid=5068784007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-05-29.
+This software engineer position at Anduril was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

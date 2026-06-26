@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438214/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440184/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-03.
+This software engineer position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

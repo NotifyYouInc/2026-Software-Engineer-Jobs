@@ -5,12 +5,12 @@
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Baroda, Madhya Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Baroda-India-Office/Software-Engineer-III---Net--VueJs-Angular----Baroda_R-108257) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Baroda-India-Office/Software-Engineer-III---Net--VueJs-Angular----Baroda_R-108262) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-06-15.
+This software engineer position at MRI Software was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183392/software-development-engineer-alexa-endpoint-experiences) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412587/software-development-engineer-alexa-endpoint-experiences) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-18.
+This software engineer position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

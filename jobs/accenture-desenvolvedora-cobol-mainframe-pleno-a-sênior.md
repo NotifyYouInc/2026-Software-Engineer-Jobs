@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Desenvolvedor-a--COBOL--Mainframe----Pleno-a-Snior_R00324741-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Analista-Jr-Pleno-Mainframe-Cobol_R00277940) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-10.
+This software engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

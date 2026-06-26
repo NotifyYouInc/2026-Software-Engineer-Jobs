@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malvern, Arkansas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineering-Technical-Lead---II_178855) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_177958) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-06-15.
+This technical & solutions architect position at Vanguard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

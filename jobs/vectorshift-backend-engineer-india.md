@@ -5,12 +5,12 @@
 | Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/KYrMe2a-backend-engineer-india) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/fOnABbt-backend-engineer-india) |
 
 ## About This Role
 
-This software engineer position at VectorShift was posted on 2026-05-24.
+This software engineer position at VectorShift was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

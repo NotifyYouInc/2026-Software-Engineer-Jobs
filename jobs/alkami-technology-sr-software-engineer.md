@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Software-Engineer_JR-000610) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/India-Home-Office---Gurugram/Sr-Software-Engineer_JR-000601-2) |
 
 ## About This Role
 
-This software engineer position at Alkami Technology was posted on 2026-04-10.
+This software engineer position at Alkami Technology was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Gradial](https://scoutify.ai/companies/gradial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4245924009) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4290693009) |
 
 ## About This Role
 
-This software engineer position at Gradial was posted on 2026-05-11.
+This software engineer position at Gradial was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

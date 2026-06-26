@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439388/software-development-engineer-alexa-international-tech) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439906/software-development-engineer-alexa-international-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-03.
+This software engineer position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
