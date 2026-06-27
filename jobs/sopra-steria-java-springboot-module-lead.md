@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125747969-java-springboot-module-lead) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133055081-java-springboot-module-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-11.
+This software engineer position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

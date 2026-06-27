@@ -1,12 +1,12 @@
-# Senior Software Engineer at Eurofins Scientific
+# Senior Software engineer at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133000811-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133030764-senior-software-engineer) |
 
 ## About This Role
 

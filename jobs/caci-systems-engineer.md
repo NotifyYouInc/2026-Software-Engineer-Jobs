@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-PA-Philadelphia/Systems-Engineer_324383) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Systems-Engineer_327991) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-04-03.
+This software engineer position at CACI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

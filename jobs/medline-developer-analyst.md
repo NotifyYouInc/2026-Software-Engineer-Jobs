@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Northbrook, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Developer-Analyst_R2605907) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Developer-Analyst_R2517547-1) |
 
 ## About This Role
 
-This software engineer position at Medline was posted on 2026-03-23.
+This software engineer position at Medline was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

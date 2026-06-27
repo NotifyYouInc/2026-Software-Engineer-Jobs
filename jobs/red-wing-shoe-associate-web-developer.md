@@ -6,7 +6,7 @@
 | Location | Red Wing, Minnesota, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000132982620-associate-web-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000133065894-associate-web-developer) |
 
 ## About This Role
 

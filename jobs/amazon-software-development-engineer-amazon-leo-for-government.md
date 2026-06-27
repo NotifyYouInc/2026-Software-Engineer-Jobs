@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446853/software-development-engineer-amazon-leo-for-government) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436232/software-development-engineer-amazon-leo-for-government) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-11.
+This software engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

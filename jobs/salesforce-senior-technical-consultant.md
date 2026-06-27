@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant_JR329862) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant_JR347355) |
 
 ## About This Role
 
-This technology / it consulting position at Salesforce was posted on 2026-02-17.
+This customer success position at Salesforce was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

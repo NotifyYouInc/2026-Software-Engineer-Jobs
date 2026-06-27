@@ -1,16 +1,16 @@
-# Senior Full Stack Developer at Citigroup
+# Senior Full-Stack Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Full-Stack-Developer_26937364) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Senior-Full-Stack-Developer_26969183) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-02-26.
+This software engineer position at Citigroup was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

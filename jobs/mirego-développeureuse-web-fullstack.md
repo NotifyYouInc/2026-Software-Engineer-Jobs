@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/1029fce5-f8b2-4881-b46b-1ceea2df2b8c) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/45e8c933-6fd6-4a35-bbc4-cf7bb1cb0929) |
 
 ## About This Role
 
-This software engineer position at Mirego was posted on 2026-05-29.
+This software engineer position at Mirego was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

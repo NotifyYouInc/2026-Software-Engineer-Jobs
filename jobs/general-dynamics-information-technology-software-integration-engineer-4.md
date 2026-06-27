@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Integration-Engineer-4_RQ218387-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Integration-Engineer-4_RQ222636-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-04-14.
+This software engineer position at General Dynamics Information Technology was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kanata, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-II_R000105068) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-II_R000105177) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-05-27.
+This software engineer position at Warner Bros Discovery was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

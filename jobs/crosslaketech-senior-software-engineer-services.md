@@ -5,12 +5,12 @@
 | Company | [Crosslaketech](https://scoutify.ai/companies/crosslaketech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.lever.co/crosslaketech/6fcea202-4fe1-44ca-a465-b225ab98854f) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.lever.co/crosslaketech/ef8cbdbc-fb77-43bf-a229-dc94d27c50c6) |
 
 ## About This Role
 
-This software engineer position at Crosslaketech was posted on 2026-05-02.
+This software engineer position at Crosslaketech was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

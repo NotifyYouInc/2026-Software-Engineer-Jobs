@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3193744/software-development-engineer-global-warehouse) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454333/software-development-engineer-global-warehouse) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-03.
+This software engineer position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

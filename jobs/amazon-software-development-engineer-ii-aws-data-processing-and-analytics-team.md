@@ -1,16 +1,16 @@
-# Software Development Engineer II, AWS Data Processing and Analytics team at Amazon
+# Software Development Engineer - II, AWS Data Processing and Analytics team at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | East Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442322/software-development-engineer-ii-aws-data-processing-and-analytics-team) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454327/software-development-engineer-ii-aws-data-processing-and-analytics-team) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-08.
+This software engineer position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

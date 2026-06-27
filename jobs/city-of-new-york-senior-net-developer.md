@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012822406-senior-net-developer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013701726-senior-net-developer) |
 
 ## About This Role
 
-This software engineer position at City of New York was posted on 2026-04-25.
+This software engineer position at City of New York was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

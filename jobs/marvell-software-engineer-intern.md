@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502344) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502346) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Marvell was posted on 2026-06-05.
+This embedded / firmware engineer position at Marvell was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

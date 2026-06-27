@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | The Hague, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4868437101) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4903464101) |
 
 ## About This Role
 
-This software engineer position at Spektrum was posted on 2026-05-15.
+This software engineer position at Spektrum was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Aberdeen Proving Ground, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineer_326943) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Software-Engineer_327998) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-05-27.
+This software engineer position at CACI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

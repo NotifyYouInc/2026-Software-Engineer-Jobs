@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Ontario, CA |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-NE-Remote/Senior-Staff-Software-Engineer_JR112713) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Ontario-Remote/Staff-Software-Engineer_JR112011) |
 
 ## About This Role
 
-This software engineer position at ServiceTitan was posted on 2026-06-10.
+This software engineer position at ServiceTitan was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

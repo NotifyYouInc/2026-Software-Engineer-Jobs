@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR339822) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver-Metro---Remote/Software-Engineering-SMTS_JR343396) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-06-11.
+This software engineer position at Salesforce was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

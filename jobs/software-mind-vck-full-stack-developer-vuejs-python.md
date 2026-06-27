@@ -1,16 +1,16 @@
-# [VCK] Full Stack Developer - Vue.js / Python  at Software Mind
+# [VCK] Full Stack Developer (Vue.js + Python)  at Software Mind
 
 | Field | Details |
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131979139-vck-full-stack-developer-vuejs-python) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133089029-vck-full-stack-developer-vuejs-python) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-06-12.
+This software engineer position at Software Mind was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_177958) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_177960) |
 
 ## About This Role
 
-This technical & solutions architect position at Vanguard was posted on 2026-06-19.
+This software engineer position at Vanguard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

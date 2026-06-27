@@ -1,16 +1,16 @@
-#  Full Stack Engineer, Billing at Stripe
+# Full Stack Engineer, Billing at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7737239) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=6786324) |
 
 ## About This Role
 
-This frontend engineer position at Stripe was posted on 2026-03-20.
+This software engineer position at Stripe was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

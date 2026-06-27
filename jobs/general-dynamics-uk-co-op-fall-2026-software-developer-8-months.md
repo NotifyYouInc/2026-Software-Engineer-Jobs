@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Cole Harbour, Nova Scotia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000124175589-co-op-fall-2026-software-developer-8-months) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000133102941-co-op-fall-2026-software-developer-8-months) |
 
 ## About This Role
 
-This software engineer position at General Dynamics UK was posted on 2026-05-01.
+This software engineer position at General Dynamics UK was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
