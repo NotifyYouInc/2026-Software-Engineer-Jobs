@@ -6,7 +6,7 @@
 | Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Power-Platform-Developer-Digital-Integration-Advisory-Kolkata_738423WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Power-Platform-Developer-Digital-Integration-Advisory-Kolkata_738422WD-1) |
 
 ## About This Role
 

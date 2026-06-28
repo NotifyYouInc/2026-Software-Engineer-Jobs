@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Springfield, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Software-Developer_RQ221491) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/Senior-Software-Developer_RQ222763-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-06-06.
+This software engineer position at General Dynamics Information Technology was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

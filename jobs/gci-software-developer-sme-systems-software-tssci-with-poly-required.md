@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Virginia, US |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=4393ac76-e097-4e67-9748-ada89acd310d) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=53edbcb5-9fbf-43b1-ae10-7c499a31c420) |
 
 ## About This Role
 
-This software engineer position at GCI was posted on 2026-06-04.
+This software engineer position at GCI was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

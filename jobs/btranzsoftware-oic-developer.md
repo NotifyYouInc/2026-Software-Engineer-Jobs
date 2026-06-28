@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000113356057-oic-developer) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000133219304-oic-developer) |
 
 ## About This Role
 
-This software engineer position at btranzsoftware was posted on 2026-03-08.
+This software engineer position at btranzsoftware was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

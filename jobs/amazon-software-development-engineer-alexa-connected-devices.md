@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440295/software-development-engineer-alexa-connected-devices) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428608/software-development-engineer-alexa-connected-devices) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-04.
+This software engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

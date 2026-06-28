@@ -6,7 +6,7 @@
 | Location | The Hague, South Holland, The Netherlands |
 | Category | Software Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4903464101) |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4903746101) |
 
 ## About This Role
 

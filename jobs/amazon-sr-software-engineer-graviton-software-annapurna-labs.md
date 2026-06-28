@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3188864/sr-software-engineer-graviton-software-annapurna-labs) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10401493/sr-software-engineer-graviton-software-annapurna-labs) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-25.
+This software engineer position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

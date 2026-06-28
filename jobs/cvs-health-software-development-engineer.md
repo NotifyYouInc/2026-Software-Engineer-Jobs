@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Dallas/Software-Development-Engineer_R0907448) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Software-Development-Engineer_R0942499) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-15.
+This software engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

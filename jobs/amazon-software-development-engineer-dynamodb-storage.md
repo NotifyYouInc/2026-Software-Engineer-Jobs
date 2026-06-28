@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440556/software-development-engineer-dynamodb-storage) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441531/software-development-engineer-dynamodb-storage) |
 
 ## About This Role
 

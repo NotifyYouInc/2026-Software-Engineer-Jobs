@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440063/systems-development-engineer-ii-aws-commerce-platform-adc) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428569/systems-development-engineer-ii-aws-commerce-platform-adc) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-04.
+This software engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

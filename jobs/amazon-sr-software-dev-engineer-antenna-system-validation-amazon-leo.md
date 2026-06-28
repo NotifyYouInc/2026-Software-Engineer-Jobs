@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449368/sr-software-dev-engineer-antenna-system-validation-amazon-leo) |
+| Category | Software Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428387/sr-software-dev-engineer-antenna-system-validation-amazon-leo) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-06-15.
+This software engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

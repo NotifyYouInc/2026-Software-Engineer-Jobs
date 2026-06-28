@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422457/sde-ii-machine-learning-translation-services) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428302/sde-ii-machine-learning-translation-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-18.
+This software engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418099/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428389/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-13.
+This software engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
