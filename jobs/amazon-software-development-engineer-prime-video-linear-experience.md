@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441175/software-development-engineer-prime-video-linear-experience) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441179/software-development-engineer-prime-video-linear-experience) |
 
 ## About This Role
 

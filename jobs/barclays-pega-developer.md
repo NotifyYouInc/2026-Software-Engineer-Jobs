@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Pega-Developer_JR-0000105636) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Pega-Developer_JR-0000112284) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-05-25.
+This software engineer position at Barclays was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

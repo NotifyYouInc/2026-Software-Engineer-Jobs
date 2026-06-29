@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Neuilly-sur-Seine, Île-de-France, France |
+| Location | Mont-de-Marsan, Nouvelle-Aquitaine, France |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000128405649-developpeur-java-senior-hf) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000133282228-developpeur-java-senior-hf) |
 
 ## About This Role
 
-This software engineer position at Scalian was posted on 2026-05-26.
+This software engineer position at Scalian was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Échirolles, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127135254-integrateurtrice-hf) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133283309-integrateurtrice-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-05-19.
+This software engineer position at ALTEN was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

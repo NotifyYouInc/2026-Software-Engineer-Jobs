@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113245716-tech-lead-java-fullstack-reactangular-services-financiers-lille) |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133278954-tech-lead-java-fullstack-reactangular-services-financiers-lille) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-03-06.
+This software engineer position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

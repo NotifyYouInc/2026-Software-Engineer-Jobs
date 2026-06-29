@@ -1,16 +1,16 @@
-# Senior C# Developer - Assistant Vice President at Citigroup
+# Senior C++ Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Senior-C--Developer---Assistant-Vice-President_26941645) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-C---Developer---Assistant-Vice-President_26969523-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-27.
+This software engineer position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

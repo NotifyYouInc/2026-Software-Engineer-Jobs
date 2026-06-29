@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130724488-developpeurse-java-services-financiers-lille) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133278528-developpeurse-java-services-financiers-lille) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-08.
+This software engineer position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Global-Software-Support-Engineer_R2619144) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Global-Software-Support-Engineer_R2622236) |
 
 ## About This Role
 
-This technical support engineer position at Applied Materials was posted on 2026-05-27.
+This software engineer position at Applied Materials was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

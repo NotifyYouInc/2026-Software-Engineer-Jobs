@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Software-Engineer---DEX-Automation---Engineering_110127-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Riyadh/Software-Engineer--DEX_111737) |
 
 ## About This Role
 
-This software engineer position at Gartner was posted on 2026-05-25.
+This software engineer position at Gartner was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

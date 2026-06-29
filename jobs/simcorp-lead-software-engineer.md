@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SimCorp](https://scoutify.ai/companies/simcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Noida/Lead-Software-Engineer_R-211277) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Hyderabad/Lead-Net-Developer-for-Artificial-Intelligence-Team_R-210789-1) |
 
 ## About This Role
 
-This software engineer position at SimCorp was posted on 2026-04-26.
+This software engineer position at SimCorp was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
