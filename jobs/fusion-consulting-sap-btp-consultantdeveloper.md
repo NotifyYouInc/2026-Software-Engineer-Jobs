@@ -5,12 +5,12 @@
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000133228529-sap-btp-consultantdeveloper) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000133356580-sap-btp-consultantdeveloper) |
 
 ## About This Role
 
-This software engineer position at Fusion Consulting was posted on 2026-06-21.
+This software engineer position at Fusion Consulting was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

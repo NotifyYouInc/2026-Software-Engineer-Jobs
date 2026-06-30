@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043) |
 
 ## About This Role
 
-This software engineer position at Harvey was posted on 2026-05-01.
+This software engineer position at Harvey was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

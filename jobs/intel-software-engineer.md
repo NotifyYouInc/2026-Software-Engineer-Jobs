@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer_JR0283729) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer_JR0285009) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-14.
+This software engineer position at Intel was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

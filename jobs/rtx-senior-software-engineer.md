@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McKinney, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Senior-Software-Engineer_01850582-1) |
+| Location | 2 locations |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Senior-Software-Engineer_01854190) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-05.
+This offensive security & pentesting position at RTX was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

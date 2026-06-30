@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Portland, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Staff-Software-Development-Engineer_R21469) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Senior-Software-Development-Engineer_R22052) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-04-30.
+This software engineer position at Wex was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

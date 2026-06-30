@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Senior-Software-Consultant_R0034371) |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Senior-Software-Consultant_R0034374) |
 
 ## About This Role
 
-This technology / it consulting position at Epiqsystems was posted on 2026-06-02.
+This software engineer position at Epiqsystems was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

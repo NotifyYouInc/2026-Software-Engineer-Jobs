@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397035/sap-plant-maintenance-functional-project-leo) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10455953/sap-plant-maintenance-functional-project-leo) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-20.
+This software engineer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

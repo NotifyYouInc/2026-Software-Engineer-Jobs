@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
-| Category | Industrial Automation |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000129467168-process-controls-software-engineer-te-crg-ic-2026-96-grap) |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000133524669-process-controls-software-engineer-te-crg-ic-2026-96-grap) |
 
 ## About This Role
 
-This industrial automation position at CERN was posted on 2026-06-01.
+This software engineer position at CERN was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2015103) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2014972-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-06-21.
+This software engineer position at Cisco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

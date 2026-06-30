@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Bethesda/Full-Stack-Software-Developer---TS-SCI-with-Polygraph_RQ220387-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Full-Stack-Software-Developer---TS-SCI-with-Polygraph_RQ222121-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-05-20.
+This software engineer position at General Dynamics Information Technology was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

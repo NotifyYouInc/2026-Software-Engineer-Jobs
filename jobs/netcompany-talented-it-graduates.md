@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000113395875-talented-it-graduates) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000133524449-talented-it-graduates) |
 
 ## About This Role
 
-This software engineer position at Netcompany was posted on 2026-03-09.
+This software engineer position at Netcompany was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126732017-principal-staff-software-engineer-development-infrastructure) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000133468850-principal-staff-software-engineer-development-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-05-15.
+This software engineer position at LinkedIn was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

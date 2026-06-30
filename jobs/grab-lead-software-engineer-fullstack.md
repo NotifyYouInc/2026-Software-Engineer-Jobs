@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000120303267-lead-software-engineer-fullstack) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133510479-lead-software-engineer-fullstack) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-13.
+This software engineer position at Grab was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington Heights, Illinois, United States |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Arlington-Heights/Sr-Software-Engineer_R4040073-2) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Sr-Software-Engineer_R4042750-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-05-13.
+This software engineer position at GE HealthCare was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

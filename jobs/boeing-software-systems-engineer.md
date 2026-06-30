@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hazelwood, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026495221-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026516042-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-18.
+This software engineer position at Boeing was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

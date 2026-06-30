@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Galway, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Senior-Software-Engineer_2011827) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Senior-Software-Engineer_2016402) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-09.
+This software engineer position at Cisco was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

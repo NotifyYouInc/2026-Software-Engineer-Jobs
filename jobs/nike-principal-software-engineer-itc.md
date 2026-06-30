@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Principal-Software-Engineer--ITC_R-85376) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Principal-Software-Engineer--ITC_R-86458) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-06-05.
+This software engineer position at Nike was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

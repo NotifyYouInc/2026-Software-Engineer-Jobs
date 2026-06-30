@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-II---Full-Stack_R3050) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-II---Full-Stack_R3215) |
 
 ## About This Role
 
-This frontend engineer position at Waystar was posted on 2026-03-03.
+This software engineer position at Waystar was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

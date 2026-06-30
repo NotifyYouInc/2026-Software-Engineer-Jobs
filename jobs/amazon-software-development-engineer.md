@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454329/software-development-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10455465/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-19.
+This software engineer position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

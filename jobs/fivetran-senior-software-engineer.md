@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Oakland, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7664141003) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7768594003) |
 
 ## About This Role
 
-This software engineer position at Fivetran was posted on 2026-06-15.
+This software engineer position at Fivetran was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

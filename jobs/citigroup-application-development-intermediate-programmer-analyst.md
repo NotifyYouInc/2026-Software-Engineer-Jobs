@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Application-Development-Intermediate-Programmer-Analyst_26965465) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Development-Intermediate-Programmer-Analyst_26963131) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-04.
+This software engineer position at Citigroup was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Engineering Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Software-Engineering_R-271112-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Director--Software-Engineering_R-280105) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-03-13.
+This engineering manager position at Mastercard was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

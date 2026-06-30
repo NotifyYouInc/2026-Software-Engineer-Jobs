@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Auburn-Hills-MI/Principal-Software-Engineer_R68785-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Software-Engineer_R69580-1) |
 
 ## About This Role
 
-This software engineer position at Fifth Third Bank was posted on 2026-06-12.
+This software engineer position at Fifth Third Bank was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

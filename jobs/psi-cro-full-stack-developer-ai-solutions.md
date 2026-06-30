@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000123069709-full-stack-developer-ai-solutions) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000133398382-full-stack-developer-ai-solutions) |
 
 ## About This Role
 
-This software engineer position at Psi Cro was posted on 2026-04-26.
+This software engineer position at Psi Cro was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

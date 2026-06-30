@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/18ff7e94-7235-4bcb-998d-df6e03c390eb) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/09540534-58e5-4d2b-807a-240421028ef6) |
 
 ## About This Role
 
-This robotics engineer position at Beaconai was posted on 2026-06-04.
+This robotics engineer position at Beaconai was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

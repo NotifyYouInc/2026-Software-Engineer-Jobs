@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200658042/graphics-gpu-performance-tools-content-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669417/graphics-gpu-performance-tools-content-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-15.
+This software engineer position at Apple was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

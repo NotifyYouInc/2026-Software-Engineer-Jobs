@@ -1,16 +1,16 @@
-# Mid-Level Software Engineer at AeroVironment
+# Mid-level Software Engineer at AeroVironment
 
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maryland, US |
+| Location | Wright-Patterson AFB, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Mid-Level-Software-Engineer_7655) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Mid-level-Software-Engineer_8006) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-05-05.
+This software engineer position at AeroVironment was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

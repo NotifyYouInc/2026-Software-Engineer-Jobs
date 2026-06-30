@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443002/delivery-consultant-full-stack-engineer-aws-professional-services) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10455940/delivery-consultant-full-stack-engineer-aws-professional-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-08.
+This software engineer position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

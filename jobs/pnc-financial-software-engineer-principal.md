@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Downers Grove, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Software-Engineer-Principal_R226247-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Downers-Grove---Corridors-III-IL417/Software-Engineer-Principal_R225271-2) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-06-12.
+This software engineer position at PNC Financial was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
