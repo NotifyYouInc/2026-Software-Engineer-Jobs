@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/7949833) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8023195) |
 
 ## About This Role
 
-This software engineer position at Agoda was posted on 2026-05-22.
+This software engineer position at Agoda was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/SOFTWARE-EXPERT-I---LOANS-BOOSTERS---ENGINEERING---DATA-COLOMBIA_JR00096291-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/SOFTWARE-EXPERT-I---LOANS-BOOSTERS---ENGINEERING---DATA-COLOMBIA_JR00107232-1) |
 
 ## About This Role
 
-This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-18.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

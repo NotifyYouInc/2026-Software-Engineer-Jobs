@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5449757-S1996386-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5629516-S2031708-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-23.
+This software engineer position at Accenture was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

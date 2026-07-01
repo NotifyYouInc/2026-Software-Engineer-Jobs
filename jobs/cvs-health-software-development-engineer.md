@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Location | Galway, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Software-Development-Engineer_R0942499) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Software-Development-Engineer_R0940299) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-20.
+This software engineer position at CVS Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

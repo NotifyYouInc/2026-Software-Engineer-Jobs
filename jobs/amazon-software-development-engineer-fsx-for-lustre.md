@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445245/software-development-engineer-fsx-for-lustre) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457296/software-development-engineer-fsx-for-lustre) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-10.
+This software engineer position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

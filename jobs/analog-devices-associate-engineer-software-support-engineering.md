@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R260615) |
+| Location | Cavite, Central Luzon, Philippines |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R263037) |
 
 ## About This Role
 
-This customer success position at Analog Devices was posted on 2026-02-16.
+This software engineer position at Analog Devices was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

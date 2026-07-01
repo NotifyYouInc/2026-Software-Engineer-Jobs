@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Senior-Software-Engineer_01854190) |
+| Location | Gloucester, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Senior-Software-Engineer_01854453) |
 
 ## About This Role
 
-This offensive security & pentesting position at RTX was posted on 2026-06-22.
+This software engineer position at RTX was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

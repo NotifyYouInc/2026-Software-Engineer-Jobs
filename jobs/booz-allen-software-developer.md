@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Fayetteville, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Software-Developer_R0241924) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Software-Developer_R0242899) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-06-11.
+This software engineer position at Booz Allen was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Cremorne, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000132985879-senior-staff-engineer-aips) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000133714239-senior-staff-engineer-aips) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-06-19.
+This software engineer position at SEEK was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

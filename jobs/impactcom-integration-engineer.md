@@ -1,16 +1,16 @@
-# Integration Engineer  at Impact.com
+# Integration Engineer at Impact.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Impact.com](https://scoutify.ai/companies/impact-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Customer Success |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8373774002) |
+| Location | Columbus, Ohio, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8465082002) |
 
 ## About This Role
 
-This customer success position at Impact.com was posted on 2026-02-28.
+This software engineer position at Impact.com was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448253/software-development-engineer-amazon-devices-experience-technology-dext) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457195/software-development-engineer-amazon-devices-experience-technology-dext) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-12.
+This software engineer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

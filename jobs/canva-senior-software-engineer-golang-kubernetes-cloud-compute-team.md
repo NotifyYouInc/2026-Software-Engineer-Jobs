@@ -1,16 +1,16 @@
-# Senior Software Engineer (Golang, Kubernetes) - Cloud Compute Team at Canva
+# Senior Software Engineer (Golang, Kubernetes) - Cloud Compute Team  at Canva
 
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001096101-senior-software-engineer-golang-kubernetes-cloud-compute-team) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001177568-senior-software-engineer-golang-kubernetes-cloud-compute-team) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-05-21.
+This software engineer position at Canva was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

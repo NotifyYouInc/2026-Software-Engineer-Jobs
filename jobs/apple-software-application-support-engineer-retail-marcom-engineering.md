@@ -1,16 +1,16 @@
-# Software Application Support Engineer, Retail & Marcom Engineering at Apple
+# Software Application Support Engineer, Retail & Marcom Engineering  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631119-3956/software-application-support-engineer-retail-marcom-engineering?team=SFTWR) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668353/software-application-support-engineer-retail-marcom-engineering) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-02-06.
+This software engineer position at Apple was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

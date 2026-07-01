@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Frontend Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000130574709-8nw-staff-software-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133769860-8nw-staff-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Software Mind was posted on 2026-06-05.
+This software engineer position at Software Mind was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

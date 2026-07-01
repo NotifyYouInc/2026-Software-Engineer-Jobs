@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/b070fb23-7041-4336-bee9-b8f31204dac4) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-05-21.
+This software engineer position at Confluent was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

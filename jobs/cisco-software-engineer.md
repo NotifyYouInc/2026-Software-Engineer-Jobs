@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2016190-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Software-Engineer_2018250-1) |
 
 ## About This Role
 
-This frontend engineer position at Cisco was posted on 2026-06-22.
+This software engineer position at Cisco was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
