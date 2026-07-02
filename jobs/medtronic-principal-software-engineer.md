@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Software-Engineer_R68389-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Software-Engineer_R69840) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-06-04.
+This software engineer position at Medtronic was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

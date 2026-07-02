@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Texas, US |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Software-Engineer-I_R111807) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Texas/Senior-Software-Engineer-I_R115196) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-04-06.
+This software engineer position at ChoicePoint was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

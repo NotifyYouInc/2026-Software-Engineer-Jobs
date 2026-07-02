@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10236283) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer_R10237447) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-12.
+This software engineer position at Northrop Grumman was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

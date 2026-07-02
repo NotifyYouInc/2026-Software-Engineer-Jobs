@@ -5,12 +5,12 @@
 | Company | [RYZ Labs](https://scoutify.ai/companies/ryz-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.lever.co/RyzLabs/2db0c578-4adc-451a-bf68-72cccbcf0589) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.lever.co/RyzLabs/2ea0f334-ee57-4767-87d6-2fceab1383d7) |
 
 ## About This Role
 
-This software engineer position at RYZ Labs was posted on 2026-05-15.
+This software engineer position at RYZ Labs was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

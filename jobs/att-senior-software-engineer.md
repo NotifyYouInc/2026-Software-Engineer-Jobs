@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Software-Engineer_R-108181) |
+| Category | Software Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Software-Engineer_R-110856) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-05-21.
+This software engineer position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

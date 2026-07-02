@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737207) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749315) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-06-12.
+This software engineer position at JPMorgan Chase was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

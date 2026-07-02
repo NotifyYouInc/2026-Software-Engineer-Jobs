@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chantilly-Virginia/Lead-Software-Engineer_R-110206) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Software-Engineer_R-111974) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-05-21.
+This software engineer position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

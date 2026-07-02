@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0242966) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242981) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-06-22.
+This software engineer position at Booz Allen was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

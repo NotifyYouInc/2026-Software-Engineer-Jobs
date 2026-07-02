@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Principal--Software-Development-Engineer_JR-0108059) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Principal--Software-Development-Engineer_JR-0108183) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-06-22.
+This software engineer position at Workday was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

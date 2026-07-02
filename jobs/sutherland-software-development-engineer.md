@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000120606137-software-development-engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000134189039-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-04-14.
+This software engineer position at Sutherland was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

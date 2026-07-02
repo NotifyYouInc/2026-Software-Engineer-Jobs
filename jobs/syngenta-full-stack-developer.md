@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Champaign, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133483834-full-stack-developer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000134007219-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-06-23.
+This software engineer position at Syngenta was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Tech-Lead-Analyst_26963646) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Apps-Dev-Tech-Lead-Analyst_26969625-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-01.
+This software engineer position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | Galway, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Full-Stack-Engineer_2130631-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Parkmore-East-Business-Park-Galway-Ireland/Senior-Full-Stack-Engineer_2129630-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-06-12.
+This software engineer position at Fidelity was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

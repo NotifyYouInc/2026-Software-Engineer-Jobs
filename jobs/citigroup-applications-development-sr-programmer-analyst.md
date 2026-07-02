@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Applications-Development-Sr-Programmer-Analyst_26968803) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Applications-Development-Sr-Programmer-Analyst_26972641) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-03.
+This software engineer position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

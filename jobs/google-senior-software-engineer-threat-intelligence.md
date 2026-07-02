@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZO8--dyG7n-qs0VEu8WgC4JO1eFCaR6_pWqWc-8WZqXEjsACxwdTHu908BQcGWfcG2ASbxo59suLDEwEz2HSZkRZ2rVg-8ds7Ys4fPtMd90YEI2lW4sh3-tOLJjqg%3D%3D_V2&loc=ES&title=Senior+Software+Engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV5n_fuaVhVA9zxB2acrKccN3ylFMUJjD75oQcNdv84bEjsA1Ny_i4jFLe-IxfpTLK32H95ASiu6YmRu4ZkAIVf-09EcNbNyRsazVF3P-maYJqBcX7Z_zDOV9VJQcw%3D%3D_V2&loc=ES&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-08.
+This security engineer position at Google was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

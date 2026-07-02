@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Westford, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Software-Engineer-II_01850229) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineer-II_01855036) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-04.
+This software engineer position at RTX was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

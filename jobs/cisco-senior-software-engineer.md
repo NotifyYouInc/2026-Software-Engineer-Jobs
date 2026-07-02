@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Milpitas, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Senior-Software-Engineer_2016402) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Senior-Software-Engineer_2015006-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-06-23.
+This software engineer position at Cisco was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pleasanton, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal--Software-Engineer--Distributed-Systems-_JR-0107752) |
+| Location | Atlanta, Georgia, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Principal--Software-Engineer--Distributed-Systems-_JR-0108184-1) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-06-16.
+This ai / ml research position at Workday was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

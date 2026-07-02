@@ -5,12 +5,12 @@
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Specialist-Development_JR00123312-2) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Specialist-Development_JR00125275) |
 
 ## About This Role
 
-This software engineer position at Sun Life was posted on 2026-05-28.
+This software engineer position at Sun Life was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

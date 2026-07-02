@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Software-Engineering_R-111490) |
+| Location | Chantilly, Virginia, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chantilly-Virginia/Lead-Software-Engineering_R-113283) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-06-04.
+This ai / llm engineer position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

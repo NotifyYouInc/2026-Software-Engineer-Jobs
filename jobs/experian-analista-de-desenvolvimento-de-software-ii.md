@@ -1,16 +1,16 @@
-# Analista de desenvolvimento de software II at Experian
+# Analista de Desenvolvimento de Software II at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116494387-analista-de-desenvolvimento-de-software-ii) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134030549-analista-de-desenvolvimento-de-software-ii) |
 
 ## About This Role
 
-This frontend engineer position at Experian was posted on 2026-03-24.
+This software engineer position at Experian was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

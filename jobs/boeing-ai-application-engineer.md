@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-Application-Engineer_JR2026514855-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-Application-Engineer_JR2026516390) |
 
 ## About This Role
 
-This ai / ml research position at Boeing was posted on 2026-06-16.
+This ai / ml research position at Boeing was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

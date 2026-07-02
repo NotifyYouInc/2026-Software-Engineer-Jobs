@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malaysia |
+| Location | Bayan Lepas, Penang, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Fresh-Graduate-_R65635) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Fresh-Graduate-_R63618) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-06-08.
+This software engineer position at Motorola Solutions was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

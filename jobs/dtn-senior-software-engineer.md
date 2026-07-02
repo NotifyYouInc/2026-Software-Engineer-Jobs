@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DTN](https://scoutify.ai/companies/dtn?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Senior-Software-Engineer_R-003071) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Manila/Senior-Software-Engineer_R-003115) |
 
 ## About This Role
 
-This software engineer position at DTN was posted on 2026-05-05.
+This software engineer position at DTN was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

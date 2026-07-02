@@ -1,16 +1,16 @@
-# .Net Developer at Accenture
+# .NET Developer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney/XMLNAME-Net-Developer_14399618) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brisbane-10-Eagle-Street/XMLNAME-NET-Developer_14386296) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-29.
+This software engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

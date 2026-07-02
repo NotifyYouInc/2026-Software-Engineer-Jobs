@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/d677013c-ee65-44b5-b94e-5284767da835) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/373eb86b-8786-444d-bb9c-eaae7cb32841) |
 
 ## About This Role
 
-This software engineer position at enpal was posted on 2026-03-31.
+This software engineer position at enpal was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

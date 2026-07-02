@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Changshu, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changshu-China/Software-Engineer_J000699491) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changshu-China/Software-Engineer_J000696331) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-06-22.
+This software engineer position at Aptiv was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

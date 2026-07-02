@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7767922?gh_jid=7767922) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8025552?gh_jid=8025552) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-04-01.
+This software engineer position at Thoughtworks was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

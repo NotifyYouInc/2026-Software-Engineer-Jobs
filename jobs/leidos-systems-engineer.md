@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bethesda, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Systems-Engineer_R-00182911) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Systems-Engineer_R-00186120) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-11.
+This software engineer position at Leidos was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
