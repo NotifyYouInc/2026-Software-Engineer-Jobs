@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Spclst---Software-Engineering_R403463-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Spclst---Software-Engineering_R400876-1) |
 
 ## About This Role
 
-This software engineer position at Merck was posted on 2026-06-19.
+This software engineer position at Merck was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

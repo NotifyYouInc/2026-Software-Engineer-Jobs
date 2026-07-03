@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4763632101) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4909154101) |
 
 ## About This Role
 
-This software engineer position at Veeam Software was posted on 2026-06-05.
+This software engineer position at Veeam Software was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

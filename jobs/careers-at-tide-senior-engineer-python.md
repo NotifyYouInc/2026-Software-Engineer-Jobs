@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Lithuania |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6614106003) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6622688003) |
 
 ## About This Role
 
-This software engineer position at Careers at Tide was posted on 2026-06-08.
+This software engineer position at Careers at Tide was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
