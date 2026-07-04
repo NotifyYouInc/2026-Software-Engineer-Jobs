@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990012625586-principal-system-integration-engineer-enterprise-systems-oracle-bpel-soa-integration-1064-department-of-technology) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990013821726-principal-system-integration-engineer-enterprise-systems-oracle-bpel-soa-integration-1064-department-of-technology) |
 
 ## About This Role
 
-This software engineer position at City and County of San Francisco was posted on 2026-04-15.
+This software engineer position at City and County of San Francisco was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

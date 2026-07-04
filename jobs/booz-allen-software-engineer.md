@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0242981) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Software-Engineer_R0243074) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-06-24.
+This software engineer position at Booz Allen was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

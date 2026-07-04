@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134197859-cloud-full-stack-senior-developer-with-french) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134467184-cloud-full-stack-senior-developer-with-french) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-06-25.
+This software engineer position at Inetum was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

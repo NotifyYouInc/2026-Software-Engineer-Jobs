@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Systems-Engineer_327991) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Systems-Engineer_328263) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-06-19.
+This software engineer position at CACI was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

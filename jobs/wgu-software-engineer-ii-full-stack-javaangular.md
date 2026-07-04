@@ -1,16 +1,16 @@
-# Software Engineer II- Full-Stack- Java/Angular at WGU
+# Software Engineer II- Full stack- Java/Angular at WGU
 
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-II--Full-Stack--Java-Angular_JR-025327) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-II_JR-025504) |
 
 ## About This Role
 
-This software engineer position at WGU was posted on 2026-06-04.
+This software engineer position at WGU was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

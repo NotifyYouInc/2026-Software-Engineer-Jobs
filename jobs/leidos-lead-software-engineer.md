@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
+| Location | Omaha, Nebraska, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Lead-Software-Engineer_R-00178314) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Lead-Software-Engineer_R-00186244) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-14.
+This software engineer position at Leidos was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

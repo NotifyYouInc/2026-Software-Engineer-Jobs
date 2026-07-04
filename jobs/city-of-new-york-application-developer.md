@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943716-application-developer) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013808527-application-developer) |
 
 ## About This Role
 
-This software engineer position at City of New York was posted on 2026-05-02.
+This software engineer position at City of New York was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

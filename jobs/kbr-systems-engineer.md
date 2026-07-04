@@ -1,16 +1,16 @@
-# Systems Engineer at KBR
+# Systems engineer at KBR
 
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Systems-Engineer_R2122870) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-engineer_R2125698-1) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-05-18.
+This software engineer position at KBR was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Texas, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8465201002?gh_jid=8465201002) |
+| Category | Software Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8611181002?gh_jid=8611181002) |
 
 ## About This Role
 
-This frontend engineer position at SpaceX was posted on 2026-03-16.
+This software engineer position at SpaceX was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

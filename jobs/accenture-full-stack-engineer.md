@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Full-Stack-Engineer_ATCI-5536331-S2033105) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-4989355-S1886265-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-25.
+This software engineer position at Accenture was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

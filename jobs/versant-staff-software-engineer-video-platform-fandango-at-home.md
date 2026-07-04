@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000127292631-staff-software-engineer-video-platform-fandango-at-home) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000134496759-staff-software-engineer-video-platform-fandango-at-home) |
 
 ## About This Role
 
-This software engineer position at Versant was posted on 2026-05-19.
+This software engineer position at Versant was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

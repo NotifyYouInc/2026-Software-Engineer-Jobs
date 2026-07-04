@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131962884-sr-software-engineer) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000134550948-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Versant was posted on 2026-06-12.
+This software engineer position at Versant was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Critical Mass](https://scoutify.ai/companies/critical-mass?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San José, San José, Costa Rica |
-| Category | Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/8001743) |
+| Location | San Jose, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/8004082) |
 
 ## About This Role
 
-This marketing position at Critical Mass was posted on 2026-06-12.
+This software engineer position at Critical Mass was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

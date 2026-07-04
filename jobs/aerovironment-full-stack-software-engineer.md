@@ -1,16 +1,16 @@
-# Full Stack Software Engineer at AeroVironment
+# Full-Stack Software Engineer at AeroVironment
 
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-ARC/Full-Stack-Software-Engineer_7290) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Full-Stack-Software-Engineer_8018) |
 
 ## About This Role
 
-This frontend engineer position at AeroVironment was posted on 2026-03-20.
+This software engineer position at AeroVironment was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

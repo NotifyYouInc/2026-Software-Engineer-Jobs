@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sarasota, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_327269) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_328326) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-06-03.
+This it & systems administration position at CACI was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

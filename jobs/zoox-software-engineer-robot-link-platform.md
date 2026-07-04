@@ -5,12 +5,12 @@
 | Company | [Zoox](https://scoutify.ai/companies/zoox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Foster City, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.lever.co/zoox/b979dcaa-143a-4f02-a8dc-5a2264b5cdd5) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3) |
 
 ## About This Role
 
-This software engineer position at Zoox was posted on 2026-03-19.
+This software engineer position at Zoox was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

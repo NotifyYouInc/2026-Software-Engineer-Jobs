@@ -1,16 +1,16 @@
-# Senior .NET Engineer  at N-iX
+# Senior .Net Engineer at N-iX
 
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Ukraine |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4898548101?gh_jid=4898548101) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4863264101?gh_jid=4863264101) |
 
 ## About This Role
 
-This software engineer position at N-iX was posted on 2026-06-19.
+This software engineer position at N-iX was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Morgantown, West Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Software-Engineer_R-00183992) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Senior-Software-Engineer_R-00186245) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-05-22.
+This software engineer position at Leidos was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

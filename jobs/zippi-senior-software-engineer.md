@@ -5,12 +5,12 @@
 | Company | [Zippi](https://scoutify.ai/companies/zippi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2024-05-14 |
-| Apply | [View on company site](https://jobs.lever.co/zippi/6f6ef6c8-70b9-40f3-9131-9a3435eb99f8) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.lever.co/zippi/eae72303-d0d7-401d-94dc-f4c4693fe886) |
 
 ## About This Role
 
-This software engineer position at Zippi was posted on 2024-05-14.
+This software engineer position at Zippi was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

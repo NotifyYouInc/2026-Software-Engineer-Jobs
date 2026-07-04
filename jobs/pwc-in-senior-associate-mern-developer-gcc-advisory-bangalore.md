@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-MERN-Developer-GCC-Advisory-Bangalore_733269WD-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-MERN-Developer-GCC-Advisory-Bangalore_740270WD) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-06-02.
+This software engineer position at PwC was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416410/software-development-engineer-aurora-dsql) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460377/software-development-engineer-aurora-dsql) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-11.
+This software engineer position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

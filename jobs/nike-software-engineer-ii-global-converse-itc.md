@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--Global-Converse--ITC_R-81796) |
+| Location | Karnataka, IN |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--Global-Converse--ITC_R-86717) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-05-07.
+This ai / llm engineer position at Nike was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

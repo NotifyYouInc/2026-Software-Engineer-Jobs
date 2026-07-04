@@ -1,16 +1,16 @@
-# Software Engineer 2 (Full-stack) at U.S. Bank
+# Software Engineer 2 - Full Stack at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 9 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--Full-stack-_2026-0001943) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2---Full-Stack_2026-0016751) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-02-06.
+This software engineer position at U.S. Bank was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Rugby, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Senior-Software-Engineer_R5032839-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/Senior-Software-Engineer_R5046119-3) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-02-27.
+This software engineer position at GE Vernova was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

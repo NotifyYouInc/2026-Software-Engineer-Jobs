@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000127928561-net-developer-mwd) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134479535-net-developer-mwd) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-05-22.
+This software engineer position at Everience was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
