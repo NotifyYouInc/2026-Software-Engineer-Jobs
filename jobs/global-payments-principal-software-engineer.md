@@ -1,16 +1,16 @@
-# Mendix Developer at VAM Systems
+# Principal Software Engineer at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manama, Manama, Bahrain |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Reẖovot, Central District, Israel |
 | Category | Software Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000134640159-mendix-developer) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Rehovot-Israel/Principal-Software-Engineer_R0072697) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-06-28.
+This software engineer position at Global Payments was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

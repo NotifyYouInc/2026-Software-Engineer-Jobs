@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Staff Engineer - Full Stack at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000134600399-staff-engineer-full-stack) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Freshworks CRM was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Fied Service & System engineer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Rungis, Île-de-France, France |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Fied-Service---System-engineer_R0331930-1) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Thales was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

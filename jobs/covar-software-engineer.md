@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Software Engineer at CoVar
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [CoVar](https://scoutify.ai/companies/covar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/covar/jobs/5175407007) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at CoVar was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

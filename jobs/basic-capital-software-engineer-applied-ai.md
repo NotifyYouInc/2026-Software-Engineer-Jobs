@@ -1,16 +1,16 @@
-# Senior .Net Developer at City of New York
+# Software Engineer - Applied AI at Basic Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Basic Capital](https://scoutify.ai/companies/basic-capital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826436-senior-net-developer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/basiccapital/b1b650cf-13f3-4a4a-9160-624cd1ce6803) |
 
 ## About This Role
 
-This software engineer position at City of New York was posted on 2026-06-27.
+This ai / llm engineer position at Basic Capital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

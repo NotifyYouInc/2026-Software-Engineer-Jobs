@@ -1,16 +1,16 @@
-# Mendix Developer at VAM Systems
+# Software Engineer, Agents  at Mirage
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manama, Manama, Bahrain |
-| Category | Software Engineer |
+| Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000134640159-mendix-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/7c8c5438-030d-447a-a360-1fd54344cc9b) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-06-28.
+This ai / llm engineer position at Mirage was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

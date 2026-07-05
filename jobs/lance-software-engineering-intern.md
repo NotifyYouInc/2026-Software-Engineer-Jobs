@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Software Engineering Intern at Lance
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Lance](https://scoutify.ai/companies/yc-lance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/lance/jobs/NKlvGdF-software-engineering-intern) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Lance was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

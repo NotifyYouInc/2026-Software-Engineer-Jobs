@@ -1,16 +1,16 @@
-# Senior .Net Developer at City of New York
+# Structural Design Engineer (Founding Team/Consultant) at Structured AI
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Structured AI](https://scoutify.ai/companies/yc-structured-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826436-senior-net-developer) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/structured-ai/jobs/RlOLgPZ-structural-design-engineer-founding-team-consultant) |
 
 ## About This Role
 
-This software engineer position at City of New York was posted on 2026-06-27.
+This software engineer position at Structured AI was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

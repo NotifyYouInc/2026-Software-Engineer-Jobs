@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Forward Deployed Engineer (FDE) at Patsnap
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Patsnap](https://scoutify.ai/companies/patsnap?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Singapore |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Apply | [View on company site](https://jobs.lever.co/patsnap/e80dcb4a-0644-4883-95f3-8e6a0c01e846) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Patsnap was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Mendix Developer at VAM Systems
+# Sr. Java Developer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manama, Manama, Bahrain |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000134640159-mendix-developer) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Client-Location/Sr-Java-Developer_JR1041278-1) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-06-28.
+This software engineer position at Synechron was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

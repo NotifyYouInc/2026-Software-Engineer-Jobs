@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Systems Engineer - TS/SCI required at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Aberdeen, South Dakota, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Systems-Engineer---TS-SCI-required_R182627) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Parsons was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

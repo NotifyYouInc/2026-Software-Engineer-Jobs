@@ -1,16 +1,16 @@
-# Software Engineer I at Cox
+# Founding Engineer at Revion
 
 | Field | Details |
 |-------|---------|
-| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Company | [Revion](https://scoutify.ai/companies/yc-revion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/revion/jobs/4ahU7yI-founding-engineer) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-27.
+This software engineer position at Revion was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
