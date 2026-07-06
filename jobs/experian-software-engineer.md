@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127764839-software-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134761224-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-05-21.
+This software engineer position at Experian was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

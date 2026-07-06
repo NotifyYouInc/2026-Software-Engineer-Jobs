@@ -1,16 +1,16 @@
-# Développeur Java (H/F) at ALTEN
+#  Développeur Java (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Brest, Brittany, France |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127358849-developpeur-java-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134745027-developpeur-java-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-05-20.
+This software engineer position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

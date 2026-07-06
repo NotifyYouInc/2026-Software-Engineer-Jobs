@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Nevada, US |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Senior-Software-Development-Engineer_R0837880) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Work-from-home/Senior-Software-Development-Engineer_R0955496) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-08.
+This software engineer position at CVS Health was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000114110681-developpeur-c-finance-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000134738459-developpeur-c-finance-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-03-11.
+This software engineer position at Meritis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

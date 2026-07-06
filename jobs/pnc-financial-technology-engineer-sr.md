@@ -1,16 +1,16 @@
-# Technology Engineer, Sr at PNC Financial
+# Technology Engineer Sr at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lakewood, Colorado, United States |
+| Location | Strongsville, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Technology-Engineer--Sr_R217806-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Strongsville/Technology-Engineer-Sr_R224283-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-04-07.
+This software engineer position at PNC Financial was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

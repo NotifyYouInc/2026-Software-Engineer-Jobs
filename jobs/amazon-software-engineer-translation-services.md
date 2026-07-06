@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450967/software-engineer-translation-services) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460800/software-engineer-translation-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-16.
+This software engineer position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132455983-developpeurse-senior-c-net-services-financiers-lille) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134725773-developpeurse-senior-c-net-services-financiers-lille) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-16.
+This software engineer position at Sopra Steria was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

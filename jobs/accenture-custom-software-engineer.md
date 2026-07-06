@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-R1-S2034045-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Custom-Software-Engineer_ATCI-R1-S2034986-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-26.
+This software engineer position at Accenture was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

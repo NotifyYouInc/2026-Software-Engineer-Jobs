@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129918487-senior-software-developer-camunda-mfd) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000134704586-senior-software-developer-camunda-mfd) |
 
 ## About This Role
 
-This software engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-03.
+This software engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

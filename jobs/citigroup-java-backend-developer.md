@@ -1,16 +1,16 @@
-# Java Backend Developer at Citigroup
+# Java backend developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Backend-Developer_26964658) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Java-backend-developer_26971287) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-19.
+This software engineer position at Citigroup was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

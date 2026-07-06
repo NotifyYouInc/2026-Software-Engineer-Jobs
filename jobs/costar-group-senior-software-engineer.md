@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Senior-Software-Engineer_R38597) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Senior-Software-Engineer_R39149-1) |
 
 ## About This Role
 
-This software engineer position at CoStar Group was posted on 2026-04-14.
+This software engineer position at CoStar Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

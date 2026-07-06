@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/Senior-Engineer---Java-Android-Framework_R0327290-1) |
+| Category | Software Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/Senior-Engineer---Java-Android-Framework_R0327287-1) |
 
 ## About This Role
 
-This mobile engineer position at Thales was posted on 2026-05-18.
+This software engineer position at Thales was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

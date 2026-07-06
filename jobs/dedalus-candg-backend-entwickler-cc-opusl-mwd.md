@@ -5,12 +5,12 @@
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Essen, North Rhine-Westphalia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Essen/Abteilungsleitung-Entwicklung-Opus--L--m-w-d-_JR107618-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Essen/Backend-Entwickler-C--C---Opus--L--m-w-d-_JR108308) |
 
 ## About This Role
 
-This software engineer position at Dedalus CandG was posted on 2026-02-23.
+This software engineer position at Dedalus CandG was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
