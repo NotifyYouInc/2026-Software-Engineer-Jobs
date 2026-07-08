@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Aurora, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Senior-Software-Engineer--Onsite-_01846760) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S76--16430-E-Hughes-Dr--BLDG-S76/Senior-Software-Engineer--Onsite-_01856780) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-05-19.
+This software engineer position at RTX was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

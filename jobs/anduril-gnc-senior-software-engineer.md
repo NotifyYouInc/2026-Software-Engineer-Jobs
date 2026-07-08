@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5143704007?gh_jid=5143704007) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5178102007?gh_jid=5178102007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-05-21.
+This software engineer position at Anduril was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

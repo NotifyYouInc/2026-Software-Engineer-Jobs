@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Sr-Developer--SAP_R-102208) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Sr-Developer--SAP_R-102305) |
 
 ## About This Role
 
-This software engineer position at Rimini Street was posted on 2026-06-09.
+This software engineer position at Rimini Street was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Frontend Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117336875-senior-aws-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000135314299-senior-aws-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Version 1 was posted on 2026-03-27.
+This devops engineer position at Version 1 was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

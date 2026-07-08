@@ -1,16 +1,16 @@
-# Backend-leaning Product Engineer at Clera
+# Backend-Leaning Product Engineer at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/caee07c2-fb0b-4199-b080-8fe0cf973b23) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/a2828bcb-79e6-49a2-a548-ffca8bf59f87) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-06-07.
+This software engineer position at Clera was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

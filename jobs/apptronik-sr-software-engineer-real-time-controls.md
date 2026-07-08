@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apptronik](https://scoutify.ai/companies/apptronik?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/apptronik/jobs/6007624004?gh_jid=6007624004) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/apptronik/jobs/6105900004?gh_jid=6105900004) |
 
 ## About This Role
 
-This robotics engineer position at Apptronik was posted on 2026-05-27.
+This robotics engineer position at Apptronik was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer_JR343861) |
+| Location | Casablanca, Casablanca-Settat, Morocco |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Morocco---Casablanca/Forward-Deployed-Engineer_JR348985) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-05-27.
+This software engineer position at Salesforce was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

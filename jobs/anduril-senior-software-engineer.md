@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5168952007?gh_jid=5168952007) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5178387007?gh_jid=5178387007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-06-24.
+This software engineer position at Anduril was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

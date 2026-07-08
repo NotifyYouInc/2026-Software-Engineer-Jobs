@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devexperts](https://scoutify.ai/companies/devexperts?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Tbilisi, Tbilisi, Georgia |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000133381399-seniorstaff-java-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000135270759-seniorstaff-java-engineer) |
 
 ## About This Role
 
-This software engineer position at Devexperts was posted on 2026-06-22.
+This software engineer position at Devexperts was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

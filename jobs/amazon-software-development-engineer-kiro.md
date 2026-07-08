@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454129/software-development-engineer-kiro) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463940/software-development-engineer-kiro) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-19.
+This software engineer position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

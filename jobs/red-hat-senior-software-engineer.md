@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Senior-Software-Engineer_R-058163) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer_R-058284) |
 
 ## About This Role
 
-This ai / llm engineer position at Red Hat was posted on 2026-06-26.
+This software engineer position at Red Hat was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

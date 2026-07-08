@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000134183879-backend-engineer-search-engine-all-genders) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000135270342-backend-engineer-search-engine-all-genders) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-06-25.
+This software engineer position at About You was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

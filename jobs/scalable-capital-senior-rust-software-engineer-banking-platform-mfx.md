@@ -1,16 +1,16 @@
-# (Senior) Rust Software Engineer - Banking Platform (m/f/x) at Scalable Capital
+# Senior Rust Software Engineer - Banking Platform (m/f/x) at Scalable Capital
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000129390289-senior-rust-software-engineer-banking-platform-mfx) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000135236659-senior-rust-software-engineer-banking-platform-mfx) |
 
 ## About This Role
 
-This software engineer position at Scalable Capital was posted on 2026-06-01.
+This software engineer position at Scalable Capital was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

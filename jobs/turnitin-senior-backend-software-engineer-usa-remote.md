@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000121495605-senior-backend-software-engineer-usa-remote) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000135337284-senior-backend-software-engineer-usa-remote) |
 
 ## About This Role
 
-This software engineer position at Turnitin was posted on 2026-04-17.
+This software engineer position at Turnitin was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

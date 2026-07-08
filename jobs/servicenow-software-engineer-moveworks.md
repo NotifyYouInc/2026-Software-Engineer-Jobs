@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111010755-software-engineer-moveworks) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135328559-software-engineer-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-24.
+This software engineer position at ServiceNow was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

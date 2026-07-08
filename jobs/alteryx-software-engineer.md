@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Software-Engineer_R12085) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Bangalore-India/Software-Engineer_R12249) |
 
 ## About This Role
 
-This software engineer position at Alteryx was posted on 2026-04-28.
+This software engineer position at Alteryx was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Applications-Development-Technology-Lead-Analyst---Vice-President_26967654-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Technology-Lead-Analyst---Vice-President_26972632) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-16.
+This software engineer position at Citigroup was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

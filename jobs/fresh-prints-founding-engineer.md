@@ -5,12 +5,12 @@
 | Company | [Fresh Prints](https://scoutify.ai/companies/fresh-prints?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freshprints/jobs/6098140004) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freshprints/jobs/6105766004) |
 
 ## About This Role
 
-This software engineer position at Fresh Prints was posted on 2026-06-19.
+This software engineer position at Fresh Prints was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

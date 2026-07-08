@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President--Lead-Software-Engineer_JR021168) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Jersey-City-New-Jersey-United-States-of-America/Vice-President--Lead-Software-Engineer_JR033700) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-06-26.
+This software engineer position at Morgan Stanley was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000131790391-senior-salesforce-developer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000135269584-senior-salesforce-developer) |
 
 ## About This Role
 
-This software engineer position at Flywire was posted on 2026-06-12.
+This software engineer position at Flywire was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

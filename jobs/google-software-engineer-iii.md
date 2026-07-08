@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke4QItiCanuHBs6k-NIEGBHRY_5UyQl4t17d0HddixEgEjsACxwdTL1aF4sFNpyp4lbyZl-cz4F6WU-srI-RVVRB0Yz0LwNosa8sBN0WDF3YUmbuFWkKn75q6k2Hyg%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckej-c5DPuLCHAXuRPI5mUEtukACF7yT9xiBfAhJ3fVGfEjsA1Ny_iwYrM8PVbGj099z5G9P5QXwQeD15nhBfmcXsZ-URMybbNr5n_xKMF-B17eqxJlKfx2MYnfDJEg%3D%3D_V2&loc=IN&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-01.
+This software engineer position at Google was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

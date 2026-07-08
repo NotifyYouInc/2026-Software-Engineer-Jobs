@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHENGDU-SICHAUN-CHINA/Software-Engineer_R0073128-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Software-Engineer_R0072870-1) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-06-24.
+This software engineer position at Global Payments was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

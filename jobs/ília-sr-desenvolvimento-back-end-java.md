@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ília](https://scoutify.ai/companies/lia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/6011088004) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/6105904004) |
 
 ## About This Role
 
-This software engineer position at ília was posted on 2026-06-05.
+This software engineer position at ília was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

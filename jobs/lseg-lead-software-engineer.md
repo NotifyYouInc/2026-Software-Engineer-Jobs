@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Software-Engineer_R0115442-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Lead-Software-Engineer_R0121251) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-04-22.
+This software engineer position at LSEG was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

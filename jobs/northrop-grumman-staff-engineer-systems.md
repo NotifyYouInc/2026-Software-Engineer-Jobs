@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Engineer-Systems_R10234414) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Staff-Engineer-Systems_R10237321) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-29.
+This software engineer position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

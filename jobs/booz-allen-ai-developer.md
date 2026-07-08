@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-Developer_R0239120) |
+| Location | Arlington, Texas, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-Developer_R0243552) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-30.
+This ai / llm engineer position at Booz Allen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5165720008) |
+| Location | Seattle, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5288027008) |
 
 ## About This Role
 
-This devops engineer position at K2 Space was posted on 2026-03-25.
+This software engineer position at K2 Space was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

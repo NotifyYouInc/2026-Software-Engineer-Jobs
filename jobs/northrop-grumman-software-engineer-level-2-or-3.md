@@ -1,16 +1,16 @@
-# Software Engineer Level 2 or 3 at Northrop Grumman
+# Software Engineer - Level 2 or 3 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-2-or-3_R10230590) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2-or-3_R10238507) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-04-22.
+This software engineer position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

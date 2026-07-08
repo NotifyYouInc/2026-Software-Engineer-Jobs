@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011646796-cloud-web-developer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013881284-cloud-web-developer) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-02-11.
+This software engineer position at SOSi was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

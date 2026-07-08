@@ -1,0 +1,22 @@
+# Software Engineer II at Versant
+
+| Field | Details |
+|-------|---------|
+| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Orlando, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135287162-software-engineer-ii) |
+
+## About This Role
+
+This software engineer position at Versant was posted on 2026-07-01.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

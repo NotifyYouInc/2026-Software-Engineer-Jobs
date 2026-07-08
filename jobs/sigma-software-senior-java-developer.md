@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000108157646-senior-java-developer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135248070-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-02-09.
+This software engineer position at Sigma Software was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arkansas, US |
+| Location | Georgia, US |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-AR-Work-at-Home/Senior-Software-Engineer--Nodejs---AWS-_R1719866) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-GA-Work-at-Home/Senior-Software-Engineer--Nodejs---AWS-_R1742743) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-04-03.
+This software engineer position at Concentrix was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

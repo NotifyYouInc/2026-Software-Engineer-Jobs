@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/IT-Software-Engineer_R22628) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/IT-Software-Engineer_R22719-1) |
 
 ## About This Role
 
-This software engineer position at Nelnet was posted on 2026-06-01.
+This software engineer position at Nelnet was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

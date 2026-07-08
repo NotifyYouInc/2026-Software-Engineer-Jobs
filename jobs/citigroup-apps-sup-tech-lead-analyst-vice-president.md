@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Apps-Sup-Tech-Lead-Analyst---Vice-President_26963159) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Sup-Tech-Lead-Analyst---Vice-President_26963916-1) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-05-29.
+This software engineer position at Citigroup was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

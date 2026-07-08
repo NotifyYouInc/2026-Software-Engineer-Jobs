@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Decatur, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000378453) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Software-Engineer_R0000379469) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-06-22.
+This software engineer position at Caterpillar Inc. was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
