@@ -1,16 +1,16 @@
-# Java Developer at Sopra Steria
+# Java Developer  at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nieuwegein, Utrecht, The Netherlands |
+| Location | Urdorf, Zurich, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125033674-java-developer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135453759-java-developer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-07.
+This software engineer position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

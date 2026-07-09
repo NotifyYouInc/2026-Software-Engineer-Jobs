@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Product-Software-Engineer_R0057032-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CHN---Beijing/Senior-Product-Software-Engineer_R0058438) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-06-26.
+This software engineer position at Wolters Kluwer was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

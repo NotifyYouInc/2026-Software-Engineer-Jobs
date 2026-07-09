@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TeamWork](https://scoutify.ai/companies/teamwork?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Saint-Priest, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000133527514-developpeur-sap-full-stack-integration-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000135440319-developpeur-sap-full-stack-integration-hf) |
 
 ## About This Role
 
-This software engineer position at TeamWork was posted on 2026-06-23.
+This software engineer position at TeamWork was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Mobile Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131370244-senior-software-engineer) |
+| Location | Cyberjaya, Selangor, Malaysia |
+| Category | Software Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135460799-senior-software-engineer) |
 
 ## About This Role
 
-This mobile engineer position at Experian was posted on 2026-06-10.
+This software engineer position at Experian was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

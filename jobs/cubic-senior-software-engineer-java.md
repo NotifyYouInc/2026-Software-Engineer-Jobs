@@ -5,12 +5,12 @@
 | Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Hyderabad-Telangana/Senior-Software-Engineer--Java-_REQ_48687) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Hyderabad-Telangana/Senior-Software-Engineer--Java-_REQ_48690) |
 
 ## About This Role
 
-This software engineer position at Cubic was posted on 2026-05-05.
+This software engineer position at Cubic was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

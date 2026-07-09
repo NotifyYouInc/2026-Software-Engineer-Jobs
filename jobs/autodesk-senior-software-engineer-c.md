@@ -1,16 +1,16 @@
-# Senior Software Engineer (C++) at Autodesk
+# Senior Software Engineer (C++ ) at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Software-Engineer--C---_26WD97434-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer--C----_26WD99601-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-04-30.
+This software engineer position at Autodesk was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

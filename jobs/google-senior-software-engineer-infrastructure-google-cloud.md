@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY_Ux5kfEez0O20iGAPmqJ6oFx6iCCnrxZ2GMgG-YqRgEjsACxwdTGasf2t1xQPKH-d3d3uPm1s-Zv2Nlfb7QrABCeFGw2xOWvufRNvc3oWEhAHhp8F3NbQDjX60qA%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT6bFDIDQxb3bKWOEZ1MjP1PZ5x7hh-ymu_fIWWUwoIzEjsA1Ny_i8kEZYeQCQ2owrYsm2IpqltRGvMadQE9BZOZ2xk8MkavUplE43WsWzgcrxoY0w2ieUiv4HpmSA%3D%3D_V2&loc=IN&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-29.
+This software engineer position at Google was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

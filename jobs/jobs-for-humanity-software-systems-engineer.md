@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000135309554-software-systems-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000135439809-software-systems-engineer) |
 
 ## About This Role
 
-This software engineer position at Jobs for Humanity was posted on 2026-07-01.
+This software engineer position at Jobs for Humanity was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

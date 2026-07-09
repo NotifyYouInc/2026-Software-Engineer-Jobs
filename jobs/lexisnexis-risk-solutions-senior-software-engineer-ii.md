@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Software-Engineer-II_R112173) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Senior-Software-Engineer-II_R114216) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-05.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# GPU software engineer at Intel
+# GPU Software Engineer at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-software-engineer_JR0282660) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/GPU-Software-Engineer_JR0285154-1) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-04-07.
+This software engineer position at Intel was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

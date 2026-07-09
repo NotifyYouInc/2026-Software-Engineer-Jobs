@@ -1,16 +1,16 @@
-# IN-Senior Associate_.NET with REACT/Angular_Digital Integration_Advisory_Kolkata at PwC
+# IN_Senior Associate_.NET with REACT/Angular_Digital Integration_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-NET-with-REACT-Angular-Digital-Integration-Advisory-Kolkata_741448WD-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-NET-with-REACT-Angular-Digital-Integration-Advisory-Kolkata_741470WD) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-07-01.
+This software engineer position at PwC was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

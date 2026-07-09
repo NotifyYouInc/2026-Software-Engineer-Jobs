@@ -1,16 +1,16 @@
-# Développeur Full-Stack F/H at Eiffage Energie Systemes
+# Développeur full-stack F/H at Eiffage Energie Systemes
 
 | Field | Details |
 |-------|---------|
 | Company | [Eiffage Energie Systemes](https://scoutify.ai/companies/eiffage-energie-systemes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Bavilliers, Bourgogne, France |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Nantes/Dveloppeur-Full-Stack-F-H_JR2026-3747) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Bavilliers/Dveloppeur-full-stack-F-H_JR2026-3753) |
 
 ## About This Role
 
-This software engineer position at Eiffage Energie Systemes was posted on 2026-07-01.
+This software engineer position at Eiffage Energie Systemes was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

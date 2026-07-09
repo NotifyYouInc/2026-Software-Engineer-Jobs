@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118610509-developpeur-tibco-ebx-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135446039-developpeur-tibco-ebx-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-04-03.
+This software engineer position at ALTEN was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
