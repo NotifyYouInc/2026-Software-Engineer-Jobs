@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Thailand |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113397407-senior-engineer-test-engineering) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135635538-senior-engineer-test-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-03-09.
+This software engineer position at Western Digital was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

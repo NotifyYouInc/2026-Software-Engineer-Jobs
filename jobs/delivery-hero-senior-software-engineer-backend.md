@@ -1,16 +1,16 @@
-# Senior Software Engineer Backend at Delivery Hero
+# Senior Software Engineer - Backend at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112260458-senior-software-engineer-backend) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135652609-senior-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-03-02.
+This software engineer position at Delivery Hero was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

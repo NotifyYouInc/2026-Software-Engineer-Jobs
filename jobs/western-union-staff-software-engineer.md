@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA-TX---Austin---11902-Burnet-Rd/Staff-Software-Engineer_JR0130059) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Staff-Software-Engineer_JR0130890) |
 
 ## About This Role
 
-This software engineer position at Western Union was posted on 2026-05-08.
+This software engineer position at Western Union was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

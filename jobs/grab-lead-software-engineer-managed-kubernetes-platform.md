@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131804505-lead-software-engineer-managed-kubernetes-platform) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Software Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000135655669-lead-software-engineer-managed-kubernetes-platform) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-06-12.
+This software engineer position at Grab was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amperity](https://scoutify.ai/companies/amperity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://amperity.com/careers?gh_jid=7762188#openpositions) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://amperity.com/careers?gh_jid=7955074#openpositions) |
 
 ## About This Role
 
-This software engineer position at Amperity was posted on 2026-04-03.
+This software engineer position at Amperity was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

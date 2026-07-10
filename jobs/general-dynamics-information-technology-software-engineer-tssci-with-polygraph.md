@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Engineer---TS-SCI-with-Polygraph_RQ222559-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Engineer---TS-SCI-with-Polygraph_RQ222926-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-07-01.
+This software engineer position at General Dynamics Information Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133074359-senior-software-engineer-java-neo4j) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135674760-senior-software-engineer-java-neo4j) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-19.
+This software engineer position at Sopra Steria was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

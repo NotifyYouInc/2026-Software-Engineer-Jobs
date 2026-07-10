@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Product-Development-AI-Engineer_JREQ135512-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Product-Development-AI-Engineer_JREQ135613-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Clarivate was posted on 2026-04-24.
+This ai / llm engineer position at Clarivate was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

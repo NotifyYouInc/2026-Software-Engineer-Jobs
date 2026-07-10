@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Software-Engineer-III_1201599) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Software-Engineer-III_1208570) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-10.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

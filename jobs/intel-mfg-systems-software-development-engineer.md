@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Hillsboro, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Mfg-Systems-Software-Development-Engineer_JR0284447) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0284837) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-06-09.
+This software engineer position at Intel was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/AWS-AI-Cloud-Engineer_R0238414) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/AWS-AI-Cloud-Engineer_R0243693) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-04-22.
+This ai / llm engineer position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

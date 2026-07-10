@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---WA---PERTH/Sr-Analyst-I-Software-Engineering_51581489) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---WA---PERTH/Sr-Analyst-I-Software-Engineering_51566674) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-06-03.
+This software engineer position at DXC Technology was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

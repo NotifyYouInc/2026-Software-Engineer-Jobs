@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Orléans, Centre-Val de Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133288438-developpeur-java-fullstack-reactangular-services-financiers-orleans) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135670128-developpeur-java-fullstack-reactangular-services-financiers-orleans) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-22.
+This software engineer position at Sopra Steria was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

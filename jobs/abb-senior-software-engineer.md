@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Software-Engineer_JR00035150) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Software-Engineer_JR00031465) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-06-16.
+This software engineer position at ABB was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

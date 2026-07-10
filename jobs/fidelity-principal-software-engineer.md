@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Principal-Software-Engineer_2129546-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/100-New-Millennium-Way-Bldg-3-Durham-NC/Principal-Software-Engineer_2130345) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-05-29.
+This software engineer position at Fidelity was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

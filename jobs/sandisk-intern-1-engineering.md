@@ -1,16 +1,16 @@
-# Intern 1, Engineering  at SanDisk
+# Intern 1, Engineering at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000133856780-intern-1-engineering) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000135634429-intern-1-engineering) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-06-24.
+This software engineer position at SanDisk was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

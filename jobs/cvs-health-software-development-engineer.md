@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Software-Development-Engineer_R0940299) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Dallas/Software-Development-Engineer_R0944358) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-23.
+This software engineer position at CVS Health was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

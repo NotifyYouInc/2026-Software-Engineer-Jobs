@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Engineering Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133287203-tech-lead-fullstack-java-react-services-financiers-ile-de-france) |
+| Category | Software Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135670718-tech-lead-fullstack-java-react-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This engineering manager position at Sopra Steria was posted on 2026-06-22.
+This software engineer position at Sopra Steria was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126469554-kotlin-developer-ibs) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135686184-kotlin-developer-ibs) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-05-14.
+This software engineer position at Inetum was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

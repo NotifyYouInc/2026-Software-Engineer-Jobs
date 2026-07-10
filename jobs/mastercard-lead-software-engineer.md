@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Software-Engineer_R-280562-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Software-Engineer_R-281080) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-07-01.
+This software engineer position at Mastercard was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

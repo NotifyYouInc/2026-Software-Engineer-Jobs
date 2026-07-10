@@ -1,16 +1,16 @@
-# Lead .NET Engineer at N-iX
+# Lead .Net Engineer at N-iX
 
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombia |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4891194101?gh_jid=4891194101) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4918371101?gh_jid=4918371101) |
 
 ## About This Role
 
-This software engineer position at N-iX was posted on 2026-06-11.
+This software engineer position at N-iX was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

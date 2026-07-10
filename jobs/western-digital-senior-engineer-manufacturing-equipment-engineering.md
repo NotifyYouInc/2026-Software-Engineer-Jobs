@@ -1,16 +1,16 @@
-# Senior Engineer, Manufacturing Equipment Engineering at Western Digital
+# Senior Engineer, Manufacturing Equipment Engineering  at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Thailand |
+| Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122162547-senior-engineer-manufacturing-equipment-engineering) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135498353-senior-engineer-manufacturing-equipment-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-04-22.
+This software engineer position at Western Digital was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

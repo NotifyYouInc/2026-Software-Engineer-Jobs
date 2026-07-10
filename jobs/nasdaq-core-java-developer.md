@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Japan---Tokyo/Core-Java-Developer_R0025973) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Core-Java-Developer_R0026313-1) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-05-18.
+This software engineer position at Nasdaq was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

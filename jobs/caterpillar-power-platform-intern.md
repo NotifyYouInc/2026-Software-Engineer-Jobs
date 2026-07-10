@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Power-Platform-Intern_R0000345057) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Power-Platform-Intern_R0000378282) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-05.
+This software engineer position at Caterpillar was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
