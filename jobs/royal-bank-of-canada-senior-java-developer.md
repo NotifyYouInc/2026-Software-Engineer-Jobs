@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Java-Developer_R-0000164903) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Java-Developer_R-0000178525-1) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-24.
+This software engineer position at Royal Bank of Canada was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

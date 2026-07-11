@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Software-Engineering-Lead_R110846) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Software-Engineering-Lead_R115143) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-06-12.
+This software engineer position at ChoicePoint was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

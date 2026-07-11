@@ -5,12 +5,12 @@
 | Company | [AppDirect](https://scoutify.ai/companies/appdirect?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8589840002) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8608452002) |
 
 ## About This Role
 
-This software engineer position at AppDirect was posted on 2026-06-12.
+This software engineer position at AppDirect was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

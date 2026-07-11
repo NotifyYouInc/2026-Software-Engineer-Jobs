@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000135661445-developpeur-net-aspnet-web-api-angular-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000135662027-developpeur-net-aspnet-web-api-angular-hf) |
 
 ## About This Role
 

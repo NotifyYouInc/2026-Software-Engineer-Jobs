@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OECD](https://scoutify.ai/companies/oecd?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000131928681-lagence-pour-lenergie-nucleaire-ingenieure-logiciel-de-recherche) |
+| Category | Software Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000135742564-lagence-pour-lenergie-nucleaire-ingenieure-logiciel-de-recherche) |
 
 ## About This Role
 
-This devops engineer position at OECD was posted on 2026-06-12.
+This software engineer position at OECD was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

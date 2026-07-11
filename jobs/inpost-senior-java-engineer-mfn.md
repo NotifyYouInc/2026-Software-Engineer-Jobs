@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135259669-senior-java-engineer-mfn) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135715855-senior-java-engineer-mfn) |
 
 ## About This Role
 
-This software engineer position at INPOST was posted on 2026-07-01.
+This software engineer position at INPOST was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/8008391) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/8045117) |
 
 ## About This Role
 
-This software engineer position at Nubank was posted on 2026-06-15.
+This software engineer position at Nubank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

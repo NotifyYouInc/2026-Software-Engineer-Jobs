@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Saint Paul, Minnesota, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer_2026-0005163) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017265) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-03-16.
+This software engineer position at U.S. Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

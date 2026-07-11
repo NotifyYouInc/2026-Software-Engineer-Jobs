@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-III_R113215-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/India/Software-Engineer-III_R114529) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-20.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

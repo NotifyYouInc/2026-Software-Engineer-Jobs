@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Tamil Nadu, IN |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tel-Aviv-Israel/Software-Engineer_JR111054-2) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/Software-Engineer_JR111380-2) |
 
 ## About This Role
 
-This software engineer position at Genesys was posted on 2026-05-18.
+This software engineer position at Genesys was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
