@@ -1,16 +1,16 @@
-# Founding Engineer at Bravi
+# Sr. Staff Software Development Engineer - AI Engineer at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5173177007) |
 
 ## About This Role
 
-This software engineer position at Bravi was posted on 2026-07-05.
+This ai / llm engineer position at Zscaler was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

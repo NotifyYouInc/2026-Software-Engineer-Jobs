@@ -1,16 +1,16 @@
-# Software Engineer-Dynamics CRM at Ecolab
+# Senior Analyst, Applications Programming at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Software-Engineer-Dynamics-CRM_R00298639) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-RMZ/Senior-Analyst--Applications-Programming_R262822) |
 
 ## About This Role
 
-This software engineer position at Ecolab was posted on 2026-07-03.
+This software engineer position at Analog Devices was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

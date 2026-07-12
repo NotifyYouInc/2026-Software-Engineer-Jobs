@@ -1,16 +1,16 @@
-# Founding Engineer at Bravi
+# Software Engineer II - Python at 7-Eleven
 
 | Field | Details |
 |-------|---------|
-| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer-II---Python_R26_4114) |
 
 ## About This Role
 
-This software engineer position at Bravi was posted on 2026-07-05.
+This software engineer position at 7-Eleven was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

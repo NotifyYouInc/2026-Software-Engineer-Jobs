@@ -1,16 +1,16 @@
-# Founding Engineer at Bravi
+# Senior Backend Engineer at ZOLL Medical Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Software Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/IL-Herzeliya/Senior-Backend-Engineer_R19587) |
 
 ## About This Role
 
-This software engineer position at Bravi was posted on 2026-07-05.
+This software engineer position at ZOLL Medical Corporation was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

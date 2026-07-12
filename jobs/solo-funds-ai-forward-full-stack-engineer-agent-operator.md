@@ -1,16 +1,16 @@
-# Founding Engineer at Bravi
+# AI-Forward Full-Stack Engineer (Agent Operator) at SoLo Funds
 
 | Field | Details |
 |-------|---------|
-| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [SoLo Funds](https://scoutify.ai/companies/solo-20funds?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/solo%20funds/e0248045-bf05-4cb9-ab72-3a37984745be) |
 
 ## About This Role
 
-This software engineer position at Bravi was posted on 2026-07-05.
+This software engineer position at SoLo Funds was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

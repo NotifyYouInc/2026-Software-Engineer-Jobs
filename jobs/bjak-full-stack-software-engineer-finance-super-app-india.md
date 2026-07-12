@@ -1,16 +1,16 @@
-# Founding Engineer at Bravi
+# Full Stack Software Engineer - Finance Super App (India) at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/66f5bb84-1b23-4523-b985-68848a483755) |
 
 ## About This Role
 
-This software engineer position at Bravi was posted on 2026-07-05.
+This software engineer position at Bjak was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
