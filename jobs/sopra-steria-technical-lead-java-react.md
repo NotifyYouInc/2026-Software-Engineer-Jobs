@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125755704-technical-lead-java-react) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135906880-technical-lead-java-react) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-11.
+This software engineer position at Sopra Steria was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

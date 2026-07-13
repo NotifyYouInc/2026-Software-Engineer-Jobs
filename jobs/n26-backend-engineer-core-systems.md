@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8035334?gh_jid=8035334) |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8045342?gh_jid=8045342) |
 
 ## About This Role
 

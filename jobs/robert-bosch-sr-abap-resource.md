@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111004590-sr-abap-resource) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135919848-sr-abap-resource) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-02-24.
+This software engineer position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

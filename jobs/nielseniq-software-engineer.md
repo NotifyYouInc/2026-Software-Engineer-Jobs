@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135689729-software-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135935608-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-07-03.
+This software engineer position at NielsenIQ was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

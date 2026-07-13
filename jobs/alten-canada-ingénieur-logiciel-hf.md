@@ -1,16 +1,16 @@
-# Ingénieur logiciel H/F at ALTEN Canada
+# Ingénieur Logiciel (H/F) at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000124671038-ingenieur-logiciel-hf) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135942349-ingenieur-logiciel-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-05.
+This software engineer position at ALTEN Canada was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Niort, Nouvelle-Aquitaine, France |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131062698-developpeur-senior-java-angular-ou-react-services-financiers-niort) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135941318-developpeur-senior-java-angular-ou-react-services-financiers-niort) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-09.
+This software engineer position at Sopra Steria was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

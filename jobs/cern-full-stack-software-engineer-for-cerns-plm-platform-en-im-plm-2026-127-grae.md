@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000124565499-full-stack-software-engineer-for-cerns-plm-platform-en-im-plm-2026-127-grae) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000135952779-full-stack-software-engineer-for-cerns-plm-platform-en-im-plm-2026-127-grae) |
 
 ## About This Role
 
-This software engineer position at CERN was posted on 2026-05-05.
+This software engineer position at CERN was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

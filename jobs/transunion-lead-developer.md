@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Lead-Developer_19038334) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Lead-Developer_19041168-1) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-03-13.
+This software engineer position at TransUnion was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

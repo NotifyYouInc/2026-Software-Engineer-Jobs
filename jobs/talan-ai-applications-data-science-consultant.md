@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000135750059-ai-applications-data-science-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000135767992-ai-applications-data-science-consultant) |
 
 ## About This Role
 

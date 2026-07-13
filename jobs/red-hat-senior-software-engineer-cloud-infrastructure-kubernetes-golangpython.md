@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Senior-Software-Engineer--Cloud-Infrastructure--Kubernetes--Golang-Python_R-057593-2) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Senior-Software-Engineer--Cloud-Infrastructure--Kubernetes--Golang-Python_R-057038-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-06-01.
+This software engineer position at Red Hat was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000117512773-graduate-software-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000135882559-graduate-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-03-29.
+This software engineer position at SEEK was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

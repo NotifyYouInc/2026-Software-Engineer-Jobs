@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000134179119-software-development-engineer-ii-java-backend) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135930979-software-development-engineer-ii-java-backend) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-06-25.
+This software engineer position at Sixt was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

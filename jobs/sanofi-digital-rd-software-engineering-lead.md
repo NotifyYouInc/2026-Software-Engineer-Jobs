@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Digital-R-D-Software-Engineering-Lead_R2844176) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Digital-R-D-Software-Engineering-Lead_R2857461) |
 
 ## About This Role
 
-This software engineer position at Sanofi was posted on 2026-05-07.
+This software engineer position at Sanofi was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

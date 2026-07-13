@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000125783289-developpeur-full-stack-java-angular-springbatch-hf) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135965544-developpeur-full-stack-java-angular-springbatch-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-11.
+This software engineer position at ALTEN Canada was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

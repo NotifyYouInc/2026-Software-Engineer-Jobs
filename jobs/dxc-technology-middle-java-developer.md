@@ -1,16 +1,16 @@
-# MIDDLE JAVA DEVELOPER at DXC Technology
+# Middle Java Developer at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HANOI-CITY/MIDDLE-JAVA-DEVELOPER_51582281) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Middle-Java-Developer_51584528) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-06-08.
+This software engineer position at DXC Technology was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

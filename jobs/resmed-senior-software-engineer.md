@@ -5,12 +5,12 @@
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Senior-Software-Engineer_JR_051409) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/AU-Sydney-Bella-Vista/Senior-Software-Engineer_JR_052458) |
 
 ## About This Role
 
-This software engineer position at ResMed was posted on 2026-05-21.
+This software engineer position at ResMed was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

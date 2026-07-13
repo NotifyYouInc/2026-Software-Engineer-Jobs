@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422083/software-development-engineer-ii-amazon-cross-border-tech) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466077/software-development-engineer-ii-amazon-cross-border-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-18.
+This software engineer position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

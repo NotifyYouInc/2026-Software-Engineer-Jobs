@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Happyrobot Inc.](https://scoutify.ai/companies/happyrobot-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/happyrobot.ai/b2cbce71-855d-4d21-bd1c-c4e60a596af4) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/happyrobot.ai/0b19e227-e664-4aef-8c32-de351adc9792) |
 
 ## About This Role
 
-This software engineer position at Happyrobot Inc. was posted on 2026-06-15.
+This software engineer position at Happyrobot Inc. was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

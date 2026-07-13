@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Brunswick, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/New-Brunswick---NJ---US/Lead-Developer--Product-Development-Applications_R1599481) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/New-Brunswick---NJ---US/Lead-Developer--Product-Development-Applications_R1603243) |
 
 ## About This Role
 
-This software engineer position at Bristol-Myers Squibb was posted on 2026-03-23.
+This software engineer position at Bristol-Myers Squibb was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

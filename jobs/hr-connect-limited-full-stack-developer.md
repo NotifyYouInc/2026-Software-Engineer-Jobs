@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HR Connect Limited](https://scoutify.ai/companies/hr-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000132553971-full-stack-developer) |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000135878269-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at HR Connect Limited was posted on 2026-06-17.
+This software engineer position at HR Connect Limited was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

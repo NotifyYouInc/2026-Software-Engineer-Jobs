@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Associate--Software-Engineer_R154139) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Associate--Software-Engineer_R154146) |
 
 ## About This Role
 
-This software engineer position at Northern Trust was posted on 2026-04-22.
+This software engineer position at Northern Trust was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

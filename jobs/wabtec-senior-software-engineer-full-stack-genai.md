@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013922171-senior-software-engineer-full-stack-genai) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013931366-senior-software-engineer-full-stack-genai) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-07-03.
+This software engineer position at Wabtec was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000135734869-senior-java-developer-mwd) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000135964289-senior-java-developer-mwd) |
 
 ## About This Role
 
-This software engineer position at SWARCO was posted on 2026-07-03.
+This software engineer position at SWARCO was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Software-Engineer_R0054400) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Senior-Software-Engineer_R0058484) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-02-16.
+This software engineer position at Wolters Kluwer was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

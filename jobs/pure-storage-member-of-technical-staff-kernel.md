@@ -1,16 +1,16 @@
-# Member Of Technical Staff, Kernel at Pure Storage
+# Member Of Technical Staff, Kernel  at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7775252) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7939371) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-04-16.
+This software engineer position at Pure Storage was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

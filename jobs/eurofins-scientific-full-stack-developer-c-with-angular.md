@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134754802-full-stack-developer-c-with-angular) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135961474-full-stack-developer-c-with-angular) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-06-29.
+This software engineer position at Eurofins Scientific was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
