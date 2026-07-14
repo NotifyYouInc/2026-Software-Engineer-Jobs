@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135962935-automation-rpa-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000136161279-automation-rpa-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-07-06.
+This software engineer position at Eurofins Scientific was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

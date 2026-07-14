@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412002/systems-development-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10467217/systems-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-06.
+This software engineer position at Amazon was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

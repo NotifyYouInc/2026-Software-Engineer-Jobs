@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer-II_JR_14367) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer-II_JR_14930) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-02-17.
+This software engineer position at Guidewire Software was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

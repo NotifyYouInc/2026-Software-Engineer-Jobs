@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer--C--Net-_R1311904) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer--C--Net-_R1314747-1) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-05-24.
+This software engineer position at Danaher was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

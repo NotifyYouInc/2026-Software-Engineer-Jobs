@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 7 locations |
+| Location | 9 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106926) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=124217) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-06-04.
+This software engineer position at IBM was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lüneburg, Lower Saxony, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000135737099-product-engineer-full-stack-developer-mwd-ai-native-saas) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000136161899-product-engineer-full-stack-developer-mwd-ai-native-saas) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-07-03.
+This software engineer position at About You was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

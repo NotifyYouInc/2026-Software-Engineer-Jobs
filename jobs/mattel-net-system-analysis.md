@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135927509-net-system-analysis) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000136179639-net-system-analysis) |
 
 ## About This Role
 
-This software engineer position at Mattel was posted on 2026-07-06.
+This software engineer position at Mattel was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Orleans, Louisiana, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US----LA-New-Orleans/Senior-Software-Engineer_37470) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Senior-Software-Engineer_41458) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-04-09.
+This software engineer position at Guidehouse was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

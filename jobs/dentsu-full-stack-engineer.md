@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/Full-Stack-Engineer_R1123031-5) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Full-Stack-Engineer_R1123030-6) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-06-24.
+This software engineer position at Dentsu was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

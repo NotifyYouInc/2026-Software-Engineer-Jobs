@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Chongqing, Chongqing, China |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-R-D-Engineer_JR00031758) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Chongqing-Chongqing-China/Senior-R-D-Engineer_JR00040476-3) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-04-20.
+This software engineer position at ABB was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

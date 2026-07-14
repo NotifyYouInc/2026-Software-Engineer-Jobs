@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000135651269-junior-java-developer-mfx) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000136171599-junior-java-developer-mfx) |
 
 ## About This Role
 
-This software engineer position at Tipico was posted on 2026-07-03.
+This software engineer position at Tipico was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

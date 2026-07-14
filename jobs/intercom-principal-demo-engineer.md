@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7926030) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8048013) |
 
 ## About This Role
 
-This software engineer position at Intercom was posted on 2026-06-04.
+This sales engineer position at Intercom was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

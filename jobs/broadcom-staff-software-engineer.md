@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Staff-Software-Engineer_R024980) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Staff-Software-Engineer_R025105) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-02-05.
+This software engineer position at Broadcom was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

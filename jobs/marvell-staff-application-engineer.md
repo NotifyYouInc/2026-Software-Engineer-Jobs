@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Staff-Application-Engineer_2601202) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Staff-Application-Engineer_2600214) |
 
 ## About This Role
 
-This customer success position at Marvell was posted on 2026-04-14.
+This software engineer position at Marvell was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

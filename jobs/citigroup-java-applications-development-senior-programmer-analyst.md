@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Java-Applications-Development-Senior-Programmer-Analyst_26968603) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Java-Applications-Development-Senior-Programmer-Analyst_26975634) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-09.
+This software engineer position at Citigroup was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667245/data-center-hardware-engineering-hardware-system-integration-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671176/data-center-hardware-engineering-hardware-system-integration-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-06-09.
+This software engineer position at Apple was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

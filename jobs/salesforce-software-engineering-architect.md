@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Norway |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Norway---Remote/Software-Engineering-Architect_JR346198) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-Architect_JR282676) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-06-12.
+This software engineer position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

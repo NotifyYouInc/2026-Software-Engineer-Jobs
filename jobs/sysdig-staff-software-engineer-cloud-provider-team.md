@@ -5,12 +5,12 @@
 | Company | [Sysdig](https://scoutify.ai/companies/sysdig?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Italy |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.lever.co/sysdig/ab493f64-740d-4f1b-a076-724dd7db07f2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/sysdig/88f8c0dc-e330-4c69-90d0-c1dccf085ca6) |
 
 ## About This Role
 
-This software engineer position at Sysdig was posted on 2026-03-06.
+This software engineer position at Sysdig was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

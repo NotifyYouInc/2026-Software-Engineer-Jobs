@@ -1,16 +1,16 @@
-# Systems engineer at KBR
+# Systems Engineer at KBR
 
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-engineer_R2125698-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer_R2123178-1) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-06-26.
+This software engineer position at KBR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

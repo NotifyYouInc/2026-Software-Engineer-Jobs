@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000123612592-software-engineer-java) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000136138439-software-engineer-java) |
 
 ## About This Role
 
-This software engineer position at Xplor Technologies was posted on 2026-04-29.
+This software engineer position at Xplor Technologies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

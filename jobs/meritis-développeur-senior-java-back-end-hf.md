@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000134731429-developpeur-senior-java-back-end-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000136163839-developpeur-senior-java-back-end-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-06-29.
+This software engineer position at Meritis was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
