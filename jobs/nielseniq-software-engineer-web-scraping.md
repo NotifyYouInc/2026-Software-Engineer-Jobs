@@ -1,16 +1,16 @@
-# Software Engineer -Web Scraping at NielsenIQ
+# Software Engineer- Web scraping at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128406524-software-engineer-web-scraping) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136405119-software-engineer-web-scraping) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-05-26.
+This software engineer position at NielsenIQ was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

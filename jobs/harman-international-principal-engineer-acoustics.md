@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/CN_Suzhou_No88-Dongchang-Road/Principal-Engineer--Acoustics_R-53406-2026) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Shenzhen---Guangdong-China/Principal-Engineer--Acoustics_R-53522-2026) |
 
 ## About This Role
 
-This engineering manager position at HARMAN International was posted on 2026-06-11.
+This software engineer position at HARMAN International was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

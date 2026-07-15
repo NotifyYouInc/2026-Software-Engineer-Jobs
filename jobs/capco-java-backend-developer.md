@@ -1,16 +1,16 @@
-# Java Backend Developer  at Capco
+#  Java Backend Developer at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8045129) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7433554) |
 
 ## About This Role
 
-This software engineer position at Capco was posted on 2026-07-03.
+This software engineer position at Capco was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

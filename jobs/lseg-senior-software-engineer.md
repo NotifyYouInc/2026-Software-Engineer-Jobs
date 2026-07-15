@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gdynia, Pomerania, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Senior-Software-Engineer_R0114740-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Software-Engineer_R0121342-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-06-22.
+This software engineer position at LSEG was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

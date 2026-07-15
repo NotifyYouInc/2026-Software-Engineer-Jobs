@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000132567680-lead-developer) |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000136411760-lead-developer) |
 
 ## About This Role
 
-This engineering manager position at Informa was posted on 2026-06-17.
+This software engineer position at Informa was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

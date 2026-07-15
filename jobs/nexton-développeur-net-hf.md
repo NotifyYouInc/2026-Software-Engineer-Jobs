@@ -1,16 +1,16 @@
-# Développeur .Net H/F at Nexton
+# Développeur .NET H/F at Nexton
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000135712069-developpeur-net-hf) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000136405591-developpeur-net-hf) |
 
 ## About This Role
 
-This software engineer position at Nexton was posted on 2026-07-03.
+This software engineer position at Nexton was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

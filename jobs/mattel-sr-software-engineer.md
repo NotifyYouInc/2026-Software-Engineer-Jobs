@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132341079-sr-software-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000136414205-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Mattel was posted on 2026-06-16.
+This software engineer position at Mattel was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_1443405-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineering-Technical-Leader_2019137) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-07.
+This software engineer position at Cisco was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

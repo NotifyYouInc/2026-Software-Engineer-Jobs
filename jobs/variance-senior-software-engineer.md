@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Variance](https://scoutify.ai/companies/variance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Variance](https://scoutify.ai/companies/intrinsic-safety?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/variance/jobs/HZwc3gx-senior-software-engineer) |
+| Posted | 2025-10-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/intrinsic-safety/f5e064fb-83a3-4c0c-8051-a635828dee3b) |
 
 ## About This Role
 
-This software engineer position at Variance was posted on 2026-05-27.
+This software engineer position at Variance was posted on 2025-10-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bogota-Cundinamarca-Colombia/Application-Engineer-I_WD30266667) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-I_WD30273901) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-04-27.
+This software engineer position at Johnson Controls was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

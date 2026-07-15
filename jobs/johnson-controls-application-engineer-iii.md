@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-III_WD30270328) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-III_WD30273899) |
 
 ## About This Role
 
-This engineering manager position at Johnson Controls was posted on 2026-05-22.
+This software engineer position at Johnson Controls was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

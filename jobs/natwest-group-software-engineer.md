@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer_R-00280926) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Software-Engineer_R-00281408) |
 
 ## About This Role
 
-This frontend engineer position at NatWest Group was posted on 2026-06-26.
+This software engineer position at NatWest Group was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
