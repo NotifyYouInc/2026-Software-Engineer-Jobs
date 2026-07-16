@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000107464786-tech-lead-java-hf) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136733080-tech-lead-java-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-05.
+This software engineer position at Devoteam was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Linz, Upper Austria, Austria |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135705171-backend-entwickler-cnet-wmdiv) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136739460-backend-entwickler-cnet-wmdiv) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-03.
+This software engineer position at Robert Bosch was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Mexico-Remote/Senior-Software-Engineer_R28875) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Mexico-Remote/Senior-Software-Engineer_R32521) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-04-09.
+This software engineer position at Allstate was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

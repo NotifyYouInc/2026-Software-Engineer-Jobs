@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toulouse, Occitanie, France |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000114695420-developpeur-javaangular-hf) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136733319-developpeur-javaangular-hf) |
 
 ## About This Role
 
-This frontend engineer position at Devoteam was posted on 2026-03-13.
+This software engineer position at Devoteam was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

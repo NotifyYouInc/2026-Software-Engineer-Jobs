@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Software-Engineer_R-055143-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer_R-057954) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-06-16.
+This software engineer position at Red Hat was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

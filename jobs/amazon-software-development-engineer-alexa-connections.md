@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381961/software-development-engineer-alexa-connections) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469632/software-development-engineer-alexa-connections) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-02.
+This software engineer position at Amazon was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Graphics Engineer Intern at meshy
+
+| Field | Details |
+|-------|---------|
+| Company | [meshy](https://scoutify.ai/companies/meshy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/meshy/e0805db2-f584-47d2-9b9e-ef31ced8c11f) |
+
+## About This Role
+
+This software engineer position at meshy was posted on 2026-07-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

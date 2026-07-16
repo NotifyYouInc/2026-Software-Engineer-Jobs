@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Landeed](https://scoutify.ai/companies/landeed?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
+| Posted | 2026-07-09 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/landeed/jobs/YZ8WIvS-senior-gis-enginer) |
 
 ## About This Role
 
-This software engineer position at Landeed was posted on 2026-02-27.
+This software engineer position at Landeed was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

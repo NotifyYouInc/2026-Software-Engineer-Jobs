@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133057510-senior-software-engineer-cc) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136754307-senior-software-engineer-cc) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-19.
+This software engineer position at Sopra Steria was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

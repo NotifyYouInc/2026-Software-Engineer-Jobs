@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
-| Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130883879-senior-staff-engineer) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136729004-senior-staff-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-06-08.
+This software engineer position at Nagarro was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

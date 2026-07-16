@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136739179-associate-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Nagarro was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-ATE-Software-Engineer_JR2026495476-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-ATE-Software-Engineer_JR2026516304) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-17.
+This software engineer position at Boeing was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

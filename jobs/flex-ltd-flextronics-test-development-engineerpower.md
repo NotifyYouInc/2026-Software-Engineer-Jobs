@@ -1,16 +1,16 @@
-# Test Development Engineer(Power) at FLEX LTD. Flextronics
+# Test Development Engineer(power) at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taiwan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Taiwan-Taipei-Wugu/Test-Development-Engineer-Power-_WD218837) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shanghai/Test-Development-Engineer-power-_WD224618) |
 
 ## About This Role
 
-This semiconductor / chip design position at FLEX LTD. Flextronics was posted on 2026-04-16.
+This software engineer position at FLEX LTD. Flextronics was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

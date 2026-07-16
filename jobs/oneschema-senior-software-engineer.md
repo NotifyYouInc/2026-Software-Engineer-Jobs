@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneSchema](https://scoutify.ai/companies/oneschema?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/oneschema/jobs/kvoGGnM-senior-software-engineer) |
+| Category | Software Engineer |
+| Posted | 2024-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oneschema/7ea7996c-b8b6-4b24-8b19-380cdba58e83) |
 
 ## About This Role
 
-This frontend engineer position at OneSchema was posted on 2026-03-02.
+This software engineer position at OneSchema was posted on 2024-07-06.
 
 ## Get Real-Time Alerts
 

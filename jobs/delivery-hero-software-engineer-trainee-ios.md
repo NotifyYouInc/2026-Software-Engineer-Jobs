@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Mobile Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132548799-software-engineer-trainee-ios) |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000136719130-software-engineer-trainee-ios) |
 
 ## About This Role
 
-This mobile engineer position at Delivery Hero was posted on 2026-06-17.
+This software engineer position at Delivery Hero was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
