@@ -1,16 +1,16 @@
-# Software Engineer  Graduate Trainee at Motorola Solutions
+# Software Engineer Graduate Trainee at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malaysia |
-| Category | Leadership Development Program |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Graduate-Trainee_R65661) |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Graduate-Trainee_R66583) |
 
 ## About This Role
 
-This leadership development program position at Motorola Solutions was posted on 2026-06-11.
+This software engineer position at Motorola Solutions was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

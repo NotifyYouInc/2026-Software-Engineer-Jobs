@@ -1,16 +1,16 @@
-# Software Engineer/Principal Software Engineer - JAVA at Northrop Grumman
+# Software Engineer/Principal Software Engineer - Java at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10234156) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-28.
+This software engineer position at Northrop Grumman was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

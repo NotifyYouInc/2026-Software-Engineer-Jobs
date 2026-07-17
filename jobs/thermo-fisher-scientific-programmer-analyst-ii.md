@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | China |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Programmer-Analyst-II_R-01354835) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Programmer-Analyst-II_R-01358705) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-06-05.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

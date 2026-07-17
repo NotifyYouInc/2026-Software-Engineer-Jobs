@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vietnam |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112331917-senior-requirements-management-tools-engineer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137045399-senior-requirements-management-tools-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-03-03.
+This software engineer position at Renesas Electronics was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

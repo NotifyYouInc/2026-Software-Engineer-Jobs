@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Chennai-India/Senior-Software-Engineer_J000687653-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Senior-Software-Engineer_J000700885) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-03-18.
+This software engineer position at Aptiv was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

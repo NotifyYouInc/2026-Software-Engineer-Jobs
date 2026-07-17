@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4791868101) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4903737101) |
 
 ## About This Role
 
-This software engineer position at ASM was posted on 2026-04-08.
+This software engineer position at ASM was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

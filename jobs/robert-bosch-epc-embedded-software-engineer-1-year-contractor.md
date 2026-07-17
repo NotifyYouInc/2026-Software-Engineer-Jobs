@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136726735-epc-embedded-software-engineer-1-year-contractor) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137076290-epc-embedded-software-engineer-1-year-contractor) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-09.
+This software engineer position at Robert Bosch was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

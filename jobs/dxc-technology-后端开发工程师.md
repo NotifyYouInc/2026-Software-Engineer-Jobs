@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51576773) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51584841) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-24.
+This software engineer position at DXC Technology was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

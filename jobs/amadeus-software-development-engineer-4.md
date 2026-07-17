@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-4_R35588-2) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Software-Development-Engineer-4_R35699-1) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-06-24.
+This software engineer position at Amadeus was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

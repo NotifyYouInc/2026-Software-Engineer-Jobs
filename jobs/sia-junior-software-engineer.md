@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120012277-junior-software-engineer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137068364-junior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-04-10.
+This software engineer position at SIA was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

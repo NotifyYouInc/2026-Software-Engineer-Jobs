@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careem](https://scoutify.ai/companies/careem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Islamabad, Islamabad, Pakistan |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/careem/jobs/6441131002?gh_jid=6441131002) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/careem/jobs/8627757002?gh_jid=8627757002) |
 
 ## About This Role
 
-This software engineer position at Careem was posted on 2026-03-25.
+This software engineer position at Careem was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
