@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000132261794-mid-java-developer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000137222109-mid-java-developer) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-06-15.
+This software engineer position at Woongjin was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

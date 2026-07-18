@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Sr-Software-Engineer_R-50150) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Sr-Software-Engineer_R-51345) |
 
 ## About This Role
 
-This software engineer position at Travelers was posted on 2026-04-13.
+This software engineer position at Travelers was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

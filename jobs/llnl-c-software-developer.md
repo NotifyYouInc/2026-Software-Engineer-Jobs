@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Livermore, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013409116-c-software-developer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014046446-c-software-developer) |
 
 ## About This Role
 
-This software engineer position at LLNL was posted on 2026-06-01.
+This software engineer position at LLNL was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

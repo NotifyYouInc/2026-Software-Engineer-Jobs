@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Senior-Process-Integration-Development-Engineer_JR0281511) |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Senior-Process-Integration-Development-Engineer_JR0284759-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Intel was posted on 2026-03-18.
+This software engineer position at Intel was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

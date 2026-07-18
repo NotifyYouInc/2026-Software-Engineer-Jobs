@@ -1,16 +1,16 @@
-# Software Engineer, Ray Data at Anyscale
+# Software Engineer (Ray Data) at Anyscale
 
 | Field | Details |
 |-------|---------|
 | Company | [Anyscale](https://scoutify.ai/companies/anyscale?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2025-09-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/anyscale/2d76cfa2-f857-42b2-9c74-c07beca01458) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/anyscale/a83ce0ba-44ab-4d81-9c8c-bfda757377cd) |
 
 ## About This Role
 
-This software engineer position at Anyscale was posted on 2025-09-10.
+This software engineer position at Anyscale was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

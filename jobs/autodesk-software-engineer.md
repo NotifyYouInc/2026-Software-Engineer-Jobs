@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Sheffield, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Engineer_26WD99424-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-06-01.
+This software engineer position at Autodesk was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wisconsin, US |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Wisconsin/Sr-Engineer_REQ-47381) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Wisconsin/Sr-Engineer_REQ-47380) |
 
 ## About This Role
 
-This software engineer position at Thrivent was posted on 2026-07-01.
+This software engineer position at Thrivent was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

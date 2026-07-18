@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westport, Connecticut, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012933316-senior-principal-engineer-sterile-fill) |
+| Location | North Chicago, Illinois, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014041896-senior-principal-engineer-sterile-fill) |
 
 ## About This Role
 
-This engineering manager position at AbbVie was posted on 2026-05-01.
+This software engineer position at AbbVie was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

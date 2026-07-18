@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Wayne, Indiana, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II---Space-and-RF-Sensors--Onsite-_01850519) |
+| Location | El Segundo, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-II---Space-and-RF-Sensors--Onsite-_01858503) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-06-05.
+This software engineer position at RTX was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

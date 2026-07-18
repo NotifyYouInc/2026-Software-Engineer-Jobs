@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000134029816-backend-engineer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000137201539-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-06-24.
+This software engineer position at Syngenta was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

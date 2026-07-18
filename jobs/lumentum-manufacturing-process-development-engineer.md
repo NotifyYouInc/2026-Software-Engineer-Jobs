@@ -5,12 +5,12 @@
 | Company | [Lumentum](https://scoutify.ai/companies/lumentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Greensboro, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/USA---NC--Greensboro/Manufacturing-Process-Development-Engineer_2026870) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/USA---NC--Greensboro/Manufacturing-Process-Development-Engineer_2026877) |
 
 ## About This Role
 
-This software engineer position at Lumentum was posted on 2026-07-10.
+This software engineer position at Lumentum was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/105919883341898438-staff-software-engineer-infrastructure-google-cloud-ai?sort_by=date&page=1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSCMXYizXmpE0AK98Q0st3CgbGtSQJaI1mkd6nyVUYLtEjsA1Ny_i4iG1TwQTfHSAhAh572EfqXIk8kcExbdceufyxS-Xs5vPIen1gmerjOSQERfRRg7tFgQyGWSSg%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This software engineer position at Google was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Full Stack Software Engineer, Senior at Booz Allen
+# Full-Stack Software Engineer, Senior at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Virginia, US |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer--Senior_R0234879) |
+| Location | Fayetteville, North Carolina, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Full-Stack-Software-Engineer--Senior_R0244184) |
 
 ## About This Role
 
-This frontend engineer position at Booz Allen was posted on 2026-02-27.
+This software engineer position at Booz Allen was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

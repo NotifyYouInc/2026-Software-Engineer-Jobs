@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Senior-Engineer_R0062857) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Engineer_R0064723) |
 
 ## About This Role
 
-This frontend engineer position at Geico was posted on 2026-03-06.
+This software engineer position at Geico was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

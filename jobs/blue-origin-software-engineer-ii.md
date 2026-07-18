@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-II_R68475) |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-II_R68453) |
 
 ## About This Role
 

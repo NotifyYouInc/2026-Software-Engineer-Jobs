@@ -5,12 +5,12 @@
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mount Laurel, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Sr-IT-Lead-Dev-Design-Specialist--US-_R_1480118-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Sr-IT-Lead-Dev-Design-Specialist--US-_R_1492096) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-04-13.
+This software engineer position at TD Bank was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

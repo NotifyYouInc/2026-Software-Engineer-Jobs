@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Illinois, US |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Software-Engineer-Consultant-II_R30427-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Software-Engineer-Consultant-II_R32514-1) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-05-25.
+This software engineer position at Allstate was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

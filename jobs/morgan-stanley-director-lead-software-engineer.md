@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | Alpharetta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/1633-Broadway--NY/Director--Lead-Software-Engineer_JR019875) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Software-Engineer_JR031772) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-04-17.
+This software engineer position at Morgan Stanley was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

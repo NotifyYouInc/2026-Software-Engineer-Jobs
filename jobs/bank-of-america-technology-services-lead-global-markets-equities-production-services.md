@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Technology-Services-Lead---Global-Markets-Equities-Production-Services_26002586) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Technology-Services-Lead---Global-Markets-Equities-Production-Services_26014720-2) |
 
 ## About This Role
 
-This engineering manager position at Bank of America was posted on 2026-02-25.
+This devops engineer position at Bank of America was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Senior-Software-Engineer_R26_3744) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Senior-Software-Engineer_R26_4387-1) |
 
 ## About This Role
 
-This software engineer position at 7-Eleven was posted on 2026-06-17.
+This software engineer position at 7-Eleven was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
