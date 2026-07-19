@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Rogaland, NO |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Senior-Engineer_JR00037851) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fornebu-Rogaland-Norway/R-D-Senior-Engineer_JR00033030) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-06-11.
+This software engineer position at ABB was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

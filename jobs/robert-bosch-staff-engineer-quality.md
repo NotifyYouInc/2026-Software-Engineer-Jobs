@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137059685-staff-engineer-quality) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137269189-staff-engineer-quality) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-10.
+This software engineer position at Robert Bosch was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

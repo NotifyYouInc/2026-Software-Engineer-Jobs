@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013777296-senior-application-developer) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014047656-senior-application-developer) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-06-24.
+This software engineer position at SOSi was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

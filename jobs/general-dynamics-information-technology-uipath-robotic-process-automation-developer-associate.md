@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bossier City, Louisiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ216790-2) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-21.
+This software engineer position at General Dynamics Information Technology was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 
