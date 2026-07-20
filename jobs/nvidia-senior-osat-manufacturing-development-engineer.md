@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-OSAT-Manufacturing-Development-Engineer_JR2015097) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-OSAT-Manufacturing-Development-Engineer_JR2020279) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-04-03.
+This software engineer position at Nvidia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

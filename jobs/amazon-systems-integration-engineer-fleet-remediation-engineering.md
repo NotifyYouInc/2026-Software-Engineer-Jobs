@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397543/systems-integration-engineer-fleet-remediation-engineering) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471935/systems-integration-engineer-fleet-remediation-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-04-21.
+This software engineer position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

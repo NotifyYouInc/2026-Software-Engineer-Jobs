@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer-2_R-275122) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer-2_R-281677-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-05-15.
+This software engineer position at Mastercard was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

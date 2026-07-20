@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Schiltigheim, Grand Est, France |
-| Category | Frontend Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134727069-developpeurse-confirmee-java-angular-services-financiers-strasbourg) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137381684-developpeurse-confirmee-java-angular-services-financiers-strasbourg) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-06-29.
+This software engineer position at Sopra Steria was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

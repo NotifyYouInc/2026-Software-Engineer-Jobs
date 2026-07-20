@@ -1,16 +1,16 @@
-# Junior Java Developer at Accenture
+# Junior Java developer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Belvaux, Esch-sur-Alzette, Luxembourg |
+| Location | Riga, Riga, Latvia |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Java-Developer_R00341159) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Junior-Java-developer_R00342897) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-07.
+This software engineer position at Accenture was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

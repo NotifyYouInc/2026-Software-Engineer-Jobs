@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Engineer---Board_JR2019375-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Engineer---Board_JR2020536) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-06-10.
+This software engineer position at Nvidia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/System-Development-Engineer_R2026-2073) |
+| Location | Wuhan, Hubei, China |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Wuhan---China/System-Development-Engineer_R2026-2711) |
 
 ## About This Role
 
-This electrical / hardware engineer position at BorgWarner was posted on 2026-05-28.
+This software engineer position at BorgWarner was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

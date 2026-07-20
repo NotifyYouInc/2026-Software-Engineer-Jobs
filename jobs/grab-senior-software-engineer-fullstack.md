@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000124473769-senior-software-engineer-fullstack) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000137400002-senior-software-engineer-fullstack) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-05-04.
+This software engineer position at Grab was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135699940-sr-software-engineer-wms-oracle) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369709-sr-software-engineer-wms-oracle) |
 
 ## About This Role
 
-This software engineer position at Mattel was posted on 2026-07-03.
+This software engineer position at Mattel was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

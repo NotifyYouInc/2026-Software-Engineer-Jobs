@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Telangana, IN |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Enterprise-Software-Engineer_R68077-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Enterprise-Software-Engineer_R71424-2) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-06-01.
+This software engineer position at Medtronic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

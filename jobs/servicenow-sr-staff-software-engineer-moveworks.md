@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135637969-sr-staff-software-engineer-moveworks) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137360949-sr-staff-software-engineer-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-07-03.
+This software engineer position at ServiceNow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

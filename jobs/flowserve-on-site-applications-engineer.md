@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Corpus-Christi-Texas-US/On-Site-Applications-Engineer_R-19465) |
+| Location | Singapore |
+| Category | Software Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/On-Site-Applications-Engineer_R-20109) |
 
 ## About This Role
 
-This engineering manager position at Flowserve was posted on 2026-05-27.
+This software engineer position at Flowserve was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/XMLNAME-NET-Developer_JR-0000101862-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/XMLNAME-NET-Developer_JR-0000115828) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-05-05.
+This software engineer position at Barclays was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

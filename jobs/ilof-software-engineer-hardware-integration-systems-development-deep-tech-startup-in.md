@@ -5,12 +5,12 @@
 | Company | [iLoF](https://scoutify.ai/companies/ilof-intelligentlabonfiber?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ILoF-IntelligentLabOnFiber/744000121569417-software-engineer-hardware-integration-systems-development-deep-tech-startup-in-personalized-medicine) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ILoF-IntelligentLabOnFiber/744000137329530-software-engineer-hardware-integration-systems-development-deep-tech-startup-in-personalized-medicine) |
 
 ## About This Role
 
-This software engineer position at iLoF was posted on 2026-04-18.
+This software engineer position at iLoF was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

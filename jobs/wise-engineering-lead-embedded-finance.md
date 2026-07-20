@@ -1,16 +1,16 @@
-# Engineering Lead - Embedded Finance  at WISE
+# Engineering Lead - Embedded Finance at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107474475-engineering-lead-embedded-finance) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137389629-engineering-lead-embedded-finance) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-02-05.
+This software engineer position at WISE was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/Full-Stack-Java-Developer_JR1039831) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/Full-Stack-Java-Developer_JR1041769) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-05-19.
+This software engineer position at Synechron was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

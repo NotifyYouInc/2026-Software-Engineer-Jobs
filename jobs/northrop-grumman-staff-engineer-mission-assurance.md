@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Staff-Engineer-Mission-Assurance_R10233110) |
+| Location | Oxnard, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Oxnard/Staff-Engineer-Mission-Assurance_R10239993) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-05-19.
+This software engineer position at Northrop Grumman was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

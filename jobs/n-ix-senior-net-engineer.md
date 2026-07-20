@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ukraine |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4863264101?gh_jid=4863264101) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4924985101?gh_jid=4924985101) |
 
 ## About This Role
 
-This software engineer position at N-iX was posted on 2026-06-26.
+This software engineer position at N-iX was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

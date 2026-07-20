@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Cloud-Developer_1209650-3) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Cloud-Developer_1208222) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-07-02.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

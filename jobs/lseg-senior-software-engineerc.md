@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Senior-Software-Engineer-C---_R0120968) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Senior-Software-Engineer-C---_R0120955-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-06-29.
+This software engineer position at LSEG was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

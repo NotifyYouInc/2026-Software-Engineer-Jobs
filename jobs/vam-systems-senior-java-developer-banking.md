@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000120195028-senior-java-developer-banking) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000137361959-senior-java-developer-banking) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-04-11.
+This software engineer position at VAM Systems was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

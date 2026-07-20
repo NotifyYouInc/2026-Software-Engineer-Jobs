@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-New-York-Rochester/Lead-Engineer---P-C-Projects_R-27257-2) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-New-York-Rochester/Lead-Engineer---P-C-Projects_R-30996) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Iberdrola Group was posted on 2026-04-28.
+This software engineer position at Iberdrola Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

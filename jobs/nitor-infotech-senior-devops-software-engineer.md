@@ -1,0 +1,22 @@
+# Senior DevOps Software Engineer at Nitor Infotech
+
+| Field | Details |
+|-------|---------|
+| Company | [Nitor Infotech](https://scoutify.ai/companies/nitorinfotech1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pimpri-Chinchwad, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2018-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NitorInfotech1/743999672856238-senior-devops-software-engineer) |
+
+## About This Role
+
+This software engineer position at Nitor Infotech was posted on 2018-07-02.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

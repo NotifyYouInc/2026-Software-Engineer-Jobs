@@ -5,12 +5,12 @@
 | Company | [iLoF](https://scoutify.ai/companies/ilof-intelligentlabonfiber?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2025-09-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ILoF-IntelligentLabOnFiber/744000084425395-engineering-lead-optical-systems-photonics-hardware-healthtech-deep-tech) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ILoF-IntelligentLabOnFiber/744000137329519-engineering-lead-optical-systems-photonics-hardware-healthtech-deep-tech) |
 
 ## About This Role
 
-This software engineer position at iLoF was posted on 2025-09-27.
+This software engineer position at iLoF was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
