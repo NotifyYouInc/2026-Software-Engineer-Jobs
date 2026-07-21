@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
+| Location | San Antonio, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-NY/Software-Engineer_Req38372-2) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) |
 
 ## About This Role
 
-This software engineer position at iHeartMedia was posted on 2026-06-12.
+This software engineer position at iHeartMedia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

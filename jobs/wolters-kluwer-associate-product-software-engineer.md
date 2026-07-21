@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Associate-Product-Software-Engineer_R0056277) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Associate-Product-Software-Engineer_R0057664) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-05-07.
+This software engineer position at Wolters Kluwer was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

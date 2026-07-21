@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454587/system-development-engineer-amazon-payment-products) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473475/system-development-engineer-amazon-payment-products) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-22.
+This software engineer position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

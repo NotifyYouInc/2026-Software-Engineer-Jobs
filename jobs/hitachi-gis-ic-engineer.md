@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dammam, Eastern Province, Saudi Arabia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dammam-Eastern-Region-Saudi-Arabia/GIS-I-C-Engineer_R0133881) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dammam-Eastern-Region-Saudi-Arabia/GIS-I-C-Engineer_R0136613) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-06-14.
+This software engineer position at Hitachi was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

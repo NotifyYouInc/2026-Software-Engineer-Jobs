@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/F16-Metrology-Application-Engineer_JR98427) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/F16-Metrology-Application-Engineer_JR89457) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-06-10.
+This software engineer position at Micron was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

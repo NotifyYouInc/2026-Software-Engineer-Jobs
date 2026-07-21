@@ -1,16 +1,16 @@
-# Senior Analyst Programmer   at Fil
+# Senior Analyst Programmer at Fil
 
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Analyst-Programmer--_J68408-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Senior-Analyst-Programmer_J69257-1) |
 
 ## About This Role
 
-This software engineer position at Fil was posted on 2026-06-23.
+This software engineer position at Fil was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

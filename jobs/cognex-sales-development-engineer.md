@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Indonesia |
-| Category | Business Development |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Indonesia---Field/Sales-Development-Engineer_R0012000) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Indonesia---Field/Sales-Development-Engineer_R0012215) |
 
 ## About This Role
 
-This business development position at Cognex was posted on 2026-05-29.
+This software engineer position at Cognex was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

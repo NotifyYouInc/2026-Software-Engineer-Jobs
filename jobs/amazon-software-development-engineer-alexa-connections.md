@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469632/software-development-engineer-alexa-connections) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473355/software-development-engineer-alexa-connections) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-09.
+This software engineer position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

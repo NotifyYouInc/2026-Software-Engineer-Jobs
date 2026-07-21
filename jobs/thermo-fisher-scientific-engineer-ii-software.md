@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Engineer-II--Software_R-01355641-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Engineer-II--Software_R-01360083) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-06-15.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

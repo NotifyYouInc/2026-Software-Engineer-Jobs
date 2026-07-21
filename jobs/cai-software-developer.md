@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pennsylvania, US |
+| Location | Trenton, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer_R7709) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/NJ-CLIENT-STATE/Software-Developer_R8095) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-05-18.
+This software engineer position at CAI was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

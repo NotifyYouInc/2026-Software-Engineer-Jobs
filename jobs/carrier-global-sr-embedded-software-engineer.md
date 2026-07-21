@@ -1,16 +1,16 @@
-# Sr. Embedded Software Engineer at Carrier Global
+# Sr. Embedded software engineer at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5026-Monterrey-Technology-Hub/Embedded-Software-Engineer_30207476-1) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3254-No3239-Shenjiang-Road-Shanghai-Pudong-New-Area-Shanghai-China/Sr-Embedded-software-engineer_30212312-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Carrier Global was posted on 2026-05-29.
+This software engineer position at Carrier Global was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Batu Kawan, Penang, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Batu-Kawan-Pulau-Pinang-Penang-Malaysia/Manufacturing-Development-Engineer_3161217-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Manufacturing-Development-Engineer_3165328-1) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard (HP) was posted on 2026-07-08.
+This software engineer position at Hewlett Packard (HP) was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

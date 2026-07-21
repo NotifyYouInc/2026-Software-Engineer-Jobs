@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Senior-Staff-Product-Engineer--Optics_2600591) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Senior-Staff-Product-Engineer--Optics_2602651) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Marvell was posted on 2026-03-16.
+This software engineer position at Marvell was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

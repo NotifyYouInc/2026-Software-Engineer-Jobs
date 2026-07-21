@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8025552?gh_jid=8025552) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8023185?gh_jid=8023185) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-06-25.
+This software engineer position at Thoughtworks was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

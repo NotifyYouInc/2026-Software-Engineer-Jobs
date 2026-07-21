@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Remote/Local-Product-Engineer_JR2014417) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Remote/Local-Product-Engineer_JR2021110) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-03-12.
+This software engineer position at Nvidia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Senior-Software-Engineer_R211653-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Senior-Software-Engineer_R229396-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-05-01.
+This software engineer position at PNC Financial was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

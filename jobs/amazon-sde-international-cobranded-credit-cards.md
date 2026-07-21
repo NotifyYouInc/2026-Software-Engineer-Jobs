@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415659/sde-international-cobranded-credit-cards) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473473/sde-international-cobranded-credit-cards) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-11.
+This software engineer position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

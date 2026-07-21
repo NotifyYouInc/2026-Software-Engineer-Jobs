@@ -1,16 +1,16 @@
-# Full Stack Engineer - AVP at Deutsche Bank
+# Full Stack Engineer, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer---AVP_R0421974) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer--AVP_R0441028-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-12.
+This software engineer position at Deutsche Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

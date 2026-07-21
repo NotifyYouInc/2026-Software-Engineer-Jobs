@@ -1,16 +1,16 @@
-# Software Engineer at Applied Materials
+# Software Engineer || at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Software-Engineer_R2615175) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer---_R2619010) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-06-24.
+This software engineer position at Applied Materials was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

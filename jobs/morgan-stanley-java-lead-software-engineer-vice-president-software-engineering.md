@@ -1,16 +1,16 @@
-# Java Lead Software Engineer_ Vice President _Software Engineering at Morgan Stanley
+# Java Lead Software Engineer - Vice President - Software Engineering at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Java-Lead-Software-Engineer--Vice-President--Software-Engineering_JR029762-2) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Java-Lead-Software-Engineer---Vice-President---Software-Engineering_PT-JR039957-2) |
 
 ## About This Role
 
-This frontend engineer position at Morgan Stanley was posted on 2026-04-02.
+This software engineer position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

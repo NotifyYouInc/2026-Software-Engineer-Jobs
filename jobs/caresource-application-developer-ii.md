@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Dayton, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Application-Developer-III_R10030) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Dayton-OH/Application-Developer-II_R13195) |
 
 ## About This Role
 
-This software engineer position at CareSource was posted on 2026-02-13.
+This software engineer position at CareSource was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fredericksburg, Virginia, United States |
+| Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Software-Engineer_R0156761-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/AU-Adelaide/Software-Engineer_R0165728-1) |
 
 ## About This Role
 
-This software engineer position at Amentum was posted on 2026-03-18.
+This software engineer position at Amentum was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

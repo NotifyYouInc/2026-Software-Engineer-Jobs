@@ -1,16 +1,16 @@
-# WoW - Software Engineer at NatWest Group
+# WoW Software Engineer at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/WoW---Software-Engineer_R-00281260) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/WoW-Software-Engineer_R-00281724) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-07-02.
+This software engineer position at NatWest Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

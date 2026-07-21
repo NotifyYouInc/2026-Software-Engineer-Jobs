@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000131540660-staff-test-development-engineer) |
+| Location | George Town, Penang, Malaysia |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137606727-staff-test-development-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-06-10.
+This software engineer position at SanDisk was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Full stack Lead software Engineer ( C# .Net ) at Danaher
+# Full stack Lead software Engineer (C#, .NET) at Danaher
 
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Full-stack-Lead-software-Engineer---C--Net--_R1305278) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Full-stack-Lead-software-Engineer--C---NET-_R1315115) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-02-09.
+This software engineer position at Danaher was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451497/software-development-engineer-prime-video-sports-news-and-linear) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473446/software-development-engineer-prime-video-sports-news-and-linear) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-17.
+This software engineer position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

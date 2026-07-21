@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Software-Engineer_R256877) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Software-Engineer_R258690) |
 
 ## About This Role
 
-This software engineer position at Sysco was posted on 2026-07-13.
+This software engineer position at Sysco was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

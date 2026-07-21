@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ribeirão, Braga, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000135686069-salesforce-devops-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000137616209-salesforce-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Continental was posted on 2026-07-03.
+This devops engineer position at Continental was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

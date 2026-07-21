@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000135242269-programistaprogramistka-net) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137617179-programistaprogramistka-net) |
 
 ## About This Role
 
-This software engineer position at Unit4 was posted on 2026-07-01.
+This software engineer position at Unit4 was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
