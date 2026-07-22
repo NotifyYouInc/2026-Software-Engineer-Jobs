@@ -5,12 +5,12 @@
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Senior-Software-Engineer_R015349) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Senior-Software-Engineer_R015391) |
 
 ## About This Role
 
-This software engineer position at Netsmart was posted on 2026-05-26.
+This software engineer position at Netsmart was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

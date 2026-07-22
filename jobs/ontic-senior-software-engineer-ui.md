@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ontic](https://scoutify.ai/companies/ontic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ontic/2b6f630f-4541-4a0e-8637-f392ab3ba860) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ontic/800142fe-93e2-42fd-9af4-0084ea813a41) |
 
 ## About This Role
 
-This frontend engineer position at Ontic was posted on 2026-05-12.
+This software engineer position at Ontic was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

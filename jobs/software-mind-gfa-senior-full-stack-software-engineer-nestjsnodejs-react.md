@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129167360-gfa-senior-full-stack-software-engineer-nestjsnodejs-react) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000137836501-gfa-senior-full-stack-software-engineer-nestjsnodejs-react) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-05-29.
+This software engineer position at Software Mind was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

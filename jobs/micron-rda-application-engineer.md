@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Miaoli, Taiwan, Taiwan |
+| Location | Taoyuan, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/RDA-Application-Engineer_JR98422) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/RDA-Application-Engineer_JR93737) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-07.
+This software engineer position at Micron was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

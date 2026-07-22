@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sungai Petani, Kedah, Malaysia |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sungai-Petani/QA-Staff-Engineer_J2453048) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/QA-Staff-Engineer_J2457643) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-06-12.
+This software engineer position at Jabil was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134470219-senior-full-stack-developer-java-angular-with-french) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000137847249-senior-full-stack-developer-java-angular-with-french) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-06-26.
+This software engineer position at Inetum was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

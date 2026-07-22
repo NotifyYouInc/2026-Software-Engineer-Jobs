@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Erfurt, Thuringia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000108216814-full-stack-entwickler-mwd-ai-digital-innovation-explorer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000137828808-full-stack-entwickler-mwd-ai-digital-innovation-explorer) |
 
 ## About This Role
 
-This software engineer position at CHECK24 was posted on 2026-02-09.
+This software engineer position at CHECK24 was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

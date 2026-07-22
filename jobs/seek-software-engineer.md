@@ -1,16 +1,16 @@
-# Software Engineer  at SEEK
+# Software Engineer at SEEK
 
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000125234569-software-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000137792239-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-05-08.
+This software engineer position at SEEK was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

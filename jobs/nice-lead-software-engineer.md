@@ -1,16 +1,16 @@
-# Lead Software Engineer at NiCE
+# Lead Software Engineer  at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4826907101?gh_jid=4826907101) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4928015101?gh_jid=4928015101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-03-30.
+This software engineer position at NiCE was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lalamove](https://scoutify.ai/companies/lalamove?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/lalamove/16016a00-65a4-4ffc-a0ec-bdb68dd61c6a) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.lever.co/lalamove/9a2de1d3-5994-4507-a988-1ec34e629e14) |
 
 ## About This Role
 
-This software engineer position at Lalamove was posted on 2026-03-30.
+This software engineer position at Lalamove was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

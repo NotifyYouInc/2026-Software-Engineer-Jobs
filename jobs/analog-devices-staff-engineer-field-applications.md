@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Staff-Engineer--Field-Applications_R262048) |
+| Location | Indiana, US |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-IN-Home-Office/Staff-Engineer--Field-Applications_R263674) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-04-16.
+This software engineer position at Analog Devices was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer || at Applied Materials
+# Software Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer---_R2619010) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Software-Engineer_R2623640) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-07-13.
+This software engineer position at Applied Materials was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

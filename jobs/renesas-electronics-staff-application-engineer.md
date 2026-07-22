@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111481405-staff-application-engineer) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137803289-staff-application-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-02-25.
+This software engineer position at Renesas Electronics was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

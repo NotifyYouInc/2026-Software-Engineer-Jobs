@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129648389-principal-engineer-asic-verification-validation-engineering) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137844089-principal-engineer-asic-verification-validation-engineering) |
 
 ## About This Role
 
-This embedded / firmware engineer position at SanDisk was posted on 2026-06-02.
+This software engineer position at SanDisk was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108277875-sr-staff-software-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137835349-sr-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-09.
+This software engineer position at ServiceNow was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

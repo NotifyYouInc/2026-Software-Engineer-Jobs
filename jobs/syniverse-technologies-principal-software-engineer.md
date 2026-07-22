@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Bangalore/Principal-Software-Engineer_R0007173) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Bangalore/Principal-Software-Engineer_R0007385) |
 
 ## About This Role
 
-This software engineer position at Syniverse Technologies was posted on 2026-02-20.
+This software engineer position at Syniverse Technologies was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

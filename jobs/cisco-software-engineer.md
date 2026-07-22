@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineer_2018770) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2019361-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-14.
+This software engineer position at Cisco was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

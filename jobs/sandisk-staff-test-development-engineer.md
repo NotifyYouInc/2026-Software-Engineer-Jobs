@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | George Town, Penang, Malaysia |
+| Location | Batu Kawan, Penang, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137606727-staff-test-development-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137801909-staff-test-development-engineer) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-14.
+This software engineer position at SanDisk was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

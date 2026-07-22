@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/On-Site-Applications-Engineer_R-20109) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Baton-Rouge-Louisiana-US/On-Site-Applications-Engineer_R-20120) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-12.
+This software engineer position at Flowserve was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

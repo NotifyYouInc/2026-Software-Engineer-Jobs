@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Burnaby, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Machine-Learning-Engineer-II_R_105666) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Software-Development-Engineer-II_R_106568) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-06-03.
+This software engineer position at Remitly was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

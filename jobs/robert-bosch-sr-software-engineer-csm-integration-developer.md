@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131045990-sr-software-engineer-csm-integration-developer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137800640-sr-software-engineer-csm-integration-developer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-06-09.
+This software engineer position at Robert Bosch was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

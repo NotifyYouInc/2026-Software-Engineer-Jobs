@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000137397730-senior-java-software-engineer-javaspringazureaws) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000137797909-senior-java-software-engineer-javaspringazureaws) |
 
 ## About This Role
 
-This software engineer position at KMS Technology was posted on 2026-07-13.
+This software engineer position at KMS Technology was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

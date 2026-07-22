@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | King of Prussia, Pennsylvania, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineer---Cloud-Infrastructure_327057) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineer---Cloud-Infrastructure_329052) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-05-27.
+This software engineer position at CACI was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

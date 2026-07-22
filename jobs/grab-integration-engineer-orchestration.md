@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000130697542-integration-engineer-orchestration) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000137808584-integration-engineer-orchestration) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-06-08.
+This software engineer position at Grab was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vietnam |
+| Location | Cầu Giấy, Hanoi, Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000130142159-ai-fullstack-developer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000137791979-ai-fullstack-developer) |
 
 ## About This Role
 
-This software engineer position at SOCOTEC was posted on 2026-06-04.
+This software engineer position at SOCOTEC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

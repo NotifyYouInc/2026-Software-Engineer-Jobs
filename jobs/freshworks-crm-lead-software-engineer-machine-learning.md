@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112838837-lead-software-engineer-machine-learning) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000137816980-lead-software-engineer-machine-learning) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-03-05.
+This software engineer position at Freshworks CRM was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

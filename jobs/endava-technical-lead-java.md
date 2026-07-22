@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000137592360-technical-lead-java) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000137805489-technical-lead-java) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-07-14.
+This software engineer position at Endava was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

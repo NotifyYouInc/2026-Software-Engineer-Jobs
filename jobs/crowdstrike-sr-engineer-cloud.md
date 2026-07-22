@@ -1,16 +1,16 @@
-# Sr. Engineer - Cloud at CrowdStrike
+# Sr. Engineer, Cloud at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Sr-Engineer---Cloud_R28027) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer--Cloud_R29383) |
 
 ## About This Role
 
-This software engineer position at CrowdStrike was posted on 2026-03-23.
+This software engineer position at CrowdStrike was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

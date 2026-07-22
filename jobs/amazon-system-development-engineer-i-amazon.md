@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3190016/system-development-engineer-i-amazon) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474899/system-development-engineer-i-amazon) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-02-26.
+This software engineer position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
-| Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Field-Application-Engineer_J-00336254-1) |
+| Location | Boise, Idaho, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Boise-ID-USA/Field-Application-Engineer_J-00347307) |
 
 ## About This Role
 
-This customer success position at ASML was posted on 2026-03-24.
+This software engineer position at ASML was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
