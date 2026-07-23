@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Database Administration |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Database-Engineer_R-546897) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Database-Engineer_R-535398) |
 
 ## About This Role
 
-This database administration position at Wells Fargo was posted on 2026-06-01.
+This software engineer position at Wells Fargo was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

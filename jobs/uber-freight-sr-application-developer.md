@@ -5,12 +5,12 @@
 | Company | [Uber Freight](https://scoutify.ai/companies/uber-freight?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/uberfreight/jobs/5182870008) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/uberfreight/jobs/5357860008) |
 
 ## About This Role
 
-This software engineer position at Uber Freight was posted on 2026-04-09.
+This software engineer position at Uber Freight was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

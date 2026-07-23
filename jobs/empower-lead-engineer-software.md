@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Engineering Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Software_R0057593) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Software_R0060785) |
 
 ## About This Role
 
-This engineering manager position at Empower was posted on 2026-03-26.
+This software engineer position at Empower was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

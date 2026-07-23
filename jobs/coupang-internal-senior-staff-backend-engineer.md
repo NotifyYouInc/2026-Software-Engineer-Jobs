@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7953043?gh_jid=7953043) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8067673?gh_jid=8067673) |
 
 ## About This Role
 
-This software engineer position at Coupang Internal was posted on 2026-05-26.
+This software engineer position at Coupang Internal was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

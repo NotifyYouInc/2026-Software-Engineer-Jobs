@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121947) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=126116) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-06-24.
+This software engineer position at IBM was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

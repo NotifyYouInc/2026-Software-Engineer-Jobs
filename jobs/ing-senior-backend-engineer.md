@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Backend-Engineer_REQ-10113209-2) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Backend-Engineer_REQ-10117383-1) |
 
 ## About This Role
 
-This software engineer position at ING was posted on 2026-06-22.
+This software engineer position at ING was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

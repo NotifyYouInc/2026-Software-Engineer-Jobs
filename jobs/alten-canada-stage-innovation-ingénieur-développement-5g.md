@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000136409420-stage-innovation-ingenieur-developpement-5g) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138053378-stage-innovation-ingenieur-developpement-5g) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-07-08.
+This software engineer position at ALTEN Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Livonia, Michigan, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Sr-Application-Engineer_R54604) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Sr-Application-Engineer_R55578) |
 
 ## About This Role
 
-This engineering manager position at Cadence Design Systems was posted on 2026-05-05.
+This software engineer position at Cadence Design Systems was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

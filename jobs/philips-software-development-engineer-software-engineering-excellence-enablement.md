@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577730) |
+| Location | Eindhoven, North Brabant, The Netherlands |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2) |
 
 ## About This Role
 
-This frontend engineer position at Philips was posted on 2026-03-02.
+This software engineer position at Philips was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

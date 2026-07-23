@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135913146-developpeurse-java-defense-securite-lille) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138041219-developpeurse-java-defense-securite-lille) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-06.
+This software engineer position at Sopra Steria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

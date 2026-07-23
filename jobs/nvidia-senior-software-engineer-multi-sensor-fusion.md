@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Robotics Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer--Multi-Sensor-Fusion_JR2015132) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer--Multi-Sensor-Fusion_JR2021150) |
 
 ## About This Role
 
-This robotics engineer position at Nvidia was posted on 2026-03-25.
+This software engineer position at Nvidia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000125781693-stage-innovation-ingenieur-genie-logiciel-fullstack) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138053840-stage-innovation-ingenieur-genie-logiciel-fullstack) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-11.
+This software engineer position at ALTEN Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

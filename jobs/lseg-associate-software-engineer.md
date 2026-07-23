@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Associate-Software-Engineer_R0120883-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Associate-Software-Engineer_R0121488-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-07-02.
+This software engineer position at LSEG was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sèvres, Île-de-France, France |
+| Location | Rennes, Brittany, France |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000136414494-stage-innovation-ingenieur-realite-etendue) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138054568-stage-innovation-ingenieur-realite-etendue) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-07-08.
+This software engineer position at ALTEN was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

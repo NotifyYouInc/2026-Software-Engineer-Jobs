@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Senior-Systems-Software-Engineer_JR-45254-1) |
+| Location | Franklin, Tennessee, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Franklin-WI-Corporate/Senior-Systems-Software-Engineer_JR-45643-1) |
 
 ## About This Role
 
-This devops engineer position at Northwestern Mutual was posted on 2026-05-22.
+This software engineer position at Northwestern Mutual was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

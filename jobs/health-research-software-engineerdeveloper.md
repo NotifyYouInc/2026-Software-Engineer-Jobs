@@ -5,12 +5,12 @@
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Albany, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Software-Engineer-Developer_JR-0002112) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Software-Engineer-Developer_JR-0002227) |
 
 ## About This Role
 
-This software engineer position at Health Research was posted on 2026-04-20.
+This software engineer position at Health Research was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

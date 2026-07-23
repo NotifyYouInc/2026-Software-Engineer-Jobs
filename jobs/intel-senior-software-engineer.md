@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Senior-Software-Engineer_JR0283886) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Senior-Software-Engineer_JR0285595) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-05-15.
+This software engineer position at Intel was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

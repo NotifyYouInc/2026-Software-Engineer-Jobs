@@ -1,16 +1,16 @@
-# Lead Software Engineer, Full Stack at Capital One
+# Lead Software Engineer, Full stack at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R245911-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-stack_R247098-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-07-01.
+This software engineer position at Capital One was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

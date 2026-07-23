@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Test-Development-Engineer---Data-Center-System-Software_JR2020775) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Test-Development-Engineer---Data-Center-System-Software_JR2021386) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-07-07.
+This software engineer position at Nvidia was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

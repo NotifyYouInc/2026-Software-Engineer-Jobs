@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Jersey, US |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Test-Development-Engineer---Software_2011806) |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Test-Development-Engineer---Software_2019875-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-04-22.
+This software engineer position at Cisco was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

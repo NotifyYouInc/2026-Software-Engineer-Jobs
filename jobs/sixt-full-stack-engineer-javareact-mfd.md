@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000118872200-full-stack-engineer-javareact-mfd) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000138054444-full-stack-engineer-javareact-mfd) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-04-06.
+This software engineer position at Sixt was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

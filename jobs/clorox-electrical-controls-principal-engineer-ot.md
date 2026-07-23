@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Alpharetta-GA---USA/Electrical---Controls-Principal-Engineer--OT-_22354-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Alpharetta-GA---USA/Electrical---Controls-Principal-Engineer--OT-_22531-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Clorox was posted on 2026-06-03.
+This software engineer position at Clorox was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

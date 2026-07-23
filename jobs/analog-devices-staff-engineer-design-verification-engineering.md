@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Staff-Engineer--Design-Verification-Engineering_R262387-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-RMZ/Staff-Engineer--Design-Verification-Engineering_R263858) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-05.
+This software engineer position at Analog Devices was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

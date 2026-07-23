@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka-dC_c4UMFnL2LGTEfe6GTuxZulmrAt7wMWUKkMikq9EjsACxwdTAl0WeLXOhQWe9SReLfyxlYqimSbD7QgUcBmV6QZtZ0O9z0m8wyy8h24t7sFa-F9D01eM-GWFA%3D%3D_V2&loc=IN&title=Software+Engineer+Manager) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcmPd6Okji6Voe9o7FWZlSDj8-YgFQy-q_IuQtqqu_UVEjsA1Ny_i33awATJosprlcecWOm3RvLK-BnduzZQ5IsxzDgeH3vOeeR4WcmbD3r4LP73iNbhI2Klowgr_g%3D%3D_V2&loc=IN&title=Software+Engineer+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-05-22.
+This software engineer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

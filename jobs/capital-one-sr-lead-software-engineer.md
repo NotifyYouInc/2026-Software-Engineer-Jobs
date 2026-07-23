@@ -1,16 +1,16 @@
-# Sr Lead Software Engineer at Capital One
+# Sr. Lead Software Engineer at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Lead-Software-Engineer_R243135-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer_R246807-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-05-22.
+This software engineer position at Capital One was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
