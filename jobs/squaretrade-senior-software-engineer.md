@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SquareTrade](https://scoutify.ai/companies/squaretrade1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000134498870-senior-software-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000138207189-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SquareTrade was posted on 2026-06-26.
+This software engineer position at SquareTrade was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

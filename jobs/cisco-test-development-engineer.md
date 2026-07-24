@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Test-Development-Engineer_2014228) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hanoi-Vietnam/Test-Development-Engineer_2016651-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-05-08.
+This software engineer position at Cisco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

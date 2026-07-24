@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7651026003) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7806624003) |
 
 ## About This Role
 
-This frontend engineer position at Tekion was posted on 2026-03-09.
+This software engineer position at Tekion was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Senior-Software-Engineer_R39149-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-CA-San-Diego/Senior-Software-Engineer_R39277-1) |
 
 ## About This Role
 
-This software engineer position at CoStar Group was posted on 2026-06-29.
+This software engineer position at CoStar Group was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

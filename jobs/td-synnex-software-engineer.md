@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chengdu-China/software-engineer_R51344) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chengdu-China/software-engineer_R53948) |
 
 ## About This Role
 
-This software engineer position at TD Synnex was posted on 2026-05-14.
+This software engineer position at TD Synnex was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

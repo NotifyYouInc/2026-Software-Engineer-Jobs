@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer_WD30273794) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Application-Engineer_WD30273754) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-07-08.
+This software engineer position at Johnson Controls was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

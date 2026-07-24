@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/6464c937-9f80-4b69-8130-87bba4d63a39) |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f1755ec4-198d-4ec0-862b-448aaae45fce) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-06-06.
+This forward deployed engineer position at Clera was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

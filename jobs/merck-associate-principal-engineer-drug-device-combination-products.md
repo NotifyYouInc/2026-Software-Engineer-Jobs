@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rahway, New Jersey, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Engineer--Drug-Device-Combination-Products_R389859-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Engineer--Drug-Device-Combination-Products_R389854-2) |
 
 ## About This Role
 
-This engineering manager position at Merck was posted on 2026-04-15.
+This software engineer position at Merck was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

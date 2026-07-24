@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130298450-senior-agentic-search-infrastructure-engineer-moveworks) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138210479-senior-agentic-search-infrastructure-engineer-moveworks) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-06-04.
+This devops engineer position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

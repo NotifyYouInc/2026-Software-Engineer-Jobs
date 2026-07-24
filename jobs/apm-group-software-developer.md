@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Sydney, New South Wales, Australia |
+| Location | West Perth, Western Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001233507-software-developer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001242062-software-developer) |
 
 ## About This Role
 
-This software engineer position at APM Group was posted on 2026-07-15.
+This software engineer position at APM Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

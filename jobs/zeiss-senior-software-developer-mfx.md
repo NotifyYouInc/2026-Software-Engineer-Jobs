@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Oberkochen, Baden-Wurttemberg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Senior-Software-Developer--m-f-x-_JR_1050756-2) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Senior-Software-Developer--m-f-x-_JR_1050889) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-07-14.
+This software engineer position at Zeiss was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

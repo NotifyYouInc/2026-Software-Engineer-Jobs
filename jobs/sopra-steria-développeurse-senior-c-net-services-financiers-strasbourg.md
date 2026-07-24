@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Schiltigheim, Grand Est, France |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132461787-developpeurse-senior-c-net-services-financiers-strasbourg) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138282808-developpeurse-senior-c-net-services-financiers-strasbourg) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-16.
+This software engineer position at Sopra Steria was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

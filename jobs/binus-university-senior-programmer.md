@@ -1,16 +1,16 @@
-# Senior Programmer at Binus University
+# Senior Programmer  at Binus University
 
 | Field | Details |
 |-------|---------|
 | Company | [Binus University](https://scoutify.ai/companies/binus-university?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Programmer_JR2026057825) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Programmer-_JR2026078065) |
 
 ## About This Role
 
-This software engineer position at Binus University was posted on 2026-05-22.
+This software engineer position at Binus University was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

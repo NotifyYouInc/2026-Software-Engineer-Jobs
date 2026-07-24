@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7774345) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8049986) |
 
 ## About This Role
 
-This software engineer position at Waymo was posted on 2026-04-05.
+This software engineer position at Waymo was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

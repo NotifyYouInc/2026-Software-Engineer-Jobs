@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | France |
+| Location | Échirolles, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000108156786-developpeurse-senior-c-systemes-temps-reel-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138258194-developpeurse-senior-c-systemes-temps-reel-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-09.
+This software engineer position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Developer Relations |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130099720-staff-software-engineer-developer-experience-moveworks) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138210239-staff-software-engineer-developer-experience-moveworks) |
 
 ## About This Role
 
-This developer relations position at ServiceNow was posted on 2026-06-03.
+This software engineer position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

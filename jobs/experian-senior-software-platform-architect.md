@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137055809-senior-software-platform-architect) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138285399-senior-software-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-07-10.
+This technical & solutions architect position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

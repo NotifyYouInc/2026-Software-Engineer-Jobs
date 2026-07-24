@@ -5,12 +5,12 @@
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000125717734-software-engineer-intern) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000138264310-software-engineer-intern) |
 
 ## About This Role
 
-This software engineer position at Pilmico was posted on 2026-05-11.
+This software engineer position at Pilmico was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

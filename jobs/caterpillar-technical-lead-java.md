@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Technical-Lead---Java_R0000373089) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Technical-Lead---Java_R0000383206) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-06-01.
+This software engineer position at Caterpillar was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

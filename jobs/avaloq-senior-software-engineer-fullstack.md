@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000136176659-senior-software-engineer-fullstack) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000138252279-senior-software-engineer-fullstack) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-07-07.
+This software engineer position at Avaloq was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111903402-alternance-ingenieure-etudes-et-developpement-java-angular-services-publics-nantes) |
+| Location | Nantes, Pays de la Loire, France |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138200763-alternance-ingenieure-etudes-et-developpement-java-angular-services-publics-nantes) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-02-27.
+This software engineer position at Sopra Steria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

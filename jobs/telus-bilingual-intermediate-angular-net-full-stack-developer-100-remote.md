@@ -5,12 +5,12 @@
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Intermediate-Angular-Net-Full-Stack-Developer--100--remote-_R-21513) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Bilingual-Intermediate-Angular-Net-Full-Stack-Developer--100--remote-_R-22630) |
 
 ## About This Role
 
-This software engineer position at TELUS was posted on 2026-04-17.
+This software engineer position at TELUS was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

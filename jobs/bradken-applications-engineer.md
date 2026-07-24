@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bradken](https://scoutify.ai/companies/bradken?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Port Moresby, National Capital, Papua New Guinea |
+| Location | Zambia |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bradken/jobs/4926888101) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bradken/jobs/4930330101) |
 
 ## About This Role
 
-This software engineer position at Bradken was posted on 2026-07-14.
+This software engineer position at Bradken was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

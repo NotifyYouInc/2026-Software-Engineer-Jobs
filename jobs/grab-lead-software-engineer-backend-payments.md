@@ -1,16 +1,16 @@
-# Lead Software Engineer, Backend (Payments) at Grab
+# Lead Software Engineer, Backend - Payments at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121109437-lead-software-engineer-backend-payments) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138254424-lead-software-engineer-backend-payments) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-16.
+This software engineer position at Grab was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

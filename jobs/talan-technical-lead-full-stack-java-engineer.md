@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000137816313-technical-lead-full-stack-java-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138287288-technical-lead-full-stack-java-engineer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-07-15.
+This software engineer position at Talan was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

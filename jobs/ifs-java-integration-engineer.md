@@ -1,16 +1,16 @@
-# Java integration engineer at IFS
+# Java Integration Engineer at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000126455539-java-integration-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138282669-java-integration-engineer) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-05-14.
+This software engineer position at IFS was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

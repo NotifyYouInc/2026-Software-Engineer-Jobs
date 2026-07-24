@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Baton-Rouge-Louisiana-US/On-Site-Applications-Engineer_R-20120) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Tulsa-Oklahoma-US/On-Site-Applications-Engineer_R-20209) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-15.
+This software engineer position at Flowserve was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
