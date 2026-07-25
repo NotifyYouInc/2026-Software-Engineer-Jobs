@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5683942-S2058933-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Application-Support-Engineer_ATCI-R1-S1927468-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-07-16.
+This technical support engineer position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

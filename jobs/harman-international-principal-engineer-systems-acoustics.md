@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Northridge, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Principal-Engineer--Systems---Acoustics_R-52460-2026) |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Principal-Engineer-Systems-Acoustics/30913) |
 
 ## About This Role
 
-This electrical / hardware engineer position at HARMAN International was posted on 2026-03-27.
+This software engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Principal-Engineer--Visual-Experience-Lead_R-54503-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Principal-Engineer-Visual-Experience-Lead/32166) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-07-09.
+This software engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wellesley, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Staff-Software-Development-Engineer_R0933858-1) |
+| Location | Trenton, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Trenton/Staff-Software-Development-Engineer_R0947522-1) |
 
 ## About This Role
 
-This ai / llm engineer position at CVS Health was posted on 2026-06-26.
+This software engineer position at CVS Health was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

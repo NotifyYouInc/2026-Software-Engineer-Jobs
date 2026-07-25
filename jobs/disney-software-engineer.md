@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineer_10146416-2) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Buenos-Aires-Argentina/Software-Engineer_10154451) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-06-24.
+This software engineer position at Disney was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

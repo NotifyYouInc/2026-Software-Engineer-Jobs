@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8042191/apply/?gh_jid=8042191) |
+| Location | Somerville, Massachusetts, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8072868/apply/?gh_jid=8072868) |
 
 ## About This Role
 
-This software engineer position at Formlabs was posted on 2026-07-01.
+This machine learning engineer position at Formlabs was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

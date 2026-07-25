@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Pune---Maharashtra-India---Old-Mumbai-Pune-Rd/Principal-Engineer--Principal-Engineer--Test-Design---Test-Development--LabVIEW--TestStand--VeriStand_R-54408-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Principal-Engineer-Principal-Engineer-Test-Design-Test-Development-LabVIEW-TestStand-VeriStand/32216) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-07-09.
+This software engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

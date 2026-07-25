@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7778961/apply/?gh_jid=7778961) |
+| Location | Somerville, Massachusetts, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8072848/apply/?gh_jid=8072848) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Formlabs was posted on 2026-04-03.
+This software engineer position at Formlabs was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

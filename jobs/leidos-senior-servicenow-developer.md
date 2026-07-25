@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-ServiceNow-Developer_R-00185012) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-ServiceNow-Developer_R-00187285) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-08.
+This software engineer position at Leidos was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

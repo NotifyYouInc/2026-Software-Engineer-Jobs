@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Sr---Applications-Engineer---High-Power_R-898) |
+| Location | West Palm Beach, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/West-Palm-Beach---Florida/Sr-Applications-Engineer_R-1758) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-04-21.
+This software engineer position at Monolithic Power Systems was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

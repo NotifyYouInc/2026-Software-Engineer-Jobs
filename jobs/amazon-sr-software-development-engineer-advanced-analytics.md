@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381945/sr-software-development-engineer-advanced-analytics) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478037/sr-software-development-engineer-advanced-analytics) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-02.
+This software engineer position at Amazon was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

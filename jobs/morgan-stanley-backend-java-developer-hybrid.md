@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Backend-Java-Developer--Hybrid-_PT-JR030893) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Backend-Java-Developer--Hybrid-_PT-JR040768) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-03-10.
+This software engineer position at Morgan Stanley was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

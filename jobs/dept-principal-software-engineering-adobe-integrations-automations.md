@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8035772) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8072822) |
 
 ## About This Role
 
-This software engineer position at DEPT® was posted on 2026-07-01.
+This software engineer position at DEPT® was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

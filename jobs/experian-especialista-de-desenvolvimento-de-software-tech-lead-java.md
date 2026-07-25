@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129586739-especialista-de-desenvolvimento-de-software-tech-lead-java) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138403260-especialista-de-desenvolvimento-de-software-tech-lead-java) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-01.
+This software engineer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

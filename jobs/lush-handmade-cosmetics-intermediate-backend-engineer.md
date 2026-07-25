@@ -5,12 +5,12 @@
 | Company | [Lush Handmade Cosmetics](https://scoutify.ai/companies/lush-handmade-cosmetics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lush/jobs/7986212) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lush/jobs/8055568) |
 
 ## About This Role
 
-This software engineer position at Lush Handmade Cosmetics was posted on 2026-06-05.
+This software engineer position at Lush Handmade Cosmetics was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

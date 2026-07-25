@@ -1,16 +1,16 @@
-# Software Engineer II (Full Time) – United States at Cisco
+# Software Engineer II (Full-Time) - United States at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-II--Full-Time----United-States_2015873) |
+| Location | Durham, North Carolina, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----United-States_2019205) |
 
 ## About This Role
 
-This frontend engineer position at Cisco was posted on 2026-06-22.
+This software engineer position at Cisco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

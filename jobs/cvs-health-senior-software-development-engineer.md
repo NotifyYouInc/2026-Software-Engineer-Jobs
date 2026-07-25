@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arkansas, US |
+| Location | Richardson, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Senior-Software-Development-Engineer_R0970733) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Richardson-909-E-Collins-Blvd/Senior-Software-Development-Engineer_R0937713) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-15.
+This software engineer position at CVS Health was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

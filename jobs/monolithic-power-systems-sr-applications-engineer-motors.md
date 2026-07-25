@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Detroit, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Detroit-MI/Sr-Applications-Engineer_R-1412) |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Detroit-MI/Sr-Applications-Engineer--Motors-_R-1755) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-05-11.
+This software engineer position at Monolithic Power Systems was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

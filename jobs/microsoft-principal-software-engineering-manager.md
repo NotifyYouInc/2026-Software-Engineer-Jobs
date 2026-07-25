@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862502) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556928926) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-05-18.
+This engineering manager position at Microsoft was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

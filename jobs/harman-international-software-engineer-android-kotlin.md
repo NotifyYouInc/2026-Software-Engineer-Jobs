@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Mobile Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Software-Engineer---Android-Kotlin_R-51931-2026) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Android-Kotlin/31898) |
 
 ## About This Role
 
-This mobile engineer position at HARMAN International was posted on 2026-03-10.
+This software engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

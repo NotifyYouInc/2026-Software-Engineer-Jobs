@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Systems-Engineer_R-00186389) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dayton-OH/Systems-Engineer_R-00187560) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-01.
+This software engineer position at Leidos was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

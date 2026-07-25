@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5184035007?gh_jid=5184035007) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5189879007?gh_jid=5189879007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-07-09.
+This software engineer position at Anduril was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

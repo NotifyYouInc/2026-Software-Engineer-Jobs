@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Bangalore-Baroda-India/Principal-Software-Engineer_R0040357-2) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Principal-Software-Engineer_R0044729) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Harris Computer was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

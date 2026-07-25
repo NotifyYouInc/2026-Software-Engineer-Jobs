@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Senior-Fullstack-Engineer--Solve_R34789) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Krakow-Poland/Senior-Fullstack-Engineer--Solve_R34791) |
 
 ## About This Role
 
-This software engineer position at Zendesk was posted on 2026-05-01.
+This software engineer position at Zendesk was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#   Principal Engineer II at Western Alliance Bancorporation
+# Principal Engineer II at Western Alliance Bancorporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/North-Carolina/XMLNAME---Principal-Engineer-II_R13358) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Principal-Engineer-II_R13488) |
 
 ## About This Role
 
-This software engineer position at Western Alliance Bancorporation was posted on 2026-07-10.
+This software engineer position at Western Alliance Bancorporation was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

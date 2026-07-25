@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Principal-Software-Engineer_JR-179424) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Principal-Software-Engineer_JR-181294-1) |
 
 ## About This Role
 
-This software engineer position at CarMax was posted on 2026-06-19.
+This software engineer position at CarMax was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

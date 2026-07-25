@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/Senior-Software-Engineer_R000108893) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/Senior-Software-Engineer_R000109744) |
 
 ## About This Role
 
-This frontend engineer position at Guardian Life was posted on 2026-03-20.
+This software engineer position at Guardian Life was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

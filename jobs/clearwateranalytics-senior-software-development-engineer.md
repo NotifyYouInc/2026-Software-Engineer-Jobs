@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Senior-Software-Development-Engineer_R2375) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Chicago/Senior-Software-Development-Engineer_R7183-2) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-06-01.
+This software engineer position at Clearwateranalytics was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

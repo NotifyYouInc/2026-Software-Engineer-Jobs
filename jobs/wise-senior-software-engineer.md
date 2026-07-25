@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135786239-senior-software-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138414549-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-03.
+This software engineer position at WISE was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
