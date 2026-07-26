@@ -1,16 +1,16 @@
-# Senior Software Engineer-Full Stack at PayPal
+# Senior Software Engineer Full Stack at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer-Full-Stack_R0134170-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Software-Engineer-Full-Stack_R0137109) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-04-20.
+This software engineer position at PayPal was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

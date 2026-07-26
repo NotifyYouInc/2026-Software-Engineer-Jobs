@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214121) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#213384) |
 
 ## About This Role
 
-This software engineer position at DTCC was posted on 2026-07-07.
+This software engineer position at DTCC was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

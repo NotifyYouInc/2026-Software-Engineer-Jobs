@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Technical-Staff-Engineer-Product-Marketing_R1203-26) |
+| Location | 6 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Technical-Staff-Engineer-Product-Marketing_R3183-26) |
 
 ## About This Role
 
-This marketing position at Microchip Technology was posted on 2026-04-01.
+This software engineer position at Microchip Technology was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
