@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Johor, MY |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Developer--Application_WD217720) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Johor/Developer--Application_WD225649) |
 
 ## About This Role
 
-This software engineer position at FLEX LTD. Flextronics was posted on 2026-03-23.
+This software engineer position at FLEX LTD. Flextronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

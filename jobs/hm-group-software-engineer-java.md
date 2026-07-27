@@ -1,16 +1,16 @@
-# Software Engineer - Java  at H&M Group
+# Software Engineer - Java at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000108408872-software-engineer-java) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000138553979-software-engineer-java) |
 
 ## About This Role
 
-This software engineer position at H&M Group was posted on 2026-02-10.
+This software engineer position at H&M Group was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer - Development  at Sutherland
+# Software Engineer Development at Sutherland
 
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000128185039-software-engineer-development) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000138557929-software-engineer-development) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-05-25.
+This software engineer position at Sutherland was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

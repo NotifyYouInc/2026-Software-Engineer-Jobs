@@ -1,16 +1,16 @@
-# Backend Engineer - Account Sharing  at WISE
+# Backend Engineer - Account Sharing at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137820145-backend-engineer-account-sharing) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138593452-backend-engineer-account-sharing) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-15.
+This software engineer position at WISE was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

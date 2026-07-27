@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5347387008?gh_jid=5347387008) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5360705008?gh_jid=5360705008) |
 
 ## About This Role
 
-This software engineer position at Scopely was posted on 2026-07-14.
+This software engineer position at Scopely was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

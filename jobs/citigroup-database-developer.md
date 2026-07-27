@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Database-Developer_26933792) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Database-Developer_26973669) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-07.
+This software engineer position at Citigroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5624960004) |
 
 ## About This Role
 
-This software engineer position at Diligent Corporation was posted on 2026-07-06.
+This software engineer position at Diligent Corporation was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

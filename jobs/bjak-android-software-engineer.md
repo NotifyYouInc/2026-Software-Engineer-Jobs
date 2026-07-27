@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Mobile Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5cddf97c-8942-4582-97d8-52a3acf0d619) |
+| Location | Poland |
+| Category | Software Engineer |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4584aebf-6910-4965-a6ff-6e0186fc2525) |
 
 ## About This Role
 
-This mobile engineer position at Bjak was posted on 2026-04-11.
+This software engineer position at Bjak was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

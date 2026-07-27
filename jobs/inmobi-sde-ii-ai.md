@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | AI / ML Research |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7491392) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8073988) |
 
 ## About This Role
 
-This ai / ml research position at InMobi was posted on 2026-04-07.
+This software engineer position at InMobi was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

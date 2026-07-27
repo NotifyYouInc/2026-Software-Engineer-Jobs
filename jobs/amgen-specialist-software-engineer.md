@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-Software-Engineer_R-243770) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Florida---Tampa/Specialist-Software-Engineer_R-244953) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-05-06.
+This software engineer position at Amgen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Senior-Technical-Artist_JR2026500065-1) |
+| Category | Motion / Video Production |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Senior-Technical-Artist_JR2026519428-1) |
 
 ## About This Role
 
-This technical writer position at Boeing was posted on 2026-03-10.
+This motion / video production position at Boeing was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

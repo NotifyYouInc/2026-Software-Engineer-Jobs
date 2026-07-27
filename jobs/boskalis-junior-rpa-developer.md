@@ -5,12 +5,12 @@
 | Company | [Boskalis](https://scoutify.ai/companies/boskalis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000137806449-junior-rpa-developer) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000138498799-junior-rpa-developer) |
 
 ## About This Role
 
-This software engineer position at Boskalis was posted on 2026-07-15.
+This software engineer position at Boskalis was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

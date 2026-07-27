@@ -1,16 +1,16 @@
-# Software Engineer – React/Java/AI at ISS | Institutional Shareholder Services
+# Software Engineer - React/Java/AI at ISS | Institutional Shareholder Services
 
 | Field | Details |
 |-------|---------|
 | Company | [ISS | Institutional Shareholder Services](https://scoutify.ai/companies/iss-institutional-shareholder-services?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Software-Engineer---React-Java-AI_JR_9657) |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Software-Engineer---React-Java-AI_JR_9933) |
 
 ## About This Role
 
-This frontend engineer position at ISS | Institutional Shareholder Services was posted on 2026-03-04.
+This software engineer position at ISS | Institutional Shareholder Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

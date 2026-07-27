@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138261224-developpeur-java-angular-hf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138587149-developpeur-java-angular-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-07-17.
+This software engineer position at ALTEN Canada was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

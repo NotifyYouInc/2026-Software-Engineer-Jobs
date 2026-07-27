@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/bfc5684c-184e-4bbf-863e-6c729c461e97) |
+| Location | Poland |
+| Category | Software Engineer |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f5f3ee17-ce2c-4174-8b28-36d84a48a47f) |
 
 ## About This Role
 
-This ai / llm engineer position at Bjak was posted on 2026-04-11.
+This software engineer position at Bjak was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

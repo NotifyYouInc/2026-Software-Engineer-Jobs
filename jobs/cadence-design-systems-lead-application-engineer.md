@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Zhubei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Lead-Application-Engineer_R52624) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Lead-Application-Engineer_R55522) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-06-15.
+This software engineer position at Cadence Design Systems was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

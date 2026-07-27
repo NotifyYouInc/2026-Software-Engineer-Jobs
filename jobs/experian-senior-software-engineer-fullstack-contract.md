@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135423739-senior-software-engineer-fullstack-contract) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138552379-senior-software-engineer-fullstack-contract) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-02.
+This software engineer position at Experian was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

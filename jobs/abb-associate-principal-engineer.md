@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Associate-Principal-Engineer_JR00033143) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Associate-Principal-Engineer_JR00039582) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-04-27.
+This software engineer position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

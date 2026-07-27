@@ -1,16 +1,16 @@
-# Java Software Engineer / 1  at Inetum
+# Java Software Engineer / 1 at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Poznań, Greater Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136731469-java-software-engineer-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000138594820-java-software-engineer-1) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-07-09.
+This software engineer position at Inetum was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

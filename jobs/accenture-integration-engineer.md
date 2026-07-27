@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5328112-S2059051-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Integration-Engineer_ATCP-1447180-S425862) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-17.
+This software engineer position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

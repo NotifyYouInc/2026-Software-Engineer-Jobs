@@ -1,16 +1,16 @@
-# Senior Software Engineer  at ZoomInfo Technologies LLC
+# Senior Software Engineer at ZoomInfo Technologies LLC
 
 | Field | Details |
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8604799002) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8627989002) |
 
 ## About This Role
 
-This software engineer position at ZoomInfo Technologies LLC was posted on 2026-07-15.
+This software engineer position at ZoomInfo Technologies LLC was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

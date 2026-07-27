@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001058168-senior-effects-engine-engineer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001245825-senior-effects-engine-engineer) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-05-09.
+This software engineer position at Canva was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

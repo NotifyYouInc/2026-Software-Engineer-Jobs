@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Ntwk-Engring_R-1092071) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Ntwk-Engring_R-1096367) |
 
 ## About This Role
 
-This software engineer position at Verizon was posted on 2026-03-13.
+This software engineer position at Verizon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

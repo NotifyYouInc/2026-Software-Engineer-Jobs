@@ -1,16 +1,16 @@
-# Full Stack Engineer at Clera
+# Full-Stack Engineer at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e9c4fe24-2b81-4467-8e9b-1f646dcfc839) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/59a22b30-e6b0-44cf-a248-f2d1f188321d) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-18.
+This software engineer position at Clera was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

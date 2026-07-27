@@ -5,12 +5,12 @@
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000137818617-sdr-business-developer-b2b-prospection-c-level-hf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000138578219-sdr-business-developer-b2b-prospection-c-level-hf) |
 
 ## About This Role
 
-This software engineer position at EPSA was posted on 2026-07-15.
+This software engineer position at EPSA was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
