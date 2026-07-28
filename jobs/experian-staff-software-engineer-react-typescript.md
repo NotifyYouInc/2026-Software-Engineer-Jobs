@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136407679-staff-software-engineer-react-typescript) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138815980-staff-software-engineer-react-typescript) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-08.
+This software engineer position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

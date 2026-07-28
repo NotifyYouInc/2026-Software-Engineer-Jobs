@@ -1,16 +1,16 @@
-# Pessoa Desenvolvedora Backend Kotlin (Sênior) at Vagas Internas
+# Pessoa Desenvolvedora Backend Kotlin Sênior at Vagas Internas
 
 | Field | Details |
 |-------|---------|
 | Company | [Vagas Internas](https://scoutify.ai/companies/vagas-internas?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vagasinternas/jobs/7742142003) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vagasinternas/jobs/7807327003) |
 
 ## About This Role
 
-This software engineer position at Vagas Internas was posted on 2026-05-22.
+This software engineer position at Vagas Internas was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

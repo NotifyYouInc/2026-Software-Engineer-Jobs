@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Wuhan---China/System-Development-Engineer_R2026-2711) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Shanghai---China/System-Development-Engineer_R2026-2658) |
 
 ## About This Role
 
-This software engineer position at BorgWarner was posted on 2026-07-13.
+This software engineer position at BorgWarner was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Texas, US |
-| Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001204997-principal-partner-engineer-ecosystem) |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001247048-principal-partner-engineer-ecosystem) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-07-02.
+This sales engineer position at Canva was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

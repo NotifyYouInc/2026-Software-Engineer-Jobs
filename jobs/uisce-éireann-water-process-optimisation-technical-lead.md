@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uisce Éireann](https://scoutify.ai/companies/em2-cx-oj116660?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Mallow, Munster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://elyx.fa.em2.oraclecloud.com/jobs/#2550) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://elyx.fa.em2.oraclecloud.com/jobs/#2570) |
 
 ## About This Role
 
-This software engineer position at Uisce Éireann was posted on 2026-07-16.
+This software engineer position at Uisce Éireann was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

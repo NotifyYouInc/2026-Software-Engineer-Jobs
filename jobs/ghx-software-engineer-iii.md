@@ -5,12 +5,12 @@
 | Company | [GHX](https://scoutify.ai/companies/ghx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4704180005) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4715753005) |
 
 ## About This Role
 
-This software engineer position at GHX was posted on 2026-06-19.
+This software engineer position at GHX was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

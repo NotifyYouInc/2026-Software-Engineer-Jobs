@@ -5,12 +5,12 @@
 | Company | [Wordware](https://scoutify.ai/companies/wordware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/wordware/jobs/7s1QsKN-ex-yc-founder) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/wordware/jobs/0Uw5LLO-ex-yc-founder) |
 
 ## About This Role
 
-This software engineer position at Wordware was posted on 2026-07-10.
+This software engineer position at Wordware was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

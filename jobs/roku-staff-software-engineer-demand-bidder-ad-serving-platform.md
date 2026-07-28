@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8068165?gh_jid=8068165) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8010107?gh_jid=8010107) |
 
 ## About This Role
 
-This software engineer position at Roku was posted on 2026-07-15.
+This software engineer position at Roku was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

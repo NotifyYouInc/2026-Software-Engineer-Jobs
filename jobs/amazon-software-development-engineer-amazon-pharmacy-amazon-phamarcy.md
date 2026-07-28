@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450788/software-development-engineer-amazon-pharmacy-amazon-phamarcy) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479627/software-development-engineer-amazon-pharmacy-amazon-phamarcy) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-16.
+This software engineer position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

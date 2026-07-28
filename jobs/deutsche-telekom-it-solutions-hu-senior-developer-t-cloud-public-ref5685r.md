@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000137824469-senior-developer-t-cloud-public-ref5685r) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000138821905-senior-developer-t-cloud-public-ref5685r) |
 
 ## About This Role
 
-This software engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-07-15.
+This software engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

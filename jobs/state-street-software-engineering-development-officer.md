@@ -1,16 +1,16 @@
-# Software Engineering & Development - Officer at State Street
+# Software Engineering & Development Officer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Software Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Software-Engineering---Development---Officer_R-792383) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development-Officer_R-794605) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-06-21.
+This software engineer position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

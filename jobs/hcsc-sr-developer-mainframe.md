@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Helena, Montana, United States |
+| Location | Richardson, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/MT---Helena/Sr-Developer---Mainframe_R0044678) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Sr-Developer---Mainframe_R0054979) |
 
 ## About This Role
 
-This software engineer position at HCSC was posted on 2026-02-27.
+This software engineer position at HCSC was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

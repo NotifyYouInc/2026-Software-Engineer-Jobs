@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer_R0000435089) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer_R0000446444) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-05-27.
+This software engineer position at Target was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

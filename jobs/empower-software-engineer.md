@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Conshohocken, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Software-Engineer_R0059596) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/PA-Conshohocken/Software-Engineer_R0060852) |
 
 ## About This Role
 
-This software engineer position at Empower was posted on 2026-06-24.
+This software engineer position at Empower was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

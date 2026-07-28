@@ -1,16 +1,16 @@
-# Senior Software Engineer (Full stack) at U.S. Bank
+# Senior Software Engineer - Full Stack at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Englewood, Colorado, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Englewood-CO/Senior-Software-Engineer--Full-stack-_2026-0005149) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Senior-Software-Engineer---Full-Stack_2026-0021371) |
 
 ## About This Role
 
-This frontend engineer position at U.S. Bank was posted on 2026-03-12.
+This software engineer position at U.S. Bank was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

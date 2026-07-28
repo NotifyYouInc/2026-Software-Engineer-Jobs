@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137388120-senior-software-engineer-i-kyc-experience) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138801759-senior-software-engineer-i-kyc-experience) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-13.
+This software engineer position at WISE was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

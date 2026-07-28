@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei-Songgao/Staff-Engineer--Product-Applications_R262067) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shanghai-Pudong-ZuChongzhi/Staff-Engineer--Product-Applications_R263176-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-05-18.
+This software engineer position at Analog Devices was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

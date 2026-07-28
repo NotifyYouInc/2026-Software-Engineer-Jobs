@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200661483/sr-staff-ml-infrastructure-engineer-compute-tpu-scheduling-foundation-model) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673231/sr-staff-ml-infrastructure-engineer-compute-tpu-scheduling-foundation-model) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-05-08.
+This devops engineer position at Apple was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

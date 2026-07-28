@@ -5,12 +5,12 @@
 | Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5286615008) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5341035008) |
 
 ## About This Role
 
-This software engineer position at Black Duck Software, Inc. was posted on 2026-07-14.
+This software engineer position at Black Duck Software, Inc. was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

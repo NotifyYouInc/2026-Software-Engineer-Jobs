@@ -5,12 +5,12 @@
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kitzingen, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000135688531-ausbildung-fachinformatiker-fachrichtung-anwendungsentwicklung-start-01092027-mwd) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000138826749-ausbildung-fachinformatiker-fachrichtung-anwendungsentwicklung-start-01092027-mwd) |
 
 ## About This Role
 
-This software engineer position at LEONI was posted on 2026-07-03.
+This software engineer position at LEONI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

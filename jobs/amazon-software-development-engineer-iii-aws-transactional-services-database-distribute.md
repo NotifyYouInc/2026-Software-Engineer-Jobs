@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201793/software-development-engineer-iii-aws-transactional-services-database-distributed-systems) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479580/software-development-engineer-iii-aws-transactional-services-database-distributed-systems) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-11.
+This software engineer position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

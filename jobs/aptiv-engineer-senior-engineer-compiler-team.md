@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Galaţi, Galați County, Romania |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/ROU-Galati-Romania---WR/Engineer---Senior-Engineer---Compiler-Team_J000701190) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/ROU-Galati-Romania---WR/Engineer---Senior-Engineer---Compiler-Team_J000701191-1) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-07-18.
+This software engineer position at Aptiv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

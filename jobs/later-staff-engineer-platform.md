@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Later](https://scoutify.ai/companies/later?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/later/jobs/8561504002) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/later/jobs/8642163002) |
 
 ## About This Role
 
-This software engineer position at Later was posted on 2026-05-22.
+This software engineer position at Later was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

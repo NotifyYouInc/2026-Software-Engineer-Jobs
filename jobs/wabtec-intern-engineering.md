@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011982976-intern-engineering) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014188166-intern-engineering) |
 
 ## About This Role
 
-This frontend engineer position at Wabtec was posted on 2026-03-05.
+This software engineer position at Wabtec was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

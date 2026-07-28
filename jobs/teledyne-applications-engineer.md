@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Field/Applications-Engineer_REQ33261) |
+| Location | San Diego, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---San-Diego-CA/Applications-Engineer_REQ34473) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Teledyne was posted on 2026-02-20.
+This software engineer position at Teledyne was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

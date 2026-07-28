@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shanghai-Puxi/Staff-Engineer--Digital-Design-Engineering_R262078) |
+| Location | Beijing, Beijing, China |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Beijing-Haidian-Xixiaokou/Staff-Engineer--Digital-Design-Engineering_R263871) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-20.
+This software engineer position at Analog Devices was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

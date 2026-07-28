@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Full-Stack-Developer---Assistant-Manager_R-790615) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Full-Stack-Developer---Assistant-Manager_R-792920) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-05-18.
+This software engineer position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

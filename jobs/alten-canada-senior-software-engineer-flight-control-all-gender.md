@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manching, Bavaria, Germany |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000131062107-senior-software-engineer-flight-control-all-gender) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138793109-senior-software-engineer-flight-control-all-gender) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN Canada was posted on 2026-06-09.
+This software engineer position at ALTEN Canada was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

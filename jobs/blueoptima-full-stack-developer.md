@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000116104977-full-stack-developer) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000138806069-full-stack-developer) |
 
 ## About This Role
 
-This frontend engineer position at BlueOptima was posted on 2026-03-23.
+This software engineer position at BlueOptima was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

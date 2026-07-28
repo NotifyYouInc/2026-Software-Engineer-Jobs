@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Development-Manager--Full-Stack-_R5699) |
+| Location | New York City, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Development-Manager--Full-Stack-_R5759) |
 
 ## About This Role
 
-This engineering manager position at Priceline was posted on 2026-06-12.
+This software engineer position at Priceline was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

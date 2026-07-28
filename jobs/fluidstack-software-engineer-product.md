@@ -5,12 +5,12 @@
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/9f85d103-8e64-48f5-9f82-268b5cb3374d) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/4d9e6d9f-d1f5-4e56-b743-a0f082fb7217) |
 
 ## About This Role
 
-This software engineer position at FLUIDSTACK was posted on 2026-07-05.
+This software engineer position at FLUIDSTACK was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

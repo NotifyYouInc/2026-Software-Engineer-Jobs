@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Lead-Software-Engineer_JR10417885) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Lead-Software-Engineer_JR10428596) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-06-03.
+This software engineer position at Airbus was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

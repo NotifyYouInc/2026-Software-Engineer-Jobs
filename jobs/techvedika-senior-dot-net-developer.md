@@ -5,12 +5,12 @@
 | Company | [TechVedika](https://scoutify.ai/companies/techvedika?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techvedika/744000138249254-senior-dot-net-developer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techvedika/744000138784579-senior-dot-net-developer) |
 
 ## About This Role
 
-This software engineer position at TechVedika was posted on 2026-07-17.
+This software engineer position at TechVedika was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

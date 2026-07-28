@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Professional--Software-Development-Engineering_R-10392828) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Professional--Software-Development-Engineering_R-10391985) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-06-23.
+This software engineer position at Fiserv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

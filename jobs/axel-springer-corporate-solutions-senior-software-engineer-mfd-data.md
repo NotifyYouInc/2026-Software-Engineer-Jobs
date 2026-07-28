@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000137616139-senior-software-engineer-mfd-data) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000138823151-senior-software-engineer-mfd-data) |
 
 ## About This Role
 
-This software engineer position at Axel Springer Corporate Solutions was posted on 2026-07-14.
+This software engineer position at Axel Springer Corporate Solutions was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
