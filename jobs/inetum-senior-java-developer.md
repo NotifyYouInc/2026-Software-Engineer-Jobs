@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136158122-senior-java-developer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139004709-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-07-07.
+This software engineer position at Inetum was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

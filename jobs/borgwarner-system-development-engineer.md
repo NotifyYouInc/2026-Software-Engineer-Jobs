@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Shanghai---China/System-Development-Engineer_R2026-2658) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/System-Development-Engineer_R2026-2749) |
 
 ## About This Role
 
-This software engineer position at BorgWarner was posted on 2026-07-21.
+This software engineer position at BorgWarner was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000138801439-senior-full-stack-entwicklerin-dmw-prozessautomatisierung) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000139004979-senior-full-stack-entwicklerin-dmw-prozessautomatisierung) |
 
 ## About This Role
 
-This software engineer position at Haufe Group was posted on 2026-07-21.
+This software engineer position at Haufe Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

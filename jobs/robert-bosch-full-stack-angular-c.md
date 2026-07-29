@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hosūr, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138392249-full-stack-angular-c) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138989716-full-stack-angular-c) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-17.
+This software engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137796354-eca-embedded-software-developer-basic-software-bsw) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139028094-eca-embedded-software-developer-basic-software-bsw) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-15.
+This software engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

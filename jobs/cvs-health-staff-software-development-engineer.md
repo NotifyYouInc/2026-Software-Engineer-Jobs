@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Trenton, New Jersey, United States |
+| Location | Vermont, US |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Trenton/Staff-Software-Development-Engineer_R0947522-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VT---Work-from-home/Staff-Software-Development-Engineer_R0969134) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-17.
+This software engineer position at CVS Health was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Vice President, Full Stack Engineer at BNY
+# Vice President, Full-Stack Engineer at BNY
 
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#74793) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78770) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-06-08.
+This software engineer position at BNY was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

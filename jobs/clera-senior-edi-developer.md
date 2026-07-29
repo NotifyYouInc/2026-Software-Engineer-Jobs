@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b9482f6d-22f9-45f5-a754-c9ebbaf903cd) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/37e75c39-6adf-41a7-ae9f-a1a2a675236b) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-19.
+This software engineer position at Clera was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

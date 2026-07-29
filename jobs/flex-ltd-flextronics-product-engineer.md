@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Product-Engineer_WD217950) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Product-Engineer_WD225291-1) |
 
 ## About This Role
 
-This software engineer position at FLEX LTD. Flextronics was posted on 2026-03-26.
+This software engineer position at FLEX LTD. Flextronics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

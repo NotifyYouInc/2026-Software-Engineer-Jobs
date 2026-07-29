@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CA-San-Jose-California-Lynx-Software-Tech/Embedded-Software-Engineer_R241035) |
+| Location | Carson, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Carson-California/Embedded-Software-Engineer_R246358) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Arrow Electronics was posted on 2026-02-20.
+This software engineer position at Arrow Electronics was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

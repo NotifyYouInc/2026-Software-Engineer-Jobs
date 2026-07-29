@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Changzhou, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineer_R26_02094) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Changzhou-City-Jiangsu-China/Application-Engineer_R26_03400) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-05-01.
+This software engineer position at Regal Rexnord was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

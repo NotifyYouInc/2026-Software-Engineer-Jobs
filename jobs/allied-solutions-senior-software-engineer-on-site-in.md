@@ -5,12 +5,12 @@
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Senior-Software-Engineer--On-Site--IN-_R-010790) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Senior-Software-Engineer--On-Site--IN-_R-010953) |
 
 ## About This Role
 
-This software engineer position at Allied Solutions was posted on 2026-05-05.
+This software engineer position at Allied Solutions was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

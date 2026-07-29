@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ireland |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8015771) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8065028) |
 
 ## About This Role
 
-This software engineer position at Twilio was posted on 2026-07-16.
+This software engineer position at Twilio was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

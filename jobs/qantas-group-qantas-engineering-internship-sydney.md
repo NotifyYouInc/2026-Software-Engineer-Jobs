@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001173046-qantas-engineering-internship-sydney) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001249896-qantas-engineering-internship-sydney) |
 
 ## About This Role
 
-This software engineer position at Qantas Group was posted on 2026-06-22.
+This software engineer position at Qantas Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

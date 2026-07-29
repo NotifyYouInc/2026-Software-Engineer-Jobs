@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Cape Canaveral, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-06-26.
+This software engineer position at SpaceX was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

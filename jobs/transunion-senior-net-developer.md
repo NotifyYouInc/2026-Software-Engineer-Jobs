@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Costa Rica |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Senior-NET-Developer_19041173) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Crum-Lynne-Pennsylvania/Senior-NET-Developer_19041174) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-07-21.
+This software engineer position at TransUnion was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

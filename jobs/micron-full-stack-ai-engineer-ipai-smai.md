@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106129) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Full-Stack-AI-Engineer--IPAI--SMAI_JR106376) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-14.
+This software engineer position at Micron was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

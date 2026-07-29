@@ -1,16 +1,16 @@
-# Software Engineer - Network Security at PNC Financial
+# Software Engineer-Network Security at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Software-Engineer---Network-Security_R219237-1) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Network-Security_R230265-1) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-06-19.
+This software engineer position at PNC Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

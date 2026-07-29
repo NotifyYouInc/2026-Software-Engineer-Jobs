@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Reykjavík, Capital Region, Iceland |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7678308?gh_jid=7678308) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7964361?gh_jid=7964361) |
 
 ## About This Role
 
-This software engineer position at Asana was posted on 2026-03-04.
+This software engineer position at Asana was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

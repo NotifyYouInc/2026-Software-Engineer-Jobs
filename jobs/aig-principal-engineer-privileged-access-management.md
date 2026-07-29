@@ -1,0 +1,22 @@
+# Principal Engineer, Privileged Access Management at AIG
+
+| Field | Details |
+|-------|---------|
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 5 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/Principal-Privilege-Access-Management-Engineer_JR2602355-1) |
+
+## About This Role
+
+This software engineer position at AIG was posted on 2026-07-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Detroit, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0244654) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/Software-Engineer_R0245138) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-07-16.
+This software engineer position at Booz Allen was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

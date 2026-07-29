@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-I--ITC_R-83689) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-I--ITC_R-88528-1) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-05-08.
+This software engineer position at Nike was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

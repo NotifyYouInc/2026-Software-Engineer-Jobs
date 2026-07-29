@@ -5,12 +5,12 @@
 | Company | [Majesco](https://scoutify.ai/companies/ocs-cx-oj65966?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5324) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5366) |
 
 ## About This Role
 
-This software engineer position at Majesco was posted on 2026-07-02.
+This software engineer position at Majesco was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/R-D-Senior-Member-of-Technical-Staff_R013135-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/R-D-Senior-Member-of-Technical-Staff_R014560-1) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-04-28.
+This software engineer position at AVEVA was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

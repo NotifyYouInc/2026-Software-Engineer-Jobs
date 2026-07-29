@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10392171) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10396052) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-07-07.
+This software engineer position at Fiserv was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

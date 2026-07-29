@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137801539-senior-staff-product-development-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000138997099-senior-staff-product-development-engineer) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-15.
+This software engineer position at SanDisk was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

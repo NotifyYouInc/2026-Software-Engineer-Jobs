@@ -1,16 +1,16 @@
-# Software Development Engineer II- at Clearwateranalytics
+# Software Development Engineer II at Clearwateranalytics
 
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Software-Development-Engineer-II-_R11917) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Software-Development-Engineer-II_R11955) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-07-03.
+This software engineer position at Clearwateranalytics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

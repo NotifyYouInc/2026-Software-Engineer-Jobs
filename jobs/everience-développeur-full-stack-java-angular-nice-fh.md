@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138584189-developpeur-full-stack-java-angular-nice-fh) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139029460-developpeur-full-stack-java-angular-nice-fh) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-07-20.
+This software engineer position at Everience was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

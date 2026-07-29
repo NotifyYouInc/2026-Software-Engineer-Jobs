@@ -5,12 +5,12 @@
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-20510) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
 
 ## About This Role
 
-This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-03-30.
+This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
