@@ -1,16 +1,16 @@
-# Senior Software Engineer - Agentic AI at Autodesk
+# Senior Software Engineer, Agentic AI at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer---Agentic-AI_26WD94547-1) |
+| Location | California, US |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Senior-Software-Engineer--Agentic-AI_26WD100100-2) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-03-05.
+This software engineer position at Autodesk was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

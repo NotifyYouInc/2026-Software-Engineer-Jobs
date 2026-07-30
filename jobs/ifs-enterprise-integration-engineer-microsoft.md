@@ -1,16 +1,16 @@
-# Enterprise Integration Engineer ( Microsoft)  at IFS
+# Enterprise Integration Engineer (Microsoft)  at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000133248114-enterprise-integration-engineer-microsoft) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139203989-enterprise-integration-engineer-microsoft) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-06-22.
+This software engineer position at IFS was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

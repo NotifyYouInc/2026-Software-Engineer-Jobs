@@ -5,12 +5,12 @@
 | Company | [City of Oklahoma City](https://scoutify.ai/companies/ocs-cx-oj78780?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3974) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4014) |
 
 ## About This Role
 
-This software engineer position at City of Oklahoma City was posted on 2026-07-09.
+This software engineer position at City of Oklahoma City was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

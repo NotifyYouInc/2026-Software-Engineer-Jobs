@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maharashtra, IN |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Hinjewadi-Pune/Senior-Software-Engineer_R0005809-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Taipei/Senior-Software-Engineer_R0005739) |
 
 ## About This Role
 
-This software engineer position at Cerence was posted on 2026-03-16.
+This software engineer position at Cerence was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

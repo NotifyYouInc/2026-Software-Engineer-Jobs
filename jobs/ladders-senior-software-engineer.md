@@ -5,12 +5,12 @@
 | Company | [Ladders](https://scoutify.ai/companies/ladders?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.lever.co/ladders/d6ea9c1d-f73b-4596-919e-3c65073f0a3d) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.lever.co/ladders/87b9fbe5-b1f7-4713-a267-d9184f80eef7) |
 
 ## About This Role
 
-This software engineer position at Ladders was posted on 2026-06-24.
+This software engineer position at Ladders was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

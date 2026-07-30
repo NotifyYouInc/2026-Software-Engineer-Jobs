@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138991796-adas-sil-expert) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139214088-adas-sil-expert) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-22.
+This software engineer position at Robert Bosch was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

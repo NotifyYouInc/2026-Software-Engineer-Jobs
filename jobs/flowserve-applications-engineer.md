@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lynchburg, Virginia, United States |
+| Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Lynchburg-Virginia-US/Applications-Engineer_R-19969) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Laguna-Mexico/Applications-Engineer_R-19867) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-18.
+This software engineer position at Flowserve was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

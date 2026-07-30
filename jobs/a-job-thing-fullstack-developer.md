@@ -5,12 +5,12 @@
 | Company | [A Job Thing](https://scoutify.ai/companies/ajobthing1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Yogyakarta, Yogyakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJobThing1/744000134944172-fullstack-developer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJobThing1/744000139198699-fullstack-developer) |
 
 ## About This Role
 
-This software engineer position at A Job Thing was posted on 2026-06-30.
+This software engineer position at A Job Thing was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

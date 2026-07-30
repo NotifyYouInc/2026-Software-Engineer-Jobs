@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Staff-Engineer--Product-Software_JR-160950) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Staff-Engineer--Product-Software_JR-162323-1) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-06-12.
+This software engineer position at Equinix was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

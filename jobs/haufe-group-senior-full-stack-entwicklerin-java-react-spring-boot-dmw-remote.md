@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germany |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000139022380-senior-full-stack-entwicklerin-java-react-spring-boot-dmw-remote) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000139216708-senior-full-stack-entwicklerin-java-react-spring-boot-dmw-remote) |
 
 ## About This Role
 
-This software engineer position at Haufe Group was posted on 2026-07-22.
+This software engineer position at Haufe Group was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1080384) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1084554) |
 
 ## About This Role
 
-This frontend engineer position at Broadridge was posted on 2026-02-25.
+This software engineer position at Broadridge was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

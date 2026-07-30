@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ADTRAN](https://scoutify.ai/companies/adtran-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ra'anana, Central District, Israel |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Raanana-Israel/Software-Engineer_R005641) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Bangalore-India/Software-Engineer_R005791) |
 
 ## About This Role
 
-This software engineer position at ADTRAN was posted on 2026-06-25.
+This software engineer position at ADTRAN was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

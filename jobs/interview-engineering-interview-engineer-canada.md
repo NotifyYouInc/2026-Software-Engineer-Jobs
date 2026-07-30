@@ -5,12 +5,12 @@
 | Company | [Interview Engineering](https://scoutify.ai/companies/interview-engineering?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/interviewengineering/jobs/8503189002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/interviewengineering/jobs/8646400002) |
 
 ## About This Role
 
-This software engineer position at Interview Engineering was posted on 2026-04-12.
+This software engineer position at Interview Engineering was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

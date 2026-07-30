@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-App-Engineering-Lead_ATCI-5682169-S2059138-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5689797-S2060103) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-17.
+This software engineer position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

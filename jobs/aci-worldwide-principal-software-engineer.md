@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACI Worldwide](https://scoutify.ai/companies/us2-cx-oj829?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Timişoara, Timiș County, Romania |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#19498) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#19595) |
 
 ## About This Role
 
-This software engineer position at ACI Worldwide was posted on 2026-07-14.
+This software engineer position at ACI Worldwide was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

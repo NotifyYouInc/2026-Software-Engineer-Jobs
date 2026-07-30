@@ -1,16 +1,16 @@
-# Software engineer at Sensata
+# Software Engineer at Sensata
 
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Aguascalientes, Aguascalientes, Mexico |
+| Location | South Burlington, Vermont, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Aguascalientes-Mexico/Software-engineer_IRC97775-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Software-Engineer_IRC98033) |
 
 ## About This Role
 
-This software engineer position at Sensata was posted on 2026-06-19.
+This software engineer position at Sensata was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

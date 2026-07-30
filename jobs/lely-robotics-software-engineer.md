@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
-| Category | Robotics Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000135713951-robotics-software-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000139227109-robotics-software-engineer) |
 
 ## About This Role
 
-This robotics engineer position at Lely was posted on 2026-07-03.
+This software engineer position at Lely was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

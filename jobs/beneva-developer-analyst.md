@@ -5,12 +5,12 @@
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-dveloppeur_R16946) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-dveloppeur_R17260) |
 
 ## About This Role
 
-This software engineer position at Beneva was posted on 2026-06-19.
+This software engineer position at Beneva was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer_R2123178-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Systems-Engineer_R2127032) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-07.
+This software engineer position at KBR was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

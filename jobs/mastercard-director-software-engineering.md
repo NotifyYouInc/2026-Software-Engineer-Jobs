@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Director--Software-Engineering_R-280105) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Software-Engineering_R-281578) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-06-22.
+This engineering manager position at Mastercard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

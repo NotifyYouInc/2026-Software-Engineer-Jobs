@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Back-End_R245770) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer--Back-End_R247574-2) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-07-01.
+This software engineer position at Capital One was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

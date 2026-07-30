@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ahmedabad/Full-Stack-Engineer_ATCI-5500717-S2005670-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5678680-S2060085-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-22.
+This software engineer position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

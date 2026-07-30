@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Boulder, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Systems-Engineer---Level-4_R10233512-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Systems-Engineer---Level-4_R10241771-1) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-19.
+This software engineer position at Northrop Grumman was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

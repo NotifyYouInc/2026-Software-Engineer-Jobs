@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Limonest, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138824843-alternance-developpeurse-java-energy-telecom-lyon) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139218153-alternance-developpeurse-java-energy-telecom-lyon) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-21.
+This software engineer position at Sopra Steria was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

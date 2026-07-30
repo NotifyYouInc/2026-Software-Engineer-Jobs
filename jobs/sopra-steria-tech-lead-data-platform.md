@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Valencia, Valencia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139001083-tech-lead-data-platform) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139207783-tech-lead-data-platform) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-22.
+This software engineer position at Sopra Steria was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

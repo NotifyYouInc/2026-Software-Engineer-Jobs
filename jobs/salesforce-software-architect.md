@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Architect_JR252142) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Zealand---Auckland/Software-Architect_JR353150) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-15.
+This software engineer position at Salesforce was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

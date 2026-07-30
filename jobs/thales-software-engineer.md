@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Philippines |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer_R0327093-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Maynila/Software-Engineer_R0329164-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-06-15.
+This software engineer position at Thales was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

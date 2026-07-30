@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--DOCA-SDK_JR2016440) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--DOCA-SDK_JR2021322) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-04-19.
+This software engineer position at Nvidia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

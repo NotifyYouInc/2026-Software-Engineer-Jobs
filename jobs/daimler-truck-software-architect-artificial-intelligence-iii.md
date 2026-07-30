@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Software-Architect---Artificial-Intelligence-III_DT-17488-2) |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Software-Architect---Artificial-Intelligence-III_DT-17908-2) |
 
 ## About This Role
 
-This ai / ml research position at Daimler Truck was posted on 2026-04-28.
+This software engineer position at Daimler Truck was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

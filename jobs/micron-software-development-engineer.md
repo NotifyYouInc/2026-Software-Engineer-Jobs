@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Development-Engineer_JR94670-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Development-Engineer_JR106013) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-05-19.
+This software engineer position at Micron was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

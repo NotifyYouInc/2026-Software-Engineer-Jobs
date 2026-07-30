@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Ahmedabad-Gujarat-India/Sr-Delivery-Manager-I_WD30262954-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Application-Engineer-II_WD30275131) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-13.
+This software engineer position at Johnson Controls was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

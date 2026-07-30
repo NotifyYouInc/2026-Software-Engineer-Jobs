@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8078820) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8081147) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-07-22.
+This software engineer position at Coupang was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

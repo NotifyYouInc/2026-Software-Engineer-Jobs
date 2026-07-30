@@ -1,16 +1,16 @@
-# Director, Full-Stack Engineer at BNY
+# Director, Full Stack Engineer at BNY
 
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77692) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77741) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-05-26.
+This software engineer position at BNY was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

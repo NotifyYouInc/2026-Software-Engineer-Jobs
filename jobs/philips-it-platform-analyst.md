@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/IT-Platform-Analyst_585862) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/IT-Platform-Analyst_587791) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-06-29.
+This software engineer position at Philips was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
