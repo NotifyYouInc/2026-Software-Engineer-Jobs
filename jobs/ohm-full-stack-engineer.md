@@ -5,12 +5,12 @@
 | Company | [Ohm](https://scoutify.ai/companies/yc-ohm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/ohm-2/jobs/KYSSr2f-full-stack-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/ohm-2/jobs/rF5JtAx-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Ohm was posted on 2026-05-13.
+This software engineer position at Ohm was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

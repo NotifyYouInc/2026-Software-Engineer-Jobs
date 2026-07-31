@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Chennai/Senior-Software-Engineer-II_R106835) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Grosvernor-House/Software-Engineer-III_R116043-3) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-05-15.
+This software engineer position at ChoicePoint was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

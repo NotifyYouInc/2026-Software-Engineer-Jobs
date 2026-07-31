@@ -1,16 +1,16 @@
-# Staff Engineer, Design Verification at Renesas Electronics
+# Staff Engineer - Design Verification  at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000136965722-staff-engineer-design-verification) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139544875-staff-engineer-design-verification) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-10.
+This software engineer position at Renesas Electronics was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

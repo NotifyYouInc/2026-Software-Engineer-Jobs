@@ -1,16 +1,16 @@
-# Lead Engineer at Xero
+# Lead Engineer  at Xero
 
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/d35094e1-553b-4349-b667-6d344f735282) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/da773841-f0d4-4893-b6d9-706644183615) |
 
 ## About This Role
 
-This software engineer position at Xero was posted on 2026-06-27.
+This software engineer position at Xero was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

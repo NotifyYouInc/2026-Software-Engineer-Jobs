@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Savannah, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000139167387-mes-operation-engineer-developer-bilingual-korean-english-preferred) |
+| Category | Industrial Automation |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000139378879-mes-operation-engineer-developer-bilingual-korean-english-preferred) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-07-22.
+This industrial automation position at Woongjin was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

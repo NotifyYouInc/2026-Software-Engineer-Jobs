@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asurion](https://scoutify.ai/companies/asurion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/Sterling---Pacific-Boulevard/Software-Engineer-4_ASU0019865) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Headquarters/Staff-Software-Engineer_ASU0020749) |
 
 ## About This Role
 
-This software engineer position at Asurion was posted on 2026-05-07.
+This software engineer position at Asurion was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

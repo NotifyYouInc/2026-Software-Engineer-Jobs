@@ -1,16 +1,16 @@
-# Principal Application Engineer at Cadence Design Systems
+# principal Application engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Application-Engineer_R52625) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/principal-Application-engineer_R55611) |
 
 ## About This Role
 
-This engineering manager position at Cadence Design Systems was posted on 2026-06-02.
+This software engineer position at Cadence Design Systems was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

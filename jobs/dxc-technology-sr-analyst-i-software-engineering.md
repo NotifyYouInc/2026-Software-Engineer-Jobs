@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---WA---PERTH/Sr-Analyst-I-Software-Engineering_51566674) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-I-Software-Engineering_51577785) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-07-03.
+This software engineer position at DXC Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

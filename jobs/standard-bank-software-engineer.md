@@ -1,16 +1,16 @@
-# Software Engineer  at Standard Bank
+# Software Engineer at Standard Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000134757635-software-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000139540059-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Standard Bank was posted on 2026-06-29.
+This software engineer position at Standard Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

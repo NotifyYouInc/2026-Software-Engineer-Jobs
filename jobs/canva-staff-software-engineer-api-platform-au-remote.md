@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001255304-staff-software-engineer-api-platform-au-remote) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001257875-staff-software-engineer-api-platform-au-remote) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-07-23.
+This software engineer position at Canva was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

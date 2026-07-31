@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136162379-senior-staff-engineer-erp-dynamics-functional-dynamics-365-business-central-nav) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139525579-senior-staff-engineer-erp-dynamics-functional-dynamics-365-business-central-nav) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-07-07.
+This software engineer position at Nagarro was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

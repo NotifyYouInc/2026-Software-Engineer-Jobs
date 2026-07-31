@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Laguna-Mexico/Applications-Engineer_R-19867) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-Mexico/Applications-Engineer_R-19882) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-22.
+This software engineer position at Flowserve was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

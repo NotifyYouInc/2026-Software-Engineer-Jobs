@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Parsippany-New-Jersey/Engineers--Software_REQ354348) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Engineers--Software_REQ365852) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-06-10.
+This software engineer position at T-Mobile was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

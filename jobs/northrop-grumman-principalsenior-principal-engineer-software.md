@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Senior-Principal-Engineer-Software_R10234652) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Senior-Principal-Engineer-Software_R10242049) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-30.
+This software engineer position at Northrop Grumman was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

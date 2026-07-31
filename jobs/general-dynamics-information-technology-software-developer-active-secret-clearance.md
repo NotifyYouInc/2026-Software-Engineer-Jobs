@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Developer---Active-Secret-clearance_RQ222779) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Developer---Active-Secret-clearance_RQ224908) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-06-20.
+This software engineer position at General Dynamics Information Technology was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

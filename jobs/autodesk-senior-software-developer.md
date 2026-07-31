@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Software-Developer_26WD96617) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Senior-Software-Developer_26WD100028-1) |
 
 ## About This Role
 
-This frontend engineer position at Autodesk was posted on 2026-03-23.
+This software engineer position at Autodesk was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Missouri, US |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2_2026-0007268) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0016943) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-03-26.
+This software engineer position at U.S. Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Lead-Software-Engineer_R-00186244) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Lead-Software-Engineer_R-00188048) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-26.
+This software engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

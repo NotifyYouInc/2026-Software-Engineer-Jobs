@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Remote-Location---United-States-of-America/Principal-Platform-Engineer_JR-158076-1) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/London/Principal-Engineer--Product-Software_JR-162356) |
 
 ## About This Role
 
-This devops engineer position at Equinix was posted on 2026-03-23.
+This software engineer position at Equinix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

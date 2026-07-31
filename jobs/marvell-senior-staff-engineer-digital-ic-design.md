@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westborough, Massachusetts, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Digital-IC-Design_2602608) |
+| Location | Santa Clara, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Digital-IC-Design_2603455) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-06-10.
+This software engineer position at Marvell was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Software-Engineer_R2125662-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Senior-Software-Engineer_R2127049) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-06-26.
+This software engineer position at KBR was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

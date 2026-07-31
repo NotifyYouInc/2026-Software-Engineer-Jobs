@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000138275529-principal-software-engineer-java) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000139549249-principal-software-engineer-java) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-07-17.
+This software engineer position at Entain was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

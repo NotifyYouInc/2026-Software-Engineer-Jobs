@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Software-Engineer_2026-0013526) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0016987) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-05-22.
+This software engineer position at U.S. Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

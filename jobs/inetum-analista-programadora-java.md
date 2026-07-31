@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132784174-analista-programadora-java) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139546325-analista-programadora-java) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-06-18.
+This software engineer position at Inetum was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

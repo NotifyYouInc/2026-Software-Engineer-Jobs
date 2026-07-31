@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Memphis, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-07-18.
+This software engineer position at SpaceX was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

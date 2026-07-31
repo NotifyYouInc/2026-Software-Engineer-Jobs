@@ -5,12 +5,12 @@
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/ff57d0cb-5959-4f3d-8139-df987fce7f6f) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/a760fbb3-a6af-44cd-b446-d9d32a5a44a2) |
 
 ## About This Role
 
-This software engineer position at WillowTree was posted on 2026-06-11.
+This software engineer position at WillowTree was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

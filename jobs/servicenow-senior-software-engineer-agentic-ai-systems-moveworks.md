@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134029129-senior-software-engineer-agentic-ai-systems-moveworks) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139370730-senior-software-engineer-agentic-ai-systems-moveworks) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-24.
+This software engineer position at ServiceNow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

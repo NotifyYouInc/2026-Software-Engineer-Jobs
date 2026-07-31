@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133050030-senior-program-analyst-it) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139537743-senior-program-analyst-it) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-06-19.
+This software engineer position at WNS was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
