@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Frontend Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Full-Stack-Developer_PT-JR030123) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Full-Stack-Developer_PT-JR040742) |
 
 ## About This Role
 
-This frontend engineer position at Morgan Stanley was posted on 2026-02-21.
+This software engineer position at Morgan Stanley was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

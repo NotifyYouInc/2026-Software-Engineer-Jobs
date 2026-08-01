@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Sr-Software-Engineer_R-00184848) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Sr-Software-Engineer_R-00188111) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-04.
+This software engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

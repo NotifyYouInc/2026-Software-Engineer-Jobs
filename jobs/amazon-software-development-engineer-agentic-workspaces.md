@@ -1,16 +1,16 @@
-# Software Development Engineer, Agentic Workspaces at Amazon
+# Software Development Engineer, Agentic WorkSpaces at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483968/software-development-engineer-agentic-workspaces) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-23.
+This software engineer position at Amazon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

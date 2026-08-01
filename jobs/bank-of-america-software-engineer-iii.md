@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Software-Engineer-III_26008736) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Software-Engineer-III_26026061-1) |
 
 ## About This Role
 
-This frontend engineer position at Bank of America was posted on 2026-03-10.
+This software engineer position at Bank of America was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

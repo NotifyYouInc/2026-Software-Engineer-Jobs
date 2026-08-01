@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Morgantown, West Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Senior-Software-Engineer_R-00186245) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Software-Engineer_R-00188116) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-26.
+This software engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

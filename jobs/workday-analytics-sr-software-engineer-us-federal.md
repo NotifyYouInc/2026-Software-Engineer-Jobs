@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0108035) |
+| Category | Software Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493) |
 
 ## About This Role
 
-This devops engineer position at Workday was posted on 2026-06-10.
+This software engineer position at Workday was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Software-Engineering--Full-Stack_R244479-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack_R247583-2) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-06-12.
+This software engineer position at Capital One was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

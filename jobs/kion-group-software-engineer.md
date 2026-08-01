@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Software-Engineer_JR-0088649-2) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0092827-1) |
 
 ## About This Role
 
-This software engineer position at KION Group was posted on 2026-03-17.
+This software engineer position at KION Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

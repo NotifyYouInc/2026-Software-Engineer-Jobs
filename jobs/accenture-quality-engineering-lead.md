@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead_ATCI-5674517-S2060382-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead_ATCI-5635915-S2060642) |
 
 ## About This Role
 

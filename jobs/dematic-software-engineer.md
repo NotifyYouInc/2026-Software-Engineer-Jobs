@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Holland-MI-United-States/Software-Engineer_JR-0088649-1) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0092827) |
 
 ## About This Role
 
-This software engineer position at Dematic was posted on 2026-03-17.
+This software engineer position at Dematic was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

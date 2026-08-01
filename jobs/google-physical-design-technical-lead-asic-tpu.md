@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT4gzCo-QUov3DxOfP5Ddnfb3eFWNrDSH6LVfdhXz_X-EjsACxwdTMVHIDH5CoBPQ7E7MYxL6MMRV3QaOtZ5ZbjMUSkz6yCxqlVbtpNom1Tr0VtyU_HBp6J5h0q8rg%3D%3D_V2&loc=US&title=Physical+Design+Technical+Lead) |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXlbv7BSkgzYjLyV68XlrsGDEaKX8XtVDtrMEPCSz1dvEjsA1Ny_i20xL_-EdSY7EuaMao1B60e3lYfHqw6ZahU-tV84zeH6qyJRxd4RQpo36kPIuFlr43n3bZZekQ%3D%3D_V2&loc=US&title=Physical+Design+Technical+Lead) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-05-22.
+This software engineer position at Google was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

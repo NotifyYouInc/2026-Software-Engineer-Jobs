@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Wireless-Software-Engineer---MAC-Layer---TeraWave_R65629) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Wireless-Software-Engineer---MAC-Layer---TeraWave_R69025) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Blue Origin was posted on 2026-05-29.
+This software engineer position at Blue Origin was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

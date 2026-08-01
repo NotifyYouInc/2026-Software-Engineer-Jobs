@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redlands, California, United States |
+| Location | Ottawa, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.esri.com/careers/5185026007?gh_jid=5185026007) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5196072007?gh_jid=5196072007) |
 
 ## About This Role
 
-This software engineer position at Esri was posted on 2026-07-10.
+This software engineer position at Esri was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LIGHTFEATHER IO LLC](https://scoutify.ai/companies/lightfeather-io-llc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5363332008) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5370534008) |
 
 ## About This Role
 
-This software engineer position at LIGHTFEATHER IO LLC was posted on 2026-07-17.
+This software engineer position at LIGHTFEATHER IO LLC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

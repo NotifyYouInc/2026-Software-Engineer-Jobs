@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westborough, Massachusetts, United States |
+| Location | Morrisville, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2603158) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Senior-Staff-Engineer--Design-Verification_2602588) |
 
 ## About This Role
 
-This software engineer position at Marvell was posted on 2026-07-23.
+This software engineer position at Marvell was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

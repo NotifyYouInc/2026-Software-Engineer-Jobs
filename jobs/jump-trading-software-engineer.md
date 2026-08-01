@@ -1,16 +1,16 @@
-# Software Engineer  at Jump Trading
+# Software Engineer at Jump Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=7809758) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=7156979) |
 
 ## About This Role
 
-This software engineer position at Jump Trading was posted on 2026-06-25.
+This software engineer position at Jump Trading was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7376835) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8084476) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-03-09.
+This software engineer position at Stripe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

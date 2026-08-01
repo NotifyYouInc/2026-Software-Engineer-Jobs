@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5016-Carrier---Plant-E-Carretera-Villa-de-Garca-Km-30-Santa-Catarina-66350-Mexico/Product-Engineer_30212348) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5003-Carrier---Plant-C-Carretera-a-Garca-Km-13-Parque-STIVA-Santa-Catarina-66350-Mexico/Product-Engineer_30213687) |
 
 ## About This Role
 
-This software engineer position at Carrier Global was posted on 2026-07-11.
+This software engineer position at Carrier Global was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

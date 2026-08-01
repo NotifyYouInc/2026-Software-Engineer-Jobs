@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290) |
 
 ## About This Role
 
-This ai / ml research position at Perplexity AI was posted on 2026-06-12.
+This software engineer position at Perplexity AI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

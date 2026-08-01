@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | New Orleans, Louisiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Analyst-I-Software-Engineering_51584196) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---LA---NEW-ORLEANS/Analyst-I-Software-Engineering_51585682) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-07-01.
+This software engineer position at DXC Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Engineer-Full-Stack_R-1092277) |
+| Location | Temple Terrace, Florida, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Principal-Engineer-Full-Stack_R-1098664) |
 
 ## About This Role
 
-This devops engineer position at Verizon was posted on 2026-03-18.
+This software engineer position at Verizon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
