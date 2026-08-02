@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Staff Software Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000139861389-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at SanDisk was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

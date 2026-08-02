@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Founding Engineer at Hub.xyz
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Hub.xyz](https://scoutify.ai/companies/yc-hub-xyz?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/hub/jobs/Dy8e5Gu-founding-engineer) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at Hub.xyz was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Application Developer at City of New York
+# Appian Developer - Software & Data Management at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283236-application-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283106-appian-developer-software-data-management) |
 
 ## About This Role
 

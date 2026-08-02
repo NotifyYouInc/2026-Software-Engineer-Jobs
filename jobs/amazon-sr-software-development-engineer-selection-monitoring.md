@@ -1,12 +1,12 @@
-# Software Development Engineer, Measurement, Ad Tech, and Data Science at Amazon
+# Sr Software Development Engineer, Selection Monitoring at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484131/software-development-engineer-measurement-ad-tech-and-data-science) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484132/sr-software-development-engineer-selection-monitoring) |
 
 ## About This Role
 

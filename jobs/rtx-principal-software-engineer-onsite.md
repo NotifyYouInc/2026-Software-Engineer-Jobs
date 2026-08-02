@@ -1,16 +1,16 @@
-# Principal Software Engineer (Onsite) at RTX
+# Principal Software Engineer, Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rockford, Illinois, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Principal-Software-Engineer--Onsite-_01839468) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Principal-Software-Engineer--Onsite_01860621) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-23.
+This software engineer position at RTX was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

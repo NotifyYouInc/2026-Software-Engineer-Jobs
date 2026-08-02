@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Staff Software Engineer, AI Tools at Pinterest
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7305880) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at Pinterest was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

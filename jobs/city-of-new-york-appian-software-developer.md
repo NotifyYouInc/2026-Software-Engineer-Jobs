@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Appian Software Developer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014282961-appian-software-developer) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at City of New York was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

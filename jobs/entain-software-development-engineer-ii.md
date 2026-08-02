@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Software Development Engineer II at Entain
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000139820659-software-development-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at Entain was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

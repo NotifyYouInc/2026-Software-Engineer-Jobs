@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217) |
 
 ## About This Role
 

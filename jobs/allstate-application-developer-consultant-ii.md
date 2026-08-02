@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Application Developer Consultant II at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Application-Developer-Consultant-II_R32744) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at Allstate was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

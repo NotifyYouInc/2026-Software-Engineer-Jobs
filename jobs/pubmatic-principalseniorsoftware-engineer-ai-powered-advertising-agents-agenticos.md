@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Principal/Senior/Software Engineer, AI-Powered Advertising Agents - AgenticOS at PubMatic
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [PubMatic](https://scoutify.ai/companies/pubmatic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Apply | [View on company site](https://pubmatic.com/job/?gh_jid=5369682008) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at PubMatic was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

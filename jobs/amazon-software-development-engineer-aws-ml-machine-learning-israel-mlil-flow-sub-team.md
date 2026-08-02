@@ -1,12 +1,12 @@
-# Software Development Engineer, Measurement, Ad Tech, and Data Science at Amazon
+# Software Development Engineer (AWS ML), Machine Learning Israel (MLIL) — FLOW sub-team (Fleet Lifecycle & Operational Workflows) at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Software Engineer |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484131/software-development-engineer-measurement-ad-tech-and-data-science) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484133/software-development-engineer-aws-ml-machine-learning-israel-mlil-flow-sub-team-fleet-lifecycle-operational-workflows) |
 
 ## About This Role
 

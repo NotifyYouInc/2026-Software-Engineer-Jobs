@@ -1,16 +1,16 @@
-# Senior Software Developer at SOSi
+# Experienced C++ Developer - Farm Team at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Haifa, Haifa, Israel |
 | Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014283966-senior-software-developer) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/63c9d68a-ff54-47c0-86b3-4014479ceabb) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-07-25.
+This software engineer position at Mobileye was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
