@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Mobile Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126224449-software-engineer-mobile-android) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Software Engineer |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000139864399-software-engineer-mobile-android) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-05-13.
+This software engineer position at Grab was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

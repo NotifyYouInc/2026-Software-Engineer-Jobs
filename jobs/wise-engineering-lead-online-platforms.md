@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137606187-engineering-lead-online-platforms) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139964434-engineering-lead-online-platforms) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-14.
+This software engineer position at WISE was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

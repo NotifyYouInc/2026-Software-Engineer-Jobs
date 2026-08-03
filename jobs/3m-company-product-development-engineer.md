@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Product-Development-Engineer_R01160633) |
+| Category | Software Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Product-Development-Engineer_R01162879) |
 
 ## About This Role
 
-This electrical / hardware engineer position at 3M Company was posted on 2026-03-27.
+This software engineer position at 3M Company was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107591994-full-stack-developer) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139871798-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-02-05.
+This software engineer position at Robert Bosch was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

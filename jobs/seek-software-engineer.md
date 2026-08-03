@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000137792239-software-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000139923754-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-07-15.
+This software engineer position at SEEK was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

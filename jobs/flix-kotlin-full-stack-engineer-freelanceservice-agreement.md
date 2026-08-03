@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://flix.careers/job/8646814002?gh_jid=8646814002) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://flix.careers/job/8651180002?gh_jid=8651180002) |
 
 ## About This Role
 
-This software engineer position at Flix was posted on 2026-07-23.
+This software engineer position at Flix was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

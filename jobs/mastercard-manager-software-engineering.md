@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Manager--Software-Engineering_R-274248) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-281599) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-03-26.
+This engineering manager position at Mastercard was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

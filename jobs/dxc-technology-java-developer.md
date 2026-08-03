@@ -1,16 +1,16 @@
-# Java Developer at DXC Technology
+# Java developer at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Java-Developer_51581057) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Java-developer_51581690) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-07-14.
+This software engineer position at DXC Technology was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Software-Engineer-III_R260000001880) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Software-Engineer-III_R260000003133) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-03-26.
+This software engineer position at R1 Rcm was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

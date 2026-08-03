@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126460198-java-developer) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139872138-java-developer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-05-14.
+This software engineer position at Robert Bosch was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

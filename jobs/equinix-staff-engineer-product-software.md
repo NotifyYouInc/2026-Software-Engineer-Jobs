@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Staff-Engineer--Product-Software_JR-162323-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Staff-Engineer--Product-Software_JR-162392) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-07-23.
+This software engineer position at Equinix was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

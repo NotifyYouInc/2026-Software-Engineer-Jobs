@@ -1,16 +1,16 @@
-# Entry-Level Support Developer at DXC Technology
+# Entry Level Support Developer at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Entry-Level-Support-Developer_51570353) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Entry-Level-Support-Developer_51585792) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-06-10.
+This software engineer position at DXC Technology was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

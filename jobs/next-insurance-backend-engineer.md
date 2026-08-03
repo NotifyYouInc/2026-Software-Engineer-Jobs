@@ -1,16 +1,16 @@
-# Backend Engineer  at Next Insurance
+# Backend Engineer at Next Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [Next Insurance](https://scoutify.ai/companies/next-insurance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kfar Saba, Central District, Israel |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nextinsurance66/jobs/7734341003) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nextinsurance66/jobs/7816741003) |
 
 ## About This Role
 
-This software engineer position at Next Insurance was posted on 2026-05-19.
+This software engineer position at Next Insurance was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

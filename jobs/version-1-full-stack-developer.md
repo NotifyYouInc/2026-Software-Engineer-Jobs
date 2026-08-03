@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133082489-full-stack-developer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139972379-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Version 1 was posted on 2026-06-19.
+This software engineer position at Version 1 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hanoi-Vietnam/Test-Development-Engineer_2016651-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Test-Development-Engineer_2018695-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-17.
+This software engineer position at Cisco was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

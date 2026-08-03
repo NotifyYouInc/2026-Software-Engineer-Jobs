@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000135445221-senior-microsoft-power-platform-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000139935204-senior-microsoft-power-platform-engineer) |
 
 ## About This Role
 
-This software engineer position at Netcompany was posted on 2026-07-02.
+This software engineer position at Netcompany was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

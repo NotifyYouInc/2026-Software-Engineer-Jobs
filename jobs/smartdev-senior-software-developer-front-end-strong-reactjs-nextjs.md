@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000131039069-senior-software-developer-front-end-strong-reactjs-nextjs) |
+| Location | Cầu Giấy, Hanoi, Vietnam |
+| Category | Software Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000139913769-senior-software-developer-front-end-strong-reactjs-nextjs) |
 
 ## About This Role
 
-This frontend engineer position at SmartDev was posted on 2026-06-09.
+This software engineer position at SmartDev was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

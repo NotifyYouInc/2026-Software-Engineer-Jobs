@@ -1,16 +1,16 @@
-# Staff Software Engineer – AI-Native Automation  at Nexthink
+# Staff Software Engineer - AI-native automation at Nexthink
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000129201897-staff-software-engineer-ai-native-automation) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000139945699-staff-software-engineer-ai-native-automation) |
 
 ## About This Role
 
-This software engineer position at Nexthink was posted on 2026-05-29.
+This software engineer position at Nexthink was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

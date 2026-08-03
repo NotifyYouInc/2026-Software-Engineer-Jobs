@@ -1,16 +1,16 @@
-# Assoc IT  Developer at Medtronic
+# Assoc IT Developer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangalore--Karnataka-India/Assoc-IT--Developer_R68694-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hyderabad-Andhra-Pradesh-India/Assoc-IT-Developer_R72179-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-07-14.
+This software engineer position at Medtronic was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
