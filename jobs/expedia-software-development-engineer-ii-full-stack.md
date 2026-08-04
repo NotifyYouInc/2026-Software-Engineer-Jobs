@@ -1,16 +1,16 @@
-# Software Development Engineer II- Full Stack at Expedia
+# Software Development Engineer II - Full Stack at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Software-Development-Engineer-II--Full-Stack_R-107053) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-II_R-108003) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-06-26.
+This software engineer position at Expedia was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

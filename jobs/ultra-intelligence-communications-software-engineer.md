@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ultra Intelligence & Communications](https://scoutify.ai/companies/ultra-intelligence-communications?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Maidenhead, England, United Kingdom |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ultra.wd3.myworkdayjobs.com/UICCareers/job/Maidenhead-GBR/Software-Engineer_REQ-10598-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ultra.wd3.myworkdayjobs.com/UICCareers/job/Austin-TX-United-States/Software-Engineer_REQ-12287) |
 
 ## About This Role
 
-This software engineer position at Ultra Intelligence & Communications was posted on 2026-05-22.
+This software engineer position at Ultra Intelligence & Communications was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

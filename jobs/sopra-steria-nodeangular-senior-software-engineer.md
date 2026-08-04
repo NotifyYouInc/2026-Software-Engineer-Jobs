@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128385588-nodeangular-senior-software-engineer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140179614-nodeangular-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-26.
+This software engineer position at Sopra Steria was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Georgia, US |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IN-BANGALORE/Analytics-Application-Developer_R01126645) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Georgia/Analytics-Application-Developer_R01132513) |
 
 ## About This Role
 
-This software engineer position at Solventum was posted on 2026-03-04.
+This software engineer position at Solventum was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

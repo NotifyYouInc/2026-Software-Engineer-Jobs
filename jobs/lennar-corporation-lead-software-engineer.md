@@ -5,12 +5,12 @@
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Lead-Software-Engineer_R26_0000002472) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Lead-Software-Engineer_R26_0000003178) |
 
 ## About This Role
 
-This software engineer position at Lennar Corporation was posted on 2026-06-19.
+This software engineer position at Lennar Corporation was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

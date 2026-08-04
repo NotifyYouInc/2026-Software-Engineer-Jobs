@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bukit Damansara, Kuala Lumpur, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000139002844-principal-engineer-hv-primary) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140139724-principal-engineer-hv-primary) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-07-22.
+This electrical / hardware engineer position at AECOM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

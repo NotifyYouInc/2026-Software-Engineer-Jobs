@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000138070624-senior-software-engineer-mobile-android) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140181562-senior-software-engineer-mobile-android) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-07-16.
+This software engineer position at Freshworks CRM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

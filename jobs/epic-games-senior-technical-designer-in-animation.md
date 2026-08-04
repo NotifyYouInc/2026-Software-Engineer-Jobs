@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Motion / Video Production |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/5814009004?gh_jid=5814009004) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6119876004?gh_jid=6119876004) |
 
 ## About This Role
 
-This motion / video production position at Epic Games was posted on 2026-02-26.
+This motion / video production position at Epic Games was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

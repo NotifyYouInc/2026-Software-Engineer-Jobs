@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pilot.com](https://scoutify.ai/companies/pilotcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Georgia, US |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pilothq/jobs/8155891002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pilothq/jobs/8653025002) |
 
 ## About This Role
 
-This software engineer position at Pilot.com was posted on 2026-04-24.
+This software engineer position at Pilot.com was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

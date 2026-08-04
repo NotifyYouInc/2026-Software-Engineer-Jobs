@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Senior-Consultant-I_R26620-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Senior-Consultant-I_R31862-3) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-04-15.
+This software engineer position at Allstate was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139218208-alternance-developpeurse-java-energy-telecom-grenoble) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140165316-alternance-developpeurse-java-energy-telecom-grenoble) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-23.
+This software engineer position at Sopra Steria was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

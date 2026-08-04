@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Software-Development-Engineer-I_R-108039) |
 
 ## About This Role
 
-This frontend engineer position at Expedia was posted on 2026-02-20.
+This software engineer position at Expedia was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

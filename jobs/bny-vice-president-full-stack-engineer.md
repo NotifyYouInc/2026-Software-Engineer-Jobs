@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78770) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80079) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-07-22.
+This software engineer position at BNY was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

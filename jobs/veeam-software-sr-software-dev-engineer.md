@@ -5,12 +5,12 @@
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karachi, Sindh, Pakistan |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4838022101) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4939394101) |
 
 ## About This Role
 
-This software engineer position at Veeam Software was posted on 2026-07-13.
+This software engineer position at Veeam Software was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

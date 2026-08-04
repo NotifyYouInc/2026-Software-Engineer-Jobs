@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abby Care](https://scoutify.ai/companies/abby-care?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/abby-care/2831fb4b-dac1-42e9-b13d-02c9acf6675a) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/abby-care/cc4c5abe-0ba6-44be-a4cd-e74652f671e9) |
 
 ## About This Role
 
-This software engineer position at Abby Care was posted on 2026-07-16.
+This machine learning engineer position at Abby Care was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

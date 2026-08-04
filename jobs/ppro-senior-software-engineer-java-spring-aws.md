@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ppro](https://scoutify.ai/companies/ppro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.lever.co/ppro/7e8cd700-f5aa-4179-a3e4-941fa933ecb8) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.lever.co/ppro/b6da953a-0f2b-48da-8ec3-2dad17d0b8f8) |
 
 ## About This Role
 
-This software engineer position at Ppro was posted on 2026-06-05.
+This software engineer position at Ppro was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

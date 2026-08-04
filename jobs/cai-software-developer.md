@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Concord, California, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/NH-CLIENT-STATE/Software-Developer_R8155) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Software-Developer_R8151) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-07-22.
+This software engineer position at CAI was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

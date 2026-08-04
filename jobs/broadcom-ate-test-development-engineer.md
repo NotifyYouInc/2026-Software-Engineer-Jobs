@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Allentown-1110-American-Parkway-NE/ATE-Test-Development-Engineer_R026596) |
+| Location | United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ATE-Test-Development-Engineer_R026666) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-07-23.
+This semiconductor / chip design position at Broadcom was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

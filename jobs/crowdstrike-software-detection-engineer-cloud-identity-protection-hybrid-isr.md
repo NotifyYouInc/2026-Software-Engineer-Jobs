@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Software-Detection-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29391) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Software-Detection-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29486-1) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-07-17.
+This soc & incident response position at CrowdStrike was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136400275-responsable-technique-plm-industrie-plessis-robinson) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140181791-responsable-technique-plm-industrie-plessis-robinson) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-08.
+This software engineer position at Sopra Steria was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

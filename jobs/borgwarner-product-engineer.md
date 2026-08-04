@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Tianjin-Konggang-E10th-Road---China/Product-Engineer_R2026-2149) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Beijing-Yizhuang---China/Product-Engineer_R2026-2990) |
 
 ## About This Role
 
-This software engineer position at BorgWarner was posted on 2026-07-13.
+This software engineer position at BorgWarner was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

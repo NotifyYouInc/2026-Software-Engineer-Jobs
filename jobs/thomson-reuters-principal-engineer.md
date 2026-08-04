@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Eagan, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Principal-Engineer_JREQ202266) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Principal-Engineer_JREQ202265-1) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-07-22.
+This software engineer position at Thomson Reuters was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

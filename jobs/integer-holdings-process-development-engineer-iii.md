@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Integer Holdings](https://scoutify.ai/companies/integer-holdings?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Clarence, New York, United States |
+| Location | Plymouth, Minnesota, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://integer.wd1.myworkdayjobs.com/external/job/10000-Wehrle-Clarence-NY/Process-Development-Engineer-III_R34950) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://integer.wd1.myworkdayjobs.com/external/job/Plymouth-MN/Process-Development-Engineer-III_R36081) |
 
 ## About This Role
 
-This industrial automation position at Integer Holdings was posted on 2026-04-27.
+This industrial automation position at Integer Holdings was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

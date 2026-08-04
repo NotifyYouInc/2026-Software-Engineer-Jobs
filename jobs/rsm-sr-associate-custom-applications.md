@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/Sr-Associate--Custom-Applications_JR113978) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/Sr-Associate--Custom-Applications_JR113977) |
 
 ## About This Role
 
-This software engineer position at RSM was posted on 2026-07-15.
+This software engineer position at RSM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

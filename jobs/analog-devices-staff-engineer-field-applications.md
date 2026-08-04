@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Chengdu-Sichuan-Gao-Xin/Staff-Engineer--Field-Applications_R264040) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shenzhen-Guangdong-Nanshan/Staff-Engineer--Field-Applications_R264038) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-07-23.
+This sales engineer position at Analog Devices was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

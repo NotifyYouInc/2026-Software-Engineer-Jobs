@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Singapore-Singapore/Digitalization-Specialist---Microsoft-Power-Platform---Python-Development_R2121157) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Singapore-Singapore/Digitalization-Specialist---Microsoft-Power-Platform---Python-Development_R2127346) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-15.
+This software engineer position at KBR was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

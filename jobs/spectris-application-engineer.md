@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spectris](https://scoutify.ai/companies/spectris?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canton, Michigan, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Canton-MI/Application-Engineer_16907) |
+| Location | United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/United-States---Remote/Application-Engineer_18061) |
 
 ## About This Role
 
-This software engineer position at Spectris was posted on 2026-02-26.
+This technical & solutions architect position at Spectris was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

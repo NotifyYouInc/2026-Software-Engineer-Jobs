@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE-05/Software-Engineer-II_R55546) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-07-17.
+This software engineer position at Cadence Design Systems was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

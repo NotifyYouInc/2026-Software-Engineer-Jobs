@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ilfov, RO |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5163) |
+| Category | Data Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5255) |
 
 ## About This Role
 
-This software engineer position at SCOR was posted on 2026-07-15.
+This data engineer position at SCOR was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

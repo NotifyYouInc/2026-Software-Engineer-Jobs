@@ -5,12 +5,12 @@
 | Company | [HR Connect Limited](https://scoutify.ai/companies/hr-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hamilton, Waikato Region, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000139196979-senior-developer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000140136607-senior-developer) |
 
 ## About This Role
 
-This software engineer position at HR Connect Limited was posted on 2026-07-23.
+This software engineer position at HR Connect Limited was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

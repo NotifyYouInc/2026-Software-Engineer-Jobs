@@ -5,12 +5,12 @@
 | Company | [BuildOps](https://scoutify.ai/companies/buildops?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://buildops.com/careers/job-application?gh_jid=5993814004) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://buildops.com/careers/job-application?gh_jid=5754109004) |
 
 ## About This Role
 
-This software engineer position at BuildOps was posted on 2026-05-11.
+This software engineer position at BuildOps was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

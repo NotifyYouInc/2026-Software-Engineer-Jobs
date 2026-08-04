@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Infotainment-Testing-with-TCU_R-52750-2026) |
+| Category | QA Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Infotainment-Testing-with-TCU/31479) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-05-11.
+This qa engineer position at HARMAN International was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

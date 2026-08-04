@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Miramar, Florida, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Full-Stack-Developer_R7266) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Full-Stack-Developer_R8162) |
 
 ## About This Role
 
-This frontend engineer position at CAI was posted on 2026-03-03.
+This software engineer position at CAI was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673540/backend-engineer-g-a-solutions-engineering) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674312/backend-engineer-g-a-solutions-engineering) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-22.
+This software engineer position at Apple was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

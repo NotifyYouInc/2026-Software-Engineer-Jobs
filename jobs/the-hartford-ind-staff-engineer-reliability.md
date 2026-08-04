@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Staff-Engineer--Reliability_R2624800) |
+| Location | Hyderabad, Telangana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer--Reliability_R2626209) |
 
 ## About This Role
 
-This software engineer position at The Hartford was posted on 2026-05-22.
+This machine learning engineer position at The Hartford was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Software Engineer - AIML, ITC at Nike
+# Lead Software Engineer (AI/ML), ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer---AIML--ITC_R-86384) |
+| Location | Karnataka, IN |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--AI-ML---ITC_R-88919) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-06-22.
+This machine learning engineer position at Nike was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

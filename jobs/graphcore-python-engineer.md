@@ -1,16 +1,16 @@
-# Python Engineer at Graphcore
+# Python Engineer  at Graphcore
 
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8636907002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8653261002) |
 
 ## About This Role
 
-This software engineer position at Graphcore was posted on 2026-07-17.
+This software engineer position at Graphcore was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
