@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Software-Engineering-Specialist_R5046798-2) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Software-Engineer_R5048615-3) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-07-09.
+This machine learning engineer position at GE Vernova was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

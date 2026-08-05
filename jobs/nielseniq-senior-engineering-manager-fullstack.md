@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138604058-senior-engineering-manager-fullstack) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140409588-senior-engineering-manager-fullstack) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-07-20.
+This software engineer position at NielsenIQ was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

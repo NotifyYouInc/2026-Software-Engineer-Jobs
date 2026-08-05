@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Genoa, Liguria, Italy |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer_R1012313-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Genoa-Ligura-Italy/Software-Engineer_R0103065) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-07-07.
+This software engineer position at Hitachi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

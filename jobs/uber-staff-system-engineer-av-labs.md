@@ -5,12 +5,12 @@
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/302149/) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/303001/) |
 
 ## About This Role
 
-This software engineer position at Uber was posted on 2026-07-17.
+This software engineer position at Uber was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

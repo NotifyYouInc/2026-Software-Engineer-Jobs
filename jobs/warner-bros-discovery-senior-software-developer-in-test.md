@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kanata, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Senior-Software-Developer-in-Test_R000102640-1) |
+| Category | QA Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Senior-Software-Developer-in-Test_R000107223) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-03-25.
+This qa engineer position at Warner Bros Discovery was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

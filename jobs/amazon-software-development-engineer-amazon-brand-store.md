@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419400/software-development-engineer-amazon-brand-store) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486927/software-development-engineer-amazon-brand-store) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-14.
+This software engineer position at Amazon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

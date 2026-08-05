@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000129906939-software-developer-plsql) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000140425206-software-developer-plsql) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-06-03.
+This software engineer position at Avaloq was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

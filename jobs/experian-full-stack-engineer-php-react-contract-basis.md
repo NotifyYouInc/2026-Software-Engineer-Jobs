@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138550294-full-stack-engineer-php-react-contract-basis) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140384109-full-stack-engineer-php-react-contract-basis) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-20.
+This software engineer position at Experian was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

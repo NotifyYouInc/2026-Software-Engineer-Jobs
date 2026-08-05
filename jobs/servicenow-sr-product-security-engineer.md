@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Israel |
-| Category | Security Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138497339-sr-product-security-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140389239-sr-product-security-engineer) |
 
 ## About This Role
 
-This security engineer position at ServiceNow was posted on 2026-07-19.
+This software engineer position at ServiceNow was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

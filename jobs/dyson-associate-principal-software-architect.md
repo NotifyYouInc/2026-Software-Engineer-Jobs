@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Associate-Principal-Software-Architect_JR35938) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Associate-Principal-Software-Architect_JR37482-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Dyson was posted on 2026-04-17.
+This technical & solutions architect position at Dyson was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

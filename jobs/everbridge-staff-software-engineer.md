@@ -5,12 +5,12 @@
 | Company | [Everbridge](https://scoutify.ai/companies/everbridge?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.lever.co/everbridge/c0d24178-70cb-4a51-9c80-62d086942773) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/everbridge/175b6264-db7f-4a76-9bec-11d923a86ede) |
 
 ## About This Role
 
-This software engineer position at Everbridge was posted on 2026-06-04.
+This software engineer position at Everbridge was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Payjoy](https://scoutify.ai/companies/payjoy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.lever.co/payjoy/7a307782-17af-43bb-a3af-7cadbdc8a792) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.lever.co/payjoy/f5c95488-b8c2-46ba-bf4c-a96ef76b5740) |
 
 ## About This Role
 
-This software engineer position at Payjoy was posted on 2026-07-13.
+This software engineer position at Payjoy was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

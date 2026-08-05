@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---MA---Boston/Software-Engineer-II_R0036453) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer-II_R0037346) |
 
 ## About This Role
 
-This software engineer position at SEI Investments was posted on 2026-06-10.
+This software engineer position at SEI Investments was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

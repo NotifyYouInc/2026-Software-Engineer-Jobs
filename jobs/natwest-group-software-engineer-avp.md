@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--AVP_R-00282134) |
+| Location | Gurugram, Haryana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--AVP_R-00282622-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-07-23.
+This machine learning engineer position at NatWest Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

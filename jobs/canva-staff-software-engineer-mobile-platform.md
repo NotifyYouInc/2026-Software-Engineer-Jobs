@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Mobile Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001156485-staff-software-engineer-mobile-platform) |
+| Category | Software Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001267591-staff-software-engineer-mobile-platform) |
 
 ## About This Role
 
-This mobile engineer position at Canva was posted on 2026-06-16.
+This software engineer position at Canva was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

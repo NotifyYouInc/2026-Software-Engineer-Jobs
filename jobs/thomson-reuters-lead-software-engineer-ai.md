@@ -1,16 +1,16 @@
-# Lead Software Engineer AI at Thomson Reuters
+# Lead Software Engineer, AI at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Lead-Software-Engineer-AI_JREQ198664-1) |
+| Location | Eagan, Minnesota, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer--AI---Clear_JREQ199105) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-03-12.
+This machine learning engineer position at Thomson Reuters was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

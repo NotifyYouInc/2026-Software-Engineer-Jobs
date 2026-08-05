@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minnetonka, Minnesota, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Salesforce-Tech-Lead_R0072467) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Salesforce-Tech-Lead_R0073967) |
 
 ## About This Role
 
-This software engineer position at Huntington Bancshares was posted on 2026-06-16.
+This software engineer position at Huntington Bancshares was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

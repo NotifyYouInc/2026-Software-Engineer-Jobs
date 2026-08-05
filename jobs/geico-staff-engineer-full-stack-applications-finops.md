@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---Full-Stack-Applications-FinOps_R0062440) |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---Full-Stack-Applications-FinOps_R0062442-1) |
 
 ## About This Role
 
-This frontend engineer position at Geico was posted on 2026-03-23.
+This software engineer position at Geico was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

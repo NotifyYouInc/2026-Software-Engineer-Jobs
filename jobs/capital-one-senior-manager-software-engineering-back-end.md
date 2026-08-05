@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Manager--Software-Engineering--Back-End_R236589-1) |
+| Location | McLean, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Back-End_R247930-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-02-23.
+This software engineer position at Capital One was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

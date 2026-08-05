@@ -1,16 +1,16 @@
-# Software Engineer, Embedded Software at HARMAN International
+# Software Engineer - Embedded Software at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Advanced-Engineer--Embedded-C--Linux-Kernel---Drivers-Development--Ethernet-Networking-_R-52433-2026) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Embedded-Software/32361) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-06-05.
+This software engineer position at HARMAN International was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

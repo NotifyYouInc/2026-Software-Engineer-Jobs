@@ -5,12 +5,12 @@
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7780075003) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7747138003) |
 
 ## About This Role
 
-This software engineer position at Fivetran was posted on 2026-07-07.
+This software engineer position at Fivetran was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

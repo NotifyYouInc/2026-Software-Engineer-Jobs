@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#37579) |
+| Category | QA Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#37771) |
 
 ## About This Role
 
-This software engineer position at Nokia was posted on 2026-07-21.
+This qa engineer position at Nokia was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

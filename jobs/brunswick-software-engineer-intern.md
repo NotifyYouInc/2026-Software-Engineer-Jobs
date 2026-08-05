@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Champaign, Illinois, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-049070) |
+| Category | Software Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) |
 
 ## About This Role
 
-This frontend engineer position at Brunswick was posted on 2026-02-25.
+This software engineer position at Brunswick was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

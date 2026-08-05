@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/MDM-Software-Application-Development-Engineer_JR0284454) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/MDM-Software-Application-Development-Engineer_JR0285868) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-06-01.
+This software engineer position at Intel was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LVT](https://scoutify.ai/companies/lvt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | American Fork, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5290389008) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5368027008) |
 
 ## About This Role
 
-This software engineer position at LVT was posted on 2026-07-02.
+This software engineer position at LVT was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

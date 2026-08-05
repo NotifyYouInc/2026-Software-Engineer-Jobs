@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000139001719-developpeur-c-net-api-rest-devops-hf) |
+| Category | Software Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000140396105-developpeur-c-net-api-rest-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at CITECH was posted on 2026-07-22.
+This software engineer position at CITECH was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

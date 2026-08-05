@@ -5,12 +5,12 @@
 | Company | [Nando's](https://scoutify.ai/companies/nando-s?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Putney, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://nandos.wd3.myworkdayjobs.com/nandos/job/Putney-Office-Putney-Greater-London-SW152TG/Senior-Software-Engineer_R0000047721) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://nandos.wd3.myworkdayjobs.com/nandos/job/Putney-Office-Putney-Greater-London-SW152TG/Senior-Software-Engineer_R0000051069) |
 
 ## About This Role
 
-This software engineer position at Nando's was posted on 2026-02-09.
+This software engineer position at Nando's was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

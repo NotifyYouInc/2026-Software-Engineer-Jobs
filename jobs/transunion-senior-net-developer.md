@@ -1,16 +1,16 @@
-# Senior .NET Developer at TransUnion
+# Senior .Net Developer at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Crum-Lynne-Pennsylvania/Senior-NET-Developer_19041174) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Senior-Net-Developer_19041230) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-07-22.
+This software engineer position at TransUnion was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

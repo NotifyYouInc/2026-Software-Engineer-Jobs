@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Technical-Lead_R1123398-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Technical-Lead_R1128406-1) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-05-26.
+This software engineer position at Dentsu was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

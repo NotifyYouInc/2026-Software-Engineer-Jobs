@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Engineering Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Roppongi-Hills-Mori-Tower-Tokyo/Software-Engineer---AVP_JR-0000088004-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Database Administration |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---AVP_JR-0000111014) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-20.
+This database administration position at Barclays was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

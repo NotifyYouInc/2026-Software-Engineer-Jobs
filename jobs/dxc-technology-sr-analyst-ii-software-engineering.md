@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-II-Software-Engineering_51569443) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-II-Software-Engineering_51585679) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-06.
+This machine learning engineer position at DXC Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

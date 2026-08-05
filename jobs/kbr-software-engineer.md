@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Melbourne-Victoria-Australia/Software-Engineer_R2127145) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Software-Engineer_R2127416) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-27.
+This software engineer position at KBR was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

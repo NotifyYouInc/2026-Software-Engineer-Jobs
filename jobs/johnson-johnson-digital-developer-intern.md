@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Digital-Developer-Intern_R-062627) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Digital-Developer-Intern_R-088818) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-03-10.
+This software engineer position at Johnson & Johnson was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

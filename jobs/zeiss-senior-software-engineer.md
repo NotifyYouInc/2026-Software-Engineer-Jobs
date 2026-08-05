@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Software-Engineer_JR_1050576) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Software-Engineer_JR_1050393) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-06-17.
+This software engineer position at Zeiss was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

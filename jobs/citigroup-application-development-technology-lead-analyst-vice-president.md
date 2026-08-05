@@ -1,16 +1,16 @@
-# Application Development Technology Lead Analyst - Vice President at Citigroup
+# Application Development Technology Lead Analyst, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Application-Development-Technology-Lead-Analyst---Vice-President_26975483) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Application-Development-Technology-Lead-Analyst--Vice-President_26981247) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-07.
+This software engineer position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000135737276-senior-java-software-engineer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000140401909-senior-java-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-07-03.
+This software engineer position at Sportradar was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

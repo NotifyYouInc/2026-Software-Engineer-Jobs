@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001229898-staff-software-engineer-mobile-platform-rust) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001267596-staff-software-engineer-mobile-platform-rust) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-07-14.
+This software engineer position at Canva was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

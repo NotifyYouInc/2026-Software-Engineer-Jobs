@@ -1,16 +1,16 @@
-# Senior Software Engineer (Onsite) at RTX
+# Senior Software Engineer, Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | Fullerton, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Senior-Software-Engineer--Onsite-_01860619) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Senior-Software-Engineer--Onsite_01861315) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-25.
+This software engineer position at RTX was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

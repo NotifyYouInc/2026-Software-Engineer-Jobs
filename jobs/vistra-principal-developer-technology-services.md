@@ -5,12 +5,12 @@
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Principal-Developer--Technology-Services_40016145-2) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Principal-Developer--Technology-Services_40016344-1) |
 
 ## About This Role
 
-This software engineer position at Vistra was posted on 2026-06-24.
+This software engineer position at Vistra was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

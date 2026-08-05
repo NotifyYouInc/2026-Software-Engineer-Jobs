@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Livonia, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Software-Engineer_R55734-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Lead-Software-Engineer_R55777) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-07-28.
+This software engineer position at Cadence Design Systems was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

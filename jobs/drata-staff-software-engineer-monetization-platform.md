@@ -5,12 +5,12 @@
 | Company | [Drata](https://scoutify.ai/companies/drata?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/drata/b11f863d-5a01-4cd7-8a35-f5335db51f23) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/drata/82e7772f-562d-4089-b62e-f9907f3086ed) |
 
 ## About This Role
 
-This software engineer position at Drata was posted on 2026-05-30.
+This software engineer position at Drata was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

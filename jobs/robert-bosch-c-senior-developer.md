@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138989908-c-senior-developer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140385220-c-senior-developer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-22.
+This software engineer position at Robert Bosch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
