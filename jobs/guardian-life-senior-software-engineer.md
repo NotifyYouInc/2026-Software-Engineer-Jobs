@@ -5,12 +5,12 @@
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/Senior-Software-Engineer_R000109744) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/Senior-Software-Engineer_R000109839) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-07-17.
+This software engineer position at Guardian Life was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

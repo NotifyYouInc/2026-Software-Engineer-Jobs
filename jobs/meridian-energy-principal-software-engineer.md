@@ -5,12 +5,12 @@
 | Company | [Meridian Energy](https://scoutify.ai/companies/meridianenergy1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MeridianEnergy1/744000140147259-principal-software-engineer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MeridianEnergy1/744000140562629-principal-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Meridian Energy was posted on 2026-07-28.
+This software engineer position at Meridian Energy was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

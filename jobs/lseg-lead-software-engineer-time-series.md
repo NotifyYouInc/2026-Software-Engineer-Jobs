@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Lead-Software-Engineer--Time-Series-_R0105214-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Lead-Software-Engineer--Time-Series-_R0121684-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-07-10.
+This software engineer position at LSEG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

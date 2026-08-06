@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013222726-senior-member-technical-staff) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014356966-senior-member-technical-staff) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-05-20.
+This data engineer position at The Nielsen Company was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Kochi, Kerala, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Rave-Custom-Function-Programmer_R1556139) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Rave-Custom-Function-Programmer_R1558112) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-07-14.
+This software engineer position at IQVIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

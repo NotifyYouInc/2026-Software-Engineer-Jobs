@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plantation, Florida, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R62065) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineering_R67051) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-04-03.
+This software engineer position at Motorola Solutions was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

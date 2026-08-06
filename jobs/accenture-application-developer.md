@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5685346-S2061143-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Developer_ATCP-1257533-S425321) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-29.
+This software engineer position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

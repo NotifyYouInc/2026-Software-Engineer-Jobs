@@ -6,7 +6,7 @@
 | Location | Eagan, Minnesota, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer--AI---Clear_JREQ199105) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer--AI_JREQ202372) |
 
 ## About This Role
 

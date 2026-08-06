@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Staff-Software-Engineer---GenAI_JR30288) |
+| Location | Oak Brook, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Staff-Software-Engineer---GenAI_JR31244) |
 
 ## About This Role
 
-This software engineer position at Chamberlain Group was posted on 2026-03-02.
+This machine learning engineer position at Chamberlain Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Principal-Engineer-Manufacturing_R10238077) |
+| Location | Sunnyvale, California, United States |
+| Category | Industrial Automation |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Engineer-Manufacturing_R10242537) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-07.
+This industrial automation position at Northrop Grumman was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

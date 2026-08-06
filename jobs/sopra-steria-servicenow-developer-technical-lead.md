@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139551010-servicenow-developer-technical-lead) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140605590-servicenow-developer-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-24.
+This software engineer position at Sopra Steria was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

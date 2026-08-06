@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000139558139-java-developer-data-hub-fmd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140609980-java-developer-data-hub-fmd) |
 
 ## About This Role
 
-This software engineer position at Ignitis Grupe was posted on 2026-07-24.
+This software engineer position at Ignitis Grupe was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

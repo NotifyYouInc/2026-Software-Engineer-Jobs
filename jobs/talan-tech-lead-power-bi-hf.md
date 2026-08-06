@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114110804-tech-lead-power-bi-hf) |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140639739-tech-lead-power-bi-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-03-11.
+This software engineer position at Talan was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

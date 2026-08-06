@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Sift](https://scoutify.ai/companies/siftstack?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Company | [Sift](https://scoutify.ai/companies/sift?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/siftstack/a4b56384-865d-43a1-a0ea-54ba4f9d6653) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/siftstack/be082df3-225c-4269-a159-bdb362b21c8e) |
 
 ## About This Role
 
-This software engineer position at Sift was posted on 2026-03-23.
+This software engineer position at Sift was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

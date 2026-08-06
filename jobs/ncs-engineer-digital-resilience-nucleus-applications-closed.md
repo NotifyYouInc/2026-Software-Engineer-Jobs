@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001244578-engineer-digital-resilience-nucleus-applications-closed) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001272884-engineer-digital-resilience-nucleus-applications-closed) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-07-20.
+This software engineer position at NCS was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

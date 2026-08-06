@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138816199-senior-backend-engineer-payin-platform) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140626109-senior-backend-engineer-payin-platform) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-21.
+This software engineer position at WISE was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

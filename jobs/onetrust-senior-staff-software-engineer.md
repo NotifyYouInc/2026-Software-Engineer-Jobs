@@ -5,12 +5,12 @@
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8074247) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8067469) |
 
 ## About This Role
 
-This software engineer position at OneTrust was posted on 2026-07-24.
+This software engineer position at OneTrust was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

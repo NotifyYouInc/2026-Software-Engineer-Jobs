@@ -5,12 +5,12 @@
 | Company | [Varda](https://scoutify.ai/companies/vardaspace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7786907003) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7821047003) |
 
 ## About This Role
 
-This software engineer position at Varda was posted on 2026-06-26.
+This software engineer position at Varda was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

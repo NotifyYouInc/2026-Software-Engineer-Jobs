@@ -5,12 +5,12 @@
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000137075159-senior-software-engineer) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000140598639-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at QAD was posted on 2026-07-10.
+This software engineer position at QAD was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

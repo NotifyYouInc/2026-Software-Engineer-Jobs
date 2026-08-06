@@ -1,16 +1,16 @@
-# Senior OS Software Engineer, Field Engagement & Analytics  at Apple
+# Senior OS Software Engineer, Field Engagement & Analytics at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659530/senior-os-software-engineer-field-engagement-analytics) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674937/senior-os-software-engineer-field-engagement-analytics) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-23.
+This software engineer position at Apple was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

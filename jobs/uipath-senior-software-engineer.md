@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/63aa7b8e-873d-4b90-9498-2577889b61e9) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7577d14f-6985-4b82-9bff-e62611f702c9) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-07-01.
+This software engineer position at UiPath was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

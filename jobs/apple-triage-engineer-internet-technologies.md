@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668720/triage-engineer-internet-technologies) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674856/triage-engineer-internet-technologies) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-06-16.
+This software engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

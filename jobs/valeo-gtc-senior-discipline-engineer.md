@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bangalore/GTC-Senior-Discipline-Engineer_REQ2026074285) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/GTC-Senior-Discipline-Engineer_REQ2026076797) |
 
 ## About This Role
 
-This software engineer position at Valeo was posted on 2026-07-10.
+This software engineer position at Valeo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

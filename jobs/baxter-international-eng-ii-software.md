@@ -5,12 +5,12 @@
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Eng-II--Software_JR-202078) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Eng-II--Software_JR-199800) |
 
 ## About This Role
 
-This software engineer position at Baxter International was posted on 2026-06-09.
+This software engineer position at Baxter International was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000133054509-ingenieur-telecom-developpement-paris-montpellier-hf) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000140644049-ingenieur-telecom-developpement-paris-montpellier-hf) |
 
 ## About This Role
 
-This software engineer position at Iliad-Free was posted on 2026-06-19.
+This software engineer position at Iliad-Free was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

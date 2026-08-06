@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westborough, Massachusetts, United States |
+| Location | Vietnam |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Principal-Engineer--Design-Verification_2602615-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Principal-Engineer--Design-Verification_2503583-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-06-10.
+This semiconductor / chip design position at Marvell was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

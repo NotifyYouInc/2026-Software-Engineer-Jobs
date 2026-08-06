@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Brazil/Analista-Desenvolvedor-Java-Especialista_REQ573375) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Brazil/Analista-Desenvolvedor-Java-Especialista_REQ574794) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-07-18.
+This software engineer position at Unisys was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

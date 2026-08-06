@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000137306929-xengineer-ai-creation) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000140600970-xengineer-ai-creation) |
 
 ## About This Role
 
-This software engineer position at Wix.com was posted on 2026-07-12.
+This software engineer position at Wix.com was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

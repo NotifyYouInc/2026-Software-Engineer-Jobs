@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153614) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154686) |
 
 ## About This Role
 
-This it & systems administration position at Honeywell was posted on 2026-07-17.
+This it & systems administration position at Honeywell was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
