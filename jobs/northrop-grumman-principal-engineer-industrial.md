@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | San Diego, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Engineer-Industrial_R10231058) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Industrial_R10242657) |
 
 ## About This Role
 
-This industrial automation position at Northrop Grumman was posted on 2026-05-11.
+This industrial automation position at Northrop Grumman was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556945262) |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556945405) |
 
 ## About This Role
 
-This data engineer position at Microsoft was posted on 2026-07-29.
+This software engineer position at Microsoft was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

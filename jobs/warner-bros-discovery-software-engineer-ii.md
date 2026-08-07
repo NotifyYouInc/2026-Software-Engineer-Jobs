@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-II_R000103735) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/WA-Bellevue-205-108th-Avenue-NE-Suite-S200/Software-Engineer-II_R000107071) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-04-16.
+This software engineer position at Warner Bros Discovery was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

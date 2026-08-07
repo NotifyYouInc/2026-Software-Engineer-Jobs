@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | West Palm Beach, Florida, United States |
+| Location | Detroit, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/West-Palm-Beach---Florida/Sr-Applications-Engineer_R-1758) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Detroit-MI/Sr-Applications-Engineer_R-1789) |
 
 ## About This Role
 
-This software engineer position at Monolithic Power Systems was posted on 2026-07-18.
+This software engineer position at Monolithic Power Systems was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

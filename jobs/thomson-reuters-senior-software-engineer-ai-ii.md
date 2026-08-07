@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer---AI_JREQ194747) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-II_JREQ202530) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-07-07.
+This machine learning engineer position at Thomson Reuters was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

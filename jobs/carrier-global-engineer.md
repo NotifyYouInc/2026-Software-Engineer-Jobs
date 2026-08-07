@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/RGA-Tech-Park-2nd-floor-Block-2-Survey--311-Chikkannhelli-Village-Varthur-Hobli-Bangalore-East-Taluk-Bangalore---560035-India/Engineer_30209888) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Engineer_30213390) |
 
 ## About This Role
 
-This software engineer position at Carrier Global was posted on 2026-07-02.
+This software engineer position at Carrier Global was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

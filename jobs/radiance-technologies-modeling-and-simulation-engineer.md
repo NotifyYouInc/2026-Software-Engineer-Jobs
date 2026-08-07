@@ -5,12 +5,12 @@
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling-and-Simulation-Engineer_HR102310) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling-and-Simulation-Engineer_HR102329) |
 
 ## About This Role
 
-This software engineer position at Radiance Technologies was posted on 2026-07-22.
+This software engineer position at Radiance Technologies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

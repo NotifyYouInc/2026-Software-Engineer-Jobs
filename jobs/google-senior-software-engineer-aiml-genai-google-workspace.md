@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/129380148985111238-senior-software-engineer-aiml-genai-google-workspace?sort_by=date&page=1) |
+| Location | Sunnyvale, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRCC1UTFb1Rz6tmiizoR-5LPfiJfv01q82tk_NNbnB2NEjsA1Ny_i77_c3La44PZcIVoyeze23UW5WhXNkyGXsIbdhzKPVNBgtvJuheNmqEc2pyeOiZUIZSu3UCpWQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-03.
+This machine learning engineer position at Google was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

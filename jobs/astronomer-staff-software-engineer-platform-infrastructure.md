@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Ireland |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/d4998dc6-114e-4584-a7a8-873b5608ac5a) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/0e7a8d92-5546-47cf-a3f1-ecab19088382) |
 
 ## About This Role
 
-This software engineer position at Astronomer was posted on 2026-05-21.
+This software engineer position at Astronomer was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

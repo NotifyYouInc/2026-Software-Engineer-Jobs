@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Packaged-SaaS-Application-Engineer_ATCI-5696407-S2061197-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Packaged-SaaS-Application-Engineer_ATCI-5533669-S2062056-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-30.
+This software engineer position at Accenture was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

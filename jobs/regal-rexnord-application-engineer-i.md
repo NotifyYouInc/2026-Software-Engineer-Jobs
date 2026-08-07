@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Application-Engineer-I_R26_02131-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Application-Engineer-I_R26_03815) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-05-07.
+This software engineer position at Regal Rexnord was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

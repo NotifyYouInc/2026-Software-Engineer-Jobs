@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/SOFTWARE-EXPERT_JR00109218-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/SOFTWARE-EXPERT_JR00110943) |
 
 ## About This Role
 
-This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-14.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

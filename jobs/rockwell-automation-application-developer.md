@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/Application-Developer_R26-4890) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Application-Developer_R26-4889) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-07-02.
+This software engineer position at Rockwell Automation was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

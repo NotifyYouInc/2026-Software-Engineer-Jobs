@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121884427-director-structural-engineering-lead-i-energy) |
+| Location | Docklands, Victoria, Australia |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140778775-director-structural-engineering-lead-i-energy) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-20.
+This software engineer position at AECOM was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

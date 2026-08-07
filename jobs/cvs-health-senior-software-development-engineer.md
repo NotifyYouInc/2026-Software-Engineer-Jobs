@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Ohio, US |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Richardson-909-E-Collins-Blvd/Senior-Software-Development-Engineer_R0937713) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Ohio/Senior-Software-Development-Engineer_R0986019) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-17.
+This software engineer position at CVS Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

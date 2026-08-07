@@ -1,16 +1,16 @@
-# Senior Analyst, Applications Programming at Analog Devices
+# Senior Analyst, Applications Programming. at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chon Buri, Chon Buri, Thailand |
 | Category | Software Engineer |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-RMZ/Senior-Analyst--Applications-Programming_R262822) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Senior-Analyst--Applications-Programming_R263935) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-07-04.
+This software engineer position at Analog Devices was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

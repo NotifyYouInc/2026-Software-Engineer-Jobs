@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671690/sw-development-engineer-system-rf-data-ecosystem) |
+| Location | Shanghai, Shanghai, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674964/sw-development-engineer-system-rf-data-ecosystem) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-09.
+This machine learning engineer position at Apple was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

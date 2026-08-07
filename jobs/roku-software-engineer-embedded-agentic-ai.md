@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7991641?gh_jid=7991641) |
+| Location | San Jose, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8065793?gh_jid=8065793) |
 
 ## About This Role
 
-This ai / llm engineer position at Roku was posted on 2026-06-08.
+This machine learning engineer position at Roku was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

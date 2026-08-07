@@ -1,16 +1,16 @@
-# Software Developer Sr. Principal at General Dynamics Information Technology
+# Software Developer Sr Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Software-Developer-Sr-Principal_RQ217419-1) |
+| Location | Albany, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Software-Developer-Sr-Principal_RQ225394-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-03-30.
+This software engineer position at General Dynamics Information Technology was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Software-Engineer---eCommerce_JR72360) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Software-Engineer---eCommerce_JR72355) |
 
 ## About This Role
 
-This software engineer position at Electrolux was posted on 2026-04-09.
+This software engineer position at Electrolux was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

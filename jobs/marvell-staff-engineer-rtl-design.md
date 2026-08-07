@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Staff-Engineer--RTL-Design_2600713) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Staff-Engineer--RTL-Design_2601164) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-12.
+This semiconductor / chip design position at Marvell was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

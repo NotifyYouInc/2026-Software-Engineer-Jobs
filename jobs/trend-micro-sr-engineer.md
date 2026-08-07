@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Ottawa, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Sr-Engineer_R0009206) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Sr-Engineer_R0010026) |
 
 ## About This Role
 
-This software engineer position at Trend Micro was posted on 2026-03-02.
+This software engineer position at Trend Micro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

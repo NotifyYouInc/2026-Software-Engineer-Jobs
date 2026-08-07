@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ENG---LONDON/Analyst-II-Software-Engineering_51586040) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Analyst-II-Software-Engineering_51585556) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-07-30.
+This software engineer position at DXC Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

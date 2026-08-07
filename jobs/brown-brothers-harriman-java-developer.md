@@ -5,12 +5,12 @@
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Krakow/Java-Developer_71960) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Krakow/Java-Developer_68476) |
 
 ## About This Role
 
-This software engineer position at Brown Brothers Harriman was posted on 2026-07-21.
+This software engineer position at Brown Brothers Harriman was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

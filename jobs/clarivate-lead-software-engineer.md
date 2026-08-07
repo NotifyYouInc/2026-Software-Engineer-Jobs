@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Software-Engineer_JREQ136025) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Software-Engineer_JREQ136154) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-07-27.
+This software engineer position at Clarivate was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

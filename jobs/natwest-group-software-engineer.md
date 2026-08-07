@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer_R-00282539) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer_R-00280718-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-07-30.
+This machine learning engineer position at NatWest Group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

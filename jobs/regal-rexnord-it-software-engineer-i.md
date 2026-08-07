@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/IT-Software-Engineer-I_R26_03358) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/IT-Software-Engineer-I_R26_03803) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-07-02.
+This it & systems administration position at Regal Rexnord was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Strongsville, Ohio, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Strongsville/Software-Engineer-Principal_R225560-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Software-Engineer-Principal_R230383) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-07-01.
+This software engineer position at PNC Financial was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

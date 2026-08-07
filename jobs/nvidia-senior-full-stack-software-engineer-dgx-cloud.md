@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Carolina, US |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Senior-Full-Stack-Software-Engineer---DGX-Cloud_JR2017922) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Senior-Full-Stack-Software-Engineer---DGX-Cloud_JR2021832) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-05-14.
+This software engineer position at Nvidia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
