@@ -5,12 +5,12 @@
 | Company | [Nexamp](https://scoutify.ai/companies/nexamp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://nexamp.com//careers?gh_jid=8533484002#Open%20Roles) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://nexamp.com//careers?gh_jid=8660665002#Open%20Roles) |
 
 ## About This Role
 
-This software engineer position at Nexamp was posted on 2026-05-01.
+This software engineer position at Nexamp was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

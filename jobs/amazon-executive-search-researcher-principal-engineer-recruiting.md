@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376633/executive-search-researcher-principal-engineer-recruiting) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489845/executive-search-researcher-principal-engineer-recruiting) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-03-26.
+This software engineer position at Amazon was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

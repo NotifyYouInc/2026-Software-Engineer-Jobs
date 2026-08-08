@@ -1,16 +1,16 @@
-# Software Engineer (EAA) at Coinbase
+# Software Engineer, EAA  at Coinbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7609629?gh_jid=7609629) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066) |
 
 ## About This Role
 
-This software engineer position at Coinbase was posted on 2026-02-12.
+This software engineer position at Coinbase was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

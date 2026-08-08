@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truetandem](https://scoutify.ai/companies/truetandem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.lever.co/truetandem/e10d6604-4acf-469f-899e-5628f15225d1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.lever.co/truetandem/4589a2cd-15b5-4152-b9d2-770359358efa) |
 
 ## About This Role
 
-This software engineer position at Truetandem was posted on 2026-06-16.
+This software engineer position at Truetandem was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

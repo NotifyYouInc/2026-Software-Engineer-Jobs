@@ -5,12 +5,12 @@
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.lever.co/field-ai/208e9ad5-cf16-4fe8-b991-cec7296ca46b) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.lever.co/field-ai/b6a02c7e-8726-47b7-b0b0-899644613c47) |
 
 ## About This Role
 
-This devops engineer position at Field AI was posted on 2026-03-09.
+This devops engineer position at Field AI was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

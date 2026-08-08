@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/bc236860-2628-4894-adf6-aaf984d625f4) |
+| Category | Software Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/dde096b1-0aa6-4d15-81bd-b264e261a089) |
 
 ## About This Role
 
-This mobile engineer position at Clera was posted on 2026-06-07.
+This software engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

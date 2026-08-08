@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Carlos, California, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/128241d1-58b5-4a3a-bc6e-568494ca71d1) |
+| Category | Software Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/0fb9129c-c0c9-4ffc-9664-b3b753869ce8) |
 
 ## About This Role
 
-This mobile engineer position at Beaconai was posted on 2026-06-04.
+This software engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

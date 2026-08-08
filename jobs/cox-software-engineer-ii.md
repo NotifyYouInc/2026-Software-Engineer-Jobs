@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-II---14018_R202678975) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Overland-Park-KS/Software-Engineer-II_R202680465) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-06-19.
+This software engineer position at Cox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

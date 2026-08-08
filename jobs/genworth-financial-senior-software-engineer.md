@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genworth Financial](https://scoutify.ai/companies/genworth-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/New-York-New-York/Senior-Software-Engineer_REQ-260173) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Lynchburg-Virginia/Senior-Software-Engineer_REQ-260254) |
 
 ## About This Role
 
-This software engineer position at Genworth Financial was posted on 2026-04-27.
+This software engineer position at Genworth Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

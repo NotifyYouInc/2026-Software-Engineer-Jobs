@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Richmond-Virginia-United-States-of-America/Product-Engineer_JR00021793) |
+| Location | Arecibo, Arecibo, Puerto Rico |
+| Category | Software Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Arecibo-Puerto-Rico/Product-Engineer_JR00043310) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-06.
+This software engineer position at ABB was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | San Mateo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/8084445?gh_jid=8084445) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8039680?gh_jid=8039680) |
 
 ## About This Role
 
-This software engineer position at Roblox was posted on 2026-07-24.
+This software engineer position at Roblox was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

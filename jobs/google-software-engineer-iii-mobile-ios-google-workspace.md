@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcW0EmRXiLq9afV7K-s65tyDTSPC7ljdoVg1GnCaUo-LEjsACxwdTJeMI9IZ61f0h5MNDxlovqdUA-F1rWaLbmUm29GjoV-aVYRngFNIZ8srElcN3phDJjC46ObRhQ%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Category | Software Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYGD8oM3B4wxwEJQDE3tRSR7qinehppnpEY6qV_bKgSREjsA1Ny_i_c3DmPanNO7YpGaDrurwZYx0pGaH57uqF56amcqzQEhDM3ShL3fVUvvBei9i75AVj92sFIooA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This mobile engineer position at Google was posted on 2026-06-04.
+This software engineer position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

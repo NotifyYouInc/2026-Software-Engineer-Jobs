@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | Bastrop, Louisiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8650986002?gh_jid=8650986002) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8663952002?gh_jid=8663952002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-07-26.
+This software engineer position at SpaceX was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

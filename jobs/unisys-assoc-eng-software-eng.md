@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Madrid-Spain/Assoc-Eng-Software-Eng_REQ572488) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Assoc-Eng-Software-Eng_REQ568226) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-04-22.
+This software engineer position at Unisys was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Student-Technical_REQ568355) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Student-Technical_REQ568221) |
 
 ## About This Role
 
-This software engineer position at Unisys was posted on 2026-06-29.
+This software engineer position at Unisys was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

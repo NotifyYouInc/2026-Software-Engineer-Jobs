@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntingburg, Indiana, United States |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/12373791-55f8-4834-8dc6-d2963af2160f) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/456fecde-15c2-4ebd-add5-fc7d6e7b6445) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-19.
+This software engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

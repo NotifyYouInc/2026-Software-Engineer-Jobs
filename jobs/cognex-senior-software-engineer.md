@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Natick, Massachusetts, United States |
+| Location | Girona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Natick-Massachusetts/Senior-Software-Engineer_R0012190) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Girona-Spain/Senior-Software-Engineer_R0012210) |
 
 ## About This Role
 
-This software engineer position at Cognex was posted on 2026-07-15.
+This software engineer position at Cognex was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

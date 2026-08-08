@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/450cb60b-ef9f-42d3-8ebe-0d2d79e56509) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/08f4693f-ce15-4a02-a44d-65a62a7db5c8) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-02.
+This software engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

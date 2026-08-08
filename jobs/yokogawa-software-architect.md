@@ -5,12 +5,12 @@
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Beijing/Software-Architect_R-12279) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Beijing/Software-Architect_R-12444) |
 
 ## About This Role
 
-This software engineer position at Yokogawa was posted on 2026-07-21.
+This software engineer position at Yokogawa was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

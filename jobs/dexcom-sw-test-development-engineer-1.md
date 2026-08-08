@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Test-Development-Engineer-1_JR118706) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/SW-Test-Development-Engineer-1_JR120189) |
 
 ## About This Role
 
-This semiconductor / chip design position at Dexcom was posted on 2026-06-03.
+This semiconductor / chip design position at Dexcom was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

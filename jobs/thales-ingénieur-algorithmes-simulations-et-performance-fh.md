@@ -1,16 +1,16 @@
-# Ingénieur Algorithmes Simulations et Performance - F/H at Thales
+# Ingénieur Algorithmes Simulations et Performance F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | France |
+| Location | Rungis, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Ingnieur-Algorithmes-Simulations-et-Performance---F-H_R0319775-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Ingnieur-Algorithmes-Simulations-et-Performance-F-H_R0336074-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-03-22.
+This software engineer position at Thales was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

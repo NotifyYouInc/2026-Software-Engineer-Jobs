@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5096f149-30c2-4e62-aa8a-7d70b27849aa) |
+| Location | San Francisco, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/839d1b28-ad1c-4658-bc41-f1092ba111e5) |
 
 ## About This Role
 
-This ai / ml research position at Clera was posted on 2026-06-06.
+This software engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Lead--Java-Fullstack-Developer_19040933) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Lead--Java-Fullstack-Developer_19041390) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-06-12.
+This software engineer position at TransUnion was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

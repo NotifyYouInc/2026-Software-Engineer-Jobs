@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Warren, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Software-Engineer_JR-202616101) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202609247-1) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-07-24.
+This software engineer position at General Motors was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

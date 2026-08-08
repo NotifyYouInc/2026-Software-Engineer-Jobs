@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Database Administration |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Sr-Database-Engineer_R-00185300) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Sr-Database-Engineer_R-00188593) |
 
 ## About This Role
 
-This database administration position at Leidos was posted on 2026-06-11.
+This database administration position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

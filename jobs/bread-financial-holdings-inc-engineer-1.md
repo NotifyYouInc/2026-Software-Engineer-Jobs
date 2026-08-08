@@ -1,16 +1,16 @@
-# Engineer 1 at Bread Financial Holdings, Inc.
+# Engineer, 1 at Bread Financial Holdings, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Engineer-1_R1012620) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Engineer--1_R1012899-1) |
 
 ## About This Role
 
-This software engineer position at Bread Financial Holdings, Inc. was posted on 2026-05-21.
+This software engineer position at Bread Financial Holdings, Inc. was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

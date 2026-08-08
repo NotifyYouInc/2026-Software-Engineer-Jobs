@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/de24d7e5-f39e-4c50-999e-ec94fefbc6d3) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/a314ddef-7c8e-45de-a7e7-fa159d0af0e1) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-19.
+This software engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

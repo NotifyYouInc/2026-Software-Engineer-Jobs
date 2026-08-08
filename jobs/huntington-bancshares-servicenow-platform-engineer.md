@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 7 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/ServiceNow-Platform-Engineer_R0072829) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/ServiceNow-Platform-Engineer_R0072828) |
 
 ## About This Role
 
-This software engineer position at Huntington Bancshares was posted on 2026-06-04.
+This software engineer position at Huntington Bancshares was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

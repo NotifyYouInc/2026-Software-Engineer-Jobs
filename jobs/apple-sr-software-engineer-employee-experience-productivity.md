@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662766/sr-software-engineer-employee-experience-productivity) |
+| Location | Sunnyvale, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674399/sr-software-engineer-employee-experience-productivity) |
 
 ## About This Role
 
-This human resources / people ops position at Apple was posted on 2026-05-12.
+This software engineer position at Apple was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

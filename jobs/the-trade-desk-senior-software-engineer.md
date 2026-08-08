@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5200996007) |
 
 ## About This Role
 
-This software engineer position at The Trade Desk was posted on 2026-06-17.
+This software engineer position at The Trade Desk was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer - Mainframe at M&T Bank
+# Senior Software Engineer – Mainframe at M&T Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Senior-Software-Engineer---Mainframe_R83190) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Senior-Software-Engineer---Mainframe_R88575) |
 
 ## About This Role
 
-This software engineer position at M&T Bank was posted on 2026-02-27.
+This software engineer position at M&T Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

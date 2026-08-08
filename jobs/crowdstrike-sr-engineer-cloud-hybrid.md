@@ -1,16 +1,16 @@
-# Sr. Engineer, Cloud (Hybrid) at CrowdStrike
+# Sr. Engineer - Cloud (Hybrid) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Engineer--Cloud--Hybrid-_R27310) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Cloud--Hybrid-_R29532) |
 
 ## About This Role
 
-This software engineer position at CrowdStrike was posted on 2026-06-16.
+This software engineer position at CrowdStrike was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

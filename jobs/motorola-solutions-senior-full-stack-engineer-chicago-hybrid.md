@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Full-Stack-Engineer--Chicago-Hybrid-_R63470) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Full-Stack-Engineer--Chicago-Hybrid-_R67304) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-04-09.
+This software engineer position at Motorola Solutions was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/1ad0e359-7a0e-45fe-bc8d-31c8b34f2996) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/1aa12756-af83-4d4a-b221-fc45642c6fd6) |
 
 ## About This Role
 
-This software engineer position at Beaconai was posted on 2026-06-24.
+This software engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

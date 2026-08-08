@@ -5,12 +5,12 @@
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Associate-Software-Development-Engineer_R11878) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Associate-Software-Development-Engineer_R11879) |
 
 ## About This Role
 
-This software engineer position at Clearwateranalytics was posted on 2026-06-11.
+This software engineer position at Clearwateranalytics was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gaithersburg, Maryland, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Principal-Software-Architect_R-00181776) |
+| Category | Software Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Principal-Software-Architect_R-00188534-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-04-24.
+This software engineer position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
