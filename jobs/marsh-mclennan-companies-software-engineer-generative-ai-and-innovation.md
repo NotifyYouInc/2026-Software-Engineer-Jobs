@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dublin---Frame/Software-Engineer--Generative-AI-and-Innovation-_R_355019) |
 
 ## About This Role
 
-This machine learning engineer position at Marsh & McLennan Companies was posted on 2026-07-31.
+This ai / llm engineer position at Marsh & McLennan Companies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

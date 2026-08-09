@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Carlos, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/719936c7-483f-46ef-90af-59b857c4beb2) |
 
 ## About This Role
 
-This machine learning engineer position at Beaconai was posted on 2026-07-31.
+This ai / llm engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

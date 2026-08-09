@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Managed Health Care Associates](https://scoutify.ai/companies/recruiting-ultipro-com-oj71880?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://recruiting.ultipro.com/rop1001roper/JobBoard/96d7c367-388f-4410-9b9a-b5b811a37825/OpportunityDetail?opportunityId=045fdef3-ecb6-480c-af68-02699fd61361) |
 
 ## About This Role
 
-This machine learning engineer position at Managed Health Care Associates was posted on 2026-07-31.
+This ai / llm engineer position at Managed Health Care Associates was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

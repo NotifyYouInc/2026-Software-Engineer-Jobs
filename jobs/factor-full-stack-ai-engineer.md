@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Factor](https://scoutify.ai/companies/factor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.lever.co/factor/57b8dde9-8056-4aed-b174-d747c28ae874) |
 
 ## About This Role
 
-This machine learning engineer position at Factor was posted on 2026-07-31.
+This ai / llm engineer position at Factor was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

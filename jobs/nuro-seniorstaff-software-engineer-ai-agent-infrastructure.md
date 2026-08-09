@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nuro](https://scoutify.ai/companies/nuro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=8097555) |
 
 ## About This Role
 
-This machine learning engineer position at Nuro was posted on 2026-07-31.
+This ai / llm engineer position at Nuro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

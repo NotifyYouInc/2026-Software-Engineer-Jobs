@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) |
 
 ## About This Role
 
-This software engineer position at Field AI was posted on 2026-08-01.
+This data engineer position at Field AI was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

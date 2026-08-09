@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 5 locations |
-| Category | Go To Market Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4697977006) |
 
 ## About This Role
 
-This go to market engineer position at Gong.io was posted on 2026-07-31.
+This ai / llm engineer position at Gong.io was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

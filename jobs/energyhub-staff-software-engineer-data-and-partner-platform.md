@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EnergyHub](https://scoutify.ai/companies/energyhub?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/energyhub/jobs/8659800002) |
 
 ## About This Role
 
-This software engineer position at EnergyHub was posted on 2026-07-31.
+This data engineer position at EnergyHub was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
