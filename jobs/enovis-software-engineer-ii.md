@@ -5,12 +5,12 @@
 | Company | [ENOVIS](https://scoutify.ai/companies/enovis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Software-Engineer-II_R0033790) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Software-Engineer-II_R0033782) |
 
 ## About This Role
 
-This software engineer position at ENOVIS was posted on 2026-07-30.
+This software engineer position at ENOVIS was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

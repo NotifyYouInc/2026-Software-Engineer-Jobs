@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zartis](https://scoutify.ai/companies/zartis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Union, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.lever.co/zartis/f5e535f1-d4df-416a-b202-7da953e7cbfe) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.lever.co/zartis/a2d368f5-37a8-41eb-930e-39d5baab4781) |
 
 ## About This Role
 
-This software engineer position at Zartis was posted on 2026-06-04.
+This software engineer position at Zartis was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

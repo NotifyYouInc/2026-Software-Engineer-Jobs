@@ -5,12 +5,12 @@
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000140609659-integration-automation-specialist-dmw-80-100) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000141410729-integration-automation-specialist-dmw-80-100) |
 
 ## About This Role
 
-This software engineer position at Haufe Group was posted on 2026-07-30.
+This software engineer position at Haufe Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

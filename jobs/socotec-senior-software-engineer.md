@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000108588065-senior-software-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000141325959-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SOCOTEC was posted on 2026-02-10.
+This software engineer position at SOCOTEC was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

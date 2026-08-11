@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chihuahua, Chihuahua, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Senior-Product-Engineer_J2450764) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Senior-Product-Engineer_J2459639) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-05-18.
+This software engineer position at Jabil was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

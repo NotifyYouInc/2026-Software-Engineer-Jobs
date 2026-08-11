@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Lead-II--Full-Stack-Developer--net---React-Angular-_316745-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Software Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Noida-Uttarpradesh/Associate-Director--Software-Engineering_328341-1) |
 
 ## About This Role
 
-This engineering manager position at S&P Global was posted on 2026-07-25.
+This software engineer position at S&P Global was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

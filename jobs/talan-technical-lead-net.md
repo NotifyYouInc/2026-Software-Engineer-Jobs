@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140935899-technical-lead-net) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141424994-technical-lead-net) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-07-31.
+This software engineer position at Talan was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

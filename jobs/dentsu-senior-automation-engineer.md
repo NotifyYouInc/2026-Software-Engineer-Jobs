@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangalore/Senior-Automation-Engineer_R1120409-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangalore/Senior-Automation-Engineer_R1128634) |
 
 ## About This Role
 
-This industrial automation position at Dentsu was posted on 2026-05-05.
+This devops engineer position at Dentsu was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

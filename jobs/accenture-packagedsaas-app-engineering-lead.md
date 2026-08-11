@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5698977-S2061195-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Packaged-SaaS-App-Engineering-Lead_ATCI-5687797-S2062560-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-30.
+This software engineer position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

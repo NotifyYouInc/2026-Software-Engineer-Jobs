@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hawthorne, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8533686002?gh_jid=8533686002) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-05-01.
+This software engineer position at SpaceX was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

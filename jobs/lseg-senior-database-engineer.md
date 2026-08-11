@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Database-Engineer_R0121416-1) |
+| Location | St. Louis, Missouri, United States |
+| Category | Database Administration |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-New-York-28-Liberty-Street/Senior-Database-Engineer_R0121490-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-07-20.
+This database administration position at LSEG was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

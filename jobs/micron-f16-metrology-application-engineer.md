@@ -1,16 +1,16 @@
-# F16 Metrology Application Engineer at Micron
+# F16-Metrology Application Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taichung, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/F16-Metrology-Application-Engineer_JR89457) |
+| Location | Miaoli, Taiwan, Taiwan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/F16-Metrology-Application-Engineer_JR105311) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-14.
+This semiconductor / chip design position at Micron was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

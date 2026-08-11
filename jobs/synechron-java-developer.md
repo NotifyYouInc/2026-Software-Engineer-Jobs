@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Calgary, Alberta, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Java-Developer_JR1041097-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Calgary-AB/Java-Developer_JR1041691-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-07-02.
+This software engineer position at Synechron was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

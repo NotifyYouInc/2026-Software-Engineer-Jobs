@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000139225940-ingenieur-developpement-systeme-temps-reel-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141428584-ingenieur-developpement-systeme-temps-reel-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-07-23.
+This software engineer position at Assystem was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

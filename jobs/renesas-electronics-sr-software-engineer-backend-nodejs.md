@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135650479-sr-software-engineer-backend-nodejs) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141415329-sr-software-engineer-backend-nodejs) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-03.
+This software engineer position at Renesas Electronics was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

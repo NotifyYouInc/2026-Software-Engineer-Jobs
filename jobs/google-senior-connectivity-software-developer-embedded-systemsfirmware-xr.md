@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdERmwiuUDFaGZSNH13v1wMIwOYLlBbo7OwKyQz_DnteEjsACxwdTOnoMc-gryVXc_fo1wpWfOsIT_lFIos91G8LbRceqcJcOmDNsKeIukaZ0pglBJITlYVOzrM57A%3D%3D_V2&loc=US&title=Senior+Connectivity+Software+Developer) |
+| Category | Software Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcrx_mPy13MvT-ILhyCtzuX_okr_m5TUHo3EHorfD9nUEjsA1Ny_i5WsUdGJI9-9eT2I1IFeBanv3QLlJcFiH7J8KlrLKN5LL6NwkfyKbRM80D4nyCB__7oAgbb42A%3D%3D_V2&loc=US&title=Senior+Connectivity+Software+Developer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Google was posted on 2026-05-28.
+This software engineer position at Google was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

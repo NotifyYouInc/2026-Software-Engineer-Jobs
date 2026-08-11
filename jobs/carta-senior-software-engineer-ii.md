@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7772786003) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7772791003) |
 
 ## About This Role
 
-This software engineer position at Carta was posted on 2026-07-24.
+This software engineer position at Carta was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

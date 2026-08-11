@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2025-09-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200620636/software-development-engineer-automation-tools) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675618/software-development-engineer-automation-tools) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-09-15.
+This ai / llm engineer position at Apple was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

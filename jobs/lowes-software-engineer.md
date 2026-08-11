@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Database Administration |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Software-Engineer_JR-02593479) |
+| Category | Software Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Software-Engineer_JR-02585445-1) |
 
 ## About This Role
 
-This database administration position at Lowe's was posted on 2026-07-28.
+This software engineer position at Lowe's was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

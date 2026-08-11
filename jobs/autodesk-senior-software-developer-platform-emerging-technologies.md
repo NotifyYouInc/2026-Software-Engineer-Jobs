@@ -1,16 +1,16 @@
-# Senior Software Developer – Platform & Emerging Technologies at Autodesk
+# Senior Software Developer– Platform & Emerging Technologies at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Senior-Software-Developer---Platform---Emerging-Technologies_26WD99399-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Senior-Software-Developer--Platform---Emerging-Technologies_26WD100072-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-06-22.
+This software engineer position at Autodesk was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

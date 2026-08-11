@@ -1,16 +1,16 @@
-# Sr Software Engineer at Baylor Genetics
+# Sr. Software Engineer at Baylor Genetics
 
 | Field | Details |
 |-------|---------|
 | Company | [Baylor Genetics](https://scoutify.ai/companies/baylor-genetics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/bay1006bml/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/OpportunityDetail?opportunityId=7206c30c-bee2-4165-a754-9980886ae0c6) |
+| Category | Software Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/bay1006bml/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/OpportunityDetail?opportunityId=53a48497-4cec-4b72-b25a-c0ff5953ee1c) |
 
 ## About This Role
 
-This frontend engineer position at Baylor Genetics was posted on 2026-02-19.
+This software engineer position at Baylor Genetics was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

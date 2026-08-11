@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Tennessee, US |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Systems-Engineer_R0245960) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arnold-AFB-TN/Systems-Engineer_R0245980) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-08-01.
+This software engineer position at Booz Allen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

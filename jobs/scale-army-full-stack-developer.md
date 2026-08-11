@@ -5,12 +5,12 @@
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Egypt |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/71e9b0c9-64b7-453e-9e4c-1bf50d3d6b3a) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/e34e165a-81fa-40d2-bd8a-4a56246617ec) |
 
 ## About This Role
 
-This software engineer position at Scale Army was posted on 2026-06-12.
+This software engineer position at Scale Army was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

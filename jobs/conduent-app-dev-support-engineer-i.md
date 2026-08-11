@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#23186) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24083) |
 
 ## About This Role
 
-This technical support engineer position at Conduent was posted on 2026-07-09.
+This software engineer position at Conduent was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

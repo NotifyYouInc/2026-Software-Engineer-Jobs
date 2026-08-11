@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karntaka-India/Sr-Software-Engineer---Wireless-Access-Point-Development_1205034-2) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karnataka-India/Sr-Software-Engineer---Wireless-Access-Point-Development_1209886) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Hewlett Packard Enterprise was posted on 2026-04-17.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

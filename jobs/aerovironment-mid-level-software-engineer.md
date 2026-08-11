@@ -1,16 +1,16 @@
-# Mid-level Software Engineer at AeroVironment
+# Mid-Level Software Engineer at AeroVironment
 
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wright-Patterson AFB, Ohio, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Mid-level-Software-Engineer_8006) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Mid-Level-Software-Engineer_8319) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-06-22.
+This software engineer position at AeroVironment was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

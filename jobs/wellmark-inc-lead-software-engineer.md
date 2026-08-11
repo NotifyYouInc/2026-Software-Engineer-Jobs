@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000109301316-lead-software-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000141320469-lead-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Wellmark, Inc. was posted on 2026-02-13.
+This software engineer position at Wellmark, Inc. was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

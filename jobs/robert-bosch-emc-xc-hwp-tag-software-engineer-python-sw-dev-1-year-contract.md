@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132565885-emc-xc-hwp-tag-software-engineer-python-sw-dev-1-year-contract) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141417961-emc-xc-hwp-tag-software-engineer-python-sw-dev-1-year-contract) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-06-17.
+This software engineer position at Robert Bosch was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

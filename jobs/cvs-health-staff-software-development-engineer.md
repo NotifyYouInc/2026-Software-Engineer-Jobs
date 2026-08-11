@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vermont, US |
+| Location | Colorado, US |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VT---Work-from-home/Staff-Software-Development-Engineer_R0969134) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Work-from-home/Staff-Software-Development-Engineer_R0975021) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-22.
+This software engineer position at CVS Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

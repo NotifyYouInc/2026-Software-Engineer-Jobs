@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hosūr, Tamil Nadu, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hosur/Customer-Application-Engineer_R5046996-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sao-Paulo/Customer-Application-Engineer_R5047885-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-07-13.
+This software engineer position at GE Vernova was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

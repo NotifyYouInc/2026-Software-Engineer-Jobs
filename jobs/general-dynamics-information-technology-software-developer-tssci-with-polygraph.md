@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer---TS-SCI-with-Polygraph_RQ215498-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer---TS-SCI-with-Polygraph_RQ225128-1) |
 
 ## About This Role
 
-This frontend engineer position at General Dynamics Information Technology was posted on 2026-02-27.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

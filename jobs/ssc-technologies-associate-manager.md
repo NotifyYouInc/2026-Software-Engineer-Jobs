@@ -5,12 +5,12 @@
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India/Associate-Manager_R45202) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India/Associate-Manager_R45455) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-07-23.
+This software engineer position at SS&C Technologies was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

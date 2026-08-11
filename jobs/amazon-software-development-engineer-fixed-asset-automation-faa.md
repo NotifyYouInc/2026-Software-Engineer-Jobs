@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426843/software-development-engineer-fixed-asset-automation-faa) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491198/software-development-engineer-fixed-asset-automation-faa) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-21.
+This software engineer position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

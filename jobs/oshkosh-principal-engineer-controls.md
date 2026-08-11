@@ -1,16 +1,16 @@
-# Principal Engineer-Controls at Oshkosh
+# Principal Engineer - Controls at Oshkosh
 
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Greencastle, Indiana, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Principal-Engineer-Controls_R46053) |
+| Location | Orlando, Florida, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Principal-Engineer---Controls_R48514) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Oshkosh was posted on 2026-04-24.
+This industrial automation position at Oshkosh was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

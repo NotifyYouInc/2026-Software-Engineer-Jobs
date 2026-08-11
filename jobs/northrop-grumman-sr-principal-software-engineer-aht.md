@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Sr-Principal-Software-Engineer--AHT-_R10235756) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Software-Engineer--AHT-_R10243545) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-09.
+This software engineer position at Northrop Grumman was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

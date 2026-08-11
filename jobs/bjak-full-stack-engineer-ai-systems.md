@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
+| Location | China |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5245bcda-ac4a-4101-a421-aae52b76b6b3) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2dff0549-f89c-4be3-bddc-c26394c6d5f2) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-07-19.
+This software engineer position at Bjak was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

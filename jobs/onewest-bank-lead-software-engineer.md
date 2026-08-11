@@ -5,12 +5,12 @@
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Software-Engineer_24674-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Software-Engineer_24690) |
 
 ## About This Role
 
-This software engineer position at OneWest Bank was posted on 2026-07-22.
+This software engineer position at OneWest Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Poland---Krakw---Lubomirskiego/Senior-Full-Stack-Software-Development-Engineer_26WD100103-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Poland---Krakw---Lubomirskiego/Senior-Full-Stack-Software-Development-Engineer_26WD96549-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-08-01.
+This software engineer position at Autodesk was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

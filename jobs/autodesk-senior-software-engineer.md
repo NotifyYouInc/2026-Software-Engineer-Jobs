@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sheffield, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD99426-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD100194-2) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-07-10.
+This software engineer position at Autodesk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
