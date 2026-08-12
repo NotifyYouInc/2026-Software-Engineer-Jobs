@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124815839-axway-b2b-senior-technical-lead) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141645468-axway-b2b-senior-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-05-06.
+This software engineer position at Sopra Steria was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

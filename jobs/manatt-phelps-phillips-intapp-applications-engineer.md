@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manatt Phelps & Phillips](https://scoutify.ai/companies/manatt-phelps-phillips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Los-Angeles/Intapp-Applications-Engineer_JR100565) |
+| Location | Tampa, Florida, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Tampa/Intapp-Applications-Engineer_JR100591) |
 
 ## About This Role
 
-This software engineer position at Manatt Phelps & Phillips was posted on 2026-06-16.
+This it & systems administration position at Manatt Phelps & Phillips was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

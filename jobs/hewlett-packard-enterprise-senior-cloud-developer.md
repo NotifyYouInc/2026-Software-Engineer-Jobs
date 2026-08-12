@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Colorado, US |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Andover-Massachusetts-United-States-of-America/Senior-Cloud-Developer_1201108) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/Senior-Cloud-Developer_1210054) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-09.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

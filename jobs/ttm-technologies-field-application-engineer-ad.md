@@ -5,12 +5,12 @@
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Connecticut, US |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Connecticut/Field-Application-Engineer---A-D_R15463) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Connecticut/Field-Application-Engineer---A-D_R17113) |
 
 ## About This Role
 
-This software engineer position at TTM Technologies was posted on 2026-04-13.
+This software engineer position at TTM Technologies was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

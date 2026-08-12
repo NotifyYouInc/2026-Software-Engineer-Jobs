@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Reẖovot, Central District, Israel |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Software-Engineer_R2624474) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Engineer_R2624839) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-07-24.
+This software engineer position at Applied Materials was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

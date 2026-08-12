@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vancouver---Pender-St/Software-Developer_R0318412-1) |
+| Location | Cuernavaca, Morelos, Mexico |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cuernavaca/Software-Developer_R0336208) |
 
 ## About This Role
 
-This frontend engineer position at Thales was posted on 2026-03-11.
+This software engineer position at Thales was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

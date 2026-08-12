@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Software-Engineer---Sr-Principal-Software-Engineer_R10230773) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Software-Engineer---Sr-Principal-Software-Engineer_R10243686) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-04-23.
+This software engineer position at Northrop Grumman was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

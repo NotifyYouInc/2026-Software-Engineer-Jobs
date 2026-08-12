@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Albuquerque-New-Mexico/Senior-Ground-System-Engineer_R2127172) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Ground-System-Engineer_R2127775) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-24.
+This software engineer position at KBR was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

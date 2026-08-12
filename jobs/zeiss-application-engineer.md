@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Application-Engineer_JR_1049846) |
+| Location | Hsinchu, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hsinchu-City/Application-Engineer_JR_1051879) |
 
 ## About This Role
 
-This marketing position at Zeiss was posted on 2026-05-20.
+This software engineer position at Zeiss was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

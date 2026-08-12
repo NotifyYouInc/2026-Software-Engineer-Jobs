@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Embedded-Software-Engineer_R26-254) |
+| Location | Mayfield Heights, Ohio, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Embedded-Software-Engineer_R26-5330) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Rockwell Automation was posted on 2026-05-29.
+This software engineer position at Rockwell Automation was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

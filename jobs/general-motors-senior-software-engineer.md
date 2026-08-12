@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warren, Michigan, United States |
+| Location | Milford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202609247-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202616907) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-07-31.
+This software engineer position at General Motors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

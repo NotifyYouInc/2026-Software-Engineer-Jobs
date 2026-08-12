@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Guadalupe, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0092827-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Software-Engineer_JR-0088789-1) |
 
 ## About This Role
 
-This software engineer position at KION Group was posted on 2026-07-24.
+This software engineer position at KION Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

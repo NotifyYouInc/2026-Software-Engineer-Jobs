@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Associate-Applications-Developer_R149274-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Associate-Applications-Developer_R156425-2) |
 
 ## About This Role
 
-This software engineer position at The Ohio State University was posted on 2026-04-17.
+This software engineer position at The Ohio State University was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Western Australia, AU |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-WA-HENDERSON-001--1-Mcgrath-Rd--MCGRATH/Systems-Engineer_01859202) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-WA-HENDERSON-001--1-Mcgrath-Rd--MCGRATH/Systems-Engineer_01864290-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-14.
+This software engineer position at RTX was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

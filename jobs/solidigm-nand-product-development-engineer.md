@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000117149817-nand-product-development-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000141657195-nand-product-development-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Solidigm was posted on 2026-03-27.
+This semiconductor / chip design position at Solidigm was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

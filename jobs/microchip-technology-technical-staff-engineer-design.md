@@ -1,16 +1,16 @@
-# Technical Staff Engineer-Design at Microchip Technology
+# Technical Staff Engineer - Design at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Diego---Bernardo-Center-Dr/Technical-Staff-Engineer-Design_R3272-26) |
+| Location | Chandler, Arizona, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer---Design_R3309-26) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-07-24.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

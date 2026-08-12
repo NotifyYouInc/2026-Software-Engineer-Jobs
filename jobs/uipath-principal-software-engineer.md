@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/f312ccc8-c71e-4d86-a1d5-767dba970edd) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/a0af8199-9cd3-4444-9161-c50185f63b1a) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-05-27.
+This software engineer position at UiPath was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

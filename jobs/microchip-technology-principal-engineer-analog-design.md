@@ -1,16 +1,16 @@
-# Principal Engineer-Analog Design at Microchip Technology
+# Principal Engineer - Analog Design at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---Fortune-Dr-Micrel-RD/Principal-Engineer-Analog-Design_R2075-26) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Ottawa---March-Road/Principal-Engineer---Analog-Design_R3279-26) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Microchip Technology was posted on 2026-05-29.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coral Gables, Florida, United States |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Coral-Gables-FL-HQ/Application-Development-Lead_R166238-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Application-Development-Lead_R178493) |
 
 ## About This Role
 
-This software engineer position at Ryder System was posted on 2026-03-19.
+This software engineer position at Ryder System was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Senior-Engineer---Integration_REQ131754) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Senior-Engineer---Integration_REQ140718) |
 
 ## About This Role
 
-This software engineer position at TJX was posted on 2026-07-03.
+This software engineer position at TJX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

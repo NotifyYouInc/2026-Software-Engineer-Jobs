@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jbtm](https://scoutify.ai/companies/jbtm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buford, Georgia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Buford-GA/Applications-Engineer--Poultry_22633-1) |
+| Location | Tennessee, US |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/Remote-Tennessee/Applications-Engineer--Poultry_23833-1) |
 
 ## About This Role
 
-This engineering manager position at Jbtm was posted on 2026-04-24.
+This software engineer position at Jbtm was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer, Build - NYC at Astronomer
+# Senior Software Engineer - Build - NYC at Astronomer
 
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/3fd8108c-4c9e-4e20-adee-bbcbfdfe71c5) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/38a12983-72c9-4a62-b3b3-ae792afe72fc) |
 
 ## About This Role
 
-This software engineer position at Astronomer was posted on 2026-07-24.
+This ai / llm engineer position at Astronomer was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ridgecrest, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ridgecrest-CA/Junior-Software-Specialist-Engineer_R-00185865-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ridgecrest-CA/Junior-Software-Specialist-Engineer_R-00188742) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-22.
+This software engineer position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# [Uni – Jan till Jun 2027] Software Engineer/ Business Analyst Intern at NCS
+# [Uni - Jan till Jun 2027] Software Engineer/ Business Analyst Intern at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001275962-uni-jan-till-jun-2027-software-engineer-business-analyst-intern) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001287535-uni-jan-till-jun-2027-software-engineer-business-analyst-intern) |
 
 ## About This Role
 
-This business analyst position at NCS was posted on 2026-07-31.
+This business analyst position at NCS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

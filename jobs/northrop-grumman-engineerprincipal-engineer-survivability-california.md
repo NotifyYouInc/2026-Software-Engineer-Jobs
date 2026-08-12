@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Principal-Engineer---Survivability--California-_R10242041) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Principal-Engineer---Survivability--California-_R10243694) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-23.
+This software engineer position at Northrop Grumman was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

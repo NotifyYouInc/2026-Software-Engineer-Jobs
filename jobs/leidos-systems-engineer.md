@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Farnborough, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dayton-OH/Systems-Engineer_R-00187560) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/2223-Chester-House-Farnborough-Aerospace-Centre-Farnborough-UK/Systems-Engineer_R-00188694) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-17.
+This software engineer position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

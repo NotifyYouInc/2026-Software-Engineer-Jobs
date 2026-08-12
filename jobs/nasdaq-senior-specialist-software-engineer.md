@@ -1,16 +1,16 @@
-# Senior Specialist Software Engineer at Nasdaq
+# Senior Specialist - Software Engineer at Nasdaq
 
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Senior-Specialist-Software-Engineer_R0025177) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Senior-Specialist---Software-Engineer_R0026600) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-09.
+This software engineer position at Nasdaq was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

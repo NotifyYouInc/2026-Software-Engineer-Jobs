@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153381) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154596) |
 
 ## About This Role
 
-This software engineer position at Honeywell was posted on 2026-07-14.
+This software engineer position at Honeywell was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

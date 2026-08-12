@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineering-Lead_JR-0000087526-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineering-Lead_JR-0000113330) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-16.
+This software engineer position at Barclays was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

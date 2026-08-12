@@ -1,16 +1,16 @@
-# Senior Software Engineer at WISE
+# Senior Software Engineer  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138414549-senior-software-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141573994-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-17.
+This software engineer position at WISE was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

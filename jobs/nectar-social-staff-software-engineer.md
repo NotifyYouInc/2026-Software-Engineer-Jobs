@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nectar Social](https://scoutify.ai/companies/nectar-social?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nectar-social/136fb832-4fb6-4a0c-9ef2-df6dae2a435a) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nectar-social/05e8d2c1-a351-477c-ab7f-2910f6e4aa86) |
 
 ## About This Role
 
-This software engineer position at Nectar Social was posted on 2026-05-08.
+This software engineer position at Nectar Social was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

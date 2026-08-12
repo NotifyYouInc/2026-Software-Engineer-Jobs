@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Desarrollador-Full-Stack--Ciudad-de-Mxico--Cuauhtmoc-_JR00107514) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Desarrollador-Full-Stack--Ciudad-de-Mxico--Cuauhtmoc-_JR00111324) |
 
 ## About This Role
 
-This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-24.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/SW-Development-Engineer-1_JR117343) |
+| Location | San Diego, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR120131) |
 
 ## About This Role
 
-This mobile engineer position at Dexcom was posted on 2026-04-28.
+This software engineer position at Dexcom was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

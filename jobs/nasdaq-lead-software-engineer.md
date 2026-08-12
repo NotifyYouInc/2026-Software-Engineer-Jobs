@@ -1,16 +1,16 @@
-# Lead - Software Engineer at Nasdaq
+# Lead Software Engineer at Nasdaq
 
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Lead---Software-Engineer_R0025046) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Lead-Software-Engineer_R0026607) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-11.
+This software engineer position at Nasdaq was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

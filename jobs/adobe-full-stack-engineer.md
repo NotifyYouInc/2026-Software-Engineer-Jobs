@@ -1,16 +1,16 @@
-# Full-Stack Engineer at Adobe
+# Full Stack Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Full-Stack-Engineer_R170948) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Full-Stack-Engineer_R171017) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-07-30.
+This software engineer position at Adobe was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

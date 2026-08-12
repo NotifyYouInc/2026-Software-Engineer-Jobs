@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/Senior-Software-Engineer_R026051) |
+| Location | California, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/Senior-Software-Engineer_R026678) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-05-20.
+This ai / llm engineer position at Broadcom was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

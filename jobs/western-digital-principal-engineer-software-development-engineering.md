@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109826475-principal-engineer-software-development-engineering) |
+| Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
+| Category | Industrial Automation |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000141634728-principal-engineer-software-development-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-17.
+This industrial automation position at Western Digital was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

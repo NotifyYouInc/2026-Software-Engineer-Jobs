@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Guadalupe, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0092827) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Guadalupe-Mexico/Software-Engineer_JR-0088789) |
 
 ## About This Role
 
-This software engineer position at Dematic was posted on 2026-07-25.
+This software engineer position at Dematic was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

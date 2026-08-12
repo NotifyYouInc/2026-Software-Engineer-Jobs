@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | South Korea |
-| Category | QA Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Seongnam/Software-Engineer_R4044133-1) |
+| Location | Tianjin, Tianjin, China |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tianjin/Software-Engineer_R4044653-1) |
 
 ## About This Role
 
-This qa engineer position at GE HealthCare was posted on 2026-07-30.
+This software engineer position at GE HealthCare was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

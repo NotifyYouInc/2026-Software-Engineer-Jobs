@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Jessup, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Junior-Software-Engineer_7654) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-05-05.
+This software engineer position at AeroVironment was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado, US |
+| Location | Arizona, US |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Work-from-home/Staff-Software-Development-Engineer_R0975021) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Staff-Software-Development-Engineer_R0980466) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-08-03.
+This software engineer position at CVS Health was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
