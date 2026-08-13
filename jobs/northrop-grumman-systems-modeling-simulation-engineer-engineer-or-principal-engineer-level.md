@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Systems-Modeling-Simulation-Engineer--Engineer-or-Principal-Engineer-Level-_R10232081) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Systems-Modeling-Simulation-Engineer--Engineer-or-Principal-Engineer-Level-_R10244064) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-06.
+This software engineer position at Northrop Grumman was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

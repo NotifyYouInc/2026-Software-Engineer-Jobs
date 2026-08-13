@@ -1,16 +1,16 @@
-# Software Development Engineer at Micron
+# SOFTWARE DEVELOPMENT ENGINEER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Development-Engineer_JR106013) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/SOFTWARE-DEVELOPMENT-ENGINEER_JR107601) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-23.
+This software engineer position at Micron was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

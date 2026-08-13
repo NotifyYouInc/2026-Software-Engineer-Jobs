@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Apps-Dev-Tech-Lead-Analyst---Vice-President_26970550) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Tech-Lead-Analyst---Vice-President_26984682) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-22.
+This software engineer position at Citigroup was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Senior-Software-Engineer_00022834) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Software-Engineer_00023195-1) |
 
 ## About This Role
 
-This software engineer position at Marathon Petroleum was posted on 2026-07-23.
+This software engineer position at Marathon Petroleum was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

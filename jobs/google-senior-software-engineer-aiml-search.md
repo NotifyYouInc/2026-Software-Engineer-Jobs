@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/132296892414337734-senior-software-engineer-aiml-search?sort_by=date&page=1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTEt5hkNH-YfgU4VPPh2mZE9IA1TLb6_EZlxaa_UAz9QEjsA1Ny_i-VUdIgyCd13JU2dxIzBfBBziPEhhdJm1-2y77GqhoxSaDRLHg441bXeCYGN_x3uvqPhkJ1HUA%3D%3D_V2&loc=IN&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This software engineer position at Google was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

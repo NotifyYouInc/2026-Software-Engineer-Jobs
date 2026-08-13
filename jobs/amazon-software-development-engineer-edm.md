@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422337/software-development-engineer-edm) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10493764/software-development-engineer-edm) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-18.
+This software engineer position at Amazon was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

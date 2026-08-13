@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138551889-product-engineer-php-12-months-contract) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000141836200-product-engineer-php-12-months-contract) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-20.
+This software engineer position at Experian was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

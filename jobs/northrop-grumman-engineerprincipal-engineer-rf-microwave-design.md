@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Engineer-Principal-Engineer-RF-Microwave-Design_R10239737) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Engineer-Principal-Engineer-RF-Microwave-Design_R10244135) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-10.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

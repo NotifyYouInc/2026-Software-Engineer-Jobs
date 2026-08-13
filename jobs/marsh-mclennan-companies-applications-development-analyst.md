@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Applications-Development-Analyst_R_354967) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Applications-Development-Analyst_R_359655) |
 
 ## About This Role
 
-This software engineer position at Marsh & McLennan Companies was posted on 2026-07-09.
+This software engineer position at Marsh & McLennan Companies was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

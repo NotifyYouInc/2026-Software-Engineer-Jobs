@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/bbd71a4a-ba91-4adf-85d8-26f0e01c2f1f) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/43db1a99-c8f4-4708-b34d-ba876b2dd95c) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-17.
+This software engineer position at Clera was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

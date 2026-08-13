@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Senior-Software-Engineer_R33295) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Mexico-Remote/Senior-Software-Engineer_R33345) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-08-04.
+This software engineer position at Allstate was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

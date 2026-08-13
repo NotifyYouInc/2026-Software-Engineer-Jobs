@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NeuraFlash, Part of Accenture](https://scoutify.ai/companies/neuraflash-part-of-accenture?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/6105818004) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5722605004) |
 
 ## About This Role
 
-This software engineer position at NeuraFlash, Part of Accenture was posted on 2026-07-01.
+This software engineer position at NeuraFlash, Part of Accenture was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

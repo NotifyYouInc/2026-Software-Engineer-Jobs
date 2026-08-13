@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curtiss-Wright Corporation](https://scoutify.ai/companies/curtisswright?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Idaho Falls, Idaho, United States |
+| Location | Tewksbury, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-ID-Idaho-Falls-Nuclear/Software-Development-Engineer_JR12216) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MA-Tewksbury-TCG/Software-Development-Engineer_JR12923-1) |
 
 ## About This Role
 
-This software engineer position at Curtiss-Wright Corporation was posted on 2026-06-05.
+This software engineer position at Curtiss-Wright Corporation was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

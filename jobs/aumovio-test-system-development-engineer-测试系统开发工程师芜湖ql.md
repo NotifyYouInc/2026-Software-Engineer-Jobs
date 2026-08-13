@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuhu, Anhui, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000126882885-test-system-development-engineer-ql) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000141832339-test-system-development-engineer-ql) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aumovio was posted on 2026-05-18.
+This electrical / hardware engineer position at Aumovio was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

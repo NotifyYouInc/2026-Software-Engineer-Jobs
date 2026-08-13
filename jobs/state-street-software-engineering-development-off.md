@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Burlington, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--Off_R-795381) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineering---Development--Off_R-795584) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-07-31.
+This software engineer position at State Street was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

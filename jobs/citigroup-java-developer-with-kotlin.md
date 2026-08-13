@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Java-Developer-with-Kotlin_26957199) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Java-Developer-with-Kotlin_26981630) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-28.
+This software engineer position at Citigroup was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

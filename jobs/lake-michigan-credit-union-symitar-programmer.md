@@ -5,12 +5,12 @@
 | Company | [Lake Michigan Credit Union](https://scoutify.ai/companies/lmcu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Symitar-Programmer_REQ-2026-6551) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Symitar-Programmer_REQ-2026-6811) |
 
 ## About This Role
 
-This software engineer position at Lake Michigan Credit Union was posted on 2026-04-30.
+This software engineer position at Lake Michigan Credit Union was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

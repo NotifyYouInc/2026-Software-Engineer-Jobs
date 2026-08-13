@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000139204409-sr-software-engineer-consumer-services) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000141838940-sr-software-engineer-consumer-services) |
 
 ## About This Role
 
-This software engineer position at Mattel was posted on 2026-07-23.
+This devops engineer position at Mattel was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

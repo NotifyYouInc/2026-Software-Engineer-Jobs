@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001263018-staff-software-engineer-create-grow-growth) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001289161-staff-software-engineer-create-grow-growth) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-07-27.
+This software engineer position at Canva was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

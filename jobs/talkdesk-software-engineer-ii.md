@@ -5,12 +5,12 @@
 | Company | [Talkdesk](https://scoutify.ai/companies/talkdesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://careers.talkdesk.com/jobs?id=7840614&gh_jid=7840614) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/talkdesk2/jobs/8108470) |
 
 ## About This Role
 
-This software engineer position at Talkdesk was posted on 2026-04-27.
+This software engineer position at Talkdesk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Mexico-Remote/Software-Engineer-Senior-Consultant-II_R30712) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Senior-Consultant-II_R33630-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-06-01.
+This software engineer position at Allstate was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

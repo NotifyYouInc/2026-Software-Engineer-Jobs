@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Ottawa---March-Road/Principal-Engineer---Analog-Design_R3279-26) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Toronto---67-Yonge-Street-10th-Floor/Principal-Engineer---Analog-Design_R3421-26) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-08-04.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

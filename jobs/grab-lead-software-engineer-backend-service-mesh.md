@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131804469-lead-software-engineer-backend-service-mesh) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141834789-lead-software-engineer-backend-service-mesh) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-06-12.
+This software engineer position at Grab was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

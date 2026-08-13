@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-SW-Development-Engineer_JR117755) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/Sr-SW-Development-Engineer_JR120201) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Dexcom was posted on 2026-05-21.
+This software engineer position at Dexcom was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

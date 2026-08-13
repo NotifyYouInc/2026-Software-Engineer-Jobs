@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Somerville, Massachusetts, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8072848/apply/?gh_jid=8072848) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8109813/apply/?gh_jid=8109813) |
 
 ## About This Role
 
-This software engineer position at Formlabs was posted on 2026-07-17.
+This software engineer position at Formlabs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

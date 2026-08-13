@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/R-D-Staff-Software-Engineer_R026508) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/R-D-Staff-Software-Engineer_R026758) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-07-17.
+This software engineer position at Broadcom was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

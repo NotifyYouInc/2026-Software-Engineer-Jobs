@@ -1,16 +1,16 @@
-# Lead Software Engineer, Front End at Capital One
+# Lead Software Engineer,  Front End at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York, US |
-| Category | Frontend Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Software-Engineer--Front-End_R240320-3) |
+| Location | McLean, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer---Front-End_R248540-1) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-04-10.
+This software engineer position at Capital One was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

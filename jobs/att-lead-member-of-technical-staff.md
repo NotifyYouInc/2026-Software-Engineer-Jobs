@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Middletown, New Jersey, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Lead-Member-of-Technical-Staff_R-114092) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Member-of-Technical-Staff_R-116873) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-07-09.
+This software engineer position at AT&T was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

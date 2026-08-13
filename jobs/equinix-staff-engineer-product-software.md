@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Staff-Engineer--Product-Software_JR-162392) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Staff-Engineer--Product-Software_JR-162384) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-07-27.
+This software engineer position at Equinix was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Staff Engineer-Applications at Microchip Technology
+# Technical Staff Engineer – Applications at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer-Applications_R3079-26) |
+| Location | Chandler, Arizona, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Technical-Staff-Engineer---Applications_R3341-26-1) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-07-10.
+This embedded / firmware engineer position at Microchip Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

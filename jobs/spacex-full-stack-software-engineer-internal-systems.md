@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8681167002?gh_jid=8681167002) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002) |
 
 ## About This Role
 

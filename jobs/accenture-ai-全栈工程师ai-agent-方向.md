@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Dalian, Liaoning, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI--AI-Agent--_14477301) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian-Software-Park-Tower-24/AI--AI-Agent--_14477303) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-15.
+This ai / llm engineer position at Accenture was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

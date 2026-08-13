@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Sr-Staff-Engineer--Renewable-Engineering--Battery-Storage-_R11086-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Sr-Staff-Engineer--Renewable-Engineering--Battery-Storage-_R11085-1) |
 
 ## About This Role
 
-This software engineer position at Invenergy was posted on 2026-07-16.
+This electrical / hardware engineer position at Invenergy was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
