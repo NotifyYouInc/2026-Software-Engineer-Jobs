@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111537015-semarchy-xdm-senior-software-development-engineer-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142051849-semarchy-xdm-senior-software-development-engineer-1) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-26.
+This software engineer position at Sopra Steria was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

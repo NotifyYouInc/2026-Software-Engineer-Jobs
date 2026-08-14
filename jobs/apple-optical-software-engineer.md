@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674676/optical-software-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676132/optical-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-29.
+This software engineer position at Apple was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

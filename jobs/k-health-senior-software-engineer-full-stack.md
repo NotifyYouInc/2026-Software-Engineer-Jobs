@@ -5,12 +5,12 @@
 | Company | [K Health](https://scoutify.ai/companies/k-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/khealthcareers/jobs/6010688004) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/khealthcareers/jobs/6138136004) |
 
 ## About This Role
 
-This software engineer position at K Health was posted on 2026-06-01.
+This software engineer position at K Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

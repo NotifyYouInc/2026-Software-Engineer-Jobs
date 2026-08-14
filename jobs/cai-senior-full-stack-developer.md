@@ -5,12 +5,12 @@
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Senior-Full-Stack-Developer_R8028) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Senior-Full-Stack-Developer_R8258) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-07-01.
+This software engineer position at CAI was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

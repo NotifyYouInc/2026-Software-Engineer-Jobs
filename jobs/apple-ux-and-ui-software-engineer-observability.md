@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669486/ux-and-ui-software-engineer-observability) |
+| Location | Seattle, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676394/ux-and-ui-software-engineer-observability) |
 
 ## About This Role
 
-This frontend engineer position at Apple was posted on 2026-06-26.
+This software engineer position at Apple was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

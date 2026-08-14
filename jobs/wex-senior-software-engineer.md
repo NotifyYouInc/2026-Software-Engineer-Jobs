@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wex
+# Senior, Software Engineer at Wex
 
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior-Software-Engineer_R21291) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Senior--Software-Engineer_R22421) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-03-27.
+This software engineer position at Wex was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

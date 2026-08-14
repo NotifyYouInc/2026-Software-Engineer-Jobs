@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Northridge, California, United States |
+| Location | Redmond, Washington, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407357/embedded-software-engineer-amazon-leo-optical-inter-satellite-link) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10495449/embedded-software-engineer-amazon-leo-optical-inter-satellite-link) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-04-29.
+This embedded / firmware engineer position at Amazon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

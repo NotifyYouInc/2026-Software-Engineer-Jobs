@@ -1,16 +1,16 @@
-# Staff Software Engineer at Wex
+# Staff, Software Engineer at Wex
 
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Staff-Software-Engineer_R21946-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Staff--Software-Engineer_R22259-1) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-06-05.
+This software engineer position at Wex was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

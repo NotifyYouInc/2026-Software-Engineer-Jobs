@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Contagem, Minas Gerais, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014417596-senior-software-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014481477-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-08-03.
+This software engineer position at Wabtec was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

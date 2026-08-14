@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Australia---Brisbane/Software-Development-Engineer-III_R-107978) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-108093) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-07-28.
+This software engineer position at Expedia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

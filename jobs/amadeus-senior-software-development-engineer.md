@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Software-Development-Engineer_R35671-2) |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Senior-Software-Development-Engineer_R32675) |
 
 ## About This Role
 
-This machine learning engineer position at Amadeus was posted on 2026-07-29.
+This software engineer position at Amadeus was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | Arizona, US |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Software-Engineer-III_R0014934) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-AZ/Software-Engineer-III_R0016561) |
 
 ## About This Role
 
-This software engineer position at Astreya was posted on 2026-04-20.
+This software engineer position at Astreya was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8045017) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8075467) |
 
 ## About This Role
 
-This software engineer position at MongoDB was posted on 2026-07-03.
+This software engineer position at MongoDB was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

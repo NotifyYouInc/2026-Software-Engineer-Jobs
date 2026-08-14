@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Roseville, California, United States |
+| Location | Burnaby, British Columbia, Canada |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---Roseville/Principal-Engineer---Validation--Systems-_R3322-26) |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Principal-Engineer---Validation--Systems-_R3415-26) |
 
 ## About This Role
 

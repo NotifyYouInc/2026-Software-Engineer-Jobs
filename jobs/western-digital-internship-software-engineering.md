@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112335108-internship-software-engineering) |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000142050119-internship-software-engineering) |
 
 ## About This Role
 
-This frontend engineer position at Western Digital was posted on 2026-03-03.
+This software engineer position at Western Digital was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

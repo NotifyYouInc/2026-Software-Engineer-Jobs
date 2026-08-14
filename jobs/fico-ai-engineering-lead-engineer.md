@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/AI-Engineering---Lead-Engineer_32171) |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/AI-Engineering---Lead-Engineer_32172) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [eClinical Solutions](https://scoutify.ai/companies/eclinical-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mansfield, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5150460007) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5206144007) |
 
 ## About This Role
 
-This software engineer position at eClinical Solutions was posted on 2026-05-29.
+This software engineer position at eClinical Solutions was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

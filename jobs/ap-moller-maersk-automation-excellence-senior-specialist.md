@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Chengdu, Sichuan, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Automation-Excellence-Senior-Specialist_R188890-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Automation-Excellence-Senior-Specialist_R192428) |
 
 ## About This Role
 
-This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-07-15.
+This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

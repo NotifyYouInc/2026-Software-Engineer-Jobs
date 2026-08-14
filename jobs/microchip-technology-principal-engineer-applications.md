@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Burnaby, British Columbia, Canada |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Principal-Engineer---Applications_R809-26) |
+| Location | Maryland, US |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/MD---Home-Office/Principal-Engineer---Applications_R3441-26) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-02-27.
+This electrical / hardware engineer position at Microchip Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

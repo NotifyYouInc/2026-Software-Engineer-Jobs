@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000127347530-software-engineer-securities-operations) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000142049399-software-engineer-securities-operations) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-05-20.
+This software engineer position at Avaloq was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

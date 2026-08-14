@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Redondo Beach, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-5_R10243030) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Systems-Engineer---Level-5_R10244168) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-30.
+This software engineer position at Northrop Grumman was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

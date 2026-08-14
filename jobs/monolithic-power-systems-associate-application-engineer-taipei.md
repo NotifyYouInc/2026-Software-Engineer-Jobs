@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Associate-Application-Engineer--Taipei-_R-1722) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Associate-Application-Engineer--Taipei-_R-1831) |
 
 ## About This Role
 
-This software engineer position at Monolithic Power Systems was posted on 2026-07-14.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

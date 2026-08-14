@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139013390-staff-software-engineer-applications) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142002240-staff-software-engineer-applications) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-07-22.
+This software engineer position at LinkedIn was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

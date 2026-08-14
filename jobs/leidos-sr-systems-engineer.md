@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Sr-Systems-Engineer_R-00177878) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Sr-Systems-Engineer_R-00188994) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-03-09.
+This software engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

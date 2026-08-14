@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Senior-Software-Engineer---NWP_01842528) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Senior-Software-Engineer---Air-Traffic-Solutions--Onsite-_01864127) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-05-01.
+This software engineer position at RTX was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

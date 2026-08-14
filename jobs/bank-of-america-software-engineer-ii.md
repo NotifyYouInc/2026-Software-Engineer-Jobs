@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Software-Engineer-II_26007310) |
+| Location | Newark, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Software-Engineer-II_26027905) |
 
 ## About This Role
 
-This devops engineer position at Bank of America was posted on 2026-03-05.
+This software engineer position at Bank of America was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

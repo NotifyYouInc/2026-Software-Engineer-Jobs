@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/d920952d-d157-448b-bfd0-2adeea4d4dbf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/3cf78845-a154-4f58-a42a-2a83543d55ab) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-08-01.
+This software engineer position at Clera was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

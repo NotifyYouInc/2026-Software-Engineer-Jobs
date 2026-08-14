@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beaverton, Oregon, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-II_R-88765) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-II_R-88267) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-07-29.
+This software engineer position at Nike was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

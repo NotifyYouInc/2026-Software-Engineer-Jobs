@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141067599-software-engineer-trainee-ios) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000142051460-software-engineer-trainee-ios) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-08-01.
+This software engineer position at Delivery Hero was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

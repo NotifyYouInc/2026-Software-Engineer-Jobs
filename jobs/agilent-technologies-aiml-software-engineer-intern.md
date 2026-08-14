@@ -5,12 +5,12 @@
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Shanghai/AI-ML-Software-Engineer-Intern_4036431) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Shanghai/R-D-Software-Intern_4039114) |
 
 ## About This Role
 
-This software engineer position at Agilent Technologies was posted on 2026-08-06.
+This software engineer position at Agilent Technologies was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

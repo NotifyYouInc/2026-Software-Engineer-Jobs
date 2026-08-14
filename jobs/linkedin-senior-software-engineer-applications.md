@@ -1,16 +1,16 @@
-# Senior Software Engineer - Applications at LinkedIn
+# Senior Software Engineer - Applications  at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139935395-senior-software-engineer-applications) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142002179-senior-software-engineer-applications) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-07-27.
+This software engineer position at LinkedIn was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

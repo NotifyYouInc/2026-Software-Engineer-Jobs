@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/1a6bed61-080c-493d-8911-1e6abf3b6e38) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/19bd7d34-3036-4cfe-a5e2-6d2e9f44964a) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-01.
+This software engineer position at Clera was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

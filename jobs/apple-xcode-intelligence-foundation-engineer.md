@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648567-0836/xcode-intelligence-foundation-engineer?team=SFTWR) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675476/xcode-intelligence-foundation-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-25.
+This software engineer position at Apple was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

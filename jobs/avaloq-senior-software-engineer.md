@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000120314702-senior-software-engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000142072921-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-04-13.
+This software engineer position at Avaloq was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
