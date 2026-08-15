@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sterling, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---DevOps---Infrastructure--Onsite-_01825016) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---DevOps---Infrastructure--Onsite-_01864075) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-02-17.
+This devops engineer position at RTX was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

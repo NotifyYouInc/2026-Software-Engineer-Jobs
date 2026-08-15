@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00187522) |
+| Location | Bristol, England, United Kingdom |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-United-Kingdom/Software-Engineer_R-00189030) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-24.
+This embedded / firmware engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

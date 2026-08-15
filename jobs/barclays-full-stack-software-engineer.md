@@ -1,16 +1,16 @@
-# Full-stack Software Engineer at Barclays
+# Full Stack Software Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-stack-Software-Engineer_JR-0000094081) |
+| Location | Prague, Prague, Czechia |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Full-Stack-Software-Engineer_JR-0000118738) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-16.
+This software engineer position at Barclays was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

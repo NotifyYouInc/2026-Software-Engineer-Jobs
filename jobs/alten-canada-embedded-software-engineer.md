@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000123901640-embedded-software-engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142166199-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN Canada was posted on 2026-04-30.
+This embedded / firmware engineer position at ALTEN Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

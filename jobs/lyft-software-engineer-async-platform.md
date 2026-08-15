@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002) |
 
 ## About This Role
 
-This software engineer position at Lyft was posted on 2026-07-13.
+This software engineer position at Lyft was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

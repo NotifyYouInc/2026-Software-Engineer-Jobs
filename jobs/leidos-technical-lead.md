@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Technical-Lead_R-00180747) |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Technical-Lead_R-00189070) |
 
 ## About This Role
 
-This engineering manager position at Leidos was posted on 2026-04-13.
+This software engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

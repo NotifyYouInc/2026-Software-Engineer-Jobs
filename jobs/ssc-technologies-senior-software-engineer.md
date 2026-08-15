@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Waltham-MA---10-CityPoint/Senior-Software-Engineer_R42345) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Sydney---255-George-St/Senior-Software-Engineer_R45585) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-06-01.
+This software engineer position at SS&C Technologies was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

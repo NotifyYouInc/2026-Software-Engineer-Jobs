@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Principal-Engineer_R-10061693) |
+| Location | Chandler, Arizona, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Principal-Engineer_R-10066118) |
 
 ## About This Role
 
-This embedded / firmware engineer position at NXP Semiconductors was posted on 2026-02-17.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Billerica, Massachusetts, United States |
+| Location | Fredericton, New Brunswick, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Billerica-MA/Full-Stack-Developer_REQ35778) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Fredericton-NB/Full-Stack-Developer_REQ35921) |
 
 ## About This Role
 
-This software engineer position at Teledyne was posted on 2026-07-30.
+This software engineer position at Teledyne was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

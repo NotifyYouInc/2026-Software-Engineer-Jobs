@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/SW-Test-Development-Engineer-1_JR120189) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/SW-Test-Development-Engineer-1_JR120375) |
 
 ## About This Role
 
-This semiconductor / chip design position at Dexcom was posted on 2026-08-01.
+This semiconductor / chip design position at Dexcom was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Scottsdale/Software-Engineer-I_260062-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Hamburg/Software-Engineer-I_262360) |
 
 ## About This Role
 
-This software engineer position at Blue Yonder was posted on 2026-02-10.
+This software engineer position at Blue Yonder was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

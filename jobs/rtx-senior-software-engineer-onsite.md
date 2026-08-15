@@ -1,16 +1,16 @@
-# Senior Software Engineer, Onsite at RTX
+# Senior Software Engineer (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fullerton, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Senior-Software-Engineer--Onsite_01861315) |
+| Location | Rockford, Illinois, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Senior-Software-Engineer--Onsite-_01864859) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-29.
+This embedded / firmware engineer position at RTX was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

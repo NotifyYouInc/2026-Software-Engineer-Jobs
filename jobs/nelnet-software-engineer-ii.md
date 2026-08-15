@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lincoln, Nebraska, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-II_R22463) |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-II_R22946) |
 
 ## About This Role
 
-This frontend engineer position at Nelnet was posted on 2026-03-24.
+This software engineer position at Nelnet was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

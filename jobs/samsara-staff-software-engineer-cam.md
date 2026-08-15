@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | California, US |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102) |
 
 ## About This Role
 
-This software engineer position at Samsara was posted on 2026-02-11.
+This software engineer position at Samsara was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

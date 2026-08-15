@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---Remote---Washington/Lead-Software-Development-Engineer_266870-1) |
+| Location | Durham, North Carolina, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Lead-Software-Development-Engineer_2624839) |
 
 ## About This Role
 
-This devops engineer position at Labcorp was posted on 2026-03-04.
+This software engineer position at Labcorp was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

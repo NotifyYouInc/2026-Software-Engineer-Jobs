@@ -1,16 +1,16 @@
-# Principal Engineer-Software Development at Microchip Technology
+# Principal Engineer – Software Development at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Boulder, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Chennai/Principal-Engineer-Software-Development_R1703-26-8) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Boulder/Principal-Engineer---Software-Development_R2945-26) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-07-06.
+This software engineer position at Microchip Technology was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

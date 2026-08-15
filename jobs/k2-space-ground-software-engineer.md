@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Torrance, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5247348008) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373554008) |
 
 ## About This Role
 
-This software engineer position at K2 Space was posted on 2026-06-03.
+This software engineer position at K2 Space was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

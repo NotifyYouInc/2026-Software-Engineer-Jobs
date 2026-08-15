@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Hollywood, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000120272687-sr-software-engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000142215989-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-04-12.
+This software engineer position at NBCUniversal was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaqUvKWIU7c8WMSYl819kiJn3Ca1h3atNkzg7X7XsQWsEjsACxwdTCZfVqVJqn7ap-Wq4xdphpzMBBJ3X0WnR6q9mlBdC3aaXb8zCaww7yR2F0v8Rln4NPI2dSKvQw%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeJ77gPOYCLxl2hHqpr577Ua6ZRUkqP8Guf3B-rj8ezmEjsA1Ny_i1f1DWn8OSQkIGus6DIemcj50MJoiQCFJd5BNwippMI5RC8iKbKQY3diLO45wTlZJdK4QFuQXw%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This mobile engineer position at Google was posted on 2026-05-22.
+This software engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

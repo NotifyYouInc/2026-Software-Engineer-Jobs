@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-II_WD30272000) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-II_WD30275611) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-07-10.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

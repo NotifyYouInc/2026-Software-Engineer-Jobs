@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138774390-field-applications-engineer-fae) |
+| Location | San Jose, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142209189-field-applications-engineer-fae) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-21.
+This sales engineer position at Renesas Electronics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

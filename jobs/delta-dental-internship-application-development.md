@@ -5,12 +5,12 @@
 | Company | [Delta Dental](https://scoutify.ai/companies/rhsc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Okemos, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) |
 
 ## About This Role
 
-This software engineer position at Delta Dental was posted on 2026-06-11.
+This software engineer position at Delta Dental was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

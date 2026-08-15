@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69782) |
 
 ## About This Role
 
-This devops engineer position at Blue Origin was posted on 2026-08-05.
+This software engineer position at Blue Origin was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

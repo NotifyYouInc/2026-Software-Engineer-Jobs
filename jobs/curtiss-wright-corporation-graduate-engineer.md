@@ -5,12 +5,12 @@
 | Company | [Curtiss-Wright Corporation](https://scoutify.ai/companies/curtisswright?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Frederick, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134) |
 
 ## About This Role
 
-This software engineer position at Curtiss-Wright Corporation was posted on 2026-02-23.
+This software engineer position at Curtiss-Wright Corporation was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

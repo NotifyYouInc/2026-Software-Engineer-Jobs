@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/122859541984355014-senior-staff-engineer-youtube-shorts-ranking-core-modeling?sort_by=date&page=1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdChPrC0n3W_CTSd3iE-fc-IrC5w3pOIwYKuF7mlIlV9EjsA1Ny_i8Qb7h0ZLQtYN6pzXS38Hwa2YejlJzdpKupW6dr66yZVCT2y_LjRI5rgm5poYULFd0CEKaBNAw%3D%3D_V2&loc=US&title=Senior+Staff+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-26.
+This machine learning engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

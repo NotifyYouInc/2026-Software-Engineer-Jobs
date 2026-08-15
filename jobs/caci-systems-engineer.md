@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Systems-Engineer_329607) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aurora-CO-US/Systems-Engineer_330236) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-07-24.
+This software engineer position at CACI was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

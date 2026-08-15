@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Software-Engineer_REQ526235-1) |
+| Location | Chicago, Illinois, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Software-Engineer_REQ527381) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-08-05.
+This ai / llm engineer position at JLL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

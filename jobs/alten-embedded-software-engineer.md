@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reading, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109067224-embedded-software-engineer) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142165869-embedded-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-12.
+This embedded / firmware engineer position at ALTEN was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

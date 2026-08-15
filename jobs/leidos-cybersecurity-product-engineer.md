@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187604) |
+| Location | Lawton, Oklahoma, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Cybersecurity-Product-Engineer_R-00189050) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-17.
+This cybersecurity engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

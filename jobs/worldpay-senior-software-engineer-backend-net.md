@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/CINCINNATI-OHIO/Senior-Software-Engineer---Backend--Net-_JR0610434-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/DENVER-COLORADO/Senior-Software-Engineer---Backend--Net-_JR0611151) |
 
 ## About This Role
 
-This software engineer position at Worldpay was posted on 2026-07-15.
+This software engineer position at Worldpay was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

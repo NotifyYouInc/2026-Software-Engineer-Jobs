@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#339960) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#342228) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-07-17.
+This software engineer position at Oracle was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
+| Location | Ottawa, Ontario, Canada |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/New-Providence---NJ/Senior-Embedded-Software-Engineer_R030224-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Embedded-Software-Engineer_R031486) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Ciena was posted on 2026-02-23.
+This embedded / firmware engineer position at Ciena was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

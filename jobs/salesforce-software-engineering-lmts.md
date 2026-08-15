@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Software-Engineering-LMTS_JR351529) |
+| Location | Bellevue, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR353837) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-07-15.
+This data engineer position at Salesforce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

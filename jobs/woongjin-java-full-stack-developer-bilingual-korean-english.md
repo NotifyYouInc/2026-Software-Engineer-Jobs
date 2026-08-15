@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Ana, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000137991567-java-full-stack-developer-bilingual-korean-english) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000142223939-java-full-stack-developer-bilingual-korean-english) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-07-15.
+This software engineer position at Woongjin was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
