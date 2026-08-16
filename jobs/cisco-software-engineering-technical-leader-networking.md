@@ -1,16 +1,16 @@
-# Software Engineer – Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 4–8 Years at Cisco
+# Software Engineering Technical Leader- Networking at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Milpitas, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Java-Go---Distributed-Systems---Microservices---Kafka---Cloud---4-8-Years_2018730-2) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Networking_2019851-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-08.
+This software engineer position at Cisco was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

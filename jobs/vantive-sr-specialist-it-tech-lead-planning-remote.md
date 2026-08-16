@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Canada |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Guadalajara-Jalisco/Sr-Specialist--IT-Tech-Lead-Planning--Remote-_JR-194038-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Canada-remote/Sr-Specialist--IT-Tech-Lead-Planning--Remote-_JR-197044-1) |
 
 ## About This Role
 
-This it & systems administration position at Vantive was posted on 2026-04-24.
+This it & systems administration position at Vantive was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

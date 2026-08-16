@@ -1,16 +1,16 @@
-# Senior IT Developer at TD Bank
+# Staff Software Engineer at Babylist
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Babylist](https://scoutify.ai/companies/babylist?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-IT-Developer_R_1502196) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/babylist/jobs/5678188004) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-08-09.
+This software engineer position at Babylist was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

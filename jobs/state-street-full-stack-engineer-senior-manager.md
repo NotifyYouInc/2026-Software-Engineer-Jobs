@@ -1,16 +1,16 @@
-# Software Engineer at Solidigm
+# Full Stack Engineer - Senior Manager at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rancho Cordova, California, United States |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000142377230-software-engineer) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Full-Stack-Engineer---Senior-Manager_R-795837) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-08-08.
+This software engineer position at State Street was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

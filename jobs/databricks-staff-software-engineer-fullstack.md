@@ -1,16 +1,16 @@
-# Senior IT Developer at TD Bank
+# Staff Software Engineer - Fullstack at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-IT-Developer_R_1502196) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-08-09.
+This software engineer position at Databricks was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

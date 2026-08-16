@@ -1,16 +1,16 @@
-# Software Engineer at Solidigm
+# Lead Software Engineer - Physical AI (Defense) at applied
 
 | Field | Details |
 |-------|---------|
-| Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rancho Cordova, California, United States |
+| Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000142377230-software-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/aa272549-acb3-4677-b37e-e95f3b1317b8) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-08-08.
+This software engineer position at applied was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
