@@ -5,12 +5,12 @@
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Software-Engineer_R0004902) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Software-Engineer_R0004313) |
 
 ## About This Role
 
-This software engineer position at Qualys was posted on 2026-07-30.
+This software engineer position at Qualys was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

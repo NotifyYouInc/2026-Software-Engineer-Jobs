@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8054326) |
 
 ## About This Role
 
-This machine learning engineer position at Toast was posted on 2026-08-08.
+This software engineer position at Toast was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

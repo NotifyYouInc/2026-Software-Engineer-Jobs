@@ -1,16 +1,16 @@
-# Senior Software Engineer, C# at Anduril
+# Senior Software Engineer, C++ at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5065240007?gh_jid=5065240007) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-27.
+This software engineer position at Anduril was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Arkansas, US |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Texas-US/Software-Engineer-with-AI_R45609) |
 
 ## About This Role
 
-This machine learning engineer position at SS&C Technologies was posted on 2026-08-07.
+This software engineer position at SS&C Technologies was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

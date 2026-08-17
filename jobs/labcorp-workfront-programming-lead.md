@@ -1,16 +1,16 @@
-# Workfront Programming lead at Labcorp
+# Workfront Programming Lead at Labcorp
 
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Indianapolis, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clin-Apps-Programmer-I_268717) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Workfront-Programming-Lead_2627373) |
 
 ## About This Role
 
-This software engineer position at Labcorp was posted on 2026-04-13.
+This software engineer position at Labcorp was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

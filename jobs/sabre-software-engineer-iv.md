@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Software-Engineer-IV_JR108186) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Software-Engineer-IV_JR108296-1) |
 
 ## About This Role
 
-This software engineer position at Sabre was posted on 2026-06-19.
+This software engineer position at Sabre was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

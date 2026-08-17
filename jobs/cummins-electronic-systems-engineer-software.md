@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2433921) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2433277) |
 
 ## About This Role
 
-This software engineer position at Cummins was posted on 2026-08-07.
+This software engineer position at Cummins was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

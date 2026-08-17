@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Texas, US |
 | Category | Software Engineer |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Sydney---255-George-St/Senior-Software-Engineer_R45585) |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Massachussets-US/Senior-Software-Engineer_R45613) |
 
 ## About This Role
 

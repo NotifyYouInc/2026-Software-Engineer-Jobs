@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5189387007?gh_jid=5189387007) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5207731007?gh_jid=5207731007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-07-17.
+This software engineer position at Anduril was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

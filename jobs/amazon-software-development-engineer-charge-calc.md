@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Vancouver, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436138/software-development-engineer-charge-calc) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496604/software-development-engineer-charge-calc) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-01.
+This software engineer position at Amazon was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

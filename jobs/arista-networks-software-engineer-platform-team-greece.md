@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Software Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000137303859-software-engineer-platform-team-greece) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000142507929-software-engineer-platform-team-greece) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-07-12.
+This software engineer position at Arista Networks was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

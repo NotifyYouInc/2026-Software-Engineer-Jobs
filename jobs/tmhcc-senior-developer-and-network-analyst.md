@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Frederick, Maryland, United States |
-| Category | IT & Systems Administration |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Maryland---Frederick/Senior-Developer-and-Network-Analyst_2026-793) |
 
 ## About This Role
 
-This it & systems administration position at Tmhcc was posted on 2026-08-07.
+This business analyst position at Tmhcc was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

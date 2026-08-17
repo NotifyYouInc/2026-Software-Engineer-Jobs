@@ -5,12 +5,12 @@
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83861) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83221) |
 
 ## About This Role
 
-This software engineer position at eClerx was posted on 2026-07-27.
+This software engineer position at eClerx was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

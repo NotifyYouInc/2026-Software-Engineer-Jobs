@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/c00839ba-9158-4fbf-99ad-71461129d258) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/f5566a9d-09ca-4047-badf-b8382f34f822) |
 
 ## About This Role
 
-This software engineer position at Xero was posted on 2026-04-20.
+This software engineer position at Xero was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
