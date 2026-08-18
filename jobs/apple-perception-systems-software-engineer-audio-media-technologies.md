@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Robotics Engineer |
-| Posted | 2025-11-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200629882/perception-systems-software-engineer-audio-media-technologies) |
+| Location | Cupertino, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668234/perception-systems-software-engineer-audio-media-technologies) |
 
 ## About This Role
 
-This robotics engineer position at Apple was posted on 2025-11-04.
+This software engineer position at Apple was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

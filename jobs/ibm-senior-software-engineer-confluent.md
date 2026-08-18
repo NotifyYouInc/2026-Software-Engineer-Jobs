@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=122186) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=128366) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-06-24.
+This software engineer position at IBM was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

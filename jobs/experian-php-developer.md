@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000141836369-php-developer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142781819-php-developer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-08-06.
+This software engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

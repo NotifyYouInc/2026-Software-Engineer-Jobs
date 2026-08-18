@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Eagan, Minnesota, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Lead-Software-Engineer_R00296742) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-Software-Engineer_R00296185) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Ecolab was posted on 2026-06-09.
+This software engineer position at Ecolab was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

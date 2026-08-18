@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rgi](https://scoutify.ai/companies/rgi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.lever.co/rgi/567aacb1-0323-4f9e-bdc8-cc475715d662) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.lever.co/rgi/d2c34a1f-c527-43ee-b4c2-0650afdeb608) |
 
 ## About This Role
 
-This software engineer position at Rgi was posted on 2026-07-30.
+This software engineer position at Rgi was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/9ffc3789-e8a8-4a21-a37c-2b4f3dfce757) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/39df34f8-2a29-4c83-ac87-1ff4df1627c5) |
 
 ## About This Role
 
-This software engineer position at Wyetech was posted on 2026-04-16.
+This software engineer position at Wyetech was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

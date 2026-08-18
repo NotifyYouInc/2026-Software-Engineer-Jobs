@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130074919-seniorlead-software-engineer-layer1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000142781479-seniorlead-software-engineer-layer1) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-06-03.
+This software engineer position at Arista Networks was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

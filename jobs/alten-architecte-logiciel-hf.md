@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135941489-architecte-logiciel-hf) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142807119-architecte-logiciel-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-07-06.
+This software engineer position at ALTEN was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

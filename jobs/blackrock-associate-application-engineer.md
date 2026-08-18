@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Application-Engineer_R264688) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Application-Engineer_R265928) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-05-29.
+This ai / llm engineer position at Blackrock was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

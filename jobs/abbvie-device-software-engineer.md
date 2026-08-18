@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013336796-device-software-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014521966-device-software-engineer) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-05-27.
+This software engineer position at AbbVie was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

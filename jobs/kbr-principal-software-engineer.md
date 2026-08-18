@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Massachusetts, US |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hanscom-AFB-Massachusetts/Principal-Software-Engineer_R2124059) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Principal-Software-Engineer_R2128051) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-05-21.
+This software engineer position at KBR was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

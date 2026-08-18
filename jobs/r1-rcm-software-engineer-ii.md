@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Software-Engineer-II_R260000003132) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Software-Engineer-II_R260000005278) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-07-27.
+This ai / llm engineer position at R1 Rcm was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

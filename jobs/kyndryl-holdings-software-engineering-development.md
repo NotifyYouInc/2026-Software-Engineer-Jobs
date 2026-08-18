@@ -5,12 +5,12 @@
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Software-Engineering---Development_R-60520-2) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Software-Engineering---Development_R-61780-2) |
 
 ## About This Role
 
-This software engineer position at Kyndryl Holdings was posted on 2026-06-27.
+This software engineer position at Kyndryl Holdings was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

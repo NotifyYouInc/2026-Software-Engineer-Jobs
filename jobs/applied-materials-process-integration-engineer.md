@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Integration-Engineer_R2615975-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Integration-Engineer_R2625537) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-06-09.
+This semiconductor / chip design position at Applied Materials was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

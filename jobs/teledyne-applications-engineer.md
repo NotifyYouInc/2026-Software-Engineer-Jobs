@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---San-Diego-CA/Applications-Engineer_REQ34473) |
+| Location | Goleta, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Applications-Engineer_REQ36087) |
 
 ## About This Role
 
-This software engineer position at Teledyne was posted on 2026-07-21.
+This sales engineer position at Teledyne was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

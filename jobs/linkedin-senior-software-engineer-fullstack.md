@@ -1,16 +1,16 @@
-# Senior Software Engineer - Fullstack  at LinkedIn
+# Senior Software Engineer - Fullstack at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142570990-senior-software-engineer-fullstack) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142791859-senior-software-engineer-fullstack) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-08-10.
+This software engineer position at LinkedIn was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

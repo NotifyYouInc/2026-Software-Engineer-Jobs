@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7944314) |
+| Location | Carmel, Indiana, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8120638) |
 
 ## About This Role
 
-This ai / llm engineer position at Carvana was posted on 2026-05-19.
+This software engineer position at Carvana was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

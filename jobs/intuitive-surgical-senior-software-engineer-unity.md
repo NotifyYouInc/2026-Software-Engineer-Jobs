@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141987539-senior-software-engineer-unity) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142743999-senior-software-engineer-unity) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-08-06.
+This software engineer position at Intuitive Surgical was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

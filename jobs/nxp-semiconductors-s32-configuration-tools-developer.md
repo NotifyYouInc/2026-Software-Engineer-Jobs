@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/S32-Configuration-Tools-Developer_R-10063810) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/S32-Configuration-Tools-Developer_R-10065901) |
 
 ## About This Role
 
-This software engineer position at NXP Semiconductors was posted on 2026-06-05.
+This software engineer position at NXP Semiconductors was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

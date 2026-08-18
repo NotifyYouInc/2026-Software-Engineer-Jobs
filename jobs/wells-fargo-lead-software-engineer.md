@@ -1,16 +1,16 @@
-# Lead Software Engineer at Wells Fargo
+# Lead software Engineer at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Software-Engineer_R-562716) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-software-Engineer_R-565428) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-08-03.
+This software engineer position at Wells Fargo was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

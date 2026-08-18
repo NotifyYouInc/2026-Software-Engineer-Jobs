@@ -1,16 +1,16 @@
-# Staff Software Engineer AI/ML at Samsung Semiconductor
+# Staff Software Engineer AI/ML  at Samsung Semiconductor
 
 | Field | Details |
 |-------|---------|
 | Company | [Samsung Semiconductor](https://scoutify.ai/companies/samsung-semiconductor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7695765003) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7837355003) |
 
 ## About This Role
 
-This software engineer position at Samsung Semiconductor was posted on 2026-04-15.
+This software engineer position at Samsung Semiconductor was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

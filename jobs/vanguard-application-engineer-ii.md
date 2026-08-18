@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineer---II_180794-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Application-Engineer---II_181351-1) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-08-04.
+This software engineer position at Vanguard was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

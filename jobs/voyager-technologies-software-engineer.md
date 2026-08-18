@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voyager Technologies](https://scoutify.ai/companies/voyager-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4206839009) |
+| Location | San Diego, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355026009) |
 
 ## About This Role
 
-This software engineer position at Voyager Technologies was posted on 2026-05-08.
+This embedded / firmware engineer position at Voyager Technologies was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

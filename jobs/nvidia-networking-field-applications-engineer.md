@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Field-Applications-Engineer_JR2014521) |
+| Category | Software Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Field-Applications-Engineer_JR2022945) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-03-20.
+This software engineer position at Nvidia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

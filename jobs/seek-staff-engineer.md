@@ -1,16 +1,16 @@
-# Staff Engineer at SEEK
+# Staff Engineer  at SEEK
 
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000131058785-staff-engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000142781159-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at SEEK was posted on 2026-06-09.
+This software engineer position at SEEK was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

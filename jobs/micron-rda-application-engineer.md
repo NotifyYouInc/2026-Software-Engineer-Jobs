@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Miaoli, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/RDA-Application-Engineer_JR95893) |
+| Location | Boise, Idaho, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/RDA-Application-Engineer_JR107745) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-16.
+This semiconductor / chip design position at Micron was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

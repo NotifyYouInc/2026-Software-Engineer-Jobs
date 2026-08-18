@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138550129-software-engineer-i) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142779619-software-engineer-i) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-20.
+This devops engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

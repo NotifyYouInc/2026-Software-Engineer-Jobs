@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Needham, Massachusetts, United States |
+| Location | Utah, US |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/Senior-Software-Engineer_R000106760) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Remote-Utah/Senior-Software-Engineer_R000107467) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-07-01.
+This software engineer position at Warner Bros Discovery was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

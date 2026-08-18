@@ -1,16 +1,16 @@
-# Packaging Module Development Engineer at Intel
+# Packaging module development engineer at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0286214) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-module-development-engineer_JR0286122) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-08-08.
+This semiconductor / chip design position at Intel was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

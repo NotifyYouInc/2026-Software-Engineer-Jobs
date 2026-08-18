@@ -1,16 +1,16 @@
-# Distinguished Engineer - Global Payment Network at Capital One
+# Distinguished Engineer (Global Payment Network) at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Engineer---Global-Payment-Network_R244054-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Engineer--Global-Payment-Network-_R248724-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-06-08.
+This software engineer position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

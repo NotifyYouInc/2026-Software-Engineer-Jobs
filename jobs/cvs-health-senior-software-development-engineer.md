@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minnesota, US |
+| Location | Illinois, US |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Senior-Software-Development-Engineer_R0988144) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Senior-Software-Development-Engineer_R0995925-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-08-06.
+This software engineer position at CVS Health was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

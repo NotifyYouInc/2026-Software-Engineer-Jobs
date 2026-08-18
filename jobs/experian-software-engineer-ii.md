@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123576799-software-engineer-ii) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142779160-software-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-04-29.
+This software engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

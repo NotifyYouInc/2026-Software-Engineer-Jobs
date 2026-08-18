@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer_R0064965) |
+| Location | Palo Alto, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Staff-Engineer_R0065203) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-07-16.
+This data engineer position at Geico was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

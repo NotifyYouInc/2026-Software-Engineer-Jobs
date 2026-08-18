@@ -1,16 +1,16 @@
-# Software Engineer II- CoreAI at Microsoft
+# Software Engineer II - CoreAI at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863227) |
+| Location | Redmond, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556953081) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-05-13.
+This data engineer position at Microsoft was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
