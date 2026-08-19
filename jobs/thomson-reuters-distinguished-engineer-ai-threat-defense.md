@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | Zug, Zug, Switzerland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Distinguished-Engineer--AI-Threat-Defense_JREQ202811-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Distinguished-Engineer--AI-Threat-Defense_JREQ202856) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thomson Reuters was posted on 2026-08-08.
+This cybersecurity engineer position at Thomson Reuters was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

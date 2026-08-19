@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/AU-Adelaide/Software-Engineer_R0165728-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Brisbane/Software-Engineer_R0167962) |
 
 ## About This Role
 
-This software engineer position at Amentum was posted on 2026-07-14.
+This software engineer position at Amentum was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

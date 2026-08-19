@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5699701-S2063336-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Lead_ATCI-R1-S1891174-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-10.
+This software engineer position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer, .NET Core, VP at NatWest Group
+# Software Engineer, .Net Core, VP at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--NET-Core--VP_R-00272122) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--Net-Core--VP_R-00283084-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-04-27.
+This software engineer position at NatWest Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

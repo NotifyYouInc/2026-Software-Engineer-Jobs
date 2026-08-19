@@ -5,12 +5,12 @@
 | Company | [Pax](https://scoutify.ai/companies/pax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/pax/jobs/mCapEnI-software-engineer-early-career) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/pax/jobs/5Schb9r-software-engineer-early-career) |
 
 ## About This Role
 
-This software engineer position at Pax was posted on 2026-07-19.
+This software engineer position at Pax was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

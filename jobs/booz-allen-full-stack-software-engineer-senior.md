@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Laurel, Maryland, United States |
+| Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Laurel-MD/Full-Stack-Software-Engineer--Senior_R0246182) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Full-Stack-Software-Engineer--Senior_R0246489) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-08-06.
+This software engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

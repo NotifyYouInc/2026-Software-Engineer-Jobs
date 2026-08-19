@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Software-Engineer--Lead_R0246298) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Full-Stack-Software-Engineer--Lead_R0246605) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-08-07.
+This software engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

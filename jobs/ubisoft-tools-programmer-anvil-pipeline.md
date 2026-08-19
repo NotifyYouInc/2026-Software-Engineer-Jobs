@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Software Engineer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000142749819-tools-programmer-anvil-pipeline) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000142968619-tools-programmer-anvil-pipeline) |
 
 ## About This Role
 

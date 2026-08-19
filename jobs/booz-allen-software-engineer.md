@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer_R0246152) |
+| Location | Lexington, Kentucky, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0246686) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-04.
+This software engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

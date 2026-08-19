@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664567/software-engineer-big-data-apple-services-engineering) |
+| Location | Seattle, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671406/software-engineer-big-data-apple-services-engineering) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-05-22.
+This data engineer position at Apple was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

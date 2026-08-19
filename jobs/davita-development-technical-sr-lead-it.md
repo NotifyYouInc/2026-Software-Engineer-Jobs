@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Brentwood, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00653---Playa-Davita-CBO/Development-Technical-Sr-Lead--IT-_R0470777) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02821---Team-Music-City/Development-Technical-Sr-Lead--IT-_R0472848) |
 
 ## About This Role
 
-This software engineer position at DaVita was posted on 2026-07-30.
+This software engineer position at DaVita was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

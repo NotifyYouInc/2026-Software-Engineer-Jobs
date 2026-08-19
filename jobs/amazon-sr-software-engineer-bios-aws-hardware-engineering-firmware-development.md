@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cupertino, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446938/sr-software-engineer-bios-aws-hardware-engineering-firmware-development) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10499415/sr-software-engineer-bios-aws-hardware-engineering-firmware-development) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-06-11.
+This embedded / firmware engineer position at Amazon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# RevOps Engineer at Go Nimbly
+# RevOps Engineer  at Go Nimbly
 
 | Field | Details |
 |-------|---------|
 | Company | [Go Nimbly](https://scoutify.ai/companies/go-nimbly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/go-nimbly/8d415acc-44bb-4d5b-846d-8b99a6d94cc8) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/go-nimbly/cbf7f72a-d663-42df-adaf-e30cd8e64f5e) |
 
 ## About This Role
 
-This software engineer position at Go Nimbly was posted on 2026-06-27.
+This software engineer position at Go Nimbly was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

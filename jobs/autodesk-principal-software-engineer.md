@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sheffield, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Principal-Software-Engineer_26WD99427-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-Software-Engineer_26WD100508) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-07-10.
+This software engineer position at Autodesk was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775938) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777599) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-08-10.
+This software engineer position at JPMorgan Chase was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

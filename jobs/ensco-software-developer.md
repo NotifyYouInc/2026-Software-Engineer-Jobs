@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ENSCO](https://scoutify.ai/companies/ensco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ensco/jobs/5287243008) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ensco/jobs/5384918008) |
 
 ## About This Role
 
-This software engineer position at ENSCO was posted on 2026-07-01.
+This software engineer position at ENSCO was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

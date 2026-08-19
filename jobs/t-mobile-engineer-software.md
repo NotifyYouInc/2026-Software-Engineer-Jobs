@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Engineer--Software_REQ360082) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Engineer--Software_REQ367045) |
 
 ## About This Role
 
-This software engineer position at T-Mobile was posted on 2026-06-16.
+This software engineer position at T-Mobile was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

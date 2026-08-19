@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Software-Engineer_R-00283044-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer_R-00277749-1) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-08-06.
+This software engineer position at NatWest Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

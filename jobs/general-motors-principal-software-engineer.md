@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montana, US |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Montana/Principal-Software-Engineer_JR-202606175-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Canada/Principal-Software-Engineer_JR-202617286) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-03-16.
+This software engineer position at General Motors was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

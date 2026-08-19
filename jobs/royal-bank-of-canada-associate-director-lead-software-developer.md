@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate-Director--Lead-Software-Developer_R-0000175610) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GOLDMAN-SACHS-TOWER-30-HUDSON-STREETJERSEY-CITY/Associate-Director--Lead-Software-Developer_R-0000183869) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-06-05.
+This software engineer position at Royal Bank of Canada was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

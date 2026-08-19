@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659889/hardware-system-integration-engineer-airpods) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677473/hardware-system-integration-engineer-airpods) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-24.
+This electrical / hardware engineer position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

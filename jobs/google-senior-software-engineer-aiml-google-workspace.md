@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/121747660850766534-senior-software-engineer-aiml-google-workspace?sort_by=date&page=1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWpUMHsg_ECiUOxV1wMntxFeM_K2uLMG-k_eUrI0EDlhEjsA1Ny_i-nRBjSPhE44t2cSrjMxOLiq5znwOEx9qcbyhPIvzJL7h_vhAoF4UfhTc1WDei0py_X1LiAEAQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-26.
+This software engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

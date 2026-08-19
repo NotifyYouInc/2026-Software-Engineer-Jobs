@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Staff-Embedded-Software-Engineer---Avionics---Aerospace---FLRAA_R5038064) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Staff-Embedded-Software-Engineer---Avionics---Aerospace---FLRAA_R5037652-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at GE Aerospace was posted on 2026-08-06.
+This embedded / firmware engineer position at GE Aerospace was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

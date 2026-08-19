@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Contagem, Minas Gerais, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014481477-senior-software-engineer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014553066-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-08-06.
+This software engineer position at Wabtec was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

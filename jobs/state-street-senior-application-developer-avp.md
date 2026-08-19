@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Quincy, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-Application-Developer--AVP_R-789764-1) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Senior-Application-Developer--AVP_R-795966) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-05-08.
+This ai / llm engineer position at State Street was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

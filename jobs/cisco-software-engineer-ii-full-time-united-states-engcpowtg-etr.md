@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-II--Full-Time----United-States-ENG-CPO-WTG-ETR_2022072) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Software-Engineer-II--Full-Time----United-States-ENG-CPO-WTG-ETR_2022718) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-11.
+This embedded / firmware engineer position at Cisco was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

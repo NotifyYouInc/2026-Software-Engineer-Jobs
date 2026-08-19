@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141650034-principal-engineer-custom-layout-high-speed-interface-ip) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143040140-principal-engineer-custom-layout-high-speed-interface-ip) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-05.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

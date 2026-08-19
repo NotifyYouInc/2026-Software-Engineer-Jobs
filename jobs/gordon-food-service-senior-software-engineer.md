@@ -5,12 +5,12 @@
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Senior-Software-Engineer_R-53910) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Senior-Software-Engineer_R-55654) |
 
 ## About This Role
 
-This software engineer position at Gordon Food Service was posted on 2026-07-02.
+This software engineer position at Gordon Food Service was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

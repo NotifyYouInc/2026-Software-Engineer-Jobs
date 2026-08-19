@@ -1,16 +1,16 @@
-# Digital Software Engineer Intermediate Analyst - Officer at Citigroup
+# Digital Software Engineer Intermediate Analyst Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-Software-Engineer-Intermediate-Analyst---Officer_26965342) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-29.
+This software engineer position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

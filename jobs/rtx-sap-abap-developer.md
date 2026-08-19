@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Arizona, US |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/SAP-ABAP-Developer_01838212) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/SAP-ABAP-Developer_01865963) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-16.
+This software engineer position at RTX was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

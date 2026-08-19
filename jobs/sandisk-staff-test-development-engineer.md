@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000140404136-staff-test-development-engineer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000143043859-staff-test-development-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-07-29.
+This semiconductor / chip design position at SanDisk was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

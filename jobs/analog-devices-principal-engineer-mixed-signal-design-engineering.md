@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Dallas, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Engineer--Mixed-Signal-Design-Engineering_R261313) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Principal-Engineer--Mixed-Signal-Design-Engineering_R264847) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-20.
+This semiconductor / chip design position at Analog Devices was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CABCVancouver-733-Seymour-St/Project-Technical-Lead_R-138906) |
+| Category | Project Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CABCVancouver745-Thurlow-St/Project-Technical-Lead_R-160119) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-05-08.
+This project manager position at SNC-Lavalin was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

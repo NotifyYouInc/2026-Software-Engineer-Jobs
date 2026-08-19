@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gaithersburg, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-Engineer_R-00186052) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-Engineer_R-00189309) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-24.
+This software engineer position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HL7-Integration-Engineer_R4035590-1) |
+| Location | United States |
+| Category | Customer Success |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HL7-Integration-Engineer_R4044244-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-09.
+This customer success position at GE HealthCare was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

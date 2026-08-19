@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Developer_JR-0000089097) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Developer_JR-0000117334-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-05-22.
+This software engineer position at Barclays was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Principal-Software-Engineer_R55114) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/IRVINE-04/Principal-Software-Engineer_R54107-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-06-25.
+This software engineer position at Cadence Design Systems was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
