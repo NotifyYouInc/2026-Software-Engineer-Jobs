@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cheadle, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cheadle/Software-Architect_R0293180) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Architect_R0336643-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-07-24.
+This software engineer position at Thales was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

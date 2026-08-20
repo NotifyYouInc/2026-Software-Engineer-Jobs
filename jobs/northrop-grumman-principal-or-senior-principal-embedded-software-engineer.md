@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Annapolis, Maryland, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Principal-or-Senior-Principal-Embedded-Software-Engineer_R10224872) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Principal-or-Senior-Principal-Embedded-Software-Engineer_R10245574) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-03-05.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

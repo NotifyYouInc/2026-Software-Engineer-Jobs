@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136739565-associate-principal-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143231329-associate-principal-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-07-09.
+This software engineer position at Nagarro was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

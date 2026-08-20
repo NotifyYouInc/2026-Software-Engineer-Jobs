@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Westford, Massachusetts, United States |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineer-II_01855036) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Software-Engineer-II_01865491) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-24.
+This software engineer position at RTX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

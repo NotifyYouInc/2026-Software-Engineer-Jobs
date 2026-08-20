@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Field-Applications-Engineer_R-1734) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Field-Applications-Engineer_R-1853) |
 
 ## About This Role
 
-This software engineer position at Monolithic Power Systems was posted on 2026-07-14.
+This sales engineer position at Monolithic Power Systems was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

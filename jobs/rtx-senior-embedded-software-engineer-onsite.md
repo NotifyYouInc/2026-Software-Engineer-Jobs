@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-Embedded-Software-Engineer--Onsite_01859520) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-Embedded-Software-Engineer--Onsite_01863902) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-15.
+This embedded / firmware engineer position at RTX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

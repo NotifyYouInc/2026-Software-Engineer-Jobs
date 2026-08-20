@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Colorado, US |
 | Category | Software Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Ireland---Cork/AI-Software-Engineer_R55411-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-05-17.
+This software engineer position at Trimble was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

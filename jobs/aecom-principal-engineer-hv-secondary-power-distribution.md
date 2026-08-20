@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bukit Damansara, Kuala Lumpur, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138544987-principal-engineer-hv-secondary-power-distribution) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143234789-principal-engineer-hv-secondary-power-distribution) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-07-20.
+This electrical / hardware engineer position at AECOM was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

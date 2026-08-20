@@ -1,16 +1,16 @@
-# Systems Engineer I - Onsite at RTX
+# Systems Engineer I Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petersburg, Virginia, United States |
+| Location | Woburn, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-I---Onsite_01864544) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I-Onsite_01866404) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-05.
+This software engineer position at RTX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

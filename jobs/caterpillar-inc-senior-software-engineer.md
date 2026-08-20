@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-Software-Engineer_R0000377848) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Software-Engineer_R0000386957) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-06-22.
+This software engineer position at Caterpillar Inc. was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

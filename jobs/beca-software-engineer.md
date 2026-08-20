@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Software-Engineer_JR101768) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Software-Engineer_JR102054) |
 
 ## About This Role
 
-This software engineer position at Beca was posted on 2026-06-07.
+This software engineer position at Beca was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

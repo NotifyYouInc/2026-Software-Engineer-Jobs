@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gloucester, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Senior-Software-Engineer_01854453) |
+| Location | Rockford, Illinois, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Senior-Software-Engineer_01865643) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-24.
+This embedded / firmware engineer position at RTX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

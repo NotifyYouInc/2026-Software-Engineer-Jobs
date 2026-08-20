@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Workfront-Programming-Lead_2627373) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Warsaw-Poland/Workfront-Programming-Lead_2628491) |
 
 ## About This Role
 
-This software engineer position at Labcorp was posted on 2026-08-10.
+This software engineer position at Labcorp was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

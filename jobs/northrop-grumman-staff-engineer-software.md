@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer-Software_R10234432) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Staff-Engineer-Software_R10245275) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-02.
+This software engineer position at Northrop Grumman was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

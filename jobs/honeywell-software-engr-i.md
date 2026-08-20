@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chongqing, Chongqing, China |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153734) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155383) |
 
 ## About This Role
 
-This software engineer position at Honeywell was posted on 2026-07-28.
+This software engineer position at Honeywell was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

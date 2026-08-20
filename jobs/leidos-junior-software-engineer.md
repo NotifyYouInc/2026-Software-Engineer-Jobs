@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bowie, Maryland, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Junior-Software-Engineer_R-00189125) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00189408) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-09.
+This software engineer position at Leidos was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

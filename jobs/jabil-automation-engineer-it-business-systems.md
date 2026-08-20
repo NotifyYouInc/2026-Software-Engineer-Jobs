@@ -1,0 +1,22 @@
+# Automation Engineer - IT & Business Systems at Jabil
+
+| Field | Details |
+|-------|---------|
+| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Automation-Engineer---IT---Business-Systems_J2460296) |
+
+## About This Role
+
+This industrial automation position at Jabil was posted on 2026-08-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

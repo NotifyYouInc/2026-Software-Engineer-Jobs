@@ -1,16 +1,16 @@
-# Software Engineer, C++ at Anduril
+# Software Engineer (C#) at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Costa Mesa, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5211022007?gh_jid=5211022007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-08-10.
+This software engineer position at Anduril was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

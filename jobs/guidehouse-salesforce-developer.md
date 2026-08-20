@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Salesforce-Developer_41961) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Developer_43244) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-07-24.
+This software engineer position at Guidehouse was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

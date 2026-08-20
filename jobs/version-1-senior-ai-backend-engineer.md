@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000137385838-senior-ai-backend-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000143227239-senior-ai-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at Version 1 was posted on 2026-07-13.
+This ai / llm engineer position at Version 1 was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

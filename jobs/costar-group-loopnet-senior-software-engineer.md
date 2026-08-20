@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Orange-County---CA/LoopNet---Senior-Software-Engineer_R39166) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Orange-County---CA/LoopNet---Senior-Software-Engineer_R39583) |
 
 ## About This Role
 
-This software engineer position at CoStar Group was posted on 2026-06-25.
+This software engineer position at CoStar Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

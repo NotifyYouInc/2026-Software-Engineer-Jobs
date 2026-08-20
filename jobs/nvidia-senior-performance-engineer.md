@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/Senior-Performance-Engineer_JR2022529) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Performance-Engineer_JR2021541) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-08-04.
+This software engineer position at Nvidia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

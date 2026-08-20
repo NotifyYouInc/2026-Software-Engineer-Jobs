@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-System-Engineering_R-110348) |
+| Location | Plano, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Principal-System-Engineering_R-114733) |
 
 ## About This Role
 
-This technical & solutions architect position at AT&T was posted on 2026-05-21.
+This software engineer position at AT&T was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

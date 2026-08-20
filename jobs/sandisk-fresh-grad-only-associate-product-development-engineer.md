@@ -1,16 +1,16 @@
-# (FRESH GRAD ONLY) Associate Product Development Engineer at SanDisk
+# [FRESH GRAD ONLY] Associate Product Development Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137823859-fresh-grad-only-associate-product-development-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000143234189-fresh-grad-only-associate-product-development-engineer) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-15.
+This semiconductor / chip design position at SanDisk was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

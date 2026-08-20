@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4925745101) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4951944101) |
 
 ## About This Role
 
-This software engineer position at StraitsX was posted on 2026-07-13.
+This software engineer position at StraitsX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

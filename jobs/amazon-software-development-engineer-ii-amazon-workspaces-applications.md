@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484191/software-development-engineer-ii-amazon-workspaces-applications) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10500481/software-development-engineer-ii-amazon-workspaces-applications) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-27.
+This software engineer position at Amazon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

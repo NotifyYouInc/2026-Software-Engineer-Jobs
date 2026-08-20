@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000118544017-staff-software-engineer-machine-learning) |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143231395-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / ml research position at LinkedIn was posted on 2026-04-03.
+This software engineer position at LinkedIn was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

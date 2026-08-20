@@ -1,16 +1,16 @@
-# Software Engineer - AML,  AI & Data Platforms (AiDP) at Apple
+# Software Engineer, AML, Ai & Data Platforms (AiDP) at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662616/software-engineer-aml-ai-data-platforms-aidp) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677036/software-engineer-aml-ai-data-platforms-aidp) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-23.
+This software engineer position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000122385429-senior-software-engineer-customer-data-platform) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Data Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143235309-senior-software-engineer-customer-data-platform) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-23.
+This data engineer position at Grab was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

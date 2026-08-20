@@ -1,16 +1,16 @@
-# Principal Engineer - Design at Microchip Technology
+# Principal Engineer -Design at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Burnaby, British Columbia, Canada |
+| Location | Saskatoon, Saskatchewan, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Principal-Engineer---Design_R3416-26) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Saskatoon/Principal-Engineer--Design_R3399-26-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-08-06.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
