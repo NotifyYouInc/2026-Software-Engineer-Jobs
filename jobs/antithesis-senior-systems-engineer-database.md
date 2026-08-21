@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Antithesis](https://scoutify.ai/companies/antithesis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Vienna, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/antithesis/0cef954c-1049-4101-b1f9-17d63dd080b7) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/antithesis/3cdaf5e6-10cc-4142-a5bd-6979efb5f904) |
 
 ## About This Role
 
-This software engineer position at Antithesis was posted on 2026-06-26.
+This software engineer position at Antithesis was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, US |
-| Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Senior-Software-Development-Engineer_R0998906-1) |
+| Location | Georgia, US |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Work-from-home/Senior-Software-Development-Engineer_R1004197) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-08-12.
+This software engineer position at CVS Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

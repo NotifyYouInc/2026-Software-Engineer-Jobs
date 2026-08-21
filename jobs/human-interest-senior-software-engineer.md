@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7746737) |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7927646) |
 
 ## About This Role
 
-This devops engineer position at Human Interest was posted on 2026-03-30.
+This software engineer position at Human Interest was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

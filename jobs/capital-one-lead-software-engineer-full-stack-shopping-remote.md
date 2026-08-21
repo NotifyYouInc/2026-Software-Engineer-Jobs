@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/US-Remote/Lead-Software-Engineer--Full-Stack---Shopping--Remote-_R248686-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack---Shopping--Remote-_R248817-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-08-07.
+This software engineer position at Capital One was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

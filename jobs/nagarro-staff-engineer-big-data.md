@@ -1,16 +1,16 @@
-# Staff Engineer, Big Data  at Nagarro
+# Staff Engineer, Big Data at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139225015-staff-engineer-big-data) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143435689-staff-engineer-big-data) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-07-23.
+This data engineer position at Nagarro was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

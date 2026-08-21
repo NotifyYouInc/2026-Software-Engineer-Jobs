@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circadiahealth](https://scoutify.ai/companies/circadiahealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.lever.co/circadiahealth/1138ac93-5ed3-43d3-b0fa-d99a264d6ece) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.lever.co/circadiahealth/a0dd1a61-547a-4134-a059-b25d4c956677) |
 
 ## About This Role
 
-This software engineer position at Circadiahealth was posted on 2026-07-31.
+This software engineer position at Circadiahealth was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

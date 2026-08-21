@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeyondTrust](https://scoutify.ai/companies/beyondtrust?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/7930944) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/8126148) |
 
 ## About This Role
 
-This software engineer position at BeyondTrust was posted on 2026-07-24.
+This software engineer position at BeyondTrust was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

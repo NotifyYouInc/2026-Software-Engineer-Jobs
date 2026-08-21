@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138774929-power-platform-developer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143399829-power-platform-developer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-07-21.
+This software engineer position at AECOM was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

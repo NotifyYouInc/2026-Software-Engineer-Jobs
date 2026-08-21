@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Philippines/ServiceNow-Developer_R5149-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/US---National/ServiceNow-Developer_R5917) |
 
 ## About This Role
 
-This software engineer position at Nordic was posted on 2026-03-06.
+This software engineer position at Nordic was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

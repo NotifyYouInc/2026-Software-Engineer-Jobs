@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Fridley, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Principal-Software-Engineer_R74180-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-Software-Engineer_R74416-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-08-07.
+This software engineer position at Medtronic was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

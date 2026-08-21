@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143236239-mid-level-python-developer-genai) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143442869-mid-level-python-developer-genai) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-08-13.
+This ai / llm engineer position at Sopra Steria was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

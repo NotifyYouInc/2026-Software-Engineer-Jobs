@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662204/embedded-software-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677973/embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-05-09.
+This embedded / firmware engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

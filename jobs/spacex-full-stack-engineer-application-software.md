@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Cape Canaveral, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8681166002?gh_jid=8681166002) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8710146002?gh_jid=8710146002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-08-05.
+This software engineer position at SpaceX was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

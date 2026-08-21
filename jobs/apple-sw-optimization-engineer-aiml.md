@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2025-10-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625319/sw-optimization-engineer-ai-ml) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675516/sw-optimization-engineer-ai-ml) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-10-09.
+This software engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

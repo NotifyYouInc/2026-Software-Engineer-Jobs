@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_099067) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Consultant--Software-Engineer_099637) |
 
 ## About This Role
 
-This software engineer position at Nationwide was posted on 2026-07-22.
+This software engineer position at Nationwide was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

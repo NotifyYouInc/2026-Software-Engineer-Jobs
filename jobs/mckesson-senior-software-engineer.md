@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Senior-Software-Engineer_JR0147218) |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Senior-Software-Engineer_JR0151439) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-05-14.
+This data engineer position at McKesson was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

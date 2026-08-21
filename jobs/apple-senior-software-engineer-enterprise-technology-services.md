@@ -1,16 +1,16 @@
-# Senior Software Engineer, Enterprise Technology Services at Apple
+# Senior Software Engineer Enterprise Technology Services at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664502/senior-software-engineer-enterprise-technology-services) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677752/senior-software-engineer-enterprise-technology-services) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-05-20.
+This software engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

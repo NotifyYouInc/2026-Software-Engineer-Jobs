@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Principal-Software-Engineer--Receiver-Products_R_106221) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Principal-Software-Engineer--Receiver-Products_R_106771) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-05-15.
+This software engineer position at Remitly was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

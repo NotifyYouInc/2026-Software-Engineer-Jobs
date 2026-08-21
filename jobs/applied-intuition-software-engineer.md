@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4695020005?gh_jid=4695020005) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225) |
 
 ## About This Role
 
-This software engineer position at Applied Intuition was posted on 2026-05-13.
+This software engineer position at Applied Intuition was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

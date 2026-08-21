@@ -5,12 +5,12 @@
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6002507004) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6143439004) |
 
 ## About This Role
 
-This software engineer position at BTG Pactual was posted on 2026-05-21.
+This software engineer position at BTG Pactual was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

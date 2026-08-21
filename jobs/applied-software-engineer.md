@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/0e38c334-e420-4dd1-b5ca-078ac8bcd15d) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225) |
 
 ## About This Role
 
-This software engineer position at applied was posted on 2026-05-13.
+This software engineer position at applied was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

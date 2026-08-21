@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
-| Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--ITC_R-86857) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--ITC_R-85878) |
 
 ## About This Role
 
-This data engineer position at Nike was posted on 2026-08-05.
+This devops engineer position at Nike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

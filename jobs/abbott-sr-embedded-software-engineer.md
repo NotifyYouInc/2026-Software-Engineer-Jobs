@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milpitas, California, United States |
+| Location | 2 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Milpitas--1820-McCarthy-Blvd/Sr-Embedded-Software-Engineer_31158366-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Sr-Embedded-Software-Engineer_31158740-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Abbott was posted on 2026-08-10.
+This embedded / firmware engineer position at Abbott was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

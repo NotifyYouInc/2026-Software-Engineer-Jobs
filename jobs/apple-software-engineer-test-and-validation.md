@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
-| Posted | 2025-10-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200624239/software-engineer-test-and-validation) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677748/software-engineer-test-and-validation) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-10-06.
+This software engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

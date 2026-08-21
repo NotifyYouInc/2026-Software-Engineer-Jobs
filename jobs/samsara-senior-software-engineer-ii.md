@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217) |
+| Location | Canada |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) |
 
 ## About This Role
 
-This software engineer position at Samsara was posted on 2026-07-24.
+This embedded / firmware engineer position at Samsara was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

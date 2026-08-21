@@ -1,16 +1,16 @@
-# Senior Software Engineer - Networking at Nvidia
+# Senior Software Engineer, Networking at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---Networking_JR2006779) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking_JR2022915) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-07-19.
+This software engineer position at Nvidia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

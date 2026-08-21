@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico |
+| Location | Troy, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Queretaro/Software-Engineer_REQ2025066380) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer--Reference-Code-492445-_REQ2026079820) |
 
 ## About This Role
 
-This software engineer position at Valeo was posted on 2026-04-17.
+This software engineer position at Valeo was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

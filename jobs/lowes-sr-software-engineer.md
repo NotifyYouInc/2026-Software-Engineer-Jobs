@@ -1,16 +1,16 @@
-# Sr Software Engineer at Lowe's
+# Sr Software engineer at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Sr-Software-Engineer_JR-02526126) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-LBT/Sr-Software-engineer_JR-02614069) |
 
 ## About This Role
 
-This software engineer position at Lowe's was posted on 2026-07-29.
+This software engineer position at Lowe's was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

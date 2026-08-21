@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lowell, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142219814-sr-mgr-field-applications-engineer-fae) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143388119-sr-mgr-field-applications-engineer-fae) |
 
 ## About This Role
 
-This sales engineer position at Renesas Electronics was posted on 2026-08-07.
+This sales engineer position at Renesas Electronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
