@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Engineer_R74079-1) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Software-Engineer_R74516-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-08-10.
+This software engineer position at Medtronic was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

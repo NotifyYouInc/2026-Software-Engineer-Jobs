@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664943/senior-software-engineer-apple-services-engineering) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678225/senior-software-engineer-apple-services-engineering) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-05-22.
+This software engineer position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

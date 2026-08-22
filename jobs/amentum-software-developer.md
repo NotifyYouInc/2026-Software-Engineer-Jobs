@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Florida, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/Software-Developer_R0155758) |
+| Location | Chantilly, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Software-Developer_R0168107-1) |
 
 ## About This Role
 
-This frontend engineer position at Amentum was posted on 2026-03-09.
+This software engineer position at Amentum was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

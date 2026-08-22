@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---Irvine/Technical-Staff-Engineer---Business-Development--Space--US-West-Region-_R1768-26) |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---Irvine/Technical-Staff-Engineer---Business-Development--Aerospace---Defense--US-West-Region-_R3555-26) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Microchip Technology was posted on 2026-04-23.
+This sales engineer position at Microchip Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

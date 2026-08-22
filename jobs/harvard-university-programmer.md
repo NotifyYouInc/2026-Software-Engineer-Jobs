@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012537666-programmer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014607906-programmer) |
 
 ## About This Role
 
-This software engineer position at Harvard University was posted on 2026-04-09.
+This software engineer position at Harvard University was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

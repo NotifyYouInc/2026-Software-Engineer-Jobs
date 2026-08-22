@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | Durham, North Carolina, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Kirkland-WA/Applications-Engineer-Sr-Applications-Engineer_R-857) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Durham-NC/Applications-Engineer_R-1868) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-04-24.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

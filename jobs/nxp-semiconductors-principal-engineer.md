@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Principal-Engineer_R-10066118) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Principal-Engineer_R-10066248) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-08-07.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

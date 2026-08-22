@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Principal-Statistical-Programmer_R1546512) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Principal-Statistical-Programmer_R1561352) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-06-12.
+This software engineer position at IQVIA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

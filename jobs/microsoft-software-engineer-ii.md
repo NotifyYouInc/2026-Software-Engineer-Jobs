@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556955275) |
+| Location | Redmond, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556958162) |
 
 ## About This Role
 
-This cybersecurity engineer position at Microsoft was posted on 2026-08-13.
+This software engineer position at Microsoft was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Staff-Software-Engineer--Flink-Streaming-Analytics-Team_251484-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic--Remote/Staff-Software-Engineer--Flink-Streaming-Analytics-Team_261218-1) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-05-06.
+This software engineer position at Cloudera was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

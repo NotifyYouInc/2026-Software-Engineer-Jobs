@@ -1,16 +1,16 @@
-# Software Development Engineer - PMO - Apple Ads at Apple
+# Software Development Engineer, PMO - Apple Ads at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660590/software-development-engineer-pmo-apple-ads) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678212/software-development-engineer-pmo-apple-ads) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-28.
+This software engineer position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

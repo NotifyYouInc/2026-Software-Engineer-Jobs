@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Hopkins, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Cloud-Principal-Engineer_2026-0021494-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Cloud-Principal-Engineer_2026-0024595) |
 
 ## About This Role
 
-This devops engineer position at U.S. Bank was posted on 2026-08-03.
+This devops engineer position at U.S. Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Application-Developer-Lead-Vice-President_26964264) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Application-Developer-Lead-Vice-President_26986137) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-18.
+This software engineer position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

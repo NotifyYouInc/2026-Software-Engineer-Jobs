@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464081/software-development-engineer-aws-opensearch) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10502946/software-development-engineer-aws-opensearch) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-01.
+This software engineer position at Amazon was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

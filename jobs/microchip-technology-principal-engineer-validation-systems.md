@@ -5,12 +5,12 @@
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Burnaby, British Columbia, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Principal-Engineer---Validation--Systems-_R3415-26) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Canada---Burnaby/Principal-Engineer---Validation--Systems-_R3562-26) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-08-06.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

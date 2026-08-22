@@ -1,16 +1,16 @@
-# Senior Software Engineer || at Samsara
+# Senior Software Engineer at Samsara
 
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7743836?gh_jid=7743836) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819) |
 
 ## About This Role
 
-This software engineer position at Samsara was posted on 2026-04-10.
+This software engineer position at Samsara was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

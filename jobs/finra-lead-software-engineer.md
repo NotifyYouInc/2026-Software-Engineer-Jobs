@@ -5,12 +5,12 @@
 | Company | [Finra](https://scoutify.ai/companies/finra?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://finra.wd1.myworkdayjobs.com/finra/job/Rockville-MD-Job-Posting/Lead-Software-Engineer_R-009912) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://finra.wd1.myworkdayjobs.com/finra/job/Rockville-MD-Job-Posting/Lead-Software-Engineer_R-010167-1) |
 
 ## About This Role
 
-This software engineer position at Finra was posted on 2026-04-24.
+This software engineer position at Finra was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

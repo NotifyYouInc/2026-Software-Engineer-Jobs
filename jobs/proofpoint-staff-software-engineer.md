@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Draper, Utah, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Staff-Software-Engineer_R14262) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Boston-Massachusetts/Staff-Software-Engineer_R14589) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-05-23.
+This software engineer position at Proofpoint was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Gamechanger](https://scoutify.ai/companies/gamechanger?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/gamechanger/8943fcab-3e8c-4bca-9e54-eb15cad10722) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gamechanger/b07c5dda-bf13-47b7-b916-cbacc7b67d26) |
 
 ## About This Role
 
-This software engineer position at Gamechanger was posted on 2026-05-05.
+This software engineer position at Gamechanger was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

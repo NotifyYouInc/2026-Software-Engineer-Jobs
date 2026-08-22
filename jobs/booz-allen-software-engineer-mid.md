@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Software-Engineer--Mid_R0245706-1) |
+| Location | Lexington Park, Maryland, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Software-Engineer--Mid_R0233472) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-07-30.
+This embedded / firmware engineer position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

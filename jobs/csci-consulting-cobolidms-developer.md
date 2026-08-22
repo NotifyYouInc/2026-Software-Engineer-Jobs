@@ -5,12 +5,12 @@
 | Company | [CSCI Consulting](https://scoutify.ai/companies/csciconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/csciconsulting/jobs/5222392008) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/csciconsulting/jobs/5391794008) |
 
 ## About This Role
 
-This software engineer position at CSCI Consulting was posted on 2026-06-22.
+This software engineer position at CSCI Consulting was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

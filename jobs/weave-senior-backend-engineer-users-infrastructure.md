@@ -1,16 +1,16 @@
-# Senior Backend Engineer – Users Infrastructure at Weave
+# Senior Backend Engineer- Users Infrastructure at Weave
 
 | Field | Details |
 |-------|---------|
 | Company | [Weave](https://scoutify.ai/companies/weave?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/weave/3f582000-b557-48c5-b8d3-530cc53e8988) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/weave/4df6135c-b948-4858-a905-613103010227) |
 
 ## About This Role
 
-This security engineer position at Weave was posted on 2026-05-26.
+This software engineer position at Weave was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PGX-Belo-Horizonte/PGX-ANL-TI-JR_Req1598744) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PGX-So-Paulo/PGX-ANL-TI-JR_Req1596288) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-08-04.
+This software engineer position at Santander was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

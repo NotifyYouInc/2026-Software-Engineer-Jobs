@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hawthorne, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8443290002?gh_jid=8443290002) |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002) |
 
 ## About This Role
 
-This frontend engineer position at SpaceX was posted on 2026-03-03.
+This software engineer position at SpaceX was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

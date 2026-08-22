@@ -1,16 +1,16 @@
-# Principal Full Stack Engineer at Fidelity
+# Principal, Full Stack Engineer at Fidelity
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Smithfield, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Principal-Full-Stack-Engineer_2128975-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Principal--Full-Stack-Engineer_2132251) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-07-14.
+This software engineer position at Fidelity was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

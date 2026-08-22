@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Michigan, US |
-| Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wixom-MI/Field-Application-Engineer_JR_1046021) |
+| Location | Bloomfield, New Jersey, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bloomfield/Field-Application-Engineer_JR_1052024) |
 
 ## About This Role
 
-This customer success position at Zeiss was posted on 2026-02-26.
+This sales engineer position at Zeiss was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collective Health](https://scoutify.ai/companies/collective-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.collectivehealth.com/apply/?gh_jid=7816879) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.collectivehealth.com/apply/?gh_jid=8130459) |
 
 ## About This Role
 
-This software engineer position at Collective Health was posted on 2026-04-28.
+This software engineer position at Collective Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

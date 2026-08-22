@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fulton, Missouri, United States |
+| Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Fulton-Maryland-US/Principal-Software-Engineer_2019247) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Principal-Software-Engineer_2022376-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-10.
+This software engineer position at Cisco was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

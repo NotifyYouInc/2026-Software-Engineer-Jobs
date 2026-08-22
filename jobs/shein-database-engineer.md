@@ -5,12 +5,12 @@
 | Company | [SHEIN](https://scoutify.ai/companies/shein?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Database Administration |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/shein/jobs/5257421008) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/shein/jobs/5391659008) |
 
 ## About This Role
 
-This database administration position at SHEIN was posted on 2026-06-12.
+This database administration position at SHEIN was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

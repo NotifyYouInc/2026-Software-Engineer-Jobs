@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Ypsilanti, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineer_330246) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_330651) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-08-07.
+This software engineer position at CACI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

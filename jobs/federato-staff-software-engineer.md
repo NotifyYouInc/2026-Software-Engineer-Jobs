@@ -5,12 +5,12 @@
 | Company | [Federato](https://scoutify.ai/companies/federato?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/federato/jobs/5248355008) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/federato/jobs/5392064008) |
 
 ## About This Role
 
-This software engineer position at Federato was posted on 2026-06-04.
+This software engineer position at Federato was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
