@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/2236774387100356) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-08-14.
+This machine learning engineer position at Meta was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Lead-Engineer_JR201105) |
 
 ## About This Role
 
-This software engineer position at Elevance Health was posted on 2026-08-14.
+This technical & solutions architect position at Elevance Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

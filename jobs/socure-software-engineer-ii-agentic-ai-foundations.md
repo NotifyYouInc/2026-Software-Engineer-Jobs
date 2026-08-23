@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Socure](https://scoutify.ai/companies/socure?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/socure/d4231c05-fb34-488c-9a9b-325e09dc1aa8) |
 
 ## About This Role
 
-This ai / llm engineer position at Socure was posted on 2026-08-14.
+This machine learning engineer position at Socure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

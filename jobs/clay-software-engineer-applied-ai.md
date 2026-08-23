@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clay](https://scoutify.ai/companies/clay?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1) |
 
 ## About This Role
 
-This ai / llm engineer position at Clay was posted on 2026-08-14.
+This machine learning engineer position at Clay was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724389005) |
 
 ## About This Role
 
-This ai / llm engineer position at The New York Times was posted on 2026-08-14.
+This machine learning engineer position at The New York Times was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

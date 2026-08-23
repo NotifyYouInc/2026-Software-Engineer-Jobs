@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Uxbridge, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Statistical-Programmer_R1604803-1) |
 
 ## About This Role
 
-This software engineer position at Bristol-Myers Squibb was posted on 2026-08-14.
+This bioinformatics / computational biology position at Bristol-Myers Squibb was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | China |
-| Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/df0673f8-2b5e-4c5e-a47b-098371422a1a) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/b862024f-b1ed-4492-bd29-219b1a796cdc) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-04.
+This machine learning engineer position at Bjak was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

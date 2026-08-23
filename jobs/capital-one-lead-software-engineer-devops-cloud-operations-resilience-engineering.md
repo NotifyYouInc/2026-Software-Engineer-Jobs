@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Riverwoods, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R248569-1) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1) |
 
 ## About This Role
 
-This devops engineer position at Capital One was posted on 2026-08-11.
+This devops engineer position at Capital One was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

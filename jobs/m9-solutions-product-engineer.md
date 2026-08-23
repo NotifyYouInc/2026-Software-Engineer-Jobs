@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5212829007) |
 
 ## About This Role
 
-This software engineer position at M9 Solutions was posted on 2026-08-14.
+This product manager position at M9 Solutions was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

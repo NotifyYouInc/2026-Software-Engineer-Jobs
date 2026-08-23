@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://www.weareroku.com/jobs/8131362?gh_jid=8131362) |
 
 ## About This Role
 
-This ai / llm engineer position at Roku was posted on 2026-08-15.
+This machine learning engineer position at Roku was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

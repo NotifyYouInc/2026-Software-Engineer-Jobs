@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Senior-Statistical-Programmer_R1563733) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-08-14.
+This bioinformatics / computational biology position at IQVIA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

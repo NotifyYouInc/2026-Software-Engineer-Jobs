@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/ServiceNow-Developer-Senior_RQ225666-1) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/ServiceNow-Developer-Senior_RQ226279-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-08-09.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Software Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Staff-Engineer--Global-Probe-Modeling_JR108755) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-08-14.
+This business analyst position at Micron was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200671413/systems-architect-apple-pay) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-14.
+This technical & solutions architect position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

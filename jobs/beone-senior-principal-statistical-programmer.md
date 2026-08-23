@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/XMLNAME--Senior--Principal-Programmer_R36381) |
 
 ## About This Role
 
-This software engineer position at BeOne was posted on 2026-08-14.
+This bioinformatics / computational biology position at BeOne was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
