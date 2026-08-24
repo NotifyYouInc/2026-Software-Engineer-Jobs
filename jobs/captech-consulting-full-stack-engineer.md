@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143562497-full-stack-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143599994-full-stack-engineer) |
 
 ## About This Role
 

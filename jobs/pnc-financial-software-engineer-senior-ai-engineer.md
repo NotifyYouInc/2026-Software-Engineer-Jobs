@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Senior-Ai-Engineer_R224390-2) |
 
 ## About This Role
 
-This machine learning engineer position at PNC Financial was posted on 2026-08-14.
+This software engineer position at PNC Financial was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

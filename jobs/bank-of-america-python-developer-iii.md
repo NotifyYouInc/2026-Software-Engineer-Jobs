@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Python-Developer-III_26029248-2) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Python-Developer-III_26029553) |
 
 ## About This Role
 

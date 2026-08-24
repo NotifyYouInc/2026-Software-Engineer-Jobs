@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000142800280-senior-software-engineer-backend) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143736449-senior-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-08-11.
+This software engineer position at Grab was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

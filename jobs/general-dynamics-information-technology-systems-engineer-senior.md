@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Omaha, Nebraska, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Systems-Engineer-Senior_RQ208903-1) |
+| Location | Rockville, Maryland, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Rockville/Systems-Engineer-Senior_RQ226288) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-02-16.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6144437004?gh_jid=6144437004) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6144655004?gh_jid=6144655004) |
 
 ## About This Role
 

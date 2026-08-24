@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/e72d577b-f292-4623-8611-e75181e6e1c0) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/87bc1c1c-1ca1-455d-836c-0efcb1d8af9e) |
 
 ## About This Role
 
-This software engineer position at Xero was posted on 2026-04-28.
+This software engineer position at Xero was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

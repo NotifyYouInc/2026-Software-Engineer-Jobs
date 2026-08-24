@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002) |
 
 ## About This Role
 
-This devops engineer position at Lyft was posted on 2026-08-14.
+This software engineer position at Lyft was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

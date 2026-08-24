@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Manager--Intelligent-Automation_REQ520195-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Manager--Intelligent-Automation_REQ528802) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-07-15.
+This software engineer position at JLL was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

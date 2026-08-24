@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000139198749-staff-software-engineer-nodejs-typescript) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143747150-staff-software-engineer-nodejs-typescript) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-07-23.
+This software engineer position at SIA was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

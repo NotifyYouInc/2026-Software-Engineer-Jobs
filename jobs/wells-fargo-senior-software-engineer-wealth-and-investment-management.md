@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Software-Engineer---Wealth-and-Investment-Managment_R-565494) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-08-14.
+This software engineer position at Wells Fargo was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

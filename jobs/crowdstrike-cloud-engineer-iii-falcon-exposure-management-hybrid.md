@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807) |
 
 ## About This Role
 
-This devops engineer position at CrowdStrike was posted on 2026-08-14.
+This software engineer position at CrowdStrike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

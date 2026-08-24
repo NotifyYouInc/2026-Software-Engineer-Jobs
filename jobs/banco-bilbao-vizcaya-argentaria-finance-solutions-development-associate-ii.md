@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/FINANCE-SOLUTIONS-DEVELOPMENT-ASSOCIATE-II_JR00111902) |
 
 ## About This Role
 
-This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-14.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

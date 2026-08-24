@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/F16N-Metrology-Application-Engineer_JR98429) |
+| Location | Miaoli, Taiwan, Taiwan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/F16N-Metrology-Application-Engineer_JR108746) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-09.
+This semiconductor / chip design position at Micron was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

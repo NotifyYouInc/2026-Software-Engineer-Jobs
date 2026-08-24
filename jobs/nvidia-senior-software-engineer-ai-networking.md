@@ -1,16 +1,16 @@
-# Senior Software Engineer, AI Networking at Nvidia
+# Senior Software Engineer - AI Networking at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer---AI-Networking_JR2023361) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-05-27.
+This software engineer position at Nvidia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Hiroshima, Hiroshima, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/RDA-Application-Engineer_JR107745) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/RDA-Application-Engineer_JR105769) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-08-10.
+This semiconductor / chip design position at Micron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

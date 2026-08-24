@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Software-Engineer---CLOUD_R0118010-1) |
 
 ## About This Role
 
-This devops engineer position at Truist was posted on 2026-08-14.
+This software engineer position at Truist was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

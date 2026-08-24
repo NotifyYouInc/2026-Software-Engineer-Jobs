@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer---Product-Security_R26-5532) |
 
 ## About This Role
 
-This cybersecurity engineer position at Rockwell Automation was posted on 2026-08-14.
+This software engineer position at Rockwell Automation was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

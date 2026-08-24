@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140385885-scrum-master-technical-lead) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143746799-scrum-master-technical-lead) |
 
 ## About This Role
 
-This scrum master & agile coach position at Sopra Steria was posted on 2026-07-29.
+This software engineer position at Sopra Steria was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

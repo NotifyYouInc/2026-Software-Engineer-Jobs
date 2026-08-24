@@ -5,12 +5,12 @@
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Sydney/Development-Engineer-Electronics_364709) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Sydney/Development-Engineer-Electronics_364747) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Signify was posted on 2026-05-27.
+This electrical / hardware engineer position at Signify was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

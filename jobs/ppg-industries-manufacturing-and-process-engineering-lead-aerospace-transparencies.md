@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Industrial Automation |
+| Category | Software Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/USA---Huntsville-Plant/Manufacturing-and-Process-Engineering-Lead---Aerospace-Transparencies-_JR269952) |
 
 ## About This Role
 
-This industrial automation position at PPG Industries was posted on 2026-08-15.
+This software engineer position at PPG Industries was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

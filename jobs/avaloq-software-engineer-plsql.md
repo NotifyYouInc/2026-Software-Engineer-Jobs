@@ -1,16 +1,16 @@
-# Software Engineer - PL/SQL  at Avaloq
+# Software Engineer (PL/SQL) at Avaloq
 
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141854204-software-engineer-plsql) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000143693179-software-engineer-plsql) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-08-06.
+This software engineer position at Avaloq was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

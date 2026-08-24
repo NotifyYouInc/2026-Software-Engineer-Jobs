@@ -5,12 +5,12 @@
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Mexico-City/Software-Developer-I_R9052) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Mexico-City/Software-Developer-I_R9289) |
 
 ## About This Role
 
-This software engineer position at Aspentech was posted on 2026-08-04.
+This software engineer position at Aspentech was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

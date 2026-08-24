@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irvine, California, United States |
+| Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
 | Category | Software Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110542415-engineer-software-development-engineering-apps) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000143755890-engineer-software-development-engineering-apps) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-02-22.
+This software engineer position at Western Digital was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

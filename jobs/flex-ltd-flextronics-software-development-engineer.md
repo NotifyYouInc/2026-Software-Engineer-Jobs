@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Software-Development-Engineer_WD227317) |
 
 ## About This Role
 
-This data scientist position at FLEX LTD. Flextronics was posted on 2026-08-14.
+This software engineer position at FLEX LTD. Flextronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

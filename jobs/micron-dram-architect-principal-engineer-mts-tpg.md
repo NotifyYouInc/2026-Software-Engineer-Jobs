@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Architect---Principal-Engineer---MTS---TPG_JR96617) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hsinchu-Taiwan/DRAM-Architect---Principal-Engineer---MTS---TPG_JR107320-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-31.
+This semiconductor / chip design position at Micron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

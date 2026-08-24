@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Philippines |
-| Category | Mobile Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Philippines---Domain/Senior-Engineer_R38484) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Makati-PH/Senior-Engineer_R39588) |
 
 ## About This Role
 
-This mobile engineer position at CoStar Group was posted on 2026-03-17.
+This software engineer position at CoStar Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYABbPlr5dJ_i48MyArqDjP-NrwEAe-G87MIHeoIVegcEjoA1Ny_iyaEF_PSSGzQynoVb8xOk1Nyl2QNICxbw9jZpWy-dJfTlC1NRbgYs8N2FelR6nisl1BsOSmT_V2&loc=US&title=Staff+Network+Engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRLzBNTJIqqfIvuObS_zaLQvaPBelil8brmgBExV0-8HEjoA1Ny_i4Le0RcpfZJOVQ4LOtY_1Rw3chyq7trgZvY3_MaZtnhVaMS2WVAIB1_2jktvGRfkQLXLMkZH_V2&loc=US&title=Staff+Network+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-20.
+This software engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

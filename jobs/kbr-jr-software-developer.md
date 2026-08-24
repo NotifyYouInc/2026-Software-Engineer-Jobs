@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128353) |
 
 ## About This Role
 
-This devops engineer position at KBR was posted on 2026-08-14.
+This software engineer position at KBR was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

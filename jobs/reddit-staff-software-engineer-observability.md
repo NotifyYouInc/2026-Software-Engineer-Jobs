@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8131228) |
 
 ## About This Role
 
-This devops engineer position at Reddit was posted on 2026-08-14.
+This software engineer position at Reddit was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

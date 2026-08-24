@@ -5,12 +5,12 @@
 | Company | [DiDi Global](https://scoutify.ai/companies/didi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/didi/jobs/8056495) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/didi/jobs/8131864) |
 
 ## About This Role
 
-This software engineer position at DiDi Global was posted on 2026-07-11.
+This software engineer position at DiDi Global was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

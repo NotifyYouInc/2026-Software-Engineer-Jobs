@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clay](https://scoutify.ai/companies/clay?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/claylabs/046cb127-d5fc-444f-a2a9-fb4029d6a503) |
 
 ## About This Role
 
-This data engineer position at Clay was posted on 2026-08-14.
+This software engineer position at Clay was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

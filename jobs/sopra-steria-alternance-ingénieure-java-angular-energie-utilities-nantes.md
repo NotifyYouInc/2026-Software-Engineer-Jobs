@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141284380-alternance-ingenieure-java-angular-energie-utilities-nantes) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143756190-alternance-ingenieure-java-angular-energie-utilities-nantes) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-08-03.
+This software engineer position at Sopra Steria was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
