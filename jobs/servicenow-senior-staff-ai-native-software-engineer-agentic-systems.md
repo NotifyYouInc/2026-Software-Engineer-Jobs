@@ -1,16 +1,16 @@
-# Senior Staff AI-Native Software Engineer – Agentic Systems  at ServiceNow
+# Senior Staff AI-Native Software Engineer – Agentic Systems at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131541919-senior-staff-ai-native-software-engineer-agentic-systems) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143912119-senior-staff-ai-native-software-engineer-agentic-systems) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-10.
+This software engineer position at ServiceNow was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

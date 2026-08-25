@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Research-and-Development-Engineer_JR0286187-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Research-and-Development-Engineer_JR0286291) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-08-10.
+This semiconductor / chip design position at Intel was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

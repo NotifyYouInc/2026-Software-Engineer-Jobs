@@ -1,16 +1,16 @@
-# Software Engineer- Android at T-Mobile
+# Software Engineer, Android at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Mobile Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Software-Engineer--Android_REQ347870-1) |
+| Location | Bellevue, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Software-Engineer--Android_REQ365652-1) |
 
 ## About This Role
 
-This mobile engineer position at T-Mobile was posted on 2026-03-06.
+This software engineer position at T-Mobile was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

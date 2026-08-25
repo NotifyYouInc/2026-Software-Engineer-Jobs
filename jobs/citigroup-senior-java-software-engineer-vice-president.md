@@ -1,16 +1,16 @@
-# Senior Java Software Engineer, Vice President at Citigroup
+# Senior Java Software Engineer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Java-Software-Engineer--Vice-President_26947339) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Software-Engineer---Vice-President_26975617) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-24.
+This software engineer position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

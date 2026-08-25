@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Frisco, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0037660) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0037745) |
 
 ## About This Role
 
-This ai / llm engineer position at Trellix was posted on 2026-06-24.
+This software engineer position at Trellix was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

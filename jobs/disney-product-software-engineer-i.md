@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bristol, Connecticut, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-07-10.
+This software engineer position at Disney was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

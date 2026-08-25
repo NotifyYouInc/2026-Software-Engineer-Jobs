@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Intern-Student-Tech_REQ571502) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Intern-Student-Tech_REQ571522) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-03-17.
+This software engineer position at Unisys was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

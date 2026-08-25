@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Senior-Software-Development-Engineer_R0998894-1) |
+| Location | Chicago, Illinois, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Chicago/Senior-Software-Development-Engineer_R1008963) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-08-14.
+This software engineer position at CVS Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

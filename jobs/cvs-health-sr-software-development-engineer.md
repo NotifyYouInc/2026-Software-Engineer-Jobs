@@ -1,16 +1,16 @@
-# Sr Software Development Engineer at CVS Health
+# Sr. Software Development Engineer at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Michigan, US |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Work-from-home/Sr-Software-Development-Engineer_R0993754) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Software-Development-Engineer_R1011035-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-31.
+This software engineer position at CVS Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

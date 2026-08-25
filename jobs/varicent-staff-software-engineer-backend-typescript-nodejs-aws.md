@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5362389008) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5393619008) |
 
 ## About This Role
 
-This software engineer position at Varicent was posted on 2026-07-17.
+This software engineer position at Varicent was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

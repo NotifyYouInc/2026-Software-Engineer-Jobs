@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Software-Development-Engineer_R0997340-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer_R1011965) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-08-14.
+This software engineer position at CVS Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

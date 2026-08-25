@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Rutherford, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Apps-Dev-Tech-Lead-Analyst---Vice-President_26985714-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Apps-Dev-Tech-Lead-Analyst---Vice-President_26977308-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-13.
+This software engineer position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

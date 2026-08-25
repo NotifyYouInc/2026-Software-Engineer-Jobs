@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5049436007) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5202464007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-06-11.
+This software engineer position at Zscaler was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

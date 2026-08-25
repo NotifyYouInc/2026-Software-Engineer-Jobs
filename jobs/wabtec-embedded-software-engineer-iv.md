@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germantown, Maryland, United States |
+| Location | West Melbourne, Florida, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012936420-embedded-software-engineer-iv) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014635546-embedded-software-engineer-iv) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-05-01.
+This embedded / firmware engineer position at Wabtec was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

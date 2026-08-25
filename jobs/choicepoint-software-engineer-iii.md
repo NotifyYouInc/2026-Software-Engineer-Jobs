@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Grosvernor-House/Software-Engineer-III_R116043-3) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Chennai/Software-Engineer-III_R116364) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-07-24.
+This software engineer position at ChoicePoint was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

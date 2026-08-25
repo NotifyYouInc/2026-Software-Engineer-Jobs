@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taboola](https://scoutify.ai/companies/taboola?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.taboola.com/careers/job/7574404?gh_jid=7574404) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.taboola.com/careers/job/8137256?gh_jid=8137256) |
 
 ## About This Role
 
-This software engineer position at Taboola was posted on 2026-02-05.
+This software engineer position at Taboola was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

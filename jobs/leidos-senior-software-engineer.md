@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Software-Engineer_R-00188536) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Software-Engineer_R-00189831) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-31.
+This software engineer position at Leidos was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

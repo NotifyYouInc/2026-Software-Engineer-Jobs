@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Software-Engineer_26021713) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Vice-President--Software-Engineer_26029793-1) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-06-25.
+This software engineer position at Bank of America was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

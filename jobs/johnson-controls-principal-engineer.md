@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Principal-Engineer_WD30268978-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Principal-Engineer_WD30274595-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-05-29.
+This software engineer position at Johnson Controls was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reẖovot, Central District, Israel |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Architect_R2616336) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChennaiIND/Senior-Software-Architect_R2625909) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Materials was posted on 2026-04-12.
+This software engineer position at Applied Materials was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

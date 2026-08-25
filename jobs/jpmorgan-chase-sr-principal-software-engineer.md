@@ -1,16 +1,16 @@
-# Sr. Principal Software Engineer at JPMorgan Chase
+# Sr Principal Software Engineer at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755713) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780704) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-06-05.
+This software engineer position at JPMorgan Chase was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

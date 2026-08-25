@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143231329-associate-principal-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143978292-associate-principal-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-08-13.
+This software engineer position at Nagarro was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

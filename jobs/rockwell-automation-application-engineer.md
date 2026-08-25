@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Application-Engineer_R26-1537) |
+| Location | Shanghai, Shanghai, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Shanghai-China/Application-Engineer_R26-2765) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-02-27.
+This electrical / hardware engineer position at Rockwell Automation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

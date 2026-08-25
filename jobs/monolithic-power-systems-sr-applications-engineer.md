@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Detroit, Michigan, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Detroit-MI/Sr-Applications-Engineer_R-1789) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Sr-Applications-Engineer_R-1848) |
 
 ## About This Role
 
-This software engineer position at Monolithic Power Systems was posted on 2026-07-31.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

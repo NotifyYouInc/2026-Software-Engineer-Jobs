@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Analyst-III--Java-_Req1595383) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Analyst-III--Java-_Req1598733) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-08-13.
+This software engineer position at Santander was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

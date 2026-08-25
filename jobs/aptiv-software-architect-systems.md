@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-21 |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
 | Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Software-Architect---Systems_J000693777) |
 
 ## About This Role
 
-This technical & solutions architect position at Aptiv was posted on 2026-02-21.
+This software engineer position at Aptiv was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

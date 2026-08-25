@@ -5,12 +5,12 @@
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/R-D-Principal-Technologist_R014587-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/R-D-Principal-Technologist_R014983-1) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-08-10.
+This software engineer position at AVEVA was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

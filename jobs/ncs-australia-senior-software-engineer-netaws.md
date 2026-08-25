@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001266086-senior-software-engineer-netaws) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001322878-senior-software-engineer-netaws) |
 
 ## About This Role
 
-This software engineer position at NCS Australia was posted on 2026-07-28.
+This software engineer position at NCS Australia was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

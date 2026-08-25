@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Durham-NC/Applications-Engineer_R-1868) |
+| Location | 2 locations |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Detroit-MI/Applications-Engineer_R-1875) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-08-14.
+This semiconductor / chip design position at Monolithic Power Systems was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

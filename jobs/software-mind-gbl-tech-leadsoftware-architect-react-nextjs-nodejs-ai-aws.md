@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129394214-gbl-tech-leadsoftware-architect-react-nextjs-nodejs-ai-aws) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000143996404-gbl-tech-leadsoftware-architect-react-nextjs-nodejs-ai-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-06-01.
+This software engineer position at Software Mind was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

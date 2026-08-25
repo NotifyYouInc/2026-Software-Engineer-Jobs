@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Penang, MY |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Development-Engineer_R02818) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Development-Engineer_R02942) |
 
 ## About This Role
 
-This software engineer position at Altera Corporation was posted on 2026-07-17.
+This electrical / hardware engineer position at Altera Corporation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

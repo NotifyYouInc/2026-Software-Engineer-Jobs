@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Industrial Automation |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014576998-cnc-programmer) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014640246-cnc-programmer) |
 
 ## About This Role
 
-This industrial automation position at Wabtec was posted on 2026-08-13.
+This software engineer position at Wabtec was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
