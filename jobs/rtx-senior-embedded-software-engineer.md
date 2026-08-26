@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Senior-Embedded-Software-Engineer_01847207) |
+| Location | Tucson, Arizona, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Senior-Embedded-Software-Engineer_01866739) |
 
 ## About This Role
 
-This embedded / firmware engineer position at RTX was posted on 2026-05-22.
+This software engineer position at RTX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

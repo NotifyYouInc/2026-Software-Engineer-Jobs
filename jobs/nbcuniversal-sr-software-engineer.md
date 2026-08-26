@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Stamford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000142215989-sr-software-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144145389-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-08-07.
+This software engineer position at NBCUniversal was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

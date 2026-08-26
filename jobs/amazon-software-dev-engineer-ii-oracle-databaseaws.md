@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Vancouver, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460373/software-dev-engineer-ii-oracle-database-aws) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506489/software-dev-engineer-ii-oracle-database-aws) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-26.
+This software engineer position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

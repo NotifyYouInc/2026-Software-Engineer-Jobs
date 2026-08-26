@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
-| Category | Data Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-566375-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-567290) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-08-14.
+This software engineer position at Wells Fargo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

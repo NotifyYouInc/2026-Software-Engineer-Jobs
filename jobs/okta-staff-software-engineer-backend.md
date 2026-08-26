@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7997385?gh_jid=7997385) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8139936?gh_jid=8139936) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-06-11.
+This software engineer position at Okta was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

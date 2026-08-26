@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4768120101) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4952685101) |
 
 ## About This Role
 
-This software engineer position at ASM was posted on 2026-03-12.
+This software engineer position at ASM was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

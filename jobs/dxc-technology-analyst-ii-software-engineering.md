@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Analyst-II-Software-Engineering_51585556) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SAU---RIYADH/Analyst-II-Software-Engineering_51587328) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-07-31.
+This software engineer position at DXC Technology was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

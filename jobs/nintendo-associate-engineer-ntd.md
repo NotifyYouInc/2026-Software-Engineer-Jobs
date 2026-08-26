@@ -5,12 +5,12 @@
 | Company | [Nintendo](https://scoutify.ai/companies/nintendo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.nintendo.com/?gh_jid=4208172009) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://careers.nintendo.com/?gh_jid=4374843009) |
 
 ## About This Role
 
-This software engineer position at Nintendo was posted on 2026-04-06.
+This software engineer position at Nintendo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

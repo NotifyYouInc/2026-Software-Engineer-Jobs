@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Lead-I---C-Engineer_R39022) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Lead-I---C-Engineer_R41062) |
 
 ## About This Role
 
-This industrial automation position at Duke Energy was posted on 2026-03-26.
+This software engineer position at Duke Energy was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

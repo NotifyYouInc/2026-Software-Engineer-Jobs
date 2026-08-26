@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Packaging-Module-Development-Engineer_JR0286213) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0286444) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-08-12.
+This semiconductor / chip design position at Intel was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Peterson-AFB/Software-Engineer---MID_RQ224862-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer---MID_RQ226530-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-07-27.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

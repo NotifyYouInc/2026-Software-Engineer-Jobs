@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5057572007) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5214184007) |
 
 ## About This Role
 
-This software engineer position at The Trade Desk was posted on 2026-04-07.
+This software engineer position at The Trade Desk was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

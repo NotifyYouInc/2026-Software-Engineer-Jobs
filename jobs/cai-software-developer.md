@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Software-Developer_R8193) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IL-CLIENT-STATE/Software-Developer_R8372) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-08-01.
+This software engineer position at CAI was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

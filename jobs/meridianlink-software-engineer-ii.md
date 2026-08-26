@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meridianlink](https://scoutify.ai/companies/meridianlink?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irvine, California, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/meridianlink/53701439-18f9-438f-a8d2-55287ef576e1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/meridianlink/c9a9ca80-af80-4fe9-b4b7-9c0d026ee99b) |
 
 ## About This Role
 
-This software engineer position at Meridianlink was posted on 2026-05-01.
+This software engineer position at Meridianlink was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

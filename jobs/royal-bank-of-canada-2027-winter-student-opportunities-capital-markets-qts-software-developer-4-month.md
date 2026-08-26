@@ -1,16 +1,16 @@
-# 2027 Winter Student Opportunities Capital Markets, QTS - Software Developer, 4 months at Royal Bank of Canada
+# 2027 Winter Student Opportunities Capital Markets, QTS - Software Developer, 4 months, Halifax at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-08-17.
+This software engineer position at Royal Bank of Canada was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

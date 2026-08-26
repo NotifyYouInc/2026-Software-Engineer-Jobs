@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Systems-Engineer_R2127032) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Systems-Engineer_R2128539) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-23.
+This software engineer position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Mobile Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121677347-senior-software-engineer-mobile-ios-consumer-experience) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144225729-senior-software-engineer-mobile-ios-consumer-experience) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-04-20.
+This software engineer position at Grab was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

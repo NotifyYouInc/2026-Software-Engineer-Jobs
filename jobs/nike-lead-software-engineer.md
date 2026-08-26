@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer_R-85869) |
+| Location | Beaverton, Oregon, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Software-Engineer_R-90232) |
 
 ## About This Role
 
-This devops engineer position at Nike was posted on 2026-06-12.
+This software engineer position at Nike was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

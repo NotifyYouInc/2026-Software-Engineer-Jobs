@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-B_2026-0022085) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-B_2026-0024981) |
 
 ## About This Role
 
-This data engineer position at U.S. Bancorp was posted on 2026-08-05.
+This software engineer position at U.S. Bancorp was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

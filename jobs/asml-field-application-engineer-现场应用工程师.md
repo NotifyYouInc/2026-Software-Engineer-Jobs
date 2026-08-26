@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hefei, Anhui, China |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hefei-China/Field-Application-Engineer-_J-00342731) |
+| Location | Shanghai, Shanghai, China |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shanghai-China/Field-Application-Engineer-_J-00342541) |
 
 ## About This Role
 
-This customer success position at ASML was posted on 2026-06-10.
+This semiconductor / chip design position at ASML was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

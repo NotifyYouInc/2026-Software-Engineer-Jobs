@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112311857-sr-software-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144237667-sr-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-03-03.
+This software engineer position at ServiceNow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

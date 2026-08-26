@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Madison-Wisconsin-USA/Software-Engineer-III_R-01352656) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Software-Engineer-III_R-01364318) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-05-15.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

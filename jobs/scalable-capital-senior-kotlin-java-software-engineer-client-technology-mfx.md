@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000143440349-senior-kotlin-java-software-engineer-client-technology-mfx) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000144248674-senior-kotlin-java-software-engineer-client-technology-mfx) |
 
 ## About This Role
 
-This software engineer position at Scalable Capital was posted on 2026-08-14.
+This software engineer position at Scalable Capital was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

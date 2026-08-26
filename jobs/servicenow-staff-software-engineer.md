@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Diego, California, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133443190-staff-software-engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144238540-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-06-22.
+This software engineer position at ServiceNow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

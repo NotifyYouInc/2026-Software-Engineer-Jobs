@@ -1,16 +1,16 @@
-# Banamex - Applications Development Sr Programmer Analyst at Citigroup
+# BANAMEX Applications Development Sr Programmer Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Applications-Development-Sr-Programmer-Analyst_26948612) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Applications-Development-Sr-Programmer-Analyst_26981437) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-03-26.
+This software engineer position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

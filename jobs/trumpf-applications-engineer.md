@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Farmington, New Mexico, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Farmington-CT/Applications-Engineer_R00041863) |
+| Location | Costa Mesa, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Costa-Mesa-CA/Applications-Engineer_R00042317) |
 
 ## About This Role
 
-This software engineer position at Trumpf was posted on 2026-07-30.
+This sales engineer position at Trumpf was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

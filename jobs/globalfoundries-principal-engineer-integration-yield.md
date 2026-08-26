@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Engineer-Integration---Yield_JR-2602266) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Engineer-Integration---Yield_JR-2602679) |
 
 ## About This Role
 
-This software engineer position at GlobalFoundries was posted on 2026-07-27.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001257719-lead-software-engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001329856-lead-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NCS Australia was posted on 2026-07-24.
+This software engineer position at NCS Australia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

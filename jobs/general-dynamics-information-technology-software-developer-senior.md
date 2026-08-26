@@ -1,16 +1,16 @@
-# Software Developer Senior at General Dynamics Information Technology
+# Software Developer, Senior at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Albany, New York, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Software-Developer-Senior_RQ226465) |
+| Location | Springfield, Missouri, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/Software-Developer--Senior_RQ226498) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-08-14.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

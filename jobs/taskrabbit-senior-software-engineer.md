@@ -5,12 +5,12 @@
 | Company | [Taskrabbit](https://scoutify.ai/companies/taskrabbit?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/taskrabbit/jobs/8080422) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taskrabbit/jobs/8122383) |
 
 ## About This Role
 
-This software engineer position at Taskrabbit was posted on 2026-08-11.
+This software engineer position at Taskrabbit was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

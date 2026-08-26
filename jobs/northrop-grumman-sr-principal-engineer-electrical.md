@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Palmdale, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Sr-Principal-Engineer-Electrical_R10224107) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Sr-Principal-Engineer-Electrical_R10244240) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northrop Grumman was posted on 2026-03-06.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

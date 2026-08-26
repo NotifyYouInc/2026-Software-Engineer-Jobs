@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Applications-Development-Sr-Programmer-Analyst_26972641) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26985051) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-24.
+This software engineer position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

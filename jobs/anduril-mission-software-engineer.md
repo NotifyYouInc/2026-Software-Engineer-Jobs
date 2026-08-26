@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Reston, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5092737007?gh_jid=5092737007) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-04-03.
+This software engineer position at Anduril was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

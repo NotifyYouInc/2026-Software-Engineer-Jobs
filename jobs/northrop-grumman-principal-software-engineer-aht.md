@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Hollywood, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal-Software-Engineer--AHT-_R10243870-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Principal-Software-Engineer--AHT-_R10246392) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-04.
+This software engineer position at Northrop Grumman was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

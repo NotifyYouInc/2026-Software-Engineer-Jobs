@@ -5,12 +5,12 @@
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24239) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#21897) |
 
 ## About This Role
 
-This software engineer position at Conduent was posted on 2026-08-17.
+This software engineer position at Conduent was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

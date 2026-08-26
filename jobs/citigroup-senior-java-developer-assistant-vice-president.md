@@ -1,16 +1,16 @@
-# Senior Java Developer - Assistant Vice President at Citigroup
+# Senior Java Developer Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-Java-Developer---Assistant-Vice-Presiden_26983037) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Java-Developer-Assistant-Vice-President_26988344) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-31.
+This software engineer position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

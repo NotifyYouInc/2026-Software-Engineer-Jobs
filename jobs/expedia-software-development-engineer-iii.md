@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-108093) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-108707) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-08-07.
+This software engineer position at Expedia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

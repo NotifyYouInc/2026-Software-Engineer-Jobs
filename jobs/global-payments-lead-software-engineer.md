@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Leicester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Lead-Software-Engineer_R0071408-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LEICESTER--UNITED-KINGDOM/Lead-Software-Engineer_R0074360) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-06-05.
+This software engineer position at Global Payments was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

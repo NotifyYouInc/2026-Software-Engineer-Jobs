@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Principal-Engineer--Software-Engineering_01864867) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principal-Engineer--Software-Engineering_01868088) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-05.
+This software engineer position at RTX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139958644-stage-innovation-ingenieur-developpement-5g) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144246668-stage-innovation-ingenieur-developpement-5g) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-07-27.
+This software engineer position at ALTEN was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

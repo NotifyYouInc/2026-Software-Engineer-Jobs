@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449399/software-development-engineer-amazon-publisher-services) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506328/software-development-engineer-amazon-publisher-services) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-15.
+This software engineer position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

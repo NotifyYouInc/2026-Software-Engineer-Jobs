@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115590974-principal-staff-software-engineer-systems-infrastructure) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144171519-principal-staff-software-engineer-systems-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-03-19.
+This software engineer position at LinkedIn was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

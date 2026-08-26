@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129605294-staff-backend-ai-engineer-remote) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144164359-staff-backend-ai-engineer-remote) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-06-01.
+This software engineer position at Experian was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
