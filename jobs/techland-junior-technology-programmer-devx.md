@@ -5,12 +5,12 @@
 | Company | [Techland](https://scoutify.ai/companies/techlandsa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TechlandSA/744000142881564-junior-technology-programmer-devx) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TechlandSA/744000144504799-junior-technology-programmer-devx) |
 
 ## About This Role
 
-This software engineer position at Techland was posted on 2026-08-11.
+This software engineer position at Techland was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

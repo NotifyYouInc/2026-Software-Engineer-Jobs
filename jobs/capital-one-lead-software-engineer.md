@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer_R248370-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer_R249661-2) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-08-14.
+This software engineer position at Capital One was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

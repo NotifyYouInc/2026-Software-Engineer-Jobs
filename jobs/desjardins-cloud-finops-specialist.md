@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-FinOps-infonuagique_R2608104) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-FinOps-infonuagique_R2610439) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-06-22.
+This software engineer position at Desjardins was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

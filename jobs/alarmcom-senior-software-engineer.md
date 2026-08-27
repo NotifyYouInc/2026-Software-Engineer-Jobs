@@ -1,16 +1,16 @@
-# Senior Software Engineer  at Alarm.com
+# Senior Software Engineer at Alarm.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tysons, Virginia, United States |
+| Location | Liberty Lake, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8679965002) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8696538002) |
 
 ## About This Role
 
-This software engineer position at Alarm.com was posted on 2026-08-04.
+This software engineer position at Alarm.com was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

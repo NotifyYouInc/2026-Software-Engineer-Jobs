@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Java-Fullstack-Engineer---Martech_JR120645) |
+| Category | Marketing Operations |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Java-Fullstack-Engineer---Martech_JR120647) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-07-27.
+This marketing operations position at National Australia Bank (NAB) was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

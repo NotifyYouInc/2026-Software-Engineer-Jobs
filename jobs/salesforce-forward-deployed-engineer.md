@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer_JR350209) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR349018) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-07-02.
+This software engineer position at Salesforce was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

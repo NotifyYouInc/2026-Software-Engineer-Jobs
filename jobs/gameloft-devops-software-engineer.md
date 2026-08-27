@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000140389990-devops-software-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000144515801-devops-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Gameloft was posted on 2026-07-29.
+This software engineer position at Gameloft was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

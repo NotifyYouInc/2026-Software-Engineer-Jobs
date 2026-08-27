@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Galway, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/London-London-United-Kingdom/Senior-Software-Engineer_R71175-2) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Software-Engineer_R75051-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-07-03.
+This software engineer position at Medtronic was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

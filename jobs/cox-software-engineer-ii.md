@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Carmel, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202680899) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-II_R202681160) |
 
 ## About This Role
 
-This software engineer position at Cox was posted on 2026-08-07.
+This software engineer position at Cox was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

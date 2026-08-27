@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Milford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Herzliya-Tel-Aviv-District-Israel/Senior-Software-Integration-Engineer_JR-202612081) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Integration-Engineer_JR-202616075) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-06-07.
+This software engineer position at General Motors was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

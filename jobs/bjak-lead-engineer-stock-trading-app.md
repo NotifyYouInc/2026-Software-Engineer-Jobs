@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | China |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62608d63-24dd-4ba2-87a7-566435ac8272) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Quant Developer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d3c96ab4-2f95-4645-a9b2-fa5924133ce6) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-14.
+This quant developer position at Bjak was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

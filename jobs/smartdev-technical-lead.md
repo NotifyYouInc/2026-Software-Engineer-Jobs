@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cầu Giấy, Hanoi, Vietnam |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000131040299-technical-lead) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000144515144-technical-lead) |
 
 ## About This Role
 
-This software engineer position at SmartDev was posted on 2026-06-09.
+This software engineer position at SmartDev was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

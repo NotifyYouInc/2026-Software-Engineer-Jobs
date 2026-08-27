@@ -1,16 +1,16 @@
-# Senior Software Engineer, Backend - Fulfillment at Grab
+# Senior Software Engineer, Backend (Fulfillment) at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128852899-senior-software-engineer-backend-fulfillment) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144513679-senior-software-engineer-backend-fulfillment) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-05-28.
+This software engineer position at Grab was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

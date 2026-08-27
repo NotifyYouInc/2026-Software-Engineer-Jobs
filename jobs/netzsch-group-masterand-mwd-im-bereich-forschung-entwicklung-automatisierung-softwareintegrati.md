@@ -5,12 +5,12 @@
 | Company | [NETZSCH Group](https://scoutify.ai/companies/netzschgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Selb, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NETZSCHGroup/744000136229119-masterand-mwd-im-bereich-forschung-entwicklung-automatisierung-softwareintegration) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NETZSCHGroup/744000144498399-masterand-mwd-im-bereich-forschung-entwicklung-automatisierung-softwareintegration) |
 
 ## About This Role
 
-This software engineer position at NETZSCH Group was posted on 2026-07-07.
+This software engineer position at NETZSCH Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

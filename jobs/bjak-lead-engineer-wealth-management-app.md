@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/89b16795-e321-44a8-9ab6-2927e265afa9) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/28de3bff-1fa5-4525-99eb-cf288be6f98c) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-14.
+This wealth management / private banking position at Bjak was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

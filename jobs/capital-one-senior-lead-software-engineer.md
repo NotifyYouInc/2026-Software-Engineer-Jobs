@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer_R245116-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer_R249662-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-08-11.
+This software engineer position at Capital One was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

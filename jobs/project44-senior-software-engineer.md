@@ -5,12 +5,12 @@
 | Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/7716385) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8143705) |
 
 ## About This Role
 
-This software engineer position at project44 was posted on 2026-04-04.
+This software engineer position at project44 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

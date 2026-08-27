@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131981949-analista-de-desenvolvimento-de-software-pleno) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144543475-analista-de-desenvolvimento-de-software-pleno) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-12.
+This software engineer position at Experian was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

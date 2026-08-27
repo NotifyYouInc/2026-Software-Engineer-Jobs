@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aurora-CO-US/Systems-Engineer_330236) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Systems-Engineer_330872) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-08-07.
+This software engineer position at CACI was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Engineer-Software--Infrastructure-_R10244140) |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Engineer-Software--Infrastructure-_R10246814) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-06.
+This software engineer position at Northrop Grumman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

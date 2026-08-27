@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brazil |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4663909005?gh_jid=4663909005) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4707977005?gh_jid=4707977005) |
 
 ## About This Role
 
-This software engineer position at Inter Carreiras was posted on 2026-03-04.
+This software engineer position at Inter Carreiras was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

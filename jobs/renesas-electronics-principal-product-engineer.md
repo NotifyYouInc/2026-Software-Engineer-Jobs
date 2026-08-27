@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palm Bay, Florida, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130559709-principal-product-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144566483-principal-product-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-06-05.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

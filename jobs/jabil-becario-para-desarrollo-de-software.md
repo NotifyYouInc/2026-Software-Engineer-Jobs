@@ -1,16 +1,16 @@
-# Becario para Desarrollo de Software at Jabil
+# Becario para desarrollo de software at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Baja California, MX |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Becario-para-Desarrollo-de-Software_J2439808) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-para-desarrollo-de-software_J2461960) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-02-23.
+This software engineer position at Jabil was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

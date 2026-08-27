@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Staff-Engineer---Platform-Security-Engineering---Encryption-and-Tokenization_R0062842) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---Platform-Security-Engineering---Encryption-and-Tokenization_R0065357) |
 
 ## About This Role
 
-This security engineer position at Geico was posted on 2026-03-20.
+This cybersecurity engineer position at Geico was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

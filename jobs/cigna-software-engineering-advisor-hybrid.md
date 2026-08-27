@@ -1,16 +1,16 @@
-# Software Engineering Advisor - Hybrid at Cigna
+# Software Engineering Advisor- Hybrid at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Morris Plains, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Advisor---Hybrid_26006927) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Advisor--Hybrid_26010428) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-06-12.
+This software engineer position at Cigna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

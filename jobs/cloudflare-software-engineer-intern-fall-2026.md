@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) |
 
 ## About This Role
 
-This software engineer position at Cloudflare was posted on 2026-08-11.
+This software engineer position at Cloudflare was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135912989-developpeurse-full-stack-senior-javaangular-transport-lille) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144497189-developpeurse-full-stack-senior-javaangular-transport-lille) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-06.
+This software engineer position at Sopra Steria was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556961433) |
+| Location | Redmond, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556944791) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microsoft was posted on 2026-08-17.
+This software engineer position at Microsoft was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

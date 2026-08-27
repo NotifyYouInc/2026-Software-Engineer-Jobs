@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Principal-Software-Engineer_JR-162199) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Principal-Software-Engineer_JR-162748) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-07-28.
+This software engineer position at Equinix was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

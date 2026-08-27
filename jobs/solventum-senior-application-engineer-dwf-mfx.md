@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Italy |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IT-Milano/Senior-Application-Engineer--DWF---m-f-x-_R01131887) |
+| Location | Loughborough, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/GB-Loughborough-Leics/Senior-Application-Engineer--DWF---m-f-x-_R01133313) |
 
 ## About This Role
 
-This software engineer position at Solventum was posted on 2026-07-10.
+This sales engineer position at Solventum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

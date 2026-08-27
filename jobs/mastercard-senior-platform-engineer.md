@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Platform-Engineer_R-276711-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Engineer_R-275300) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-05-01.
+This software engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

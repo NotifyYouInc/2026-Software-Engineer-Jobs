@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Software-Engineer--DevOps_R248666-1) |
+| Location | Plano, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer--DevOps_R249734-1) |
 
 ## About This Role
 
-This devops engineer position at Capital One was posted on 2026-08-11.
+This software engineer position at Capital One was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

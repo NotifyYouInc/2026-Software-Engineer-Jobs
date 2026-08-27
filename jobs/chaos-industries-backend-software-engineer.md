@@ -5,12 +5,12 @@
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5189919007) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5217529007) |
 
 ## About This Role
 
-This software engineer position at CHAOS Industries was posted on 2026-07-17.
+This software engineer position at CHAOS Industries was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

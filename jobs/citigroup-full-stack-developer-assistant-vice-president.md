@@ -1,16 +1,16 @@
-# Full Stack Developer - Assistant Vice President at Citigroup
+# Full Stack Developer- Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Full-Stack-Developer---Assistant-Vice-President_26977778) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Full-Stack-Developer--Assistant-Vice-President_26987350-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-30.
+This software engineer position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

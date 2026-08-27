@@ -1,16 +1,16 @@
-# Software Engineering Senior Advisor - Hybrid at Cigna
+# Software Engineering Senior Advisor- Hybrid at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
+| Location | Morris Plains, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor---Hybrid_26003194) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor--Hybrid_26010427) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-04-30.
+This software engineer position at Cigna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

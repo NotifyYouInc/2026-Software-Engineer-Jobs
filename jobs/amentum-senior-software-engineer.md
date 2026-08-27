@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Senior-Software-Engineer_R0167886) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Senior-Software-Engineer_R0168597) |
 
 ## About This Role
 
-This software engineer position at Amentum was posted on 2026-08-07.
+This software engineer position at Amentum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

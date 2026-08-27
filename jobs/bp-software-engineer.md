@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Software-Engineer_RQ113887) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-Engineer_RQ113431-2) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-08-07.
+This software engineer position at BP was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

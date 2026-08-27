@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germany |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000136177249-senior-erp-engineer-microsoft-dynamics-365-finance-mfd) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144568879-senior-erp-engineer-microsoft-dynamics-365-finance-mfd) |
 
 ## About This Role
 
-This software engineer position at Redcare Pharmacy was posted on 2026-07-07.
+This software engineer position at Redcare Pharmacy was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

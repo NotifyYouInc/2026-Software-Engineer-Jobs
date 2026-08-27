@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---Gen-AI_R-563682) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---Gen-AI_R-568998-1) |
 
 ## About This Role
 
-This machine learning engineer position at Wells Fargo was posted on 2026-07-31.
+This software engineer position at Wells Fargo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

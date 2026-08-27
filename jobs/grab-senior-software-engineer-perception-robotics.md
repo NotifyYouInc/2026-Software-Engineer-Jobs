@@ -1,16 +1,16 @@
-# Senior Software Engineer, Perception (Robotics) at Grab
+# Senior Software Engineer, Perception (Robotics)  at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Shanghai, Shanghai, China |
 | Category | Robotics Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000127355710-senior-software-engineer-perception-robotics) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144499789-senior-software-engineer-perception-robotics) |
 
 ## About This Role
 
-This robotics engineer position at Grab was posted on 2026-05-20.
+This robotics engineer position at Grab was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

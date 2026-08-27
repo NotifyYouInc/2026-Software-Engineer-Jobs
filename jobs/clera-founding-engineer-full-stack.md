@@ -1,16 +1,16 @@
-# Founding Engineer (Full-Stack) at Clera
+# Founding Engineer (Full Stack) at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/a2c17f6a-17be-44d8-bec4-38bebad97ef8) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b3cb7785-b2d3-4641-a31f-b47987c97fa2) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-08-01.
+This software engineer position at Clera was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

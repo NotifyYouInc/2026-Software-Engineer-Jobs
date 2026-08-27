@@ -1,16 +1,16 @@
-# Sr. Software Engineer at NBCUniversal
+# Sr Software Engineer at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144145389-sr-software-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144573219-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-08-18.
+This software engineer position at NBCUniversal was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

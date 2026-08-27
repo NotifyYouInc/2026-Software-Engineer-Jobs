@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000120819782-full-stack-developer-net-based) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000144604160-full-stack-developer-net-based) |
 
 ## About This Role
 
-This software engineer position at CapTech Consulting was posted on 2026-04-14.
+This software engineer position at CapTech Consulting was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Chiyoda-ku-Tokyo/Field-Application-Engineer_249929W) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Seoul-Sudogwon/Field-Application-Engineer_252385W-1) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-02-06.
+This sales engineer position at Qnity was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fullerton, California, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-04.
+This software engineer position at RTX was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

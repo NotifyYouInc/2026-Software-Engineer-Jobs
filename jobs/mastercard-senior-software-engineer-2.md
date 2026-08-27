@@ -1,16 +1,16 @@
-# Senior Software Engineer-2 at Mastercard
+# Senior Software Engineer - 2 at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer-2_R-281154-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer---2_R-288515-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-07-26.
+This software engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Software-Engineer-II_JR0034534) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Software-Engineer-II_JR0035142) |
 
 ## About This Role
 
-This software engineer position at Airasia was posted on 2026-04-21.
+This software engineer position at Airasia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

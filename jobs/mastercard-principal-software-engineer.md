@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Atlanta-Georgia/Principal-Software-Engineer_R-279507) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-286499-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-07-01.
+This software engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

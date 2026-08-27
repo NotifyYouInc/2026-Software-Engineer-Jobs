@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143593035-product-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144599384-product-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-14.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
