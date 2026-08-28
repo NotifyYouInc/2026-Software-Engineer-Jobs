@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142165869-embedded-software-engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144754639-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-08-07.
+This embedded / firmware engineer position at ALTEN was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

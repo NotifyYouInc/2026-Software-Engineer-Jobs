@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000143447674-developpeur-java-hf) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144728782-developpeur-java-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-08-14.
+This software engineer position at ALTEN Canada was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

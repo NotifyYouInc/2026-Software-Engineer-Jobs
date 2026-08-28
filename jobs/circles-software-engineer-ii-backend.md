@@ -5,12 +5,12 @@
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/India/Software-Engineer-II--Backend-_R-100297) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/India/Software-Engineer-II--Backend-_R-100430) |
 
 ## About This Role
 
-This software engineer position at Circles was posted on 2026-06-01.
+This software engineer position at Circles was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

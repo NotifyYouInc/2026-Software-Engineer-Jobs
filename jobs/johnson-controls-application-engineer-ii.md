@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-II_WD30276295) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-II_WD30277868) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-08-06.
+This technical & solutions architect position at Johnson Controls was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

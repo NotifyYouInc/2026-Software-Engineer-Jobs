@@ -1,16 +1,16 @@
-# Senior Full-Stack Engineer at Clera
+# Senior Full Stack Engineer at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/3676b0a9-8152-4f3d-ae30-3ce6cc3911e9) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e0fab9e9-a7a7-4414-a4f5-e2ff6281da35) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-06-05.
+This software engineer position at Clera was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

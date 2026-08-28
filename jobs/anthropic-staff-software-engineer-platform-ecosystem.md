@@ -5,12 +5,12 @@
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5392335008) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5398227008) |
 
 ## About This Role
 
-This software engineer position at Anthropic was posted on 2026-08-15.
+This software engineer position at Anthropic was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

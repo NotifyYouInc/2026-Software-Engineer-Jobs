@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/be8c4d4c-98f0-420c-a9aa-cfac05f4e8b7) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/4547a228-9cd7-4af6-9588-5cd4c8ae1612) |
 
 ## About This Role
 
-This software engineer position at ShyftLabs was posted on 2026-05-29.
+This software engineer position at ShyftLabs was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

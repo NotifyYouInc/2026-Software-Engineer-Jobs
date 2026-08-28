@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Principal-Engineer_R35847) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Principal-Engineer_R36109) |
 
 ## About This Role
 
-This software engineer position at Amadeus was posted on 2026-08-17.
+This software engineer position at Amadeus was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

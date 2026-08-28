@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000122497240-software-engineer-senior-net-cloud-microservices) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144727874-software-engineer-senior-net-cloud-microservices) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-04-23.
+This software engineer position at ALTEN Canada was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

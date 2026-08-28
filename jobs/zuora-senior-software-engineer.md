@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Foster City, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7392887?gh_jid=7392887) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7822157?gh_jid=7822157) |
 
 ## About This Role
 
-This software engineer position at Zuora was posted on 2026-05-25.
+This software engineer position at Zuora was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

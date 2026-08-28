@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24680) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24620) |
 
 ## About This Role
 
-This software engineer position at Conduent was posted on 2026-08-07.
+This software engineer position at Conduent was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Dublin-IRL/Software-Engineer_26WD95861-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-08-11.
+This software engineer position at Autodesk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Chicago-IL/Software-Engineer_R20387) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer_R22078) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-08-05.
+This software engineer position at Wex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

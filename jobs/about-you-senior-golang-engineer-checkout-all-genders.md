@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000138780729-senior-golang-engineer-checkout-all-genders) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000144731599-senior-golang-engineer-checkout-all-genders) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-07-21.
+This software engineer position at About You was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

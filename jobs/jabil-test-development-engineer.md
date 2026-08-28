@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Shanghai/Test-Development-Engineer_J2439260-1) |
+| Location | St. Petersburg, Florida, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Development-Engineer_J2462077) |
 
 ## About This Role
 
-This semiconductor / chip design position at Jabil was posted on 2026-02-27.
+This electrical / hardware engineer position at Jabil was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

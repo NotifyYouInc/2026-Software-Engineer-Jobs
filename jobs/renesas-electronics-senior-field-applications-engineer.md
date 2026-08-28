@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130636809-senior-field-applications-engineer) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144728375-senior-field-applications-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-06-06.
+This sales engineer position at Renesas Electronics was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

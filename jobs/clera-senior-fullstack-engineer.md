@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Canada |
+| Location | Austria |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/ffeb0235-4769-4509-8814-6f340f27f7ca) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/57fd0b77-5ba7-47ec-9d59-ef9c5e27bbfc) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-08-05.
+This software engineer position at Clera was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000140618279-lead-backend-engineer-checkout-all-genders) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000144741894-lead-backend-engineer-checkout-all-genders) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-07-30.
+This software engineer position at About You was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

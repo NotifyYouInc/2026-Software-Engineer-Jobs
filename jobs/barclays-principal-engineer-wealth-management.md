@@ -1,16 +1,16 @@
-# Principal Engineer – Wealth Management at Barclays
+# Principal Engineer - Wealth Management at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000103214) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000102873) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-08-17.
+This wealth management / private banking position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

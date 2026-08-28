@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556962699) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556853392) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-08-18.
+This software engineer position at Microsoft was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

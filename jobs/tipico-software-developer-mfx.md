@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malta |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000144573729-software-developer-mfx) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000144770159-software-developer-mfx) |
 
 ## About This Role
 
-This software engineer position at Tipico was posted on 2026-08-20.
+This software engineer position at Tipico was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

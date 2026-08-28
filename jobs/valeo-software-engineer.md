@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer--Reference-Code-492445-_REQ2026079820) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer_REQ2026080107) |
 
 ## About This Role
 
-This software engineer position at Valeo was posted on 2026-08-14.
+This software engineer position at Valeo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

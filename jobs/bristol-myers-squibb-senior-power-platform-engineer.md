@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Power-Platform-Engineer_R1600983) |
 
 ## About This Role
 
-This software engineer position at Bristol-Myers Squibb was posted on 2026-04-03.
+This software engineer position at Bristol-Myers Squibb was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Software-Engineer_R2127416) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Software-Engineer_R2128727) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-07-29.
+This software engineer position at KBR was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

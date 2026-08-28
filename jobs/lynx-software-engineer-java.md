@@ -5,12 +5,12 @@
 | Company | [Lynx](https://scoutify.ai/companies/lynxtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/lynxtech/jobs/4917726101) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/lynxtech/jobs/4917753101) |
 
 ## About This Role
 
-This software engineer position at Lynx was posted on 2026-07-02.
+This software engineer position at Lynx was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fos-sur-Mer, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000143694729-developpeur-full-stack-senior-angular-net-c-tma-logistique-hf) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000144753559-developpeur-full-stack-senior-angular-net-c-tma-logistique-hf) |
 
 ## About This Role
 
-This software engineer position at CITECH was posted on 2026-08-16.
+This software engineer position at CITECH was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

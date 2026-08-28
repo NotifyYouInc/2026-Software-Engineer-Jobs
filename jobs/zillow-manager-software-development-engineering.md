@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Manager--Software-Development-Engineering_P749421) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Bengaluru/Manager--Software-Development-Engineering_P750930-1) |
 
 ## About This Role
 
-This engineering manager position at Zillow was posted on 2026-03-18.
+This software engineer position at Zillow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

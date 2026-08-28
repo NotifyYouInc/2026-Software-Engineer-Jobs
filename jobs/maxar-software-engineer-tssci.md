@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maxar](https://scoutify.ai/companies/maxar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://maxar.wd1.myworkdayjobs.com/cleared_opportunities/job/Melbourne-FL/Software-Engineer--TS-SCI-_R24439-2) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://maxar.wd1.myworkdayjobs.com/cleared_opportunities/job/Springfield-VA/Software-Engineer--TS-SCI-_R24499) |
 
 ## About This Role
 
-This software engineer position at Maxar was posted on 2026-08-14.
+This software engineer position at Maxar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verisk](https://scoutify.ai/companies/ocs-cx-oj114447?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4279) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4667) |
 
 ## About This Role
 
-This software engineer position at Verisk was posted on 2026-07-14.
+This machine learning engineer position at Verisk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000128786917-software-engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000144715829-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Nexthink was posted on 2026-05-27.
+This software engineer position at Nexthink was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

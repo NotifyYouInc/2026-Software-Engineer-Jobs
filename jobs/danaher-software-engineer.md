@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Suzhou-Jiangsu-China/Software-Engineer_R1305341) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Software-Engineer_R1317559) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-03-19.
+This software engineer position at Danaher was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

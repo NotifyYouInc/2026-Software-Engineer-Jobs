@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Malta |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000143243575-software-developer-in-test-mfx) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000144719535-software-developer-in-test-mfx) |
 
 ## About This Role
 
-This software engineer position at Tipico was posted on 2026-08-13.
+This software engineer position at Tipico was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

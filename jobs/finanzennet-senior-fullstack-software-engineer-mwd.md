@@ -5,12 +5,12 @@
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144527049-senior-fullstack-software-engineer-mwd) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144794620-senior-fullstack-software-engineer-mwd) |
 
 ## About This Role
 
-This software engineer position at Finanzen.net was posted on 2026-08-20.
+This software engineer position at Finanzen.net was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

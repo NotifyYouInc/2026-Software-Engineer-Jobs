@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M-KOPA](https://scoutify.ai/companies/m-kopa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/m-kopa/83edd059-2b7c-4e8e-84c3-afb05496fd5c) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/m-kopa/626373af-e6f2-48d1-b99f-7e3ac83d12b9) |
 
 ## About This Role
 
-This software engineer position at M-KOPA was posted on 2026-07-07.
+This software engineer position at M-KOPA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

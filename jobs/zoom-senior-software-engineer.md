@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Senior-Software-Engineer_R19558) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Senior-Software-Engineer_R19563) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-08-19.
+This software engineer position at Zoom was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer - Education at Autodesk
+# Software Engineer, Education at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 5 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Software-Engineer---Education_26WD98516-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-06-08.
+This software engineer position at Autodesk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
