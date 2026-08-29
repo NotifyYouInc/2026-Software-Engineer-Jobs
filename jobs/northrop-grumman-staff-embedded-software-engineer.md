@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Staff-Embedded-Software-Engineer_R10244392) |
+| Location | Annapolis, Maryland, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Staff-Embedded-Software-Engineer_R10247131) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-08-07.
+This software engineer position at Northrop Grumman was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

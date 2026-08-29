@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10388661/software-development-engineer-ii-network-device-lifecycle-management) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511019/software-development-engineer-ii-network-device-lifecycle-management) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-10.
+This software engineer position at Amazon was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

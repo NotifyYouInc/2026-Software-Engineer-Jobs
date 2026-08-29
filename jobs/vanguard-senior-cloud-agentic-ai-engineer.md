@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Senior-Cloud---Agentic-AI-Engineer_180953-1) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-08-21.
+This ai / llm engineer position at Vanguard was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

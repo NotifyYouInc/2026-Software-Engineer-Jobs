@@ -1,16 +1,16 @@
-# Backend Engineer at Mem0
+# Backend Engineer  at Mem0
 
 | Field | Details |
 |-------|---------|
 | Company | [Mem0](https://scoutify.ai/companies/mem0?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mem0/77259c2d-aaa7-4d6d-a206-75f1a36f997d) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mem0/74a4c176-4bbe-4bf7-b471-06573dba05a1) |
 
 ## About This Role
 
-This software engineer position at Mem0 was posted on 2026-06-19.
+This software engineer position at Mem0 was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

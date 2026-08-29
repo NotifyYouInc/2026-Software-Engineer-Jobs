@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Impiricus](https://scoutify.ai/companies/impiricus?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/impiricus/jobs/5397992008) |
 
 ## About This Role
 
-This machine learning engineer position at Impiricus was posted on 2026-08-21.
+This ai / llm engineer position at Impiricus was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

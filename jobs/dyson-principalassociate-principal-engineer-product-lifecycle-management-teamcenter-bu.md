@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical Product Manager |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Principal-Associate-Principal-Engineer---Product-Lifecycle-Management--Teamcenter--Business-Product-Owner_JR38411) |
 
 ## About This Role
 
-This technical product manager position at Dyson was posted on 2026-08-21.
+This software engineer position at Dyson was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

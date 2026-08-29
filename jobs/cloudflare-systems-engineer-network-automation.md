@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8142261?gh_jid=8142261) |
 
 ## About This Role
 
-This software engineer position at Cloudflare was posted on 2026-08-21.
+This devops engineer position at Cloudflare was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

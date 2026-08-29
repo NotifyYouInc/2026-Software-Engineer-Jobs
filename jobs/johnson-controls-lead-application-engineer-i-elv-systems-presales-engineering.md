@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Lead-Application-Engineer-I---ELV-Systems--Presales-Engineering_WD30277867) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-08-21.
+This software engineer position at Johnson Controls was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

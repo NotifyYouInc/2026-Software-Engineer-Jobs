@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Upstart](https://scoutify.ai/companies/upstart?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://careers.upstart.com/jobs?gh_jid=8147963) |
 
 ## About This Role
 
-This software engineer position at Upstart was posted on 2026-08-21.
+This devops engineer position at Upstart was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

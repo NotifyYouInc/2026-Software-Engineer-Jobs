@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5396440008) |
 
 ## About This Role
 
-This customer success position at Black Duck Software, Inc. was posted on 2026-08-21.
+This software engineer position at Black Duck Software, Inc. was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

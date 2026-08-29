@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exiger](https://scoutify.ai/companies/exiger?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Database Administration |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.exiger.com/careers/6150395004?gh_jid=6150395004) |
 
 ## About This Role
 
-This database administration position at Exiger was posted on 2026-08-21.
+This software engineer position at Exiger was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

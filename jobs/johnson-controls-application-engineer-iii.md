@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-III_WD30277870) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-08-21.
+This software engineer position at Johnson Controls was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

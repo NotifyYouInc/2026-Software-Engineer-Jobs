@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-II_WD30277868) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-08-21.
+This software engineer position at Johnson Controls was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

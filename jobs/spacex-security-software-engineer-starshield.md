@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8738708002?gh_jid=8738708002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-03-27.
+This cybersecurity engineer position at SpaceX was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

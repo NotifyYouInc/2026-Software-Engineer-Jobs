@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-4---Space-AHT_R10246149) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-4---Space-AHT_R10247162) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-18.
+This software engineer position at Northrop Grumman was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

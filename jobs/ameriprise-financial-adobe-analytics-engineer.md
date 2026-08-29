@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Adobe-Analytics-Engineer_R26_3370-1) |
 
 ## About This Role
 
-This data engineer position at Ameriprise Financial was posted on 2026-08-21.
+This software engineer position at Ameriprise Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

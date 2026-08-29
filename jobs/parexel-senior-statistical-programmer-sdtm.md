@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Bioinformatics / Computational Biology |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Statistical-Programmer--SDTM-_R0000044934-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Parexel was posted on 2026-08-21.
+This software engineer position at Parexel was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

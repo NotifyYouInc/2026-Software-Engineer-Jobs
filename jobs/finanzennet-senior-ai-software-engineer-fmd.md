@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144795325-senior-ai-software-engineer-fmd) |
 
 ## About This Role
 
-This machine learning engineer position at Finanzen.net was posted on 2026-08-21.
+This ai / llm engineer position at Finanzen.net was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7994875) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8121665) |
 
 ## About This Role
 
-This software engineer position at Toast was posted on 2026-06-26.
+This software engineer position at Toast was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

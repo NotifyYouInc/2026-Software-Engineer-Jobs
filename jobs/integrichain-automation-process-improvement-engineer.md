@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IntegriChain](https://scoutify.ai/companies/integrichain1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IntegriChain1/744000144779766-automation-process-improvement-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at IntegriChain was posted on 2026-08-21.
+This ai / llm engineer position at IntegriChain was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

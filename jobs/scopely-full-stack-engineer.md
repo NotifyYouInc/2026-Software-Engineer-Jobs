@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5105580008) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5397639008?gh_jid=5397639008) |
 
 ## About This Role
 
-This software engineer position at Scopely was posted on 2026-05-11.
+This software engineer position at Scopely was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

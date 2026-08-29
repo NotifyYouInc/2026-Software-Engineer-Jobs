@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Elkton, Maryland, United States |
-| Category | Industrial Automation |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/Staff-Engineer-Manufacturing-Systems_R10245680) |
 
 ## About This Role
 
-This industrial automation position at Northrop Grumman was posted on 2026-08-21.
+This software engineer position at Northrop Grumman was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

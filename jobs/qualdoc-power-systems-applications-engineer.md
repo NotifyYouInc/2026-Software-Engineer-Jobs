@@ -5,12 +5,12 @@
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Marietta, Georgia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/c4a39d26-7d74-495c-a537-eb1935faa6b4) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/7b1682ad-3ccd-4681-82ee-a4b12955ef4c) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-08-15.
+This electrical / hardware engineer position at Qualdoc was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proconex](https://scoutify.ai/companies/proconex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Royersford, Pennsylvania, United States |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/proconex/jobs/6150359004) |
 
 ## About This Role
 
-This sales engineer position at Proconex was posted on 2026-08-21.
+This software engineer position at Proconex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

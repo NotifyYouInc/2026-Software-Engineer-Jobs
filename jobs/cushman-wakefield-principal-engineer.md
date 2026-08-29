@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Principal-Engineer_R323172) |
 
 ## About This Role
 
-This data engineer position at Cushman & Wakefield was posted on 2026-08-21.
+This software engineer position at Cushman & Wakefield was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

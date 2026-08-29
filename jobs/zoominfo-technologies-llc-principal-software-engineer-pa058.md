@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8589812002) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8737995002) |
 
 ## About This Role
 
-This software engineer position at ZoomInfo Technologies LLC was posted on 2026-07-05.
+This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

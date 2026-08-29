@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb6W0HOi6qphvKq52CO3CwvDJCuI_OH5xi2FPIKSNr9cEjsA1Ny_iyXx_TKm6iyWE8RABwFDjP7sbb7TlkmzIx7w81xceg57aauXYKofX4ASGtIQwhdUlc6D004FJQ%3D%3D_V2&loc=US&title=Technical+Lead+Manager) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWanonJlIwShwUIZZv2bNUGx91BQTa7EB-Vd1gS-k6BgEjsA1Ny_i-6W5zPdvZh_aYArboyeS7rUXZN7df-uSqdjeGRhhOaGPNIDw7N2b-4VS9T2UWUPC31xDVxS1g%3D%3D_V2&loc=US&title=Technical+Lead+Manager) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-22.
+This semiconductor / chip design position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

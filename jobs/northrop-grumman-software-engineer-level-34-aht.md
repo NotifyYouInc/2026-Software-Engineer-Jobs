@@ -1,16 +1,16 @@
-# Software Engineer Level 3/4 (AHT) at Northrop Grumman
+# Software Engineer - Level 3/4 (AHT) at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Northridge, California, United States |
+| Location | Redondo Beach, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-3-4--AHT-_R10233076) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer---Level-3-4--AHT-_R10247110-1) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-15.
+This software engineer position at Northrop Grumman was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

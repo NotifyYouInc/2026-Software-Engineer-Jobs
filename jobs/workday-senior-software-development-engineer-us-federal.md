@@ -1,16 +1,16 @@
-# Senior Software Development Engineer - US Federal at Workday
+# Senior Software Development Engineer (US Federal) at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Software-Development-Engineer---US-Federal_JR-0109350) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105389) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-08-19.
+This devops engineer position at Workday was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

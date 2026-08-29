@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | Glendale, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-II_10157638) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-II_10157837) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-08-12.
+This software engineer position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

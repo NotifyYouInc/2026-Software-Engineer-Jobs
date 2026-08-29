@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Illinois, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8147678) |
 
 ## About This Role
 
-This machine learning engineer position at DEPT® was posted on 2026-08-21.
+This ai / llm engineer position at DEPT® was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

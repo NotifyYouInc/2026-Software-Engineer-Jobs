@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santex](https://scoutify.ai/companies/santex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Argentina |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/santex/jobs/8733556002) |
 
 ## About This Role
 
-This machine learning engineer position at Santex was posted on 2026-08-21.
+This ai / llm engineer position at Santex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LeanData](https://scoutify.ai/companies/leandata?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/leandata/0be58775-f719-45ae-8f9f-3aa6b65a26da) |
 
 ## About This Role
 
-This data engineer position at LeanData was posted on 2026-08-21.
+This software engineer position at LeanData was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

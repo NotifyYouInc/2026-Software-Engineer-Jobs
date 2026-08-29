@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Customer Success |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8144639) |
 
 ## About This Role
 
-This customer success position at project44 was posted on 2026-08-21.
+This software engineer position at project44 was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

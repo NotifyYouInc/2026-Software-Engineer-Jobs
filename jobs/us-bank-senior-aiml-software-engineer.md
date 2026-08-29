@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Senior-AI-ML-Software-Engineer_2026-0025567-1) |
 
 ## About This Role
 
-This machine learning engineer position at U.S. Bank was posted on 2026-08-21.
+This ai / llm engineer position at U.S. Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

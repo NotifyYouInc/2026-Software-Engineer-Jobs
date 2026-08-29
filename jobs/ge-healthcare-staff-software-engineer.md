@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Software-Engineer_R4044369-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Staff-Software-Engineer_R4045186-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-07-30.
+This software engineer position at GE HealthCare was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/13beb0b3-695a-48f3-bd35-34191097903e) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4de6dd1c-b808-4ac1-8a60-41c63ddef3f1) |
 
 ## About This Role
 
-This machine learning engineer position at Clera was posted on 2026-08-21.
+This ai / llm engineer position at Clera was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

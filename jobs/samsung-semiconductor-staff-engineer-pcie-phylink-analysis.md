@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung Semiconductor](https://scoutify.ai/companies/samsung-semiconductor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7904890003) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Samsung Semiconductor was posted on 2026-08-21.
+This software engineer position at Samsung Semiconductor was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

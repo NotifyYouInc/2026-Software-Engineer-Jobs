@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Worth, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-Fort-Worth/Sr-Principal-Engineer-Systems-Test_R10234801) |
+| Location | San Diego, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Engineer-Systems-Test_R10246328) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-06-01.
+This software engineer position at Northrop Grumman was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

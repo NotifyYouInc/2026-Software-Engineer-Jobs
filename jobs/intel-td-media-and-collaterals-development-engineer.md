@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/TD-Media-and-Collaterals-Development-Engineer_JR0286534) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Intel was posted on 2026-08-21.
+This software engineer position at Intel was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

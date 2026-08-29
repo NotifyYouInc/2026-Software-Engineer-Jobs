@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | California, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674800/network-reliability-engineer-infrastructure-services) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-21.
+This devops engineer position at Apple was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Marlborough, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Sr-Principal-Systems-Engineer---Air-Traffic-Solutions--Onsite-_01868822) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-21.
+This devops engineer position at RTX was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

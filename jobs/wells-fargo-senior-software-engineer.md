@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520610) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-08-21.
+This software engineer position at Wells Fargo was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

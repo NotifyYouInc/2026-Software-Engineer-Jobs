@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Associate-Manager-ERP-Package-Applications_51576562) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Associate-Manager-ERP-Package-Applications_51585110) |
 
 ## About This Role
 
-This ai / llm engineer position at DXC Technology was posted on 2026-05-22.
+This software engineer position at DXC Technology was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

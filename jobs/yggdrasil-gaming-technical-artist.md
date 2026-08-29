@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yggdrasil Gaming](https://scoutify.ai/companies/yggdrasilsandbox?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Motion / Video Production |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/YggdrasilSandbox/744000144765969-technical-artist) |
 
 ## About This Role
 
-This motion / video production position at Yggdrasil Gaming was posted on 2026-08-21.
+This software engineer position at Yggdrasil Gaming was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

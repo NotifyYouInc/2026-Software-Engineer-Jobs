@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Fusion Systems](https://scoutify.ai/companies/cfsenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Devens, Massachusetts, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/cfsenergy/b7c5bd9d-bc19-457a-8c69-e7d7bfd62fc3) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Commonwealth Fusion Systems was posted on 2026-08-21.
+This software engineer position at Commonwealth Fusion Systems was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

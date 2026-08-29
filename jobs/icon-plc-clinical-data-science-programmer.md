@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Clinical-Data-Science-Programmer_JR158568) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-08-21.
+This software engineer position at ICON plc was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

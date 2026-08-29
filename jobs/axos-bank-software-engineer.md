@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Software-Engineer_JR5124) |
+| Location | San Diego, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Engineer_JR5286) |
 
 ## About This Role
 
-This customer success position at Axos Bank was posted on 2026-08-12.
+This software engineer position at Axos Bank was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

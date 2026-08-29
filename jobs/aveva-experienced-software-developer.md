@@ -5,12 +5,12 @@
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Experienced-Software-Developer_R013508) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Experienced-Software-Developer_R014904) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-02-26.
+This software engineer position at AVEVA was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

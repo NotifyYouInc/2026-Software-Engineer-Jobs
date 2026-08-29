@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144812239-id-10048-data-app-engineer) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-08-21.
+This software engineer position at Inetum was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Development Engineer, iOS at Zillow
+# Software Development Engineer, IOS at Zillow
 
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
-| Category | Mobile Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1) |
 
 ## About This Role
 
-This mobile engineer position at Zillow was posted on 2026-06-16.
+This software engineer position at Zillow was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

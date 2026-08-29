@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
-| Category | Software Engineer |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144754139-stageopdracht-ontwikkeling-remote-support-dashboard) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144754770-stageopdracht-ontwikkeling-remote-support-dashboard) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-21.
+This product designer position at Robert Bosch was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

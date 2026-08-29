@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London/AI-Engineering-Lead_R1129134) |
 
 ## About This Role
 
-This machine learning engineer position at Dentsu was posted on 2026-08-21.
+This ai / llm engineer position at Dentsu was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

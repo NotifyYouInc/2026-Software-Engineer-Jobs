@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6150432004) |
 
 ## About This Role
 
-This software engineer position at Mercury was posted on 2026-08-21.
+This devops engineer position at Mercury was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

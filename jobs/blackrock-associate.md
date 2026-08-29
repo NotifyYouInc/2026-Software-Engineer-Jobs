@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate_R264846) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate_R266142) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-06-19.
+This software engineer position at Blackrock was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

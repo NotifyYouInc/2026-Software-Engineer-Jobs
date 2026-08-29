@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SimCorp](https://scoutify.ai/companies/simcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Hyderabad/Lead-Net-Developer-for-Artificial-Intelligence-Team_R-210789-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Warsaw/Lead-Software-Engineer_R-212307) |
 
 ## About This Role
 
-This software engineer position at SimCorp was posted on 2026-06-22.
+This software engineer position at SimCorp was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Hardware Systems Design & Integration Engineer - AirPods  at Apple
+# Hardware Systems Design & Integration Engineer - AirPods at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671800/hardware-systems-design-integration-engineer-airpods) |
+| Location | Cupertino, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679461/hardware-systems-design-integration-engineer-airpods) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-10.
+This electrical / hardware engineer position at Apple was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

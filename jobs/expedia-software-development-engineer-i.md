@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Software-Development-Engineer-I_R-108039) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-07-28.
+This software engineer position at Expedia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

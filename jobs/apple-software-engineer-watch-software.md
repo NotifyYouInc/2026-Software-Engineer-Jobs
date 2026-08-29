@@ -1,16 +1,16 @@
-# Software Engineer, Watch Software at Apple
+# Software Engineer, Watch Software  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200597869/software-engineer-watch-software) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200623729/software-engineer-watch-software) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-14.
+This software engineer position at Apple was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

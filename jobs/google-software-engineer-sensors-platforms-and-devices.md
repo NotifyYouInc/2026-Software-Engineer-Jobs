@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRkkbWTULcJq3bbkYNz9758QipEd_liyF_NtamwqXb8QEjsA1Ny_i7RXNm9cHgVm6g7MOQYKdIImXkzfmFdk4P3vNo6yJRCtZ1FdWcDdMBnavRsQUcyjKA919BY4dA%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Google was posted on 2026-08-21.
+This software engineer position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sheffield, England, United Kingdom |
-| Category | Database Administration |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014741186-db2-system-programmer) |
 
 ## About This Role
 
-This database administration position at HelloKindred was posted on 2026-08-21.
+This software engineer position at HelloKindred was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

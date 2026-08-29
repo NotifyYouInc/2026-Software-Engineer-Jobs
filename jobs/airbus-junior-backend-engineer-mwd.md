@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Junior-Backend-Engineer--m-w-d-_JR10434602-1) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-08-21.
+This devops engineer position at Airbus was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [100Ms](https://scoutify.ai/companies/100ms?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/100ms/2548ba0b-7690-4c7d-aad7-86bd1501fefd) |
 
 ## About This Role
 
-This machine learning engineer position at 100Ms was posted on 2026-08-21.
+This ai / llm engineer position at 100Ms was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

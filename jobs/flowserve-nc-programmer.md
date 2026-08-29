@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Industrial Automation |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Chennai-India/NC-Programmer_R-20582) |
 
 ## About This Role
 
-This industrial automation position at Flowserve was posted on 2026-08-21.
+This software engineer position at Flowserve was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
