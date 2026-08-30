@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Kerala, IN |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000143978500-senior-salesforce-developer-for-offshore) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000145028309-senior-salesforce-developer-for-offshore) |
 
 ## About This Role
 
-This software engineer position at VAM Systems was posted on 2026-08-18.
+This software engineer position at VAM Systems was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

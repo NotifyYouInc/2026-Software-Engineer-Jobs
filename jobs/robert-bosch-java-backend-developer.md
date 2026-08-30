@@ -1,16 +1,16 @@
-# Staff Software Engineer at Okta
+# Java Backend Developer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145028858-java-backend-developer) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-08-23.
+This software engineer position at Robert Bosch was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

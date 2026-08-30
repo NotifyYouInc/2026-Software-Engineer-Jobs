@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Simulation Software Analyst / Engineer at KBR
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Beavercreek, Ohio, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2014912) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Simulation-Software-Analyst---Engineer_R2128730) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-22.
+This software engineer position at KBR was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

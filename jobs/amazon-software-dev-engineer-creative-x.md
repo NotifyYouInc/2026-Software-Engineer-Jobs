@@ -1,16 +1,16 @@
-# C++ Software Engineer at XTX Markets
+# Software Dev Engineer, Creative X at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [XTX Markets](https://scoutify.ai/companies/xtxmarketstechnologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7831489003) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511620/software-dev-engineer-creative-x) |
 
 ## About This Role
 
-This software engineer position at XTX Markets was posted on 2026-08-21.
+This software engineer position at Amazon was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

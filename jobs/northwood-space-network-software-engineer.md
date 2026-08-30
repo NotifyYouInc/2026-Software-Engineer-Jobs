@@ -1,16 +1,16 @@
-# Staff Software Engineer at Okta
+# Network Software Engineer at Northwood Space
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Northwood Space](https://scoutify.ai/companies/northwoodspace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Torrance, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/northwoodspace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-08-23.
+This software engineer position at Northwood Space was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

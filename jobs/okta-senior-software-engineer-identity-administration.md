@@ -1,16 +1,16 @@
-# C++ Software Engineer at XTX Markets
+# Senior Software Engineer, Identity Administration at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [XTX Markets](https://scoutify.ai/companies/xtxmarketstechnologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7831489003) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8146810?gh_jid=8146810) |
 
 ## About This Role
 
-This software engineer position at XTX Markets was posted on 2026-08-21.
+This software engineer position at Okta was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

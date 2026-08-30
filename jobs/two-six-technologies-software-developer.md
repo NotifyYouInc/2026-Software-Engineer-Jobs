@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Software Developer at Two Six Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2014912) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6146599004) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-22.
+This software engineer position at Two Six Technologies was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

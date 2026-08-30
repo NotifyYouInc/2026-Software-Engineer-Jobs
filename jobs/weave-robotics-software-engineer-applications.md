@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Software Engineer, Applications at Weave Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Weave Robotics](https://scoutify.ai/companies/weave-robotics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2014912) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/weave-robotics/jobs/Cbz0F5A-software-engineer-applications) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-22.
+This software engineer position at Weave Robotics was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

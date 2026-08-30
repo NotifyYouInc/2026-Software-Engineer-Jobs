@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Filevine](https://scoutify.ai/companies/filevine?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Prague, Prague, Czechia |
 | Category | Software Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.lever.co/filevine/e9aaf01a-2479-4e23-975d-a4920cd33dea) |
+| Apply | [View on company site](https://jobs.lever.co/filevine/40a981ed-93b8-4fdb-b354-065ca82f4719) |
 
 ## About This Role
 

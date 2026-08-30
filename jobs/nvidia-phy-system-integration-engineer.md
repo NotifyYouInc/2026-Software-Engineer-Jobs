@@ -1,16 +1,16 @@
-# System Integration Engineer at Applied Materials
+# PHY System Integration Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reẖovot, Central District, Israel |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Israel |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2623169) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/PHY-System-Integration-Engineer_JR2024250) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-08-23.
+This electrical / hardware engineer position at Nvidia was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

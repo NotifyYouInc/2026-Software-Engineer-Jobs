@@ -1,16 +1,16 @@
-# Staff Software Engineer at Okta
+# Plug-In Engineer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Plug-In-Engineer_JR1043194-5) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-08-23.
+This software engineer position at Synechron was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Staff Site Reliability Engineer, Waymo Fleet at Waymo
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2014912) |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8148444) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-22.
+This devops engineer position at Waymo was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

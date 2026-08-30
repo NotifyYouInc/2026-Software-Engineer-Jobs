@@ -1,16 +1,16 @@
-# Software Engineer, Backend (AI) at Grab
+# [Job -  31162] Sênior GenIA Developer Python (AWS), Brasil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145032469-software-engineer-backend-ai) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/d2ee18b2-afbe-464a-95bb-92f43ab21fd4) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-08-23.
+This ai / llm engineer position at Ciandt was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

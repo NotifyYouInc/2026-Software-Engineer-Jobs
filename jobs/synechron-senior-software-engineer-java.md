@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Gurugram/Senior-Software-Engineer---Java_JR1041848) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Senior-Software-Engineer---Java_JR1043185-5) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-07-21.
+This software engineer position at Synechron was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

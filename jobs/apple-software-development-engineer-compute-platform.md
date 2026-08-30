@@ -1,16 +1,16 @@
-# Staff Software Engineer at Okta
+# Software Development Engineer, Compute Platform at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678571/software-development-engineer-compute-platform) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-08-23.
+This software engineer position at Apple was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
