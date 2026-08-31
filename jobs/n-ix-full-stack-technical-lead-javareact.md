@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hungary |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4957929101?gh_jid=4957929101) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4958393101?gh_jid=4958393101) |
 
 ## About This Role
 
-This software engineer position at N-iX was posted on 2026-08-21.
+This software engineer position at N-iX was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# JVM Software Engineer |1 at Inetum
+# JVM Software Engineer | 1 at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136735479-jvm-software-engineer-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145240154-jvm-software-engineer-1) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-07-09.
+This software engineer position at Inetum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

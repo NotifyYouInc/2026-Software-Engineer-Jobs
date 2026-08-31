@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140957548-trainee-software-development-digital-experience-mfd) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000145209909-trainee-software-development-digital-experience-mfd) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-07-31.
+This software engineer position at Sixt was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

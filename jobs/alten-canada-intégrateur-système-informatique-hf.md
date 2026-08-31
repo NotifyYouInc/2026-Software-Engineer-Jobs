@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138810560-integrateur-systeme-informatique-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145214397-integrateur-systeme-informatique-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-07-21.
+This software engineer position at ALTEN Canada was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

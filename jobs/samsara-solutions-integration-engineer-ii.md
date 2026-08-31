@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7961278?gh_jid=7961278) |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615) |
 
 ## About This Role
 
-This technical & solutions architect position at Samsara was posted on 2026-06-12.
+This software engineer position at Samsara was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer (Salesforce) at Clarivate
+# Senior Software Engineer - Salesforce at Clarivate
 
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Software-Engineer--Salesforce-_JREQ135741) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Senior-Software-Engineer---Salesforce_JREQ136191-1) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-05-22.
+This software engineer position at Clarivate was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

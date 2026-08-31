@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000132330490-senior-software-engineer-in-test) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145228075-senior-software-engineer-in-test) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-06-16.
+This software engineer position at Grab was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

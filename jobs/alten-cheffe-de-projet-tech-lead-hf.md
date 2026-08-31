@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Échirolles, Rhône-Alpes, France |
-| Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135943131-cheffe-de-projet-tech-lead-hf) |
+| Category | Project Manager |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145214879-cheffe-de-projet-tech-lead-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-07-06.
+This project manager position at ALTEN was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

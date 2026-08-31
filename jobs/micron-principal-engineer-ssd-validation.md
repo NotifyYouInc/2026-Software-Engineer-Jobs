@@ -1,16 +1,16 @@
-# PRINCIPAL ENGINEER, SSD VALIDATION at Micron
+# Principal Engineer, SSD Validation at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/PRINCIPAL-ENGINEER--SSD-VALIDATION_JR97772) |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Principal-Engineer--SSD-Validation_JR108821) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Micron was posted on 2026-04-26.
+This software engineer position at Micron was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

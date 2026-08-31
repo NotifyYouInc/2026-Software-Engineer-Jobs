@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sinch](https://scoutify.ai/companies/ocs-cx-oj97122?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Malmö, Skåne, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://iaings.fa.ocs.oraclecloud.com/jobs/#1308) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://iaings.fa.ocs.oraclecloud.com/jobs/#1448) |
 
 ## About This Role
 
-This software engineer position at Sinch was posted on 2026-07-23.
+This software engineer position at Sinch was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

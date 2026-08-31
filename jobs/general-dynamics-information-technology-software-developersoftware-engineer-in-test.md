@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Developer-Software-Engineer-in-Test_RQ220283-2) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Developer-Software-Engineer-in-Test_RQ226850-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-05-22.
+This software engineer position at General Dynamics Information Technology was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

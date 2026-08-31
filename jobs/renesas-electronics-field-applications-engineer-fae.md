@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142209189-field-applications-engineer-fae) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145198810-field-applications-engineer-fae) |
 
 ## About This Role
 
-This sales engineer position at Renesas Electronics was posted on 2026-08-07.
+This software engineer position at Renesas Electronics was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

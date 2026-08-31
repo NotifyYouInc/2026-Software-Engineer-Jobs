@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000140396829-analyste-developpeur-c-devops-cicd-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000145262847-analyste-developpeur-c-devops-cicd-hf) |
 
 ## About This Role
 
-This software engineer position at CITECH was posted on 2026-07-29.
+This software engineer position at CITECH was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

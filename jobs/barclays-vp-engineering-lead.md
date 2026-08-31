@@ -1,16 +1,16 @@
-# VP Engineering Lead at Barclays
+# VP - Engineering Lead at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/VP-Engineering-Lead_JR-0000098204) |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/VP---Engineering-Lead_JR-0000098222) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-07-02.
+This software engineer position at Barclays was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

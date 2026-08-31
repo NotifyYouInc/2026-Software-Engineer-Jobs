@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Software-Engineer--AVP_R-792706) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Software-Engineer--AVP_R-796502) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-06-19.
+This software engineer position at State Street was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

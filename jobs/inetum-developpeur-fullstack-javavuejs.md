@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | France |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122923619-developpeur-fullstack-javavuejs) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145227339-developpeur-fullstack-javavuejs) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-04-25.
+This software engineer position at Inetum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Principal-Software-Engineer_REQ262196) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Principal-Software-Engineer_REQ263772) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-07-15.
+This software engineer position at Commonwealth Bank of Australia was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

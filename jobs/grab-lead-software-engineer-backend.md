@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143229150-lead-software-engineer-backend) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145249349-lead-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-08-13.
+This software engineer position at Grab was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

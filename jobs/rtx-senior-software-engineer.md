@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rockford, Illinois, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Senior-Software-Engineer_01865643) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Senior-Software-Engineer_01867336) |
 
 ## About This Role
 
-This embedded / firmware engineer position at RTX was posted on 2026-08-13.
+This software engineer position at RTX was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

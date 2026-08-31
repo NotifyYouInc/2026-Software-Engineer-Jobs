@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000138809393-senior-ai-engineer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000145219362-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at PA Consulting was posted on 2026-07-21.
+This ai / llm engineer position at PA Consulting was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

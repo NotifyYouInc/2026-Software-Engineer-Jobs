@@ -1,16 +1,16 @@
-# Senior Java Developer  - Vice President at Citigroup
+# Senior Java Developer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-Java-Developer----Vice-President_26986460-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Vice-President_26988108) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-19.
+This software engineer position at Citigroup was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

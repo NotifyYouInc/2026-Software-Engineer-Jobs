@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Analyst-Programmer_J68321-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Senior-Analyst-Programmer_J69095) |
 
 ## About This Role
 
-This software engineer position at Fil was posted on 2026-07-17.
+This software engineer position at Fil was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

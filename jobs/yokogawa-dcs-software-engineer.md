@@ -5,12 +5,12 @@
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Baroda, Madhya Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Baroda/DCS-Software-Engineer_R-10204) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Baroda/DCS-Software-Engineer_R-11698) |
 
 ## About This Role
 
-This software engineer position at Yokogawa was posted on 2026-02-16.
+This software engineer position at Yokogawa was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

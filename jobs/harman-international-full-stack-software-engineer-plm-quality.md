@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-PLM-Quality/30789) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-PLM-Quality/31333) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-07-18.
+This software engineer position at HARMAN International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139546389-developpeur-informatique-editique-fh) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145226379-developpeur-informatique-editique-fh) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-07-24.
+This software engineer position at Talan was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

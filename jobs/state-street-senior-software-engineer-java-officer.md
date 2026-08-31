@@ -1,16 +1,16 @@
-# Senior Software Engineer -Java, Officer at State Street
+# Senior Software Engineer - Java, Officer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Software-Engineering---Development--Off_R-783825) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Software-Engineer---Java--Officer_R-796506) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-09.
+This software engineer position at State Street was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

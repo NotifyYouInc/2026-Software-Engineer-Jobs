@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Saint-Laurent-du-Var, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139033399-developpeur-php-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000145226824-developpeur-php-hf) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-07-22.
+This software engineer position at Everience was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

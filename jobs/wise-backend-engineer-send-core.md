@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140413960-backend-engineer-send-core) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145241529-backend-engineer-send-core) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-29.
+This software engineer position at WISE was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

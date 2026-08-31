@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Baroda, Madhya Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Team-Lead_R-106698) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Baroda-India-Office/Senior-Software-Engineer-IV_R-108955) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-06-01.
+This software engineer position at MRI Software was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

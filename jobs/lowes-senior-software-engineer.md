@@ -1,16 +1,16 @@
-# Senior Software Engineer at Lowe's
+# Senior software Engineer at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-LBT/Senior-Software-Engineer_JR-02614077) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-LBT/Senior-software-Engineer_JR-02623373) |
 
 ## About This Role
 
-This software engineer position at Lowe's was posted on 2026-08-14.
+This software engineer position at Lowe's was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

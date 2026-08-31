@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Software-Engineer_R-252525) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-08-15.
+This software engineer position at Amgen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

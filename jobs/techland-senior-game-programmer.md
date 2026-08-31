@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Techland](https://scoutify.ai/companies/techlandsa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TechlandSA/744000144519439-senior-game-programmer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TechlandSA/744000145248609-senior-game-programmer) |
 
 ## About This Role
 
-This software engineer position at Techland was posted on 2026-08-20.
+This software engineer position at Techland was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

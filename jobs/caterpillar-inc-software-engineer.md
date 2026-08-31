@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Decatur, Illinois, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Software-Engineer_R0000379469) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Software-Engineer_R0000366925) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-07-01.
+This software engineer position at Caterpillar Inc. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

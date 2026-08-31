@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8686656002) |
+| Location | United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8686702002) |
 
 ## About This Role
 
-This software engineer position at Nextiva was posted on 2026-08-18.
+This ai / llm engineer position at Nextiva was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

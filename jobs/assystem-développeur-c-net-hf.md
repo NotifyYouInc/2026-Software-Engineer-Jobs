@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000144534749-developpeur-c-net-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000145215619-developpeur-c-net-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-08-20.
+This software engineer position at Assystem was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

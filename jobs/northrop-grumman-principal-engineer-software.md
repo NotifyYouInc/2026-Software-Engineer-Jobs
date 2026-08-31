@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Principal-Engineer-Software_R10243213) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Principal-Engineer-Software_R10246803) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-31.
+This software engineer position at Northrop Grumman was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
