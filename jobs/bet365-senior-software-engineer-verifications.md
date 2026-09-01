@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000134759599-senior-software-engineer-verifications) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000145472194-senior-software-engineer-verifications) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-06-29.
+This software engineer position at bet365 was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

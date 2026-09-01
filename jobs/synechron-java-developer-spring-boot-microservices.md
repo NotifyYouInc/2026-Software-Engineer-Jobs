@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---GTP/Java-Developer---Spring-Boot---Microservices_JR1040943) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---GTP/Java-Developer---Spring-Boot---Microservices_JR1043257) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-07-09.
+This software engineer position at Synechron was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

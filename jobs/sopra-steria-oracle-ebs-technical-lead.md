@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115799897-oracle-ebs-technical-lead) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145434199-oracle-ebs-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-20.
+This software engineer position at Sopra Steria was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

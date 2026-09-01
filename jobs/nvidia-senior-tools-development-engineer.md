@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Tools-Development-Engineer_JR2023570) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Tools-Development-Engineer_JR2024137) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-08-20.
+This software engineer position at Nvidia was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

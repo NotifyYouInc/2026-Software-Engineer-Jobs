@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143979639-software-engineer-ii-adtech-campaigns-vendor) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145489809-software-engineer-ii-adtech-campaigns-vendor) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-08-18.
+This software engineer position at Delivery Hero was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

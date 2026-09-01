@@ -5,12 +5,12 @@
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-New-Zealand/EverWell---Senior-Software-Engineer--Remote--NZ-_R-105962) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-New-Zealand/EverWell---Senior-Software-Engineer--Remote--NZ-_R-106462) |
 
 ## About This Role
 
-This software engineer position at EverCommerce was posted on 2026-02-19.
+This software engineer position at EverCommerce was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

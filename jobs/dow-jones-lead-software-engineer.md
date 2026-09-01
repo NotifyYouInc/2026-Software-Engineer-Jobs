@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/Lead-Software-Engineer_Job_Req_51996) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Mumbai/Lead-Software-Engineer_Job_Req_54898) |
 
 ## About This Role
 
-This software engineer position at Dow Jones was posted on 2026-03-13.
+This software engineer position at Dow Jones was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

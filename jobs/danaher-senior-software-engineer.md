@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woking, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Woking-United-Kingdom/Senior-Software-Engineer_R1305588) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer_R1317271) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-06-19.
+This software engineer position at Danaher was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

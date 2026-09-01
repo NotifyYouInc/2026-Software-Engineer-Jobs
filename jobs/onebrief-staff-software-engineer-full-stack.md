@@ -5,12 +5,12 @@
 | Company | [Onebrief](https://scoutify.ai/companies/onebrief?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/onebrief/89a18894-2c21-4a9c-afb9-8521cc18675e) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/onebrief/76221bf3-7563-49cd-82e4-ce224d207dbf) |
 
 ## About This Role
 
-This software engineer position at Onebrief was posted on 2026-02-09.
+This software engineer position at Onebrief was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

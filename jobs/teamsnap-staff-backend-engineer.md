@@ -5,12 +5,12 @@
 | Company | [Teamsnap](https://scoutify.ai/companies/teamsnap?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.lever.co/teamsnap/82c67b22-533a-4637-9c2e-b7cb3c719ab4) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136) |
 
 ## About This Role
 
-This software engineer position at Teamsnap was posted on 2026-06-22.
+This software engineer position at Teamsnap was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

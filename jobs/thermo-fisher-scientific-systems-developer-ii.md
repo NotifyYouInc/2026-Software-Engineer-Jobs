@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Systems-Developer-II_R-01343045) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Systems-Developer-II_R-01359878) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-03-13.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Stat-Programmer-Scientist_R1526499) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Stat-Programmer-Scientist_R1553925) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-02-14.
+This software engineer position at IQVIA was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

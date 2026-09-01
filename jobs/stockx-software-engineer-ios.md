@@ -1,16 +1,16 @@
-# Software Engineer-iOS at StockX
+# Software Engineer - iOS at StockX
 
 | Field | Details |
 |-------|---------|
 | Company | [StockX](https://scoutify.ai/companies/stockx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/stockx/jobs/8601983002) |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/stockx/jobs/8742590002) |
 
 ## About This Role
 
-This mobile engineer position at StockX was posted on 2026-06-24.
+This software engineer position at StockX was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

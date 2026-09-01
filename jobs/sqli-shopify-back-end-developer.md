@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sint-Martens-Latem, Flanders, Belgium |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000132127595-shopify-back-end-developer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000145449759-shopify-back-end-developer) |
 
 ## About This Role
 
-This software engineer position at SQLI was posted on 2026-06-15.
+This software engineer position at SQLI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

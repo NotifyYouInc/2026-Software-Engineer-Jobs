@@ -1,16 +1,16 @@
-# Senior Software Engineer - Salesforce at MillerKnoll
+# Senior Software Engineer – Salesforce at MillerKnoll
 
 | Field | Details |
 |-------|---------|
 | Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zeeland, Michigan, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Senior-Software-Engineer---Salesforce_JR109350-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Senior-Software-Engineer---Salesforce_JR109531-1) |
 
 ## About This Role
 
-This software engineer position at MillerKnoll was posted on 2026-07-10.
+This software engineer position at MillerKnoll was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

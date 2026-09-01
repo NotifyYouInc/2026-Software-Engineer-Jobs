@@ -1,16 +1,16 @@
-# Sr Software Engineer – Backend   at Renesas Electronics
+# Sr. Software Engineer, Backend  at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000123611729-sr-software-engineer-backend) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145477845-sr-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-04-29.
+This software engineer position at Renesas Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shanghai-China/Field-Application-Engineer-_J-00342541) |
+| Location | Chengdu, Sichuan, China |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chengdu-China/Field-Application-Engineer-_J-00342542) |
 
 ## About This Role
 
-This semiconductor / chip design position at ASML was posted on 2026-08-18.
+This software engineer position at ASML was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

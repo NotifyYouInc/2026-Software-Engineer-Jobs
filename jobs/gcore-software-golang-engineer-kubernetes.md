@@ -5,12 +5,12 @@
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cyprus |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000107497515-software-golang-engineer-kubernetes) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000145449660-software-golang-engineer-kubernetes) |
 
 ## About This Role
 
-This software engineer position at Gcore was posted on 2026-02-05.
+This software engineer position at Gcore was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

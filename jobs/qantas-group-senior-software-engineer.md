@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001239452-senior-software-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001348580-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Qantas Group was posted on 2026-07-16.
+This software engineer position at Qantas Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Senior-Software-Engineer_R-224705) |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Software-Engineer_R-247078-1) |
 
 ## About This Role
 
-This frontend engineer position at Amgen was posted on 2026-03-05.
+This ai / llm engineer position at Amgen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

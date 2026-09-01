@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132997154-programadora-cobol-junior-con-frances) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145436939-programadora-cobol-junior-con-frances) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-19.
+This software engineer position at Sopra Steria was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

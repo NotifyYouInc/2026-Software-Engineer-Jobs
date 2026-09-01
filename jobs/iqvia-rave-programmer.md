@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-West-Bengal-India/Rave-Programmer_R1533782) |
+| Location | 2 locations |
+| Category | Database Administration |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Rave-Programmer_R1556099) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-04-13.
+This database administration position at IQVIA was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

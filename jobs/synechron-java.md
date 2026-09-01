@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Hyderabad--Eco-Park/Java_JR1039505) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Java_JR1042281-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-08-24.
+This software engineer position at Synechron was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

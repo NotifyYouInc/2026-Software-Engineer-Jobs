@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458310/software-dev-engineer-ii-prime-air) |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10513230/software-dev-engineer-ii-prime-air) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-06-24.
+This software engineer position at Amazon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

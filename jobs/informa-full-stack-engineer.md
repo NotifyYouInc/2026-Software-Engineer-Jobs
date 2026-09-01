@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000140833595-full-stack-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000145499049-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Informa was posted on 2026-07-31.
+This software engineer position at Informa was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

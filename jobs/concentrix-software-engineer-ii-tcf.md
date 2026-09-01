@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Software-Engineer-II--TCF-_R1743372) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Software-Engineer-II--TCF-_R1758292-1) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-07-13.
+This software engineer position at Concentrix was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

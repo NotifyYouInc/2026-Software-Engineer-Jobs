@@ -1,16 +1,16 @@
-# WOW - Software Engineer at NatWest Group
+# Wow Software Engineer at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/WOW---Software-Engineer_R-00283710) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Wow-Software-Engineer_R-00283977) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-08-19.
+This software engineer position at NatWest Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

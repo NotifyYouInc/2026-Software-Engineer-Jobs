@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140192679-sap-abap-senior-technical-lead) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145434529-sap-abap-senior-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-28.
+This software engineer position at Sopra Steria was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

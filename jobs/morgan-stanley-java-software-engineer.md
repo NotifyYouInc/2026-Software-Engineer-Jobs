@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Java-Software-Engineer_PT-JR039488) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Java-Software-Engineer_PT-JR042380) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-07-01.
+This software engineer position at Morgan Stanley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

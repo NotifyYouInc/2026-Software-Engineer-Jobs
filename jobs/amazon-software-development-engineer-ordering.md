@@ -1,16 +1,16 @@
-# Software Development Engineer , Ordering at Amazon
+# Software Development Engineer, Ordering at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Vancouver, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496589/software-development-engineer-ordering) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10513180/software-development-engineer-ordering) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-08-10.
+This software engineer position at Amazon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

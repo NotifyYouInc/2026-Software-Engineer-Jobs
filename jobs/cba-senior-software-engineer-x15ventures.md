@@ -5,12 +5,12 @@
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Software-Engineer--x15ventures_REQ259835-3) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Software-Engineer--x15ventures_REQ262994-3) |
 
 ## About This Role
 
-This software engineer position at Cba was posted on 2026-07-06.
+This software engineer position at Cba was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
