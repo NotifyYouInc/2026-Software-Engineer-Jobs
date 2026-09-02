@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Storage-Systems-Engineer_1208608) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Storage-Systems-Engineer_1208611-1) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-06-22.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

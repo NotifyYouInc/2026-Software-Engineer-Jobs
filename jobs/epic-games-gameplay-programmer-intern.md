@@ -5,12 +5,12 @@
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004) |
 
 ## About This Role
 
-This software engineer position at Epic Games was posted on 2026-08-13.
+This software engineer position at Epic Games was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

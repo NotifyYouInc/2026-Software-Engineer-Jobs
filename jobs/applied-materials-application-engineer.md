@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Application-Engineer_R2624928) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Application-Engineer_R2626808) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-08-05.
+This software engineer position at Applied Materials was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

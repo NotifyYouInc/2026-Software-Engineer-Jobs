@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United Kingdom |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8716138002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8749946002) |
 
 ## About This Role
 
-This software engineer position at GitLab was posted on 2026-08-14.
+This software engineer position at GitLab was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

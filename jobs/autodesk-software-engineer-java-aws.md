@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java--AWS-_26WD97051-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java--AWS-_26WD100669-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-04-13.
+This software engineer position at Autodesk was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

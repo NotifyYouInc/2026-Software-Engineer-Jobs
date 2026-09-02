@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128860835-senior-software-engineer-mobile-ios-payments) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145659649-senior-software-engineer-mobile-ios-payments) |
 
 ## About This Role
 
-This mobile engineer position at Grab was posted on 2026-05-28.
+This software engineer position at Grab was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

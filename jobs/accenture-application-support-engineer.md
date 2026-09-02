@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Application-Support-Engineer_ATCI-R1-S1957647-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5709457-S2066365-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-24.
+This software engineer position at Accenture was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

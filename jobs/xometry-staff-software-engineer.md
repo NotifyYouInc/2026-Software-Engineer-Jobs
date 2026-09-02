@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Bethesda, Maryland, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/4987617007) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5222234007) |
 
 ## About This Role
 
-This software engineer position at Xometry was posted on 2026-05-22.
+This software engineer position at Xometry was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

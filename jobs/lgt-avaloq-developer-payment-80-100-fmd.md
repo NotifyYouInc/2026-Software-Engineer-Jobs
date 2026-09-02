@@ -5,12 +5,12 @@
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Bendern/Avaloq-Developer-Payment-80-100---f-m-d-_JR7658-1) |
 
 ## About This Role
 
-This software engineer position at LGT was posted on 2026-06-05.
+This software engineer position at LGT was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

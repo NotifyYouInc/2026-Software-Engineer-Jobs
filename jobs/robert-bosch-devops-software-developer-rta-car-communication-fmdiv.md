@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142055241-devops-software-developer-rta-car-communication-fmdiv) |
+| Location | Braga, Braga, Portugal |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145677116-devops-software-developer-rta-car-communication-fmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-08-07.
+This software engineer position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

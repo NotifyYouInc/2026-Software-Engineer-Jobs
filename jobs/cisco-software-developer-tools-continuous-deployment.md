@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lysaker, Akershus, Norway |
-| Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Software-Developer--Tools---Continuous-Deployment_2016314) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Software-Developer--Tools---Continuous-Deployment_2021809) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-06-09.
+This software engineer position at Cisco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

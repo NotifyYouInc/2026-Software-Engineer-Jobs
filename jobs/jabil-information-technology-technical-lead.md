@@ -1,16 +1,16 @@
-# Information Technology Technical lead at Jabil
+# Information Technology Technical Lead at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Information-Technology-Technical-lead_J2460788) |
+| Location | Ukraine |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Kharkov/Information-Technology-Technical-Lead_J2462393) |
 
 ## About This Role
 
-This it & systems administration position at Jabil was posted on 2026-08-10.
+This software engineer position at Jabil was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

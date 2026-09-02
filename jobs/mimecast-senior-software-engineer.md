@@ -5,12 +5,12 @@
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Senior-Software-Engineer_R6624-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Senior-Software-Engineer_R6568) |
 
 ## About This Role
 
-This software engineer position at Mimecast was posted on 2026-08-08.
+This software engineer position at Mimecast was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

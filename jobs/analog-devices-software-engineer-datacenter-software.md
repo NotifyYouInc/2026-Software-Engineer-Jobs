@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cork, Munster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Cork/Senior-Software-Engineer--Datacenter-Software_R258754) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Cork/Software-Engineer--Datacenter-Software_R265413-1) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-07-31.
+This software engineer position at Analog Devices was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

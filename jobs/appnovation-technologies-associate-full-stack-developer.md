@@ -1,16 +1,16 @@
-# Associate Full Stack Developer at Appnovation Technologies
+# Associate-Full Stack Developer at Appnovation Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8450218002) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8749424002) |
 
 ## About This Role
 
-This frontend engineer position at Appnovation Technologies was posted on 2026-03-05.
+This software engineer position at Appnovation Technologies was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

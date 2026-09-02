@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134716279-tech-lead-cloud-microsoft-azure-aws-gcp-hf) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145670685-tech-lead-cloud-microsoft-azure-aws-gcp-hf) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-06-29.
+This software engineer position at Talan was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

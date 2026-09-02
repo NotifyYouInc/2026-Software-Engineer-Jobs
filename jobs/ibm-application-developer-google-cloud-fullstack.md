@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117383) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130615) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-06-02.
+This software engineer position at IBM was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

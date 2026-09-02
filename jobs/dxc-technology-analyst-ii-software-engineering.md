@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SAU---RIYADH/Analyst-II-Software-Engineering_51587328) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---WB---KOLKATA/Analyst-II-Software-Engineering_51587517) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-08-19.
+This software engineer position at DXC Technology was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

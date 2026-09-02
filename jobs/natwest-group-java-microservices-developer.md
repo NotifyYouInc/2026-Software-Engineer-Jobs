@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Java-Microservices-Developer_R-00278318) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Java-Microservices-Developer_R-00284112) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-05-14.
+This software engineer position at NatWest Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

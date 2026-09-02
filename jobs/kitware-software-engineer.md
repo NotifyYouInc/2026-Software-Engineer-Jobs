@@ -5,12 +5,12 @@
 | Company | [Kitware](https://scoutify.ai/companies/kitware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Clifton Park, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.lever.co/kitware/1d458d7b-da76-4323-84cf-9708020b9ca2) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/kitware/2037d8ac-2c76-4b33-a72c-acb0500cf09e) |
 
 ## About This Role
 
-This software engineer position at Kitware was posted on 2026-07-24.
+This software engineer position at Kitware was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

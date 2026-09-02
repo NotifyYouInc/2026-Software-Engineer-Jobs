@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Melbourne/Software-Engineer_JR100498) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Senior-Software-Engineer_JR100604-1) |
 
 ## About This Role
 
-This software engineer position at Hub24management was posted on 2026-02-23.
+This software engineer position at Hub24management was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

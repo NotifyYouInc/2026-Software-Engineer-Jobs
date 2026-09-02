@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
-| Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Lead-Software-Engineer_R168788) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Lead-Software-Engineer_R194746) |
 
 ## About This Role
 
-This engineering manager position at A.P. Moller - Maersk was posted on 2026-03-16.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

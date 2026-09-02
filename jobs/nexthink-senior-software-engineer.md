@@ -1,16 +1,16 @@
-# Senior Software Engineer at Nexthink
+# Senior Software Engineer  at Nexthink
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Lausanne, Vaud, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000144717310-senior-software-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000145670105-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Nexthink was posted on 2026-08-21.
+This software engineer position at Nexthink was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

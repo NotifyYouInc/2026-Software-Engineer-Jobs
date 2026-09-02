@@ -5,12 +5,12 @@
 | Company | [Qualifacts](https://scoutify.ai/companies/qualifacts?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Vadodara/Software-Engineer-II_R-102540) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Vadodara/Software-Engineer-II_R-102710) |
 
 ## About This Role
 
-This software engineer position at Qualifacts was posted on 2026-07-29.
+This software engineer position at Qualifacts was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wüest Partner](https://scoutify.ai/companies/westpartner?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/wuestpartner/744000143043014-tech-lead-real-estate-platform-wuest-dimensions) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wuestpartner/744000145679019-tech-lead-real-estate-platform-wuest-dimensions) |
 
 ## About This Role
 
-This software engineer position at Wüest Partner was posted on 2026-08-12.
+This software engineer position at Wüest Partner was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

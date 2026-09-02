@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | North Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014697918-2027-business-technology-solutions-intern-data-software-engineering-undergraduate) |
+| Location | Irvine, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014860306-2027-business-technology-solutions-intern-data-software-engineering-undergraduate) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-08-20.
+This data engineer position at AbbVie was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

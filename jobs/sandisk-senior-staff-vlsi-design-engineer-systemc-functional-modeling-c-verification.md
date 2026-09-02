@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000137807804-senior-staff-vlsi-design-engineer-systemc-functional-modeling-c-verification) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000145657349-senior-staff-vlsi-design-engineer-systemc-functional-modeling-c-verification) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-15.
+This software engineer position at SanDisk was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6147253004/?gh_jid=6147253004) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6163403004/?gh_jid=6163403004) |
 
 ## About This Role
 
-This software engineer position at Kaseya was posted on 2026-08-25.
+This software engineer position at Kaseya was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
