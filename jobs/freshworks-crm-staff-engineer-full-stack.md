@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000135651890-staff-engineer-full-stack) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000145904509-staff-engineer-full-stack) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-07-03.
+This software engineer position at Freshworks CRM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hwaseong-si, Gyeonggi-do, South Korea |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hwaseong-si-Gyenggi-do/Application-Engineer_251672W) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hsinchu-City-Hsinchu-County/Application-Engineer_252545W) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-06-05.
+This software engineer position at Qnity was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

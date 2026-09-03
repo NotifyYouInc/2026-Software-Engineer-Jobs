@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143456450-staff-software-development-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145949120-staff-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-08-14.
+This software engineer position at Renesas Electronics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

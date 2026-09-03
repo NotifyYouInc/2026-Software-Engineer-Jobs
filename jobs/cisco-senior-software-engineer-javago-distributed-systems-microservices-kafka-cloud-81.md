@@ -1,16 +1,16 @@
-# Senior Software Engineer – Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 8–12 Years at Cisco
+# Senior Software Engineer – Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 8–12 Years (Open) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Software-Engineer---Java-Go---Distributed-Systems---Microservices---Kafka---Cloud---8-12-Years_2018736) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Software-Engineer---Java-Go---Distributed-Systems---Microservices---Kafka---Cloud---8-12-Years--Open-_2023889-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-03.
+This software engineer position at Cisco was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

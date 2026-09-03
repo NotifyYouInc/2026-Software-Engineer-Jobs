@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Stockton-on-Tees, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBStockton-on-TeesNorthshore-1/Senior-Principal-Engineer_R-151925) |
+| Category | Project Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBStockton-on-TeesNorthshore-1/Senior-Principal-Engineer_R-162058-1) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-04-27.
+This project manager position at SNC-Lavalin was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

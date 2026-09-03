@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138021119-gis-programmer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145904739-gis-programmer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-07-16.
+This software engineer position at AECOM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

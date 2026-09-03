@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Full-Stack-Developer_JR1038990) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Singapore/Full-Stack-Developer_JR1043446-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-04-21.
+This software engineer position at Synechron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

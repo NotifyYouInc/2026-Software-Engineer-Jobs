@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000145286145-senior-android-software-engineer-all-genders) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000145942462-senior-android-software-engineer-all-genders) |
 
 ## About This Role
 
-This software engineer position at Zooplus was posted on 2026-08-24.
+This software engineer position at Zooplus was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

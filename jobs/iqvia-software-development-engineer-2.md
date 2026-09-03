@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kathmandu, Bagmati Province, Nepal |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Software-Development-Engineer-2_R1541892) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer-2_R1560859) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-05-21.
+This software engineer position at IQVIA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

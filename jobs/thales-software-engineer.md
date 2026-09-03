@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer_R0336605-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Software-Engineer_R0337031) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-08-11.
+This software engineer position at Thales was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

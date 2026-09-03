@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lake Forest, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/R-D-Member-of-Technical-Staff---II_R013908) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/R-D-Member-of-Technical-Staff---II_R015048) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-04-22.
+This software engineer position at AVEVA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

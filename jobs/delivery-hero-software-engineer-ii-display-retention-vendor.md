@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141656671-software-engineer-ii-display-retention-vendor) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145955739-software-engineer-ii-display-retention-vendor) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-08-05.
+This software engineer position at Delivery Hero was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

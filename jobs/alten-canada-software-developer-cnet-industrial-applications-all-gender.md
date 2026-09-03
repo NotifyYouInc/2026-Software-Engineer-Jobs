@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000141646669-software-developer-cnet-industrial-applications-all-gender) |
+| Category | Industrial Automation |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145941460-software-developer-cnet-industrial-applications-all-gender) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-08-05.
+This industrial automation position at ALTEN Canada was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

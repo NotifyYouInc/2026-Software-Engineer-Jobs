@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Principal-Statistical-Programmer_R0000038030) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Principal-Statistical-Programmer_R0000045252) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-02-05.
+This software engineer position at Parexel was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Développeur C++ (H/F)  at Meritis
+# Développeur C# (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
+| Location | Montpellier, Occitanie, France |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145692818-developpeur-c-hf) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145913310-developpeur-c-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-08-26.
+This software engineer position at Meritis was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

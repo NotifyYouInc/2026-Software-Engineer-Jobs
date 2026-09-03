@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000144578561-duales-studium-bachelor-of-science-informatik-mwd) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000145926423-duales-studium-bachelor-of-science-informatik-mwd) |
 
 ## About This Role
 
-This software engineer position at R+V Versicherung was posted on 2026-08-20.
+This software engineer position at R+V Versicherung was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

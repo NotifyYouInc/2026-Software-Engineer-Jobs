@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India---Hyderabad/Senior-Clinical-Database-Programmer_R0000043625) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Clinical-Database-Programmer_R0000045253) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-07-17.
+This software engineer position at Parexel was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

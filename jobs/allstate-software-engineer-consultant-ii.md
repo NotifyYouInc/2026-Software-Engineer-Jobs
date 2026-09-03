@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Software-Engineer-Consultant-II_R32514-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Consultant-II_R34392) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-07-10.
+This software engineer position at Allstate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

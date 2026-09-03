@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taiwan |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Remote/Statistical-Programmer-II_R0000042441) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Statistical-Programmer-II_R0000045255-1) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-07-10.
+This software engineer position at Parexel was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

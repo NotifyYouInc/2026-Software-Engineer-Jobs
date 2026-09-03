@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000141833730-senior-software-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000145911034-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Cermati was posted on 2026-08-06.
+This software engineer position at Cermati was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

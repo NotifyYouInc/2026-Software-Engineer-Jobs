@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Katowice, Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141340279-senior-software-development-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145927039-senior-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-08-03.
+This software engineer position at Renesas Electronics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

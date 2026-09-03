@@ -1,16 +1,16 @@
-# Software Engineer  - Java at Motorola Solutions
+# Software Engineer (Java) at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Engineer----Java_R58756) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Software-Engineer--Java-_R66449) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-26.
+This software engineer position at Motorola Solutions was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

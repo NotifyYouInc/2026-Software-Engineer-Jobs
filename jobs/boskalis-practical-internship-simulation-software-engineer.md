@@ -5,12 +5,12 @@
 | Company | [Boskalis](https://scoutify.ai/companies/boskalis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Papendrecht, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000145699677-practical-internship-simulation-software-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000145907034-practical-internship-simulation-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Boskalis was posted on 2026-08-26.
+This software engineer position at Boskalis was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

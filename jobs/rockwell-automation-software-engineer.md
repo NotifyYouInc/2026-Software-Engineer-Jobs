@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mayfield Heights, Ohio, United States |
+| Location | Prague, Prague, Czechia |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-2068-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Prague-Czech-Republic/Software-Engineer_R26-5780) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-04-29.
+This software engineer position at Rockwell Automation was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

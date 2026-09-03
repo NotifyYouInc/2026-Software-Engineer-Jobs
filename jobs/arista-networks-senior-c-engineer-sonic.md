@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000145719269-senior-c-engineer-sonic) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000145966149-senior-c-engineer-sonic) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-08-26.
+This software engineer position at Arista Networks was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

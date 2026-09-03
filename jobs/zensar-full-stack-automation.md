@@ -5,12 +5,12 @@
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#148159) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149128) |
 
 ## About This Role
 
-This software engineer position at Zensar was posted on 2026-07-13.
+This software engineer position at Zensar was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

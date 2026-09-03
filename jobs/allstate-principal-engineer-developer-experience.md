@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Principal-Engineer--Developer-Experience_R33909) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-2-All-Other-Floors/Principal-Engineer--Developer-Experience_R34337) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-08-14.
+This software engineer position at Allstate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

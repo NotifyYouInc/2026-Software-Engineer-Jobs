@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144507719-senior-javakafka-developer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145911040-senior-javakafka-developer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-08-20.
+This software engineer position at Talan was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

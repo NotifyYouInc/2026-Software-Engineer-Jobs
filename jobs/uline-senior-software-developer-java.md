@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Senior-Software-Developer---Java_R265895-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Senior-Software-Developer---Java_R266891-1) |
 
 ## About This Role
 
-This software engineer position at Uline was posted on 2026-07-24.
+This software engineer position at Uline was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

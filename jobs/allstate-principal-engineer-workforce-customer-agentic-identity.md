@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Illinois, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Principal-Engineer--Workforce--Customer---Agentic-Identity_R33910) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Principal-Engineer--Workforce--Customer---Agentic-Identity_R34388) |
 
 ## About This Role
 
-This cybersecurity engineer position at Allstate was posted on 2026-08-14.
+This cybersecurity engineer position at Allstate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
