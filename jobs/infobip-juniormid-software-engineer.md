@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Split, Split-Dalmatia, Croatia |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Split-Croatia/Junior-Mid-Software-Engineer_JR104729) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909) |
 
 ## About This Role
 
-This software engineer position at Infobip was posted on 2026-07-13.
+This software engineer position at Infobip was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

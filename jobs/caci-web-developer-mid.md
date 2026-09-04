@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Web-Developer-Mid_322234) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Developer-Mid_331219) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-19.
+This software engineer position at CACI was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

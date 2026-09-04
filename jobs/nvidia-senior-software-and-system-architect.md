@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-and-System-Architect_JR2022247) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-and-System-Architect_JR1993413) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-07-31.
+This software engineer position at Nvidia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

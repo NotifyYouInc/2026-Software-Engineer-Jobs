@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-252463-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-258957-2) |
 
 ## About This Role
 
-This software engineer position at AstraZeneca was posted on 2026-06-24.
+This software engineer position at AstraZeneca was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

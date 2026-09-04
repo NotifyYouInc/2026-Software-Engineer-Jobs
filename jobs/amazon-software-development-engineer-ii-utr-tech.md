@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392447/software-development-engineer-ii-utr-tech) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10517821/software-development-engineer-ii-utr-tech) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-15.
+This software engineer position at Amazon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Peabody, Massachusetts, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Peabody-Massachusetts-Technology-Dr/Field-Applications-Engineer_R239741) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/AU-NSW-Australia-Remote/Field-Applications-Engineer_R244577-1) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-04-13.
+This software engineer position at Arrow Electronics was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

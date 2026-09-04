@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kabam](https://scoutify.ai/companies/kabam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.lever.co/kabam/0adb479d-f223-4e80-a0b2-3bc9107bf7b9) |
+| Category | Software Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/kabam/8f698c31-2b81-4bbc-9c6c-d5442a6f9e10) |
 
 ## About This Role
 
-This frontend engineer position at Kabam was posted on 2026-04-07.
+This software engineer position at Kabam was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

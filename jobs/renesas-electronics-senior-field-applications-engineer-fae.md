@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130090639-senior-field-applications-engineer-fae) |
+| Location | Toyosu, Tokyo, Japan |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146084159-senior-field-applications-engineer-fae) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-06-03.
+This software engineer position at Renesas Electronics was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

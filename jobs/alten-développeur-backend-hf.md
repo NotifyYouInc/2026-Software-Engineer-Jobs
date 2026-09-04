@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140168429-developpeur-backend-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146124490-developpeur-backend-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-07-28.
+This software engineer position at ALTEN was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

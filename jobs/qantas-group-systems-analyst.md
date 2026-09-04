@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001347380-systems-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001359131-systems-analyst) |
 
 ## About This Role
 
-This software engineer position at Qantas Group was posted on 2026-08-25.
+This software engineer position at Qantas Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

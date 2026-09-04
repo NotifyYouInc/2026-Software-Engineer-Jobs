@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noblesville, Indiana, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/IN---Noblesville/FAE---Senior-Field-Applications-Engineer_R1784-26) |
+| Location | China |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/China---Home-Office/FAE---Senior-Field-Applications-Engineer_R3732-26) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-04-24.
+This software engineer position at Microchip Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000145718039-seniorprincipal-golang-developer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146143589-seniorprincipal-golang-developer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-08-26.
+This software engineer position at Sigma Software was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

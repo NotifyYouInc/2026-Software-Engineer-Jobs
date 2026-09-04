@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482160/senior-software-engineer-aws-applied-ai-solutions) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10517792/senior-software-engineer-aws-applied-ai-solutions) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-23.
+This software engineer position at Amazon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

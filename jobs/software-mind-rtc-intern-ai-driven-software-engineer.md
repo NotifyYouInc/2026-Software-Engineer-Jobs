@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000145301190-rtc-intern-ai-driven-software-engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000146148409-rtc-intern-ai-driven-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-08-24.
+This software engineer position at Software Mind was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

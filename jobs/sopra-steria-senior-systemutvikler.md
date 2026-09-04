@@ -1,16 +1,16 @@
-# Senior systemutvikler at Sopra Steria
+# Senior Systemutvikler at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Hamar, Innlandet, Norway |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134477766-senior-systemutvikler) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146154589-senior-systemutvikler) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-06-26.
+This software engineer position at Sopra Steria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

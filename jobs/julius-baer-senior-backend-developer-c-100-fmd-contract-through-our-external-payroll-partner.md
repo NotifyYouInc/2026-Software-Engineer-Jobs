@@ -1,16 +1,16 @@
-# Senior Backend Developer - C# 100% (f/m/d) - (Contract through our external payroll partner, immediate start until 31.08.2027, possible extension) at Julius Baer
+# Senior Backend Developer - C# 100% (f/m/d) (Contract through our external payroll partner, immediate start until 31.03.2027, possible extension) at Julius Baer
 
 | Field | Details |
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-Backend-Developer---C--100---f-m-d-----Contract-through-our-external-payroll-partner--immediate-start-until-31082027--possible-extension-_r-19336-1) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-Backend-Developer---C--100---f-m-d---Contract-through-our-external-payroll-partner--immediate-start-until-31032027--possible-extension-_r-19612-1) |
 
 ## About This Role
 
-This software engineer position at Julius Baer was posted on 2026-07-24.
+This accounting position at Julius Baer was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

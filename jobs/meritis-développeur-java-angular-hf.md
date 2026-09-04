@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000144764529-developpeur-java-angular-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146126259-developpeur-java-angular-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-08-21.
+This software engineer position at Meritis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

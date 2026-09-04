@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bastrop, Louisiana, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8557501002?gh_jid=8557501002) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8755479002?gh_jid=8755479002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SpaceX was posted on 2026-05-19.
+This electrical / hardware engineer position at SpaceX was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

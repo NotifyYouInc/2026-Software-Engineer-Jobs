@@ -1,16 +1,16 @@
-# Software Engineer - C++ at Akuna Capital
+# Software Engineer C++ at Akuna Capital
 
 | Field | Details |
 |-------|---------|
 | Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.akunacapital.com/careers/job/8163512/?gh_jid=8163512) |
 
 ## About This Role
 
-This software engineer position at Akuna Capital was posted on 2026-05-19.
+This software engineer position at Akuna Capital was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Back-end Engineer (Advertiser Platform) at Coupang
+# Senior, Back-end Engineer (Advertiser Platform) at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7896542) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8111544) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-05-11.
+This software engineer position at Coupang was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

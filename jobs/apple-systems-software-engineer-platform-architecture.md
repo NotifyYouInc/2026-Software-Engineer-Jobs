@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678208/systems-software-engineer-platform-architecture) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680561/systems-software-engineer-platform-architecture) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-14.
+This software engineer position at Apple was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

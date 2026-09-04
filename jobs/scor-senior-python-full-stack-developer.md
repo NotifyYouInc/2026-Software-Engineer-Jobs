@@ -1,16 +1,16 @@
-# Senior Python Full-Stack Developer at SCOR
+# Senior Python Full Stack Developer at SCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ilfov, RO |
+| Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4618) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5351) |
 
 ## About This Role
 
-This software engineer position at SCOR was posted on 2026-01-27.
+This software engineer position at SCOR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

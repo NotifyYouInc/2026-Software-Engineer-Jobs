@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Philadelphia/Senior-Software-Engineer-II_R116068) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Software-Engineer-II_R117373) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-08-06.
+This ai / llm engineer position at ChoicePoint was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

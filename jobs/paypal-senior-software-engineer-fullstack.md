@@ -1,16 +1,16 @@
-# Senior Software Engineer - Fullstack at PayPal
+# Senior Software Engineer-FullStack at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer---Fullstack_R0135601-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer-FullStack_R0137267) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-04-02.
+This software engineer position at PayPal was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

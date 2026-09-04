@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Angers, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143763248-developpeur-fullstack-services-financiers-angers) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146172198-developpeur-fullstack-services-financiers-angers) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-08-17.
+This software engineer position at Sopra Steria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

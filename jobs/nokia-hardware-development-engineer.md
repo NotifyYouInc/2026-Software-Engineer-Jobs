@@ -5,12 +5,12 @@
 | Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#39880) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#39910) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nokia was posted on 2026-08-26.
+This electrical / hardware engineer position at Nokia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Software Engineer at Motorola Solutions
+# Sr. Software Engineer at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Richardson, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Sr-Software-Engineer_R68149) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Richardson-TX-TX145/Sr-Software-Engineer_R68221) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-08-27.
+This software engineer position at Motorola Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

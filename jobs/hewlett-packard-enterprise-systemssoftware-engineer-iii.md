@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-III_1205915) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Systems-Software-Engineer-III_1211044) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-05-27.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

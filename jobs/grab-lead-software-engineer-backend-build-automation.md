@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145647179-lead-software-engineer-backend-build-automation) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000146154299-lead-software-engineer-backend-build-automation) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-08-26.
+This software engineer position at Grab was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

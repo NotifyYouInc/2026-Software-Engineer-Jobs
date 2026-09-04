@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer_R3314-26-7) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Chennai/Software-Engineer_R3675-26-3) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-08-06.
+This software engineer position at Microchip Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

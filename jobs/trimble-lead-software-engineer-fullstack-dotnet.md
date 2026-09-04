@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Lead-Software-Engineer---Fullstack-Dotnet_R55473) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Lead-Software-Engineer---Fullstack-Dotnet_R55802) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-06-05.
+This software engineer position at Trimble was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

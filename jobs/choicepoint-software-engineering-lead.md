@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Software-Engineering-Lead_R115143) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Software-Engineering-Lead_R117378) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-07-03.
+This ai / llm engineer position at ChoicePoint was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

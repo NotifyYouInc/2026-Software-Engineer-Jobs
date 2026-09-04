@@ -5,12 +5,12 @@
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Software-Dev-Engr-II_31730) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Software-Dev-Engr-II_31620) |
 
 ## About This Role
 
-This software engineer position at CSG Systems International was posted on 2026-04-13.
+This software engineer position at CSG Systems International was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
