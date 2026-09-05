@@ -5,12 +5,12 @@
 | Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5381558008) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5409912008) |
 
 ## About This Role
 
-This software engineer position at Roo was posted on 2026-08-06.
+This software engineer position at Roo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

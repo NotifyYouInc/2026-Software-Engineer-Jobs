@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Champaign, Illinois, United States |
+| Location | Menomonee Falls, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1) |
 
 ## About This Role
 
-This software engineer position at Brunswick was posted on 2026-07-29.
+This software engineer position at Brunswick was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

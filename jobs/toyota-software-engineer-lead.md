@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Lead_10332615) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Lead_10329633) |
 
 ## About This Role
 
-This software engineer position at Toyota was posted on 2026-08-22.
+This software engineer position at Toyota was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

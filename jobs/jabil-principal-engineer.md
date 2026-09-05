@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chihuahua, Chihuahua, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Principal-Engineer_J2445107) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Principal-Engineer_J2462751-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-04-06.
+This electrical / hardware engineer position at Jabil was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

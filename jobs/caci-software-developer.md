@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Fort Bragg, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/St-Louis-MO-US/Software-Developer_330952) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Software-Developer_331159) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-08-21.
+This software engineer position at CACI was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

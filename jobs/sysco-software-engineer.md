@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sri Lanka |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Software-Engineer_R258689) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Software-Engineer_R264490) |
 
 ## About This Role
 
-This software engineer position at Sysco was posted on 2026-07-14.
+This software engineer position at Sysco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

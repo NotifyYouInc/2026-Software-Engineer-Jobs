@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Electrical-Product-Engineer---Datacenter_JR2006674) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Electrical-Product-Engineer---Datacenter_JR2024103) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-07-22.
+This electrical / hardware engineer position at Nvidia was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

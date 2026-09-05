@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Toronto-Ontario-Canada/Software-Developer_2021467-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Montreal-Quebec-Canada/Software-Developer_2022030) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-21.
+This software engineer position at Cisco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

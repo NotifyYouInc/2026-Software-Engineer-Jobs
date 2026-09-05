@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mendota Heights, Minnesota, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MN-MENDOTA-HEIGHTS-1285-NORTHLAND-DR/Distinguished-Engineer_JR199989) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Distinguished-Engineer_JR205200) |
 
 ## About This Role
 
-This software engineer position at Elevance Health was posted on 2026-07-24.
+This software engineer position at Elevance Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

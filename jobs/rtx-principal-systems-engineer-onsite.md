@@ -1,16 +1,16 @@
-# Principal Systems Engineer (Onsite) at RTX
+# Principal Systems Engineer - (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fulton, Missouri, United States |
+| Location | Sterling, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Principal-Systems-Engineer--Onsite-_01865562) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Principal-Systems-Engineer----Onsite-_01870623) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-07.
+This software engineer position at RTX was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

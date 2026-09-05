@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cyber-Systems-Integration-Engineer-Sr-Principal_RQ214546-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cyber-Systems-Integration-Engineer-Sr-Principal_RQ227233) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-02-11.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

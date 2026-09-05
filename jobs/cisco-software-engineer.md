@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Boulder, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Software-Engineer_2021115-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineer_2021114-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-28.
+This software engineer position at Cisco was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

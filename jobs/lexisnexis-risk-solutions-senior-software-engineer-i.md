@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Software-Engineer-I_R112176) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Florida/Senior-Software-Engineer-I_R116255) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-05.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

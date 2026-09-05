@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tulsa, Oklahoma, United States |
+| Location | Champaign, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449) |
 
 ## About This Role
 
-This software engineer position at Brunswick was posted on 2026-08-22.
+This software engineer position at Brunswick was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

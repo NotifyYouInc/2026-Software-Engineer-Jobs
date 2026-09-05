@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Senior-Software-Engineer_J00177485) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Senior-Software-Engineer_J00177610-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-05-29.
+This software engineer position at Equifax was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

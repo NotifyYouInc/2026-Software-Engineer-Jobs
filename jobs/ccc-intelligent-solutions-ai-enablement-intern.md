@@ -5,12 +5,12 @@
 | Company | [CCC Intelligent Solutions](https://scoutify.ai/companies/cccis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014621) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014872) |
 
 ## About This Role
 
-This software engineer position at CCC Intelligent Solutions was posted on 2026-04-14.
+This software engineer position at CCC Intelligent Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | McLean, Virginia, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Full-Stack_R999194-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999289-1) |
 
 ## About This Role
 

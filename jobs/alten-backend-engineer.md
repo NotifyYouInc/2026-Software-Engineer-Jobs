@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145454049-backend-engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146200894-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-08-25.
+This software engineer position at ALTEN was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Applications-Developer_R_353171) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Applications-Developer_R_363393) |
 
 ## About This Role
 
-This software engineer position at Marsh & McLennan Companies was posted on 2026-06-19.
+This software engineer position at Marsh & McLennan Companies was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

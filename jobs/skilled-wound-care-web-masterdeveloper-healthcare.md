@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skilled Wound Care](https://scoutify.ai/companies/skilled-wound-care?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7836303003) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7980505003) |
 
 ## About This Role
 
-This software engineer position at Skilled Wound Care was posted on 2026-08-07.
+This software engineer position at Skilled Wound Care was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ33954) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ36569-2) |
 
 ## About This Role
 
-This software engineer position at Teledyne was posted on 2026-03-24.
+This software engineer position at Teledyne was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

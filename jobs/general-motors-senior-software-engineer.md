@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Milford, Connecticut, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202616907) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Mainframe-Software-Engineer_JR-202618084) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-08-05.
+This software engineer position at General Motors was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

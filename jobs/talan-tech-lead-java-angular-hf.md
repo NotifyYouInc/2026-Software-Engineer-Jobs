@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139245929-tech-lead-java-angular-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146203614-tech-lead-java-angular-hf) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-07-23.
+This software engineer position at Talan was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

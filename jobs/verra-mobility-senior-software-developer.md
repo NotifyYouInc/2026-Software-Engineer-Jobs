@@ -5,12 +5,12 @@
 | Company | [Verra Mobility](https://scoutify.ai/companies/verra-mobility?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mesa, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verramobility/jobs/4669971006) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verramobility/jobs/4698190006) |
 
 ## About This Role
 
-This software engineer position at Verra Mobility was posted on 2026-04-09.
+This software engineer position at Verra Mobility was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

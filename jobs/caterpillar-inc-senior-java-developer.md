@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Java-Developer_R0000381159) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Java-Developer_R0000391181) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-07-09.
+This software engineer position at Caterpillar Inc. was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

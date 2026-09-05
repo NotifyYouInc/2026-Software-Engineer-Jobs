@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Technical-Lead-Front-End--full-stack-_WD30271815) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Technical-Lead-Front-End--full-stack-_WD30278533-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-11.
+This software engineer position at Johnson Controls was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

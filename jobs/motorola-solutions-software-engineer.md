@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Schaumburg, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer_R66089) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-07-20.
+This software engineer position at Motorola Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

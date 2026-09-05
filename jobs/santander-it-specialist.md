@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Specialist_Req1547284) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Specialist_Req1608060) |
 
 ## About This Role
 
-This it & systems administration position at Santander was posted on 2026-02-27.
+This it & systems administration position at Santander was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

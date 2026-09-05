@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Gen-AI---Senior-Software-Automation-Engineer_R-525714) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Gen-AI---Senior-Software-Automation-Engineer_R-563547-1) |
 
 ## About This Role
 
-This industrial automation position at Wells Fargo was posted on 2026-03-11.
+This ai / llm engineer position at Wells Fargo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

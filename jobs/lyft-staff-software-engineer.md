@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ukraine |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8639319002?gh_jid=8639319002) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002) |
 
 ## About This Role
 
-This software engineer position at Lyft was posted on 2026-07-21.
+This software engineer position at Lyft was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

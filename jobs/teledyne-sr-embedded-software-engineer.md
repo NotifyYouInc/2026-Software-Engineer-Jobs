@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Orem, Utah, United States |
+| Location | Goleta, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Orem-UT/Sr-Embedded-Software-Engineer_REQ34485) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Sr-Embedded-Software-Engineer_REQ36361) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Teledyne was posted on 2026-04-23.
+This embedded / firmware engineer position at Teledyne was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

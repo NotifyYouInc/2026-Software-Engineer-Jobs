@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-25 |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Instrumentation---Controls--I-C--Engineer-Principal---NEW-GENERATION-and-Oversight-Engineering_R12648) |
 
 ## About This Role
 
-This industrial automation position at American Electric Power was posted on 2026-03-25.
+This software engineer position at American Electric Power was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Durham/Senior-Programmer-Analyst_264553) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Remote-Mexico/Senior-Programmer-Analyst_264970) |
 
 ## About This Role
 
-This software engineer position at Covance was posted on 2026-08-06.
+This software engineer position at Covance was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

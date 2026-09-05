@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Staff-Software-Engineer_JR-025936) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Staff-Software-Engineer_JR-026034) |
 
 ## About This Role
 
-This software engineer position at WGU was posted on 2026-08-17.
+This software engineer position at WGU was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

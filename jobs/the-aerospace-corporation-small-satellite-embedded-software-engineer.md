@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Small-Satellite-Embedded-Software-Engineer_R016004) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Small-Satellite-Embedded-Software-Engineer_R016286-1) |
 
 ## About This Role
 
-This software engineer position at The Aerospace Corporation was posted on 2026-08-04.
+This embedded / firmware engineer position at The Aerospace Corporation was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

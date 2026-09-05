@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Senior-Engineer--Software-Engineering_01867015) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Senior-Engineer--Software-Engineering_01870932) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-14.
+This embedded / firmware engineer position at RTX was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

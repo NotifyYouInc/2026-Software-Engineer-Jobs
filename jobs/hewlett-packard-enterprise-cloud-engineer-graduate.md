@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Roseville, California, United States |
+| Location | 9 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California-United-States-of-America/Cloud-Engineer-Graduate_1193059) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-04-13.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

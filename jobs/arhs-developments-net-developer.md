@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000109255367-net-developer) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000146198959-net-developer) |
 
 ## About This Role
 
-This software engineer position at ARHS Developments was posted on 2026-02-13.
+This devops engineer position at ARHS Developments was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

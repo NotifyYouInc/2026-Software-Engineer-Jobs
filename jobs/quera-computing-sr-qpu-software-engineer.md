@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5127291008) |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5409770008) |
 
 ## About This Role
 
-This frontend engineer position at QuEra Computing was posted on 2026-02-20.
+This software engineer position at QuEra Computing was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Graduate-Engineer-Trainee_WD30270919) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Ahmedabad-Gujarat-India/Graduate-Engineer-Trainee_WD30277886) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-02.
+This software engineer position at Johnson Controls was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139663094-software-engineer-infrastructure-go-remote-in-the-us) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000146207309-software-engineer-infrastructure-go-remote-in-the-us) |
 
 ## About This Role
 
-This software engineer position at Mirantis was posted on 2026-07-24.
+This devops engineer position at Mirantis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

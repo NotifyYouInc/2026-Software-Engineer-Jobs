@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014433886-senior-software-engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014921445-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Harvard University was posted on 2026-08-04.
+This software engineer position at Harvard University was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

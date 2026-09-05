@@ -1,16 +1,16 @@
-# Sr Software Engineer iOS at Delivery Hero
+# Sr Software Engineer IOS at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Mobile Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124477878-sr-software-engineer-ios) |
+| Location | Montevideo, Montevideo Department, Uruguay |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146242350-sr-software-engineer-ios) |
 
 ## About This Role
 
-This mobile engineer position at Delivery Hero was posted on 2026-05-04.
+This software engineer position at Delivery Hero was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

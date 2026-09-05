@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Physical-Design_2600810) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Austin-TX/Senior-Staff-Engineer--Physical-Design_2603119) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-12.
+This software engineer position at Marvell was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

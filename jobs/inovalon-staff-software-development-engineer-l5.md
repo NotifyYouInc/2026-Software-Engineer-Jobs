@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7678862003) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7864526003) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-06-10.
+This software engineer position at Inovalon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

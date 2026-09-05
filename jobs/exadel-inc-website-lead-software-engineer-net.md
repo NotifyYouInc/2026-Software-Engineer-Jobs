@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Uzbekistan |
+| Location | Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5810332004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6173270004) |
 
 ## About This Role
 
-This software engineer position at Exadel Inc (Website) was posted on 2026-04-23.
+This software engineer position at Exadel Inc (Website) was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
