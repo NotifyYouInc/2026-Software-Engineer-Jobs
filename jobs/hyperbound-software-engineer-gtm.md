@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Software Engineer, GTM at Hyperbound
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Hyperbound](https://scoutify.ai/companies/hyperbound?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hyperbound/1d013dd8-4108-404a-8736-d15aa237bc73) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Hyperbound was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

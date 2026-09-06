@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 6 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Mid-Level-Backend-Software-Engineer_R-00181100) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Mid-Level-Backend-Software-Engineer_R-00190919) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-16.
+This software engineer position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

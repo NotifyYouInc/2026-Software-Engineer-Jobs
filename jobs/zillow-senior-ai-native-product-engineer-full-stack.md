@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-AI-Native-Product-Engineer--Full-Stack_P750295-1) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-AI-Native-Product-Engineer--Full-Stack_P750225) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-05-29.
+This software engineer position at Zillow was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Long-term Internship - Cabin Engineering at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Mobile, Alabama, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Long-term-Internship---Cabin-Engineering_JR10430637) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Airbus was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

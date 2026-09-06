@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Senior Software Engineer at JFrog
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=8161565&gh_jid=8161565) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at JFrog was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

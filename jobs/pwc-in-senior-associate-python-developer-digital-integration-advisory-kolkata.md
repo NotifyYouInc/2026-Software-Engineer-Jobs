@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Python-Developer-Digital-Integration-Advisory-Kolkata_751344WD-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-Y-14/IN-Senior-Associate-Python-Developer-Digital-Integration-Advisory-Kolkata_755190WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-08-12.
+This software engineer position at PwC was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Software Engineer at Leidos
+# Senior Navigation Systems Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00190867) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Navigation-Systems-Engineer_R-00190948) |
 
 ## About This Role
 

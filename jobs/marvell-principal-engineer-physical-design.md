@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Austin-TX/Principal-Engineer--Physical-Design_2603581) |
 
 ## About This Role
 
-This software engineer position at Marvell was posted on 2026-08-28.
+This semiconductor / chip design position at Marvell was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Staff Backend Engineer at Kaseya
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6146950004/?gh_jid=6146950004) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Kaseya was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

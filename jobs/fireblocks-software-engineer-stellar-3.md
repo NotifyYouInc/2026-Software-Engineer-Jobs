@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Software Engineer - Stellar #3 at Fireblocks
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4687004006) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Fireblocks was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

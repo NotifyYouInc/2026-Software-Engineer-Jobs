@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | Austria |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/49a86edb-52a6-4aa2-bc41-abfbf5b28447) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ff1d50e2-766c-4954-a281-b5ce49c4d7e9) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-27.
+This software engineer position at Bjak was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

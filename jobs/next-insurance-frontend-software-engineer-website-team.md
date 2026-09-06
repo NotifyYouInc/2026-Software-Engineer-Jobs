@@ -1,16 +1,16 @@
-# Software Engineer at SpaceX
+# Frontend Software Engineer- Website Team at Next Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cape Canaveral, Florida, United States |
+| Company | [Next Insurance](https://scoutify.ai/companies/next-insurance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Kfar Saba, Central District, Israel |
 | Category | Software Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8763487002?gh_jid=8763487002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nextinsurance66/jobs/7972951003) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-08-30.
+This software engineer position at Next Insurance was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

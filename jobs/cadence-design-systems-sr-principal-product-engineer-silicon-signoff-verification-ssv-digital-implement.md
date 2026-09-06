@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Sr-Principal-Product-Engineer--Silicon-Signoff-Verification--SSV----Digital-Implementation---Signoff-Solutions_R56105) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-08-28.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

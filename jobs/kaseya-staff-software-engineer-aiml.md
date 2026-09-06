@@ -1,16 +1,16 @@
-# Software Engineer at SpaceX
+# Staff Software Engineer (AI/ML) at Kaseya
 
 | Field | Details |
 |-------|---------|
-| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cape Canaveral, Florida, United States |
-| Category | Software Engineer |
+| Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8763487002?gh_jid=8763487002) |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6146940004/?gh_jid=6146940004) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-08-30.
+This ai / llm engineer position at Kaseya was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

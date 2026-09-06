@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Staff Fullstack Engineer at Polymarket
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Polymarket](https://scoutify.ai/companies/polymarket?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/polymarket/9cd88b79-821e-4b99-8448-7beb02f45683) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Polymarket was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

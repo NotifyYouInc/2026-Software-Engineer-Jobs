@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/40542ef4-385b-4e72-b110-8c296c9ccbea) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/80c2bfbf-b378-4d78-a8a6-14c3ee9399e2) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-27.
+This software engineer position at Bjak was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# R&D Engineer – Python Developer at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/R-D-Engineer---Python-Developer_JR00045255) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at ABB was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Full Stack Software Engineer, Developer Systems  at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Hawthorne, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at SpaceX was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

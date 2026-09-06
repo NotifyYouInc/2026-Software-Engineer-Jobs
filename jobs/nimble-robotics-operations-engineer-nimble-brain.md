@@ -1,16 +1,16 @@
-# Technical Lead at Bjak
+# Operations Engineer, Nimble Brain at Nimble Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Nimble Robotics](https://scoutify.ai/companies/nimble-robotics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nimblerobotics/jobs/4387792009) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This software engineer position at Nimble Robotics was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 
