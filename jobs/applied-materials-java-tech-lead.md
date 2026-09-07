@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Java-Tech-Lead_R2613918) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Java-Tech-Lead_R2625617) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-06-19.
+This software engineer position at Applied Materials was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

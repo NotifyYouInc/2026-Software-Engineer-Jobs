@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Lead-Software-Engineer---Vice-President_PT-JR031437) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Lead-Software-Engineer---Vice-President_PT-JR042439-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-03-24.
+This software engineer position at Morgan Stanley was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

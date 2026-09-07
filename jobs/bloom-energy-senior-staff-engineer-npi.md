@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloom Energy](https://scoutify.ai/companies/bloomenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Office---Bangalore-ITBT-Park/Senior-Staff-Engineer-NPI_JR-22808) |
+| Category | Program Manager |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Office---Bangalore-ITBT-Park/Senior-Staff-Engineer-NPI_JR-24202) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Bloom Energy was posted on 2026-05-26.
+This program manager position at Bloom Energy was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

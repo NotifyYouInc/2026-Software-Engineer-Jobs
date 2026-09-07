@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Principal-Software-Engineer_2022376-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Principal-Software-Engineer_2023000) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-14.
+This software engineer position at Cisco was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

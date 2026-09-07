@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Laval, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000136418234-nextstep-ingenieur-specialiste-en-developpement-logiciel-bancs-de-tests-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000146425790-nextstep-ingenieur-specialiste-en-developpement-logiciel-bancs-de-tests-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-07-08.
+This software engineer position at ALTEN Canada was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

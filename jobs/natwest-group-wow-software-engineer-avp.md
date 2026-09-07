@@ -1,16 +1,16 @@
-# WoW Software Engineer, AVP at NatWest Group
+# WoW - Software Engineer, AVP at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/WoW-Software-Engineer--AVP_R-00282972-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/WoW---Software-Engineer--AVP_R-00284326) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-08-04.
+This software engineer position at NatWest Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

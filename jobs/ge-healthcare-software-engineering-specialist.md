@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Software-Engineering-Specialist_R4041814-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Helsinki/Software-Engineering-Specialist_R4045648-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-06-03.
+This software engineer position at GE HealthCare was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

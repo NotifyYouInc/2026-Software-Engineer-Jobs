@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/San-Jose-California/Sr-Staff-Engineer_JR1288) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Bengaluru-India/Sr-Staff-Engineer_JR1496) |
 
 ## About This Role
 
-This frontend engineer position at Automation Anywhere was posted on 2026-03-26.
+This software engineer position at Automation Anywhere was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

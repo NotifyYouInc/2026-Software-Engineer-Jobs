@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Xi’an, Shaanxi, China |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7725104) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8164004) |
 
 ## About This Role
 
-This software engineer position at Referrals Only was posted on 2026-03-17.
+This software engineer position at Referrals Only was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

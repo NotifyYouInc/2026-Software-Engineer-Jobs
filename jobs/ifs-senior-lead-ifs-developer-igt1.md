@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000125263840-senior-lead-ifs-developer-igt1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000146399799-senior-lead-ifs-developer-igt1) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-05-08.
+This software engineer position at IFS was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

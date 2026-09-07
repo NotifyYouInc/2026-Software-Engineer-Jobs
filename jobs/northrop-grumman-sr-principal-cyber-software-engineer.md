@@ -1,16 +1,16 @@
-# Sr. Principal Cyber Software Engineer at Northrop Grumman
+# Sr Principal Cyber Software Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Sr-Principal-Cyber-Software-Engineer_R10234422) |
+| Location | Roy, Utah, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Cyber-Software-Engineer_R10248420) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-05-28.
+This devops engineer position at Northrop Grumman was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

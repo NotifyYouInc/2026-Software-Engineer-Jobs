@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Engineer---Authorization---Access-Control--AVP_R0406483) |
 
 ## About This Role
 
-This security engineer position at Deutsche Bank was posted on 2026-04-15.
+This software engineer position at Deutsche Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

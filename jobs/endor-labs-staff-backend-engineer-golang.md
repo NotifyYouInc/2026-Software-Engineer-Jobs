@@ -5,12 +5,12 @@
 | Company | [Endor Labs](https://scoutify.ai/companies/endor-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/endorlabs/jobs/4701316005) |
 
 ## About This Role
 
-This software engineer position at Endor Labs was posted on 2026-06-01.
+This software engineer position at Endor Labs was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

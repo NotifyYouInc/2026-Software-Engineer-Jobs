@@ -5,12 +5,12 @@
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Associate-Engineer_R0662575) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Associate-Engineer_R0663627) |
 
 ## About This Role
 
-This software engineer position at Kone was posted on 2026-07-11.
+This software engineer position at Kone was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

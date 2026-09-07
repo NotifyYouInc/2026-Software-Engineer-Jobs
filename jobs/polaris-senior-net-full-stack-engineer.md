@@ -5,12 +5,12 @@
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Bangalore-India/Senior-NET-Full-Stack-Engineer_R28828) |
 
 ## About This Role
 
-This software engineer position at Polaris was posted on 2026-04-27.
+This software engineer position at Polaris was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

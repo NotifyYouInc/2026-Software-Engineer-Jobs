@@ -1,16 +1,16 @@
-# Programmer Analyst, System and infrastructure operations, maintenance and development at Desjardins
+# Programmer analyst, System and infrastructure operations, maintenance and development at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-Lead-Java--API_R2609447) |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Automatisation-d-Infrastructure_R2610575) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-08-06.
+This software engineer position at Desjardins was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

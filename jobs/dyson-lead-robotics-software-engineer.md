@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Lead-Robotics-Software-Engineer_JR37039) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Lead-Robotics-Software-Engineer_JR37035) |
 
 ## About This Role
 
-This software engineer position at Dyson was posted on 2026-07-07.
+This software engineer position at Dyson was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

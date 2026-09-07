@@ -1,16 +1,16 @@
-# Full Stack Engineer at Renesas Electronics
+# Full-Stack Engineer at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122341460-full-stack-engineer) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146413814-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-04-22.
+This software engineer position at Renesas Electronics was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

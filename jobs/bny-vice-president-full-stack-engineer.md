@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79595) |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#81017) |
 
 ## About This Role
 
-This data engineer position at BNY was posted on 2026-08-14.
+This software engineer position at BNY was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

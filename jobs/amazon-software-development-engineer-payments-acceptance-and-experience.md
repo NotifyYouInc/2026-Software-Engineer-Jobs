@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457406/software-development-engineer-payments-acceptance-and-experience) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10521435/software-development-engineer-payments-acceptance-and-experience) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-24.
+This software engineer position at Amazon was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Développeur C# Finance (H/F) at Meritis
+# Développeur C# finance (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000134738459-developpeur-c-finance-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146428720-developpeur-c-finance-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-06-29.
+This software engineer position at Meritis was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

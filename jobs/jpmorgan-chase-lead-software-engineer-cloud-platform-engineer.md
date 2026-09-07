@@ -5,12 +5,12 @@
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685393) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772782) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-06-03.
+This devops engineer position at JPMorgan Chase was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

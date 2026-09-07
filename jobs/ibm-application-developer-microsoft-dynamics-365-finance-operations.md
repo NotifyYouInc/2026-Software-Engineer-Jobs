@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107418) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130497) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-24.
+This software engineer position at IBM was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

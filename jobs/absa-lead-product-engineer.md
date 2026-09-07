@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | South Africa |
+| Location | Randburg, Gauteng, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Lead-Product-Engineer_R-15988402-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Lead-Product-Engineer_R-15990492) |
 
 ## About This Role
 
-This software engineer position at Absa was posted on 2026-06-23.
+This software engineer position at Absa was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

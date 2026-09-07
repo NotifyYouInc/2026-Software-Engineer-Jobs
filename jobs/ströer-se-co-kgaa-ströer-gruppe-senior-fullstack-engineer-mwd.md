@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000135448439-senior-fullstack-engineer-mwd) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000146411969-senior-fullstack-engineer-mwd) |
 
 ## About This Role
 
-This software engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-07-02.
+This software engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

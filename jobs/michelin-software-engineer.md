@@ -5,12 +5,12 @@
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Software-Engineer_R-2026015913-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Software-Engineer_R-2026030198) |
 
 ## About This Role
 
-This software engineer position at Michelin was posted on 2026-04-28.
+This software engineer position at Michelin was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

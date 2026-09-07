@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckej-c5DPuLCHAXuRPI5mUEtukACF7yT9xiBfAhJ3fVGfEjsA1Ny_iwYrM8PVbGj099z5G9P5QXwQeD15nhBfmcXsZ-URMybbNr5n_xKMF-B17eqxJlKfx2MYnfDJEg%3D%3D_V2&loc=IN&title=Software+Engineer+III) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYM-353V8UXiWgUuSo-aVuVIHoz3HV7B2XYWwTwc38ksEjsA1Ny_iyGAf6RVsp0cUDxfBgvOFJmu5S7F_gBUFQgznFUTigZNgEia2AszduxQtJWs2yFJDWMoYnb35w%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-01.
+This software engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

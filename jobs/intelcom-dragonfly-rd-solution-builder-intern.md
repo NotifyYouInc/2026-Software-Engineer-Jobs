@@ -5,12 +5,12 @@
 | Company | [Intelcom | Dragonfly](https://scoutify.ai/companies/intelcomgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110749-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR111563) |
 
 ## About This Role
 
-This software engineer position at Intelcom | Dragonfly was posted on 2026-04-30.
+This software engineer position at Intelcom | Dragonfly was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

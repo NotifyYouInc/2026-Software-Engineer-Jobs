@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/140325060853277382-senior-software-engineer-aiml-genai-google-ads?sort_by=date&page=1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckafxYHUNvS4YpVn_6rRsSRJ9C7VQw4r7iTUi9tcKYZ0HEjsA1Ny_i187sPBpGASiQV4-WnXGhzIOfvrz450uyKy7QNQbbvr3IXx9QjkdWuYP0Fj0_2xKZnHbtKP_MQ%3D%3D_V2&loc=IN&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-27.
+This ai / llm engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
