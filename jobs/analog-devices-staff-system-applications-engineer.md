@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei-Songgao/Staff-System-Applications-Engineer_R262854) |
+| Location | Newbury, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Staff-System-Applications-Engineer_R261719) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-06-10.
+This software engineer position at Analog Devices was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

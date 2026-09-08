@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Software-Engineer---Front-Line-Manager_J00174692) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Software-Engineer---Front-Line-Manager_J00178007-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-11.
+This software engineer position at Equifax was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

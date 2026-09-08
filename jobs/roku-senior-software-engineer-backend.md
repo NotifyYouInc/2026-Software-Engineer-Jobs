@@ -1,16 +1,16 @@
-# Senior Software Engineer- Backend at Roku
+# Senior Software Engineer, Backend at Roku
 
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8022897?gh_jid=8022897) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8081750?gh_jid=8081750) |
 
 ## About This Role
 
-This software engineer position at Roku was posted on 2026-07-13.
+This software engineer position at Roku was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Lead-Software-Engineer_R0004855) |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Lead-Software-Engineer_R0005050) |
 
 ## About This Role
 
-This data engineer position at Qualys was posted on 2026-07-28.
+This software engineer position at Qualys was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

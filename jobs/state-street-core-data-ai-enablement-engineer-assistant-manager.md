@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-14 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Core-Data--AI-Enablement-Engineer---Assistant-Manager_R-789831) |
 
 ## About This Role
 
-This ai / llm engineer position at State Street was posted on 2026-05-14.
+This ai / llm engineer position at State Street was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

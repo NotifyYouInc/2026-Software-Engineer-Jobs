@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New York City, New York, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/104418385323795142-software-engineer-iii-infrastructure-google-cloud-networking?sort_by=date&page=1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU9wIILLpnFg7mEzL_0jS4cH2g80-4bwHeufP1ZECATNEjsA1Ny_iyMC02kGqoyhEnwZKlHMmXKbUWzUrvoaShix8VRqhkYyjsL4ypSNVPNVTA2mjMXtRJvVohxuEw%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-25.
+This software engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

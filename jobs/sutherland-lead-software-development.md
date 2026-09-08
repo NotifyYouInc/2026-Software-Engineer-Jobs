@@ -1,16 +1,16 @@
-# Lead-Software Development at Sutherland
+# Lead - Software Development at Sutherland
 
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000140174939-lead-software-development) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000146633669-lead-software-development) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-07-28.
+This software engineer position at Sutherland was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

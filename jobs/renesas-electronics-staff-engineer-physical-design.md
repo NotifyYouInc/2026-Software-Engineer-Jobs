@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127803420-staff-engineer-physical-design) |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146650520-staff-engineer-physical-design) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-22.
+This software engineer position at Renesas Electronics was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

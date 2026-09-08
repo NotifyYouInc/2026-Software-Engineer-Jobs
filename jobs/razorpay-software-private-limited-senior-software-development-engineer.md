@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Razorpay Software Private Limited](https://scoutify.ai/companies/razorpay-software-private-limited?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4697558005) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694070005) |
 
 ## About This Role
 
-This software engineer position at Razorpay Software Private Limited was posted on 2026-06-02.
+This software engineer position at Razorpay Software Private Limited was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

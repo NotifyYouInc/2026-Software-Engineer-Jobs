@@ -5,12 +5,12 @@
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2435096) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2436981) |
 
 ## About This Role
 
-This software engineer position at Cummins was posted on 2026-08-13.
+This software engineer position at Cummins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

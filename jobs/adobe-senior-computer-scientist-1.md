@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist-1_R170339) |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist-1_R171381-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-07-13.
+This software engineer position at Adobe was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

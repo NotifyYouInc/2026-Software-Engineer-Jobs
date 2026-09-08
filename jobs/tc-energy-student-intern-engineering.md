@@ -1,0 +1,22 @@
+# Student Intern, Engineering at TC Energy
+
+| Field | Details |
+|-------|---------|
+| Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Charleston, South Carolina, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741) |
+
+## About This Role
+
+This software engineer position at TC Energy was posted on 2026-09-01.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

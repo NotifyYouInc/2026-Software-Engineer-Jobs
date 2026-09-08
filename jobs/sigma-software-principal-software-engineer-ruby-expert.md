@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000145717473-principal-software-engineer-ruby-expert) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146662169-principal-software-engineer-ruby-expert) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-08-26.
+This software engineer position at Sigma Software was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Union, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4918069101?gh_jid=4918069101) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4965290101?gh_jid=4965290101) |
 
 ## About This Role
 
-This software engineer position at N-iX was posted on 2026-07-07.
+This software engineer position at N-iX was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

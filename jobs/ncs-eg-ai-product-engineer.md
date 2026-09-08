@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001314769-eg-ai-product-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001366309-eg-ai-product-engineer) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-08-14.
+This ai / llm engineer position at NCS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

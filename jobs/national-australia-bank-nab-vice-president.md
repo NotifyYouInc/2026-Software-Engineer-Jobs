@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Vice-President_JR120494) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Vice-President_JR116337) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-07-22.
+This software engineer position at National Australia Bank (NAB) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

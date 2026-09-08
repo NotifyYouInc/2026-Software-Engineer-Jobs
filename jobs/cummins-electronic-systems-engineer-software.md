@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Beijing, Beijing, China |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2434175) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2437098) |
 
 ## About This Role
 
-This software engineer position at Cummins was posted on 2026-08-25.
+This software engineer position at Cummins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

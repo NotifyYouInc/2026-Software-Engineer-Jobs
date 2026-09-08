@@ -1,16 +1,16 @@
-# Lead Software Engineer (Java) at Wells Fargo
+# Lead Software Engineer-Java at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Software-Engineer--Java-_R-533562) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-537605) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-04-10.
+This software engineer position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

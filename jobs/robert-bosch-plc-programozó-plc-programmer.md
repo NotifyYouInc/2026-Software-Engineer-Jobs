@@ -1,16 +1,16 @@
-# PLC programozó | PLC Programmer at Robert Bosch
+# PLC Programozó | PLC Programmer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Miskolc, Borsod-Abaúj-Zemplén, Hungary |
+| Location | Maklár, Heves County, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136754859-plc-programozo-plc-programmer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146648089-plc-programozo-plc-programmer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-09.
+This software engineer position at Robert Bosch was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

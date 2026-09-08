@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000135236659-senior-rust-software-engineer-banking-platform-mfx) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000146661939-senior-rust-software-engineer-banking-platform-mfx) |
 
 ## About This Role
 
-This software engineer position at Scalable Capital was posted on 2026-07-01.
+This software engineer position at Scalable Capital was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

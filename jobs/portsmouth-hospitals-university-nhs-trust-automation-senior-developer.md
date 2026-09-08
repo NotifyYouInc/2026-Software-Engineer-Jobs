@@ -5,12 +5,12 @@
 | Company | [Portsmouth Hospitals University NHS Trust](https://scoutify.ai/companies/portsmouthhospitalsuniversitynhstrust?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Portsmouth, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000140426410-automation-senior-developer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000146679750-automation-senior-developer) |
 
 ## About This Role
 
-This software engineer position at Portsmouth Hospitals University NHS Trust was posted on 2026-07-29.
+This software engineer position at Portsmouth Hospitals University NHS Trust was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

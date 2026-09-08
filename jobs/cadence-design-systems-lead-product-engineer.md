@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Product-Engineer_R54962-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Product-Engineer_R56136) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-06-08.
+This software engineer position at Cadence Design Systems was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

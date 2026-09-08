@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gurgaon-Haryana-India/Sr-Application-Engineer-I_WD30275132) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Sr-Application-Engineer-I_WD30278741) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-07-23.
+This software engineer position at Johnson Controls was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

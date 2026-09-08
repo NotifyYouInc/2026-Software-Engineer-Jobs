@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seymour, Indiana, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2432793) |
+| Location | Beijing, Beijing, China |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2435037) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cummins was posted on 2026-08-10.
+This software engineer position at Cummins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

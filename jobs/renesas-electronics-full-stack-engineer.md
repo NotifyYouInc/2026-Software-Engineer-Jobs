@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146413814-full-stack-engineer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146654780-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-08-31.
+This software engineer position at Renesas Electronics was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-248083) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at Amgen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

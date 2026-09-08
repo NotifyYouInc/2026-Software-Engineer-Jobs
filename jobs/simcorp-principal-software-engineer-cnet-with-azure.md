@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SimCorp](https://scoutify.ai/companies/simcorp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Noida/Principal-Software-Engineer--C-NET-with-Azure-_R-211487) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Noida/Principal-Software-Engineer--C-NET-with-Azure-_R-210145) |
 
 ## About This Role
 
-This software engineer position at SimCorp was posted on 2026-04-26.
+This software engineer position at SimCorp was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

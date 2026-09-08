@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/88352867953320646-software-engineer-ondevice-machine-learning?sort_by=date&page=1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZqtOYg2i-cGBBRo3gTXZRprBpi44Z8uee1gV1NlzcgKEjsA1Ny_i6mKlGIOiE1IcprEIUcnIYQYNme9kKtFetA5e5TILwjjU4Y7jUfHQKuBkPYX-Gak_uAnjrbf6w%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-05.
+This software engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

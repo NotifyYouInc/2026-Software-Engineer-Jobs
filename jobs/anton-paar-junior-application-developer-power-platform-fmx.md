@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000146161389-junior-application-developer-power-platform-fmx) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000146665119-junior-application-developer-power-platform-fmx) |
 
 ## About This Role
 
-This software engineer position at Anton Paar was posted on 2026-08-28.
+This software engineer position at Anton Paar was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

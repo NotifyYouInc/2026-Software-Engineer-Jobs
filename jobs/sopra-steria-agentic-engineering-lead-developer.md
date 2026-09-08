@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146155934-agentic-engineering-lead-developer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146676051-agentic-engineering-lead-developer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-08-28.
+This ai / llm engineer position at Sopra Steria was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

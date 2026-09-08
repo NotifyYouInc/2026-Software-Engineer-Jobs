@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000140167509-order-processing-op-technical-support) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000146639815-order-processing-op-technical-support) |
 
 ## About This Role
 
-This software engineer position at Avery Dennison Corporation was posted on 2026-07-28.
+This software engineer position at Avery Dennison Corporation was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

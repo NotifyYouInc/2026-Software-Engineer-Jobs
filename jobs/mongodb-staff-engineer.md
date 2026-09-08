@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8075467) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7523861) |
 
 ## About This Role
 
-This software engineer position at MongoDB was posted on 2026-08-07.
+This software engineer position at MongoDB was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

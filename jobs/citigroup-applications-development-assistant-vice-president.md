@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Applications-Development---Assistant-Vice-President_26985220) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Applications-Development---Assistant-Vice-President_26989619) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-18.
+This software engineer position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8732378002) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8675941002) |
 
 ## About This Role
 
-This software engineer position at Ping Identity was posted on 2026-08-28.
+This software engineer position at Ping Identity was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Engineer- Primary Substation at AECOM
+# Principal Engineer - Primary Substation at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000119133988-principal-engineer-primary-substation) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000146673439-principal-engineer-primary-substation) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-04-07.
+This software engineer position at AECOM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Senior-Analyst_26005225) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Application-Development-Senior-Analyst_26005739) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-05-14.
+This software engineer position at Cigna was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

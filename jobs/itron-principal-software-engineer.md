@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Principal-Software-Engineer_JR102238) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Principal-Software-Engineer_JR102847) |
 
 ## About This Role
 
-This software engineer position at Itron was posted on 2026-04-13.
+This software engineer position at Itron was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
