@@ -1,16 +1,16 @@
-# Sr Lead Software Engineer COMMODITIES UK at JPMorgan Chase
+# Sr Lead Software Engineer Commodities UK at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784982) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783116) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-08-27.
+This software engineer position at JPMorgan Chase was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000144143649-staff-engineer-asic-development-engineering-emulation-fpga-verification-with-8-12-years-of-experience) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000146886900-staff-engineer-asic-development-engineering-emulation-fpga-verification-with-8-12-years-of-experience) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-08-18.
+This semiconductor / chip design position at SanDisk was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

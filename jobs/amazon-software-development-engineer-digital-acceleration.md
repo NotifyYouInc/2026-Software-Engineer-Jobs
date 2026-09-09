@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429232/software-development-engineer-digital-acceleration) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10525615/software-development-engineer-digital-acceleration) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-25.
+This software engineer position at Amazon was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

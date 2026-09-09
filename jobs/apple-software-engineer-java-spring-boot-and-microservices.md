@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2025-10-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200626864/software-engineer-java-spring-boot-and-microservices) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677836/software-engineer-java-spring-boot-and-microservices) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-10-24.
+This software engineer position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

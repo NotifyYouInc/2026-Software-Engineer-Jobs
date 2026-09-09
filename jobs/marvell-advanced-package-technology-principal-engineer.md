@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Advanced-Package-Technology--Principal-Engineer_2601521) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Advanced-Package-Technology--Principal-Engineer_2604405) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-06-05.
+This semiconductor / chip design position at Marvell was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

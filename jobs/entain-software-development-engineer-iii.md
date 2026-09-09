@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000134705597-software-development-engineer-iii) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000146956158-software-development-engineer-iii) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-06-29.
+This software engineer position at Entain was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

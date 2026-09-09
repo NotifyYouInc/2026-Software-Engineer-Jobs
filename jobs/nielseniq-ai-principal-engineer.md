@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144785233-ai-principal-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000146952439-ai-principal-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-08-21.
+This ai / llm engineer position at NielsenIQ was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

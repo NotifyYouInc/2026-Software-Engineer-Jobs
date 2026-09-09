@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Software-Engineer_R568476) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Software-Engineer_R572463) |
 
 ## About This Role
 
-This software engineer position at Stryker was posted on 2026-07-14.
+This software engineer position at Stryker was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

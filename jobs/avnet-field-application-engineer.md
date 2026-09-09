@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
+| Location | Subang Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/San-Jose-California-United-States-Of-America/Field-Application-Engineer_JR-023772) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Subang-Jaya-Selangor-Malaysia/Field-Application-Engineer_JR-024170) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-08-04.
+This software engineer position at Avnet was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

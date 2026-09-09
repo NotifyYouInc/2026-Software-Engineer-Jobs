@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 11 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Dallas-TX/Software-Engineer---Salesforce-Sales-Health-Cloud_R-406072) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer---Salesforce-Sales-Health-Cloud_R-427429) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-04-14.
+This software engineer position at Humana was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

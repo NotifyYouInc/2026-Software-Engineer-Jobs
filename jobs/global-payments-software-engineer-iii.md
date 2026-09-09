@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHENGDU-SICHAUN-CHINA/Software-Engineer-III_R0073954) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHENGDU-SICHAUN-CHINA/Software-Engineer-III_R0073951) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-08-26.
+This software engineer position at Global Payments was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

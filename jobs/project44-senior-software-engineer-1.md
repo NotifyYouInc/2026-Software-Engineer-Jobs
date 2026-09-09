@@ -5,12 +5,12 @@
 | Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8124492) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8124404) |
 
 ## About This Role
 
-This software engineer position at project44 was posted on 2026-08-31.
+This software engineer position at project44 was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

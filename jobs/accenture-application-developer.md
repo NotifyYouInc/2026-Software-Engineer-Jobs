@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Developer_ATCI-R1-S1926784) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Developer_ATCI-R1-S1926808-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-31.
+This software engineer position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

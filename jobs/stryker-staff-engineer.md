@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Staff-Engineer_R571854) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Engineer_R572362-1) |
 
 ## About This Role
 
-This software engineer position at Stryker was posted on 2026-09-01.
+This software engineer position at Stryker was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

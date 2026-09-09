@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130277895-staff-engineer-sap-wm) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000146874012-staff-engineer-sap-wm) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-06-04.
+This software engineer position at Nagarro was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

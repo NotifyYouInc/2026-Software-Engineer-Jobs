@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000144784949-staff-software-engineer-mobile-mfn) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000146894099-staff-software-engineer-mobile-mfn) |
 
 ## About This Role
 
-This software engineer position at INPOST was posted on 2026-08-21.
+This software engineer position at INPOST was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

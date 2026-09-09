@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Quant Developer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8620505002) |
+| Category | Sales & Trading |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002) |
 
 ## About This Role
 
-This quant developer position at Jane Street was posted on 2026-07-21.
+This sales & trading position at Jane Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

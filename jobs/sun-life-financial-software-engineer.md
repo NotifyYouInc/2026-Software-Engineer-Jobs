@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ontario, CA |
-| Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Ontario-Telecommuters/Software-Engineer_JR00126569-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Software-Engineer_JR00127251) |
 
 ## About This Role
 
-This devops engineer position at Sun Life Financial was posted on 2026-07-31.
+This software engineer position at Sun Life Financial was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

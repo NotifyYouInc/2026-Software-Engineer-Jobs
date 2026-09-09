@@ -5,12 +5,12 @@
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8143678) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8169024) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-08-26.
+This software engineer position at Pure Storage was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

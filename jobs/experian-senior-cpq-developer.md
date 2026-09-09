@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123852549-senior-cpq-developer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146899599-senior-cpq-developer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-04-30.
+This software engineer position at Experian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

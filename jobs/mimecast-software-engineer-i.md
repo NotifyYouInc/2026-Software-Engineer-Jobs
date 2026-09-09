@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Great-Britain---London/Software-Engineer-I_R6688-1) |
 
 ## About This Role
 
-This software engineer position at Mimecast was posted on 2026-07-31.
+This software engineer position at Mimecast was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

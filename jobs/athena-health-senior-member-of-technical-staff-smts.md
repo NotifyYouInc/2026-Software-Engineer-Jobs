@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Member-of-Technical-Staff---SMTS_R14481) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Member-of-Technical-Staff---SMTS_R15357) |
 
 ## About This Role
 
-This software engineer position at Athena Health was posted on 2026-03-12.
+This software engineer position at Athena Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

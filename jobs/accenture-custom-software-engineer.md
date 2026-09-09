@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Indore, Madhya Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5676186-S2067046-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Developer_ATCI-5088478-S1882915-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-01.
+This software engineer position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

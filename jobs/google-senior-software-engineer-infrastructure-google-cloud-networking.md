@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc6mFuNJHCDdavRkRcbj2qwud31R65dQPaJhsBPoLbWJEjsACxwdTJesoycURVgL9jLTgsB7d_yg4oyyIR-Ew0rRtX---sSWhm87UDW8VnuLWg4gFvX8k7fhe2h5iQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXPjb9UcxYTIAHebH3gCxbCLk3lg-npqHvmd7dFGX-toEjsA1Ny_ixC-4c_gU0iwZZAxaVBkBBEW3-gvALpI2bH9nnnKXxJBFY9vrRXuPdnBzZ_5nq_M2O6kTlV0lQ%3D%3D_V2&loc=PL&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-15.
+This software engineer position at Google was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

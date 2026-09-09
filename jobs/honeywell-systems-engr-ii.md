@@ -5,12 +5,12 @@
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155332) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155333) |
 
 ## About This Role
 
-This software engineer position at Honeywell was posted on 2026-08-21.
+This software engineer position at Honeywell was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

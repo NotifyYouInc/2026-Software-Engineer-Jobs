@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144237667-sr-software-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146969989-sr-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-08-19.
+This ai / llm engineer position at ServiceNow was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

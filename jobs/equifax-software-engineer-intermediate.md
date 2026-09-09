@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Costa Rica |
+| Location | Kerala, IN |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Software-Engineer---Intermediate_J00178053) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Software-Engineer---Intermediate_J00178465-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-08-19.
+This software engineer position at Equifax was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

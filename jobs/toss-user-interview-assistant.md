@@ -5,12 +5,12 @@
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=5620531003) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7983321003) |
 
 ## About This Role
 
-This software engineer position at Toss was posted on 2026-07-02.
+This software engineer position at Toss was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

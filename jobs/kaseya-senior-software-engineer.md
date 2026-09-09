@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Miami, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6015831004/?gh_jid=6015831004) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6178386004/?gh_jid=6178386004) |
 
 ## About This Role
 
-This software engineer position at Kaseya was posted on 2026-06-06.
+This software engineer position at Kaseya was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software engineer at Eurofins Scientific
+# Software Engineer at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144520379-software-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000146895064-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-08-20.
+This software engineer position at Eurofins Scientific was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

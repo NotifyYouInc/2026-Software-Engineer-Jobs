@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Junior-Software-Engineer--Java-_51586800-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Junior-Software-Engineer--Java-_51587969) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-08-12.
+This software engineer position at DXC Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

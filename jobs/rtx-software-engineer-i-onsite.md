@@ -1,16 +1,16 @@
-# Software Engineer I, Onsite at RTX
+# Software Engineer I (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wayne, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01868070) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-22.
+This software engineer position at RTX was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

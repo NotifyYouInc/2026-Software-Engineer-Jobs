@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pleasanton, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Associate-Staff-Software-Engineer_31142947-1) |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Associate-Staff-Software-Engineer_31160768-1) |
 
 ## About This Role
 
-This frontend engineer position at Abbott was posted on 2026-02-24.
+This software engineer position at Abbott was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
