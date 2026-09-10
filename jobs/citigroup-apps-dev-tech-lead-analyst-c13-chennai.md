@@ -1,16 +1,16 @@
-# Apps Dev Tech Lead Analyst - C13 - CHENNAI at Citigroup
+# Apps Dev Tech Lead Analyst - C13 - Chennai at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Apps-Dev-Tech-Lead-Analyst---C13---CHENNAI_26972520) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Apps-Dev-Tech-Lead-Analyst---C13---Chennai_26989165) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-02.
+This software engineer position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

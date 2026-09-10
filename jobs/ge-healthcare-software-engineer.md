@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tianjin/Software-Engineer_R4044653-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Seongnam/Software-Engineer_R4045323) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-08-05.
+This software engineer position at GE HealthCare was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

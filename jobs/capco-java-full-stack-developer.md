@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8131837) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8165676) |
 
 ## About This Role
 
-This software engineer position at Capco was posted on 2026-08-28.
+This software engineer position at Capco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

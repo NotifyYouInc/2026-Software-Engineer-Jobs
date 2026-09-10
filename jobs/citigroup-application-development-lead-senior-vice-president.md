@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Development-Lead---Senior-Vice-President_26966090) |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Development-Lead---Senior-Vice-President_26984495) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-06-12.
+This software engineer position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

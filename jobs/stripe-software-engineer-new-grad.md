@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7206515) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8160776) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-04-22.
+This software engineer position at Stripe was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

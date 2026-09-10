@@ -5,12 +5,12 @@
 | Company | [BEW Berliner Energie und Wärme](https://scoutify.ai/companies/bew?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bew/744000145247085-duales-studium-bachelor-of-science-informatik-2027) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bew/744000147220149-duales-studium-bachelor-of-science-informatik-2027) |
 
 ## About This Role
 
-This software engineer position at BEW Berliner Energie und Wärme was posted on 2026-08-24.
+This software engineer position at BEW Berliner Energie und Wärme was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

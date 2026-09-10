@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Engineering Manager |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Software-Engineer-Technical-Lead_R000071788) |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Software-Engineer-Technical-Lead_R000073480) |
 
 ## About This Role
 
-This engineering manager position at Chevron was posted on 2026-06-07.
+This software engineer position at Chevron was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

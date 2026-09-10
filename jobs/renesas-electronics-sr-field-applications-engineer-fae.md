@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139196189-sr-field-applications-engineer-fae) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147234499-sr-field-applications-engineer-fae) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-23.
+This software engineer position at Renesas Electronics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

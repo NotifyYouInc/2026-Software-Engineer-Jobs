@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4697771006&board=coreweave&gh_jid=4697771006) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4710738006&board=coreweave&gh_jid=4710738006) |
 
 ## About This Role
 
-This software engineer position at CoreWeave was posted on 2026-07-16.
+This software engineer position at CoreWeave was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

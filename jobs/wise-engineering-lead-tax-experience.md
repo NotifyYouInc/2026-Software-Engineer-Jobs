@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138566944-engineering-lead-tax-experience) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147158979-engineering-lead-tax-experience) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-20.
+This software engineer position at WISE was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

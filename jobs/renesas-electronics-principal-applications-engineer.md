@@ -1,16 +1,16 @@
-# Principal, Applications Engineer at Renesas Electronics
+# Principal Applications Engineer at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kokubunji, Tokyo, Japan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000114489827-principal-applications-engineer) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147129919-principal-applications-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-13.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

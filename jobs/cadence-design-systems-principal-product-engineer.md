@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Zhubei, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Product-Engineer_R55719) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Principal-Product-Engineer_R56216) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-08-11.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Location | Xuzhou, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nuevo-Laredo-Tamaulipas/IT-Analyst-Applications_R0000359411) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Xuzhou-Jiangsu/IT-Analyst-Applications_R0000388842) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-24.
+This software engineer position at Caterpillar was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

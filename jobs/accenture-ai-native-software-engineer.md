@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Native-Software-Engineer_ATCI-5743773-S2066555) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI-Native-Software-Engineer_ATCI-5750026-S2067690-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-27.
+This software engineer position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

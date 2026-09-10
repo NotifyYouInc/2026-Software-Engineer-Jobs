@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Product-Engineer_R56136) |
+| Location | San Jose, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE-10/Lead-Product-Engineer_R56106) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-01.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

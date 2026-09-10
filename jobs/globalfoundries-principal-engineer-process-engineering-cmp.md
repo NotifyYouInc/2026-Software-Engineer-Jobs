@@ -1,16 +1,16 @@
-# Principal Engineer, Process Engineering (CMP) at GlobalFoundries
+# Principal Engineer Process Engineering (CMP) at GlobalFoundries
 
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Engineer--Equipment-Engineering--CMP-_JR-2602380) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Engineer-Process-Engineering--CMP-_JR-2603664) |
 
 ## About This Role
 
-This software engineer position at GlobalFoundries was posted on 2026-08-26.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001151861-software-engineer-must-have-net-core) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001374729-software-engineer-must-have-net-core) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-06-13.
+This software engineer position at NCS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

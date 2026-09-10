@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-C-QT-QML/32336) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-C-QT-QML/32755) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-07-18.
+This software engineer position at HARMAN International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

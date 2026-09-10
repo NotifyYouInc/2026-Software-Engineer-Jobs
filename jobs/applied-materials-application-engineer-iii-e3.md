@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Application-Engineer-III--E3-_R2622654-1) |
+| Location | Mobile, Alabama, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Home--MobileUT-001/Application-Engineer-III--E3-_R2627314) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-09-01.
+This software engineer position at Applied Materials was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waukesha, Wisconsin, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Staff-Software-Architect_R4038376-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Staff-Software-Architect_R4045857-2) |
 
 ## About This Role
 
-This technical & solutions architect position at GE HealthCare was posted on 2026-03-20.
+This software engineer position at GE HealthCare was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

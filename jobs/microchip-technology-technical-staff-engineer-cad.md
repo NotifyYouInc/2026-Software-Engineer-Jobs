@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Bangalore/Technical-Staff-Engineer---CAD_R1883-26-7) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Hyderabad/Technical-Staff-Engineer---CAD_R3519-26-3) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-05-25.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

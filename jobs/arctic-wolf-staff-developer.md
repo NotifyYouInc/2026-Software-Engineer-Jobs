@@ -5,12 +5,12 @@
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Staff-Developer_R26_867) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Staff-Developer_R26_976-1) |
 
 ## About This Role
 
-This software engineer position at Arctic Wolf was posted on 2026-08-06.
+This software engineer position at Arctic Wolf was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

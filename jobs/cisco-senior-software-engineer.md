@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 14 locations |
+| Location | Milpitas, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Portland-Oregon-US/Senior-Software-Engineer_2021235) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Senior-Software-Engineer_2021257) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-14.
+This software engineer position at Cisco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

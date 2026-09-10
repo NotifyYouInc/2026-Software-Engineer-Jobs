@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reẖovot, Central District, Israel |
+| Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Engineer_R2623086) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer_R2627065) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-08-26.
+This software engineer position at Applied Materials was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

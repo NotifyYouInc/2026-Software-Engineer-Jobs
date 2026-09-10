@@ -1,16 +1,16 @@
-# Senior Technical  Lead at Thales
+# Senior Technical Lead at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Senior-Technical--Lead_R0330751-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida-Berger-Tower/Senior-Technical-Lead_R0337206-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-07-02.
+This software engineer position at Thales was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

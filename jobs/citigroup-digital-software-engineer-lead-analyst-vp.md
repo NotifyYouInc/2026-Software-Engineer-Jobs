@@ -1,16 +1,16 @@
-# Digital Software Engineer Lead Analyst VP at Citigroup
+# Digital Software Engineer Lead Analyst - VP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-Software-Engineer-Lead-Analyst-VP_26958275) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Lead-Analyst---VP_26990821) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-01.
+This software engineer position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

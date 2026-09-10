@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Developer_ATCI-5088478-S1882915-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Custom-Software-Engineer_ATCP-1507671-S428120) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-02.
+This software engineer position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

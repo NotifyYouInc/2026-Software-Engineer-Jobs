@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Odin](https://scoutify.ai/companies/odin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/odin/8132e0ef-a284-4e90-9472-c63ab54e5e24) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/odin/42b3f905-f0d8-44d5-ba3d-cef6c2a976a6) |
 
 ## About This Role
 
-This software engineer position at Odin was posted on 2026-08-21.
+This software engineer position at Odin was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

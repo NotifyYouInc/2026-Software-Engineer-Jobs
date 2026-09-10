@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Malvern, Arkansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineer_180729-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Application-Engineer_181513) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-07-24.
+This software engineer position at Vanguard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

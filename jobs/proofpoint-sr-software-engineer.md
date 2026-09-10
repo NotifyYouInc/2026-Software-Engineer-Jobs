@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Sr-Software-Engineer_R13862) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/Sr-Software-Engineer_R14235) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-03-13.
+This software engineer position at Proofpoint was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

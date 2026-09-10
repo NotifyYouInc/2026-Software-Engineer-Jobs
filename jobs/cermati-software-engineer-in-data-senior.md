@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000139910010-software-engineer-in-data-senior) |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000147197029-software-engineer-in-data-senior) |
 
 ## About This Role
 
-This software engineer position at Cermati was posted on 2026-07-27.
+This data engineer position at Cermati was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

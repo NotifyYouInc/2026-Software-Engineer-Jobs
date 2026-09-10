@@ -5,12 +5,12 @@
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/HYDERABAD-IND/SW-Engineer-II_R1153743) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/HYDERABAD-IND/SW-Engineer-II_R1152902) |
 
 ## About This Role
 
-This software engineer position at Ncratleos was posted on 2026-07-06.
+This software engineer position at Ncratleos was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

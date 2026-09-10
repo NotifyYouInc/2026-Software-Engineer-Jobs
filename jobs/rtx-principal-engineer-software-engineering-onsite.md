@@ -1,16 +1,16 @@
-# Principal Engineer - Software Engineering (Onsite) at RTX
+# Principal Engineer, Software Engineering (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Principal-Engineer---Software-Engineering--Onsite-_01850520) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principal-Engineer--Software-Engineering--Onsite-_01871345-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-05.
+This software engineer position at RTX was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

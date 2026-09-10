@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Novi Sad, Vojvodina, Serbia |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7818226003) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7983207003) |
 
 ## About This Role
 
-This software engineer position at Fivetran was posted on 2026-08-24.
+This software engineer position at Fivetran was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

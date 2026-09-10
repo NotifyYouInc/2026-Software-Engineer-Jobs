@@ -1,16 +1,16 @@
-# Senior Staff Software Engineer at Ping Identity
+# Senior Staff Software Engineer  at Ping Identity
 
 | Field | Details |
 |-------|---------|
 | Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8649954002) |
+| Location | Seattle, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8743821002) |
 
 ## About This Role
 
-This software engineer position at Ping Identity was posted on 2026-08-03.
+This data engineer position at Ping Identity was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

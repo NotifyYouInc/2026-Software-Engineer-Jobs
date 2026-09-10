@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-IS-Engineer_R-245282) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-IS-Engineer_R-253365) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-06-10.
+This software engineer position at Amgen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

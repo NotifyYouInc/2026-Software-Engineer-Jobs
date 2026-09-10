@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--VP_R-00282536) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--VP_R-00279863) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-07-30.
+This software engineer position at NatWest Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

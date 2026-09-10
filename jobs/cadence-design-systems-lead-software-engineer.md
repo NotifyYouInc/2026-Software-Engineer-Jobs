@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-05/Lead-Software-Engineer_R56062) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Software-Engineer_R56217) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-08-31.
+This software engineer position at Cadence Design Systems was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

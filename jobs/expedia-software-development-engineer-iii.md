@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Software-Development-Engineer-III_R-109243-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-106281) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-08-29.
+This software engineer position at Expedia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
