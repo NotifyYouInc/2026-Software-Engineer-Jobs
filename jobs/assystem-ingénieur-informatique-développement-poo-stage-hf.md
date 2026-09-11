@@ -1,16 +1,16 @@
-# Ingénieur Informatique & Développement POO - Stage H/F at Assystem
+# Ingénieur Informatique & Développement POO - Stage - H/F at Assystem
 
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chessy, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000145446690-ingenieur-informatique-developpement-poo-stage-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147443999-ingenieur-informatique-developpement-poo-stage-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-08-25.
+This software engineer position at Assystem was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# System Engineer - Information Technology Division, Rakuten General Insurance Co., Ltd. at Rakuten
+# System Engineer - Information Technology Division, Rakuten General Insurance Co., Ltd.(Secondment) at Rakuten
 
 | Field | Details |
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/System-Engineer---Information-Technology-Division--Rakuten-General-Insurance-Co--Ltd_1032828-60) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/System-Engineer---Information-Technology-Division--Rakuten-General-Insurance-Co--Ltd-Secondment-_1036633-1) |
 
 ## About This Role
 
-This software engineer position at Rakuten was posted on 2026-04-24.
+This software engineer position at Rakuten was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

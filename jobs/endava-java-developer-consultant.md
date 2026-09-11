@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Braşov, Brașov County, Romania |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000145686650-java-developer-consultant) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000147489122-java-developer-consultant) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-08-26.
+This software engineer position at Endava was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

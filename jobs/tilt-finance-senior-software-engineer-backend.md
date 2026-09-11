@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tilt Finance](https://scoutify.ai/companies/tilt-finance?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tilthq/3ffa8cce-7b60-4708-9014-6d3c62637076) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tilthq/71d2666f-4a0b-4430-a3f5-b759f2c8ebcf) |
 
 ## About This Role
 
-This software engineer position at Tilt Finance was posted on 2026-07-09.
+This software engineer position at Tilt Finance was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

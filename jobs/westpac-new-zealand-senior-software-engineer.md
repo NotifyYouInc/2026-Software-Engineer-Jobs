@@ -5,12 +5,12 @@
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Software-Engineer_JR107461) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Software-Engineer_JR107872) |
 
 ## About This Role
 
-This software engineer position at Westpac New Zealand was posted on 2026-07-22.
+This software engineer position at Westpac New Zealand was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

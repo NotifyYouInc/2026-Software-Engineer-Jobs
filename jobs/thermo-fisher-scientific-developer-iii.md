@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Developer-III_R-01356152) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Developer-III_R-01363949) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-07-02.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

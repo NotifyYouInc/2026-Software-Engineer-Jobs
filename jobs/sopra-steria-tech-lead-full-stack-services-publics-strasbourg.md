@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139225093-tech-lead-full-stack-services-publics-strasbourg) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147463658-tech-lead-full-stack-services-publics-strasbourg) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-07-23.
+This software engineer position at Sopra Steria was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

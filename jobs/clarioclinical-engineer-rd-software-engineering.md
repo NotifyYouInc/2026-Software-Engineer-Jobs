@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ankara, Ankara, Turkey |
+| Location | Hungary |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Ankara-Turkey/Engineer--R-D-Software-Engineering---ERT-Legacy_R17923) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Hungary-Remote/Engineer--R-D-Software-Engineering_R18155) |
 
 ## About This Role
 
-This software engineer position at Clarioclinical was posted on 2026-07-22.
+This software engineer position at Clarioclinical was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

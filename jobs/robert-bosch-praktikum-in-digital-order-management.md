@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lohr am Main, Bavaria, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146694079-praktikum-in-digital-order-management) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147437759-praktikum-in-digital-order-management) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-09-01.
+This software engineer position at Robert Bosch was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

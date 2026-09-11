@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolt - English](https://scoutify.ai/companies/wolt---english?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Finland |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7758312) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/8159098) |
 
 ## About This Role
 
-This software engineer position at Wolt - English was posted on 2026-04-01.
+This software engineer position at Wolt - English was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

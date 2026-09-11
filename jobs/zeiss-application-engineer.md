@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hsinchu-City/Application-Engineer_JR_1051879) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Suzhou/Application-Engineer_JR_1052874) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-08-05.
+This sales engineer position at Zeiss was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

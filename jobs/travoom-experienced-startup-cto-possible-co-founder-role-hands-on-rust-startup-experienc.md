@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000137987389-experienced-startup-cto-possible-co-founder-role-hands-on-rust-startup-experience-a-must-have) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000147402240-experienced-startup-cto-possible-co-founder-role-hands-on-rust-startup-experience-a-must-have) |
 
 ## About This Role
 
-This engineering manager position at Travoom was posted on 2026-07-15.
+This software engineer position at Travoom was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

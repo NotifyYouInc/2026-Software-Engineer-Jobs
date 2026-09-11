@@ -1,16 +1,16 @@
-# Staff Engineer, VLSI Design Engineering at SanDisk
+# Staff Engineer, VLSI Design Engineering  at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000143734949-staff-engineer-vlsi-design-engineering) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000147413130-staff-engineer-vlsi-design-engineering) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-08-17.
+This semiconductor / chip design position at SanDisk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

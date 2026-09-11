@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Catawiki](https://scoutify.ai/companies/catawiki?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8119918) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8177623) |
 
 ## About This Role
 
-This software engineer position at Catawiki was posted on 2026-08-11.
+This software engineer position at Catawiki was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

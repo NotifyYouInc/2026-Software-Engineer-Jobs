@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R170356-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R171427) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-07-28.
+This software engineer position at Adobe was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

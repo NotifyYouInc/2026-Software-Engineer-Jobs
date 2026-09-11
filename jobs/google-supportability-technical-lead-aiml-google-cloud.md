@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Customer Success |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbMVHPexJGOmZ9FXJONgK9jeKcIFRvL17yMGBeoRUstDEjsA1Ny_i89nXY8G4p60wfsAzJsS9Iz1oYvLTfmnfWIDwRMpSimIZYraU4qLDHMMevO-2eDaoP1oHYD9TQ%3D%3D_V2&loc=US&title=Supportability+Technical+Lead) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdaWqGoLTFkyTH4x4SkucHMueF56c07HMxWOE-8E3pl1EjsA1Ny_i0BTKQxjxzkKSrEI94WGijtNijWoGxs3JRXqAgXWwVRbcwV368KKi2cfVPxxbvMNAuuH2Vm31A%3D%3D_V2&loc=US&title=Supportability+Technical+Lead) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-08-31.
+This customer success position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

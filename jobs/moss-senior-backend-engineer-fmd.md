@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moss](https://scoutify.ai/companies/moss?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/moss/5173ab99-7972-4427-b7d6-745dd867e451) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/moss/776c9af0-12a5-4756-af41-02ff7a1aed72) |
 
 ## About This Role
 
-This software engineer position at Moss was posted on 2026-07-13.
+This software engineer position at Moss was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

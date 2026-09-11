@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Senior-Software-Engineer-II_R114216) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Senior-Software-Engineer-II_R111997) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-07-02.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

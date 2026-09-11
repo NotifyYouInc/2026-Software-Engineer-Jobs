@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineering-Technical-Leader_2022100-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_2022691-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-30.
+This software engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

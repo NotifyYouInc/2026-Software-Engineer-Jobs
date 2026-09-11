@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80040) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79649) |
 
 ## About This Role
 
-This sales engineer position at BNY was posted on 2026-08-10.
+This sales engineer position at BNY was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

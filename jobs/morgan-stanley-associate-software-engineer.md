@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR033706) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Associate--Software-Engineer_PT-JR043300-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-07-01.
+This software engineer position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

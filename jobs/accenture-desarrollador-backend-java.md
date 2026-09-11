@@ -1,16 +1,16 @@
-# Desarrollador Backend Java at Accenture
+# Desarrollador backend Java at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Desarrollador-Backend-Java_14688027) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Desarrollador-backend-Java_14699869) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-28.
+This software engineer position at Accenture was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

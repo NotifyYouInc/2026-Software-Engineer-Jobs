@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000128859769-sap-abap-techno-functional-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000147433844-sap-abap-techno-functional-analyst) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-05-28.
+This software engineer position at Syngenta was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

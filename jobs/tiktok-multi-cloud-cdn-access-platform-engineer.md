@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7619157841027598597/detail) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7681126649950505221/detail) |
 
 ## About This Role
 
-This software engineer position at TikTok was posted on 2026-03-25.
+This devops engineer position at TikTok was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

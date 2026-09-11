@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140595139-senior-fullstack-software-engineer-kotlinjavareact-fintech) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000147456416-senior-fullstack-software-engineer-kotlinjavareact-fintech) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-07-30.
+This software engineer position at Delivery Hero was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

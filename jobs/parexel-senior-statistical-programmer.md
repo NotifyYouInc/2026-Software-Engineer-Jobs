@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Statistical-Programmer_R0000045254) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Taipei/Senior-Statistical-Programmer_R0000044910) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-08-27.
+This bioinformatics / computational biology position at Parexel was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

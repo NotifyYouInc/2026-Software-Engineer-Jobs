@@ -5,12 +5,12 @@
 | Company | [Eight Sleep](https://scoutify.ai/companies/eightsleep?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/eightsleep/4913e6e2-db3f-4ec4-9b48-ed5098b0af9f) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/eightsleep/e9a84433-b292-497e-ad33-15da82056af5) |
 
 ## About This Role
 
-This software engineer position at Eight Sleep was posted on 2026-07-27.
+This software engineer position at Eight Sleep was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

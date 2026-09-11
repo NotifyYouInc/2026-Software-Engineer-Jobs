@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8551607002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8742245002) |
 
 ## About This Role
 
-This software engineer position at Graphcore was posted on 2026-05-15.
+This software engineer position at Graphcore was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

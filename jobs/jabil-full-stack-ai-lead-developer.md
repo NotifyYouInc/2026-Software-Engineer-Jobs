@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Full-Stack-AI-Lead-Developer_J2462184) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---India/Full-Stack-AI-Lead-Developer_J2460267) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-08-20.
+This software engineer position at Jabil was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

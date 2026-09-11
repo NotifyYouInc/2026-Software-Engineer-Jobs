@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Investment Banking |
-| Posted | 2026-05-25 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--Java--Investment-Banking---VP_R-00278515-1) |
 
 ## About This Role
 
-This investment banking position at NatWest Group was posted on 2026-05-25.
+This investment banking position at NatWest Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

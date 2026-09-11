@@ -1,16 +1,16 @@
-# Software engineer at BP
+# Software Engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-engineer_RQ114239-1) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-Engineer_RQ112945-2) |
 
 ## About This Role
 
-This ai / llm engineer position at BP was posted on 2026-08-24.
+This software engineer position at BP was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

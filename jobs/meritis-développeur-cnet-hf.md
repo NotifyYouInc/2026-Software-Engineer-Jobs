@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145300494-developpeur-cnet-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000147466938-developpeur-cnet-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-08-24.
+This software engineer position at Meritis was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

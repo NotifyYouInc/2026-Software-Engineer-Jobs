@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
+| Location | Taoyuan, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/IT-Software-Engineer---MES-systems_JR109722) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/IT-Software-Engineer---MES-systems_JR109724) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-08-26.
+This software engineer position at Micron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

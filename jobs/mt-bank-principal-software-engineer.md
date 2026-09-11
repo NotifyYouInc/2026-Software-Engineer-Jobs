@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Principal-Software-Engineer_R88304) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Principal-Software-Engineer_R89645) |
 
 ## About This Role
 
-This software engineer position at M&T Bank was posted on 2026-07-17.
+This software engineer position at M&T Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

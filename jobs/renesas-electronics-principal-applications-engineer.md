@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147129919-principal-applications-engineer) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147460699-principal-applications-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-09-03.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

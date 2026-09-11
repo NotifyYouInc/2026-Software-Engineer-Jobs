@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Burnaby, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Development-Engineer--WARP_R_106118) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Development-Engineer--WARP_R_106822) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-04-24.
+This software engineer position at Remitly was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

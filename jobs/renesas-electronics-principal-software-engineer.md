@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kodaira, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139224513-principal-software-engineer) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147407449-principal-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-23.
+This software engineer position at Renesas Electronics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

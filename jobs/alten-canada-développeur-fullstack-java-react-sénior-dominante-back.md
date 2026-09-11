@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000122645530-developpeur-fullstack-java-react-senior-dominante-back) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147447489-developpeur-fullstack-java-react-senior-dominante-back) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-04-24.
+This software engineer position at ALTEN Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
