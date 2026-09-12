@@ -5,12 +5,12 @@
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7634500003) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7978574003) |
 
 ## About This Role
 
-This software engineer position at Rocket Lab was posted on 2026-02-17.
+This software engineer position at Rocket Lab was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

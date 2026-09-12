@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kilkenny, Leinster, Ireland |
-| Category | Industrial Automation |
+| Location | 2 locations |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Kilkenny/Engineering-Lead_31160888) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Buffalo-Grove/Engineering-Lead_31161262-1) |
 
 ## About This Role
 
-This industrial automation position at Abbott was posted on 2026-09-04.
+This software engineer position at Abbott was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

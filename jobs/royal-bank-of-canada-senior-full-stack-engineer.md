@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Raleigh-North-Carolina-United-States-of-America/Senior-Full-Stack-Engineer_R-0000171632-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Full-Stack-Engineer_R-0000186844) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-06-03.
+This software engineer position at Royal Bank of Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

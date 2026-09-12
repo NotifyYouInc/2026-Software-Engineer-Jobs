@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toshiba Global Commerce Solutions](https://scoutify.ai/companies/toshibaglobalcommercesolutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5126155007) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5231290007) |
 
 ## About This Role
 
-This software engineer position at Toshiba Global Commerce Solutions was posted on 2026-05-01.
+This software engineer position at Toshiba Global Commerce Solutions was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

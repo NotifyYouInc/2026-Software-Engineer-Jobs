@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Staff-Software-Engineer_JR-000592) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Staff-Software-Engineer_JR-000858) |
 
 ## About This Role
 
-This frontend engineer position at Alkami Technology was posted on 2026-03-30.
+This software engineer position at Alkami Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

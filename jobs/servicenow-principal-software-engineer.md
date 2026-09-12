@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135321364-principal-software-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147613709-principal-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-07-01.
+This ai / llm engineer position at ServiceNow was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

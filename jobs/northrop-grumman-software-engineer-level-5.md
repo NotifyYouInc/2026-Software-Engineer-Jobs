@@ -1,16 +1,16 @@
-# Software Engineer - Level 5 at Northrop Grumman
+# Software Engineer Level 5 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-5_R10247167-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-5_R10249485) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-22.
+This software engineer position at Northrop Grumman was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

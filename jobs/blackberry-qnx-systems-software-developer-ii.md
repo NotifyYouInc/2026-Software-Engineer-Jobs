@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BlackBerry](https://scoutify.ai/companies/blackberry?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265-1) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260288-1) |
 
 ## About This Role
 
-This software engineer position at BlackBerry was posted on 2026-08-05.
+This embedded / firmware engineer position at BlackBerry was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

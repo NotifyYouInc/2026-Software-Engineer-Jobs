@@ -5,12 +5,12 @@
 | Company | [Interview Engineering](https://scoutify.ai/companies/interview-engineering?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/interviewengineering/jobs/8533841002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/interviewengineering/jobs/8784601002) |
 
 ## About This Role
 
-This software engineer position at Interview Engineering was posted on 2026-05-02.
+This software engineer position at Interview Engineering was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Agile-Development-Sr_JR17275) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Agile-Development-Sr_JR17609) |
 
 ## About This Role
 
-This software engineer position at Freddie Mac was posted on 2026-05-27.
+This software engineer position at Freddie Mac was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

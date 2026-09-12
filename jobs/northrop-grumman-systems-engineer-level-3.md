@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Gilbert, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Systems-Engineer---Level-3_R10246525) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Systems-Engineer---Level-3_R10249410) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-21.
+This software engineer position at Northrop Grumman was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

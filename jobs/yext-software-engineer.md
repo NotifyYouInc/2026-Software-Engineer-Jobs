@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yext](https://scoutify.ai/companies/yext?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/8160649) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/8174875) |
 
 ## About This Role
 

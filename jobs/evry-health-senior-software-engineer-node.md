@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evry Health](https://scoutify.ai/companies/evry-health?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Texas, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.lever.co/evry-health/dbca3142-0aa7-492d-a307-76d921d45684) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.lever.co/evry-health/b48cdbe9-4eec-46d9-ade2-e1f7806bce18) |
 
 ## About This Role
 
-This software engineer position at Evry Health was posted on 2026-06-04.
+This software engineer position at Evry Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

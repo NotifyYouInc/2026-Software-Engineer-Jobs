@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | Keyport, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-Engineer_R-00189309) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Keyport-WA/Systems-Integration-Engineer_R-00191569) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-11.
+This software engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

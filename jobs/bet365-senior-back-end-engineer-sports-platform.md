@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000133455088-senior-back-end-engineer-sports-platform) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000147568428-senior-back-end-engineer-sports-platform) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-06-22.
+This software engineer position at bet365 was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

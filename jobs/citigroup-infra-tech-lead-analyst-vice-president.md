@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rutherford, New Jersey, United States |
+| Location | Irving, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Infra-Tech-Lead-Analyst---Vice-President_26939203) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Infra-Tech-Lead-Analyst---Vice-President_26990257) |
 
 ## About This Role
 
-This it & systems administration position at Citigroup was posted on 2026-02-19.
+This it & systems administration position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

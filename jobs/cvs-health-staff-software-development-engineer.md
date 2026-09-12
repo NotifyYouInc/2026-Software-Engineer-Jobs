@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Cumberland, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Staff-Software-Development-Engineer_R1011939) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Staff-Software-Development-Engineer_R1030777-1) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-08-17.
+This software engineer position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

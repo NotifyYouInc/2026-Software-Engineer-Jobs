@@ -5,12 +5,12 @@
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-16 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Software-Engineer---Agentic_R-2026-68057) |
 
 ## About This Role
 
-This software engineer position at Southwest Airlines was posted on 2026-05-16.
+This software engineer position at Southwest Airlines was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

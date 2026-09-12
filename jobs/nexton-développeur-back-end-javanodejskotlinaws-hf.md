@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000146155489-developpeur-back-end-javanodejskotlinaws-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000147549959-developpeur-back-end-javanodejskotlinaws-hf) |
 
 ## About This Role
 
-This software engineer position at Nexton was posted on 2026-08-28.
+This software engineer position at Nexton was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

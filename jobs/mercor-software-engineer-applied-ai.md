@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7) |
+| Location | New York City, New York, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/4bb1232c-3f1e-4fd7-8894-fcd68f96e3db) |
 
 ## About This Role
 
-This software engineer position at Mercor was posted on 2026-04-21.
+This ai / llm engineer position at Mercor was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

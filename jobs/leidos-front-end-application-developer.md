@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Suitland, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Front-End-Application-Developer_R-00189728-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Front-End-Application-Developer_R-00191605) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-14.
+This software engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

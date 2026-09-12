@@ -6,7 +6,7 @@
 | Location | Hillsboro, Oregon, United States |
 | Category | Industrial Automation |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757) |
 
 ## About This Role
 

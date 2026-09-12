@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PGX-So-Paulo/PGX-ANL-TI-PL_Req1587906) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PGX-So-Paulo/PGX-ANL-TI-PL_Req1594680) |
 
 ## About This Role
 
-This software engineer position at Santander was posted on 2026-06-19.
+This software engineer position at Santander was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

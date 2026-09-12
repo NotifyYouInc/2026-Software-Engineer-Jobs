@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Milan, Lombardy, Italy |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/1492f67d-1b4e-4f6b-af70-bb1a2bcdf73d) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/73431166-a0db-4c50-a0bc-bd796ea113ee) |
 
 ## About This Role
 
-This software engineer position at Docebo was posted on 2026-02-26.
+This software engineer position at Docebo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

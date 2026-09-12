@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Pune-India/Staff-Software-Engineer_R013496) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-United-Kingdom/Staff-Software-Engineer_R014105) |
 
 ## About This Role
 
-This software engineer position at SailPoint Technologies was posted on 2026-06-12.
+This software engineer position at SailPoint Technologies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

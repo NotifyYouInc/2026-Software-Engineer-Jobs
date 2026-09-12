@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Software-Development-Engineer_R171020) |
+| Location | San Jose, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171047) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-08-07.
+This ai / llm engineer position at Adobe was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

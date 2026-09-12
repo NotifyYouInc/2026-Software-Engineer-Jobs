@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/cb67851b-0269-4cf5-996c-34c3a88a19c8) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/8492ebff-ed8e-4472-b729-3a49f4b52fc0) |
 
 ## About This Role
 
-This software engineer position at Mercor was posted on 2026-04-23.
+This software engineer position at Mercor was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

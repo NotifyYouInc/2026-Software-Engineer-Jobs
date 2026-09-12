@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126720720-developpeur-sap-full-stack-abap-fiori-btp) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000147543429-developpeur-sap-full-stack-abap-fiori-btp) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-05-15.
+This software engineer position at Talan was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

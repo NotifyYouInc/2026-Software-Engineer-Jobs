@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000134462162-staff-software-engineer-rental-platform-mfd) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000147591827-staff-software-engineer-rental-platform-mfd) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-06-26.
+This software engineer position at Sixt was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

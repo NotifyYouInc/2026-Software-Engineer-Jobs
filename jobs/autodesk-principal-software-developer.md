@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Software-Developer_26WD99852-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Principal-Software-Developer_26WD100826-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-08-28.
+This software engineer position at Autodesk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

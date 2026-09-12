@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
+| Posted | 2026-09-05 |
 | Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Engineer-What-s-Next--Aerospace-Corporation-Hiring-Event--Chantilly--VA_R014784) |
 
 ## About This Role
 
-This software engineer position at The Aerospace Corporation was posted on 2026-03-12.
+This software engineer position at The Aerospace Corporation was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

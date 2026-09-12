@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tsc](https://scoutify.ai/companies/tsc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dahlgren, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Dahlgren-VA/Systems-Engineer-I_JR2675) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Huntsville-AL/Systems-Engineer-I_JR2780-1) |
 
 ## About This Role
 
-This software engineer position at Tsc was posted on 2026-07-01.
+This software engineer position at Tsc was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

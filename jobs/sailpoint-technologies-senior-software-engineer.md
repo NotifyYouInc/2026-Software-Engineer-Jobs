@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Senior-Software-Engineer_R014032-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-United-Kingdom/Senior-Software-Engineer_R014104) |
 
 ## About This Role
 
-This software engineer position at SailPoint Technologies was posted on 2026-08-18.
+This software engineer position at SailPoint Technologies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

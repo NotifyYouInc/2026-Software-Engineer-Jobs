@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadsign](https://scoutify.ai/companies/broadsign?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/broadsign/jobs/7829706003) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/broadsign/jobs/7987085003) |
 
 ## About This Role
 
-This software engineer position at Broadsign was posted on 2026-08-06.
+This software engineer position at Broadsign was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

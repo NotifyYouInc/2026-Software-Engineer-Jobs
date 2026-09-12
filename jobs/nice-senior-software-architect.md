@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sandy, Utah, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4821187101?gh_jid=4821187101) |
+| Location | Southampton, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4902438101?gh_jid=4902438101) |
 
 ## About This Role
 
-This technical & solutions architect position at NiCE was posted on 2026-03-26.
+This software engineer position at NiCE was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
