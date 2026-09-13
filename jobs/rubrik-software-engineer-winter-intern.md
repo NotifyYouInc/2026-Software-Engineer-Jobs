@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# Software Engineer - Winter Intern at Rubrik
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at Rubrik was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

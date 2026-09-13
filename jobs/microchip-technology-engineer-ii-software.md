@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Philippines |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Chennai/Engineer-II---Software_R2144-26-6) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Engineer-II---Software_R3540-26) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-06-08.
+This software engineer position at Microchip Technology was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at Cato Networks
+# Manager Software Development at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4334129101?gh_jid=4334129101) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8176599) |
 
 ## About This Role
 
-This software engineer position at Cato Networks was posted on 2026-09-06.
+This software engineer position at Appian was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

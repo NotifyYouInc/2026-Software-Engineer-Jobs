@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# Junior Full Stack Engineer – AI at The Global Talent Co.
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [The Global Talent Co.](https://scoutify.ai/companies/the-global-talent-co?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Gauteng, ZA |
 | Category | Software Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/fd1fa118-a3e2-4c7c-8181-25a7b92659f4) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at The Global Talent Co. was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Querétaro, Chiapas, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-Mexico/Applications-Engineer_R-20377) |
+| Location | Wiener Neudorf, Lower Austria, Austria |
+| Category | Sales Engineer |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Wiener-Neudorf-Austria/Applications-Engineer_R-20869) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-08-01.
+This sales engineer position at Flowserve was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

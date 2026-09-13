@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Cupertino, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200679654/lead-ai-engineer-finance-digital-transformation) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-09-04.
+This strategy & operations position at Apple was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

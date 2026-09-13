@@ -1,16 +1,16 @@
-# Senior Software Engineer at Cato Networks
+# Software Engineer I at AiPrise
 
 | Field | Details |
 |-------|---------|
-| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [AiPrise](https://scoutify.ai/companies/aiprise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4334129101?gh_jid=4334129101) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/aiprise/jobs/F9rwzmT-software-engineer-i) |
 
 ## About This Role
 
-This software engineer position at Cato Networks was posted on 2026-09-06.
+This software engineer position at AiPrise was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# Senior Software Engineer - DevOps at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Software-Engineer---DevOps_JR_1052896-1) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at Zeiss was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

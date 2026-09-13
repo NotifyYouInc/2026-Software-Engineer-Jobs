@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# IT Solutions Assistant, SC5, Dhaka at Wfp
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Software Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Dhaka-Bangladesh-The-Peoples-R/IT-Solutions-Assistant--SC5--Dhaka_JR126540) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at Wfp was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

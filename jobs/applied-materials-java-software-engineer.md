@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# Java Software Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Reẖovot, Central District, Israel |
 | Category | Software Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2610395) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at Applied Materials was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

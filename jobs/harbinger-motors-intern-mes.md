@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff - Sys at Aptiv
+# Intern, MES at Harbinger Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Harbinger Motors](https://scoutify.ai/companies/harbingermotors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Garden Grove, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Senior-Member-of-Technical-Staff---Sys_J000703348) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5231839007) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-09-06.
+This software engineer position at Harbinger Motors was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

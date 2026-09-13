@@ -1,16 +1,16 @@
-# Senior Software Engineer at Cato Networks
+# Senior Software Engineer II at Rocket Lab
 
 | Field | Details |
 |-------|---------|
-| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Tucson, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4334129101?gh_jid=4334129101) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7987630003) |
 
 ## About This Role
 
-This software engineer position at Cato Networks was posted on 2026-09-06.
+This software engineer position at Rocket Lab was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Location | Boxborough, Massachusetts, United States |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2023550-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boxborough-Massachusetts-US/Software-Engineering-Technical-Leader_2021705) |
 
 ## About This Role
 
-This ai / llm engineer position at Cisco was posted on 2026-09-04.
+This software engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
