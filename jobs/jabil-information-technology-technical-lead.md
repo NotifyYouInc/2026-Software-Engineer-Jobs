@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ukraine |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Kharkov/Information-Technology-Technical-Lead_J2462393) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Pune/Programmer-Analyst---III_J2392167) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-08-26.
+This software engineer position at Jabil was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

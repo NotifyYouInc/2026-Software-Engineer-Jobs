@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147486219-tech-lead-developpeur-java-plm-courbevoie) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147880739-tech-lead-developpeur-java-plm-courbevoie) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-04.
+This software engineer position at Sopra Steria was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

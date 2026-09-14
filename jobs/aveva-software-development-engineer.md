@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/Software-Development-Engineer_R014504-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Development-Engineer_R014879) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-08-08.
+This software engineer position at AVEVA was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

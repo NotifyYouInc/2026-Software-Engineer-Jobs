@@ -1,16 +1,16 @@
-# Associate Senior Software Engineer at Global Payments
+# Associate Senior software engineer at Global Payments
 
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Senior-Software-Engineer_R0069928-2) |
+| Category | Data Analyst |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Senior-software-engineer_R0074514) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-07-03.
+This data analyst position at Global Payments was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

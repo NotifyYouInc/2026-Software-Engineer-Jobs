@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer--Embedded-_R0326072) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer--Embedded-_R0335212) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Thales was posted on 2026-04-21.
+This embedded / firmware engineer position at Thales was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

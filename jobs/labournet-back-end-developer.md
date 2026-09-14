@@ -5,12 +5,12 @@
 | Company | [LabourNet](https://scoutify.ai/companies/labournet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LabourNet/744000135244399-back-end-developer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LabourNet/744000147876309-back-end-developer) |
 
 ## About This Role
 
-This software engineer position at LabourNet was posted on 2026-07-01.
+This software engineer position at LabourNet was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

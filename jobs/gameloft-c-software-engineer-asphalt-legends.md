@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000138286629-c-software-engineer-asphalt-legends) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000147940359-c-software-engineer-asphalt-legends) |
 
 ## About This Role
 
-This software engineer position at Gameloft was posted on 2026-07-17.
+This software engineer position at Gameloft was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

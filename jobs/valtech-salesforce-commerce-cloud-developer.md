@@ -5,12 +5,12 @@
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4954634101) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4954677101) |
 
 ## About This Role
 
-This software engineer position at Valtech was posted on 2026-09-03.
+This software engineer position at Valtech was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

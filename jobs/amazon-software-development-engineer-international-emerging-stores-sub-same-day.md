@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10523491/software-development-engineer-international-emerging-stores-sub-same-day) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530852/software-development-engineer-international-emerging-stores-sub-same-day) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-09-01.
+This software engineer position at Amazon was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

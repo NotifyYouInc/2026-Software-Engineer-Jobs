@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Althofen, Carinthia, Austria |
 | Category | Industrial Automation |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Austria-Althofen/Automation-Engineer-_WD227807) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Austria-Althofen/Process-Development-Engineer--m-w-d-_WD228311) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-09-04.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

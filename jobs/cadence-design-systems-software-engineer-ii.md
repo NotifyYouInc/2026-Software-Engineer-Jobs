@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI-07/Software-Engineer-II_R55985) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-05/Software-Engineer-II_R56090) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-08-18.
+This software engineer position at Cadence Design Systems was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

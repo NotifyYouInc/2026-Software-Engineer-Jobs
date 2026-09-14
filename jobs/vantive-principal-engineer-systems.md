@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/Principal-Engineer--Systems_JR-193008) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/Principal-Engineer--Systems_JR-197524-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Vantive was posted on 2026-04-11.
+This embedded / firmware engineer position at Vantive was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

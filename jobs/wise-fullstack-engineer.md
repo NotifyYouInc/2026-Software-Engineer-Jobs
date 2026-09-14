@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147211572-fullstack-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147841209-fullstack-engineer) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-09-03.
+This software engineer position at WISE was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8105723) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8173822) |
 
 ## About This Role
 
-This software engineer position at Navan was posted on 2026-08-31.
+This software engineer position at Navan was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

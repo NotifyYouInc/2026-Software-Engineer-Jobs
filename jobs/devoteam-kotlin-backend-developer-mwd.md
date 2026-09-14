@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Germany |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141855250-kotlin-backend-developer-mwd) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147944560-kotlin-backend-developer-mwd) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-08-06.
+This software engineer position at Devoteam was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

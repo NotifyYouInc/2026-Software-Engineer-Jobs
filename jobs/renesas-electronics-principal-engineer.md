@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113637137-principal-engineer) |
+| Location | Zhubei, Taiwan, Taiwan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147864615-principal-engineer) |
 
 ## About This Role
 
-This industrial automation position at Renesas Electronics was posted on 2026-03-10.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

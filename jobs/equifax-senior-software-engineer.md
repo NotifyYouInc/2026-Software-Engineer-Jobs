@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Senior-Software-Engineer_J00177610-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Senior-Software-Engineer_J00178601) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-08-28.
+This software engineer position at Equifax was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000117328394-engineering-lead) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147893529-engineering-lead) |
 
 ## About This Role
 
-This engineering manager position at WISE was posted on 2026-03-27.
+This software engineer position at WISE was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

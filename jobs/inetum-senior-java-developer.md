@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000146439581-senior-java-developer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147871654-senior-java-developer) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-08-31.
+This software engineer position at Inetum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

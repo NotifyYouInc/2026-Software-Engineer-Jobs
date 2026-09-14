@@ -5,12 +5,12 @@
 | Company | [Kaplan](https://scoutify.ai/companies/kaplan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/Bangalore-KA-India/Senior-Software-Engineer-I--Hybrid-_JR255381) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/Bangalore-KA-India/Senior-Software-Engineer-I--Hybrid-_JR255477) |
 
 ## About This Role
 
-This software engineer position at Kaplan was posted on 2026-07-03.
+This software engineer position at Kaplan was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

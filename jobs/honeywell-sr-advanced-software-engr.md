@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156512) |
+| Category | Software Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156428) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Honeywell was posted on 2026-09-02.
+This software engineer position at Honeywell was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/India/Software-Engineer-II--Backend-_R-100430) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/Sri-Lanka/Software-Engineer-II--Backend-_R-100455) |
 
 ## About This Role
 
-This software engineer position at Circles was posted on 2026-08-21.
+This software engineer position at Circles was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

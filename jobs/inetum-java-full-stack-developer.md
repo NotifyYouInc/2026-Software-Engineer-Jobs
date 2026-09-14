@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000146411109-java-full-stack-developer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147870439-java-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-08-31.
+This software engineer position at Inetum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

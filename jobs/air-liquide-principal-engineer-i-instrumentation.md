@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/India-New-Delhi/Principal-Engineer-I---Instrumentation_R10090656-1) |
+| Category | Industrial Automation |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/India-New-Delhi/Senior-Engineer---Instrumentation_R10090650-1) |
 
 ## About This Role
 
-This engineering manager position at Air Liquide was posted on 2026-05-22.
+This industrial automation position at Air Liquide was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

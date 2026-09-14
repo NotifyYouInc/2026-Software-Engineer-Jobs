@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Software-Engineer_R56217) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Lead-Software-Engineer_R55918) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-03.
+This software engineer position at Cadence Design Systems was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

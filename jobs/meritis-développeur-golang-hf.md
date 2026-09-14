@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000139543039-developpeur-golang-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000147886039-developpeur-golang-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-07-24.
+This software engineer position at Meritis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
