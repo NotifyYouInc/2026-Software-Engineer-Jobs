@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silicon Laboratories](https://scoutify.ai/companies/silabs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Espoo, Uusimaa, Finland |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Embedded-Software-Engineer_21005) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Espoo/Embedded-Software-Engineer_20998) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Silicon Laboratories was posted on 2026-08-28.
+This embedded / firmware engineer position at Silicon Laboratories was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Plainfield-IN/Senior-Engineer---Grid-Operations-Midwest_R40722-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Plainfield-IN/Senior-Engineer---Grid-Operations-Midwest_R41385-2) |
 
 ## About This Role
 
-This software engineer position at Duke Energy was posted on 2026-07-30.
+This software engineer position at Duke Energy was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139212569-senior-backend-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148210500-senior-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-23.
+This software engineer position at WISE was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

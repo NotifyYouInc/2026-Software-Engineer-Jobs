@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXgs5ysGbUo2G9zpfzG7UPjePqNFwtxaofGCJJ8DGh7wEjsACxwdTJC8T8MX06CwG-6Dlm71YwaMJ9LcCKvQ5ZzW_xVUD9kf0m-d_HxiqvTDib57Wt_kTm8Xhn3D0w%3D%3D_V2&loc=IN&title=Software+Engineer+II) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZncFJAKnibqGKEvSdaniCm5TpT9O-4QHs4wq3LV3LX8EjsA1Ny_i3guvy4x_VrKW5YfN8XFEFO8vgaBKTK-y1Ii79-EjH5GNidC_rTXpxFBPVc6tr_7qUnd9rpBDQ%3D%3D_V2&loc=IN&title=Software+Engineer+II) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-15.
+This software engineer position at Google was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

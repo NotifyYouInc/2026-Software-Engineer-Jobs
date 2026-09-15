@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beringen, Schaffhausen, Switzerland |
-| Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000140419339-softwareentwickler-hmi-mwd) |
+| Category | Software Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000148223559-softwareentwickler-hmi-mwd) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-07-29.
+This software engineer position at Syntegon Technology was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

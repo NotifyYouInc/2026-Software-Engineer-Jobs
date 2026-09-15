@@ -1,16 +1,16 @@
-# Java Developer-Assistant Vice President at Citigroup
+# Java Developer – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Developer-Assistant-Vice-President_26964418) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Java-Developer---Assistant-Vice-President_26989277) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-27.
+This software engineer position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

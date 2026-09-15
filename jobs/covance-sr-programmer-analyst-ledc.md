@@ -1,16 +1,16 @@
-# Sr. Programmer Analyst (LEDC) at Covance
+# Sr Programmer Analyst (LEDC) at Covance
 
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Sr-Programmer-Analyst--LEDC-_265141) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Sr-Programmer-Analyst--LEDC-_265221) |
 
 ## About This Role
 
-This software engineer position at Covance was posted on 2026-09-04.
+This software engineer position at Covance was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

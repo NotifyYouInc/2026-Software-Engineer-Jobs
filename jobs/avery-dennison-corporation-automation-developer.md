@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000146923554-automation-developer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000148137009-automation-developer) |
 
 ## About This Role
 
-This software engineer position at Avery Dennison Corporation was posted on 2026-09-02.
+This software engineer position at Avery Dennison Corporation was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Digital-Solutions-Engineer_JOBREQ-0003619) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Digital-Solutions-Engineer_JOBREQ-0003629) |
 
 ## About This Role
 
-This software engineer position at Ensigninfosecurity was posted on 2026-09-03.
+This sales engineer position at Ensigninfosecurity was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

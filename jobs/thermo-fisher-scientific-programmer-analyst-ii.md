@@ -1,16 +1,16 @@
-# programmer analyst II at Thermo Fisher Scientific
+# Programmer Analyst II at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | China |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/programmer-analyst-II_R-01364147) |
+| Location | Philippines |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Philippines/Programmer-Analyst-II_R-01364829-1) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-08-14.
+This bioinformatics / computational biology position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Technical-Lead--Technical-Support_R10258) |
+| Category | Customer Success |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Technical-Lead--Technical-Support_R10454-1) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-07-16.
+This customer success position at SOTI was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

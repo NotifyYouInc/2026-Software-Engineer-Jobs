@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Mobile Engineer |
-| Posted | 2025-03-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200530783/ios-software-engineer-location-technologies) |
+| Location | Herzliya, Tel Aviv, Israel |
+| Category | Software Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200682345/ios-software-engineer-location-technologies) |
 
 ## About This Role
 
-This mobile engineer position at Apple was posted on 2025-03-04.
+This software engineer position at Apple was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

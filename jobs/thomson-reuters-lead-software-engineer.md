@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Lead-Software-Engineer_JREQ203180) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sri-Lanka-Colombo/Lead-Software-Engineer_JREQ200012) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-09-03.
+This software engineer position at Thomson Reuters was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

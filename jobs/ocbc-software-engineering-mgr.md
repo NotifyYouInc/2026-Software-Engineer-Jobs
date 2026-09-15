@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Shenzhen/Software-Engineering---MGR_JR00010655) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Wisma-Lee-Rubber/Software-Engineering---MGR_JR00010833) |
 
 ## About This Role
 
-This software engineer position at OCBC was posted on 2026-08-31.
+This software engineer position at OCBC was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

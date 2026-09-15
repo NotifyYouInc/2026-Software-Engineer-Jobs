@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Beijing, Beijing, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shenzhen-China/Applications-Engineer--_J-00351813) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Beijing-China/Applications-Engineer--_J-00351801-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at ASML was posted on 2026-09-07.
+This semiconductor / chip design position at ASML was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

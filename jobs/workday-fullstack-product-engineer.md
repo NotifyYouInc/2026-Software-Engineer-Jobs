@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Designer_JR-0102988) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Fullstack-Product-Engineer_JR-0108374) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-12.
+This software engineer position at Workday was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

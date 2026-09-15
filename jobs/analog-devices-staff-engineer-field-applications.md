@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shenzhen-Guangdong-Nanshan/Staff-Engineer--Field-Applications_R264038) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Japan-Tokyo-Minato-ku-Higashi-Shinbashi/Staff-Engineer--Field-Applications_R265275) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-28.
+This sales engineer position at Analog Devices was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

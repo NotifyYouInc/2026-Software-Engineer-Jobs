@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Manager--Software-Engineer-Integration---SRE_R400712-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Manager--Software-Engineer-Integration---SRE_R400712-1) |
 
 ## About This Role
 
-This engineering manager position at Merck was posted on 2026-06-13.
+This devops engineer position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

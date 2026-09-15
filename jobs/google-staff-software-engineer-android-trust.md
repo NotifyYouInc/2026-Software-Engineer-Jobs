@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQOJ9h17akJBsFnaljqEfK80mMzcDiM_ChWyKHW_OPPVEjsA1Ny_i1D84BOBqXE4v9e7kKDUEpc9gI8dc2h1wp8bvkkOYYoxgbqPv-dA3Y-x05n5TlGN5mnwA2QZRw%3D%3D_V2&loc=SG&title=Staff+Software+Engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd6umMvw3kqHBaUa6zb35dTQDk86EF0lRAeswtIA707cEjsA1Ny_ize2IndtS7UtCgWtlA8F6W7_dIkYY8xBU3sBp0VAoPiqq4iD4eLxggTOCvk5-1AE-ea6-fnBHA%3D%3D_V2&loc=SG&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-07.
+This machine learning engineer position at Google was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

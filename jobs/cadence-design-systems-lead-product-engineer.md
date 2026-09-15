@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Product-Engineer_R55957-1) |
+| Category | Software Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Product-Engineer_R56191) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-04.
+This software engineer position at Cadence Design Systems was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Engineer- Electrical (Process & Piping) at AECOM
+# Principal Engineer - Electrical (Process & Piping) at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140194882-principal-engineer-electrical-process-piping) |
+| Category | Software Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148199923-principal-engineer-electrical-process-piping) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-07-28.
+This software engineer position at AECOM was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

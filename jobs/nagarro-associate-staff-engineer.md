@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143743619-associate-staff-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148082199-associate-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-08-17.
+This software engineer position at Nagarro was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Full-Stack-Developer---Nodejs--Reactjs--TypeScript---AI-Code-Generation_JR1043415) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Full-Stack-Developer---Nodejs--Reactjs--TypeScript---AI-Code-Generation_JR1043418) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-09-03.
+This software engineer position at Synechron was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Software-Engineer--ITC_R-89038) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Software-Engineer--ITC_R-91639) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-09-04.
+This software engineer position at Nike was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

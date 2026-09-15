@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000144753619-staff-engineer-vlsi-design-engineering-uvm-system-verilog-with-8-to-12-years-of-experience) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000148146209-staff-engineer-vlsi-design-engineering-uvm-system-verilog-with-8-to-12-years-of-experience) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-08-21.
+This semiconductor / chip design position at SanDisk was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

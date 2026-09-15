@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Native-Engineer--Vision-One-XDR-Workbench-_R0009805) |
+| Category | Software Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Native-Engineer--Vision-One-XDR-Workbench-_R0010183) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-06-15.
+This software engineer position at Trend Micro was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

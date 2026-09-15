@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000147631899-senior-automation-testing-engineer-python) |
+| Category | QA Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000148203440-senior-automation-testing-engineer-python) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-05.
+This qa engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

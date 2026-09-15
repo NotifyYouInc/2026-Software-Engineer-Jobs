@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Principal-Engineer---ASIC-DV_JR101959) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Principal-Engineer---ASIC-DV_JR111205) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-25.
+This semiconductor / chip design position at Micron was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

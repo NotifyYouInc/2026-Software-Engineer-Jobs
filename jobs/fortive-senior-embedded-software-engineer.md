@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortive](https://scoutify.ai/companies/us6-cx-oj39813?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://ejta.fa.us6.oraclecloud.com/jobs/#10648) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ejta.fa.us6.oraclecloud.com/jobs/#10601) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Fortive was posted on 2026-09-07.
+This embedded / firmware engineer position at Fortive was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

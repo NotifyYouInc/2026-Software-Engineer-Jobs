@@ -1,16 +1,16 @@
-# Lead Software Engineer- Java at Clarivate
+# Lead Software Engineer, Java at Clarivate
 
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Bangalore/Lead-Software-Engineer_JREQ134019-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Lead-Software-Engineer--Java_JREQ136488-1) |
 
 ## About This Role
 
-This software engineer position at Clarivate was posted on 2026-06-19.
+This software engineer position at Clarivate was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

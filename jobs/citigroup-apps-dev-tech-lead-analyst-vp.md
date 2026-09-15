@@ -1,16 +1,16 @@
-# Apps Dev Tech Lead Analyst - VP at Citigroup
+# Apps Dev Tech Lead Analyst VP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | London, England, United Kingdom |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Apps-Dev-Tech-Lead-Analyst---VP_26939335) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Apps-Dev-Tech-Lead-Analyst-VP_26991311) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-16.
+This software engineer position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

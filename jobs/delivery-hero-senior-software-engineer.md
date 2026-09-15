@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145717940-senior-software-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148156969-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-08-26.
+This software engineer position at Delivery Hero was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cyprus |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000144514939-scala-developer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000148152859-scala-developer) |
 
 ## About This Role
 
-This software engineer position at Playtech was posted on 2026-08-20.
+This software engineer position at Playtech was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

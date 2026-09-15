@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2025-10-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200615985/senior-software-engineer-machine-learning-ai) |
+| Location | Shanghai, Shanghai, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200682296/senior-software-engineer-machine-learning-ai) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-10-15.
+This ai / llm engineer position at Apple was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

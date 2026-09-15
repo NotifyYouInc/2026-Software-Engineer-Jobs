@@ -5,12 +5,12 @@
 | Company | [Advanced Space](https://scoutify.ai/companies/advanced-space?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Westminster, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/advancedspace/jobs/4274242009) |
 
 ## About This Role
 
-This software engineer position at Advanced Space was posted on 2026-06-05.
+This software engineer position at Advanced Space was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
