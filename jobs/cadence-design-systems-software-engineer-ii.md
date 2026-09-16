@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-05/Software-Engineer-II_R56090) |
+| Location | Cork, Munster, Ireland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Software-Engineer-II_R56140) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-07.
+This ai / llm engineer position at Cadence Design Systems was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

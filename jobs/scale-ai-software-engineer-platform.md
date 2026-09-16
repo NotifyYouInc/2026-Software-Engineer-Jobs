@@ -1,16 +1,16 @@
-# Software Engineer, Platform at Scale AI
+# Software Engineer, Platform  at Scale AI
 
 | Field | Details |
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4594879005) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4731630005) |
 
 ## About This Role
 
-This devops engineer position at Scale AI was posted on 2026-02-13.
+This software engineer position at Scale AI was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# HIH-Software Engineering Senior Analyst at Cigna
+# HIH - Software Engineering Senior Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH-Software-Engineering-Senior-Analyst_26005660) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Senior-Analyst_26010550) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-05-18.
+This software engineer position at Cigna was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

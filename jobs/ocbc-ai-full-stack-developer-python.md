@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Shenzhen/AI-Full-Stack-Developer--Python-_JR00010656-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Shenzhen/AI-Full-Stack-Developer--Python-_JR00010888) |
 
 ## About This Role
 
-This ai / llm engineer position at OCBC was posted on 2026-08-31.
+This ai / llm engineer position at OCBC was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

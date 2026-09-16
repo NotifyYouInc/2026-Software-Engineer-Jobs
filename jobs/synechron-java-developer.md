@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Java-Developer_JR1043170-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Java-Developer_JR1044054-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-08-24.
+This software engineer position at Synechron was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

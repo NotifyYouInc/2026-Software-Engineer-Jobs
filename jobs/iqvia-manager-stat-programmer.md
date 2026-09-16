@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Manager-Stat-Programmer_R1533116) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Manager-Stat-Programmer_R1565324) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-04-06.
+This bioinformatics / computational biology position at IQVIA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

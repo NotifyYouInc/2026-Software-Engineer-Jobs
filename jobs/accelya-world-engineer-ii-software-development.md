@@ -1,16 +1,16 @@
-# Engineer II - Software Development at Accelya World
+# Engineer II  - Software Development at Accelya World
 
 | Field | Details |
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Engineer-II---Software-Development_JR102317) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Engineer-II----Software-Development_JR102521) |
 
 ## About This Role
 
-This software engineer position at Accelya World was posted on 2026-09-04.
+This software engineer position at Accelya World was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

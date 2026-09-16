@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5990272004) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6182475004) |
 
 ## About This Role
 
-This software engineer position at Reltio was posted on 2026-05-21.
+This software engineer position at Reltio was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

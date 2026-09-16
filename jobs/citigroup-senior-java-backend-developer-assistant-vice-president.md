@@ -1,16 +1,16 @@
-# Senior Java Backend Developer - Assistant Vice President at Citigroup
+# Senior Java Backend Developer- Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_26973586) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer--Assistant-Vice-President_26990878) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-03.
+This software engineer position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

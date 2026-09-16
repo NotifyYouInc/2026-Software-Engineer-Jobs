@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000114886158-sr-staff-soc-application-engineering-sw) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148437079-sr-staff-soc-application-engineering-sw) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-03-16.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

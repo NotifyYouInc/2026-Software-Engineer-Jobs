@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plantation, Florida, United States |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Plantation/Software-Engineer-Intern_R0326819-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R0339658) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-05-01.
+This software engineer position at Thales was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

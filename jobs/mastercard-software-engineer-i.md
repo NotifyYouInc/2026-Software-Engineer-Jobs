@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-289557) |
+| Category | QA Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-09-04.
+This qa engineer position at Mastercard was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

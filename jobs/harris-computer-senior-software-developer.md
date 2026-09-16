@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Senior-Software-Developer_R0040560-3) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Senior-Software-Developer_R0046283-2) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-04-01.
+This software engineer position at Harris Computer was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

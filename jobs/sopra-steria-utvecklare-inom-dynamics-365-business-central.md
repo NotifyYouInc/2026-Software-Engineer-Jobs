@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Göteborg, Västra Götaland, Sweden |
+| Location | Malmö, Skåne, Sweden |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146681042-utvecklare-inom-dynamics-365-business-central) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148459299-utvecklare-inom-dynamics-365-business-central) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-01.
+This software engineer position at Sopra Steria was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

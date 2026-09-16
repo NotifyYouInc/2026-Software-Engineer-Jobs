@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5049276-2) |
+| Category | Software Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5052362-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-08-25.
+This software engineer position at GE Vernova was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

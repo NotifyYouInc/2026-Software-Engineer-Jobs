@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | West Valley City, Utah, United States |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Senior-Systems-Engineer_01872188) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R02--1970-E-Imperial-Hwy--BLDG-R02/Senior-Systems-Engineer_01872330) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-09-04.
+This software engineer position at RTX was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

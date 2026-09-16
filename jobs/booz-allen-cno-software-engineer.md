@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0236195) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0231398) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-18.
+This software engineer position at Booz Allen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000143758629-java-angular-software-engineer-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148471809-java-angular-software-engineer-all-gender) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-08-17.
+This software engineer position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

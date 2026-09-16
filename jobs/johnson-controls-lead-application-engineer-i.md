@@ -1,16 +1,16 @@
-# Lead. Application Engineer I at Johnson Controls
+# Lead Application Engineer I at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Lead-Application-Engineer-I_WD30279219) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Lead-Application-Engineer-I_WD30279227-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-09-07.
+This sales engineer position at Johnson Controls was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

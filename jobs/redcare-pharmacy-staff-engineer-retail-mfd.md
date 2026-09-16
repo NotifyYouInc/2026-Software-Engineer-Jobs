@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000146432761-staff-engineer-retail-mfd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148465587-staff-engineer-retail-mfd) |
 
 ## About This Role
 
-This software engineer position at Redcare Pharmacy was posted on 2026-08-31.
+This software engineer position at Redcare Pharmacy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

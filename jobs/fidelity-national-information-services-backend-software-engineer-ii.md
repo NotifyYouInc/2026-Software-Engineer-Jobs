@@ -1,16 +1,16 @@
-# Backend Software Engineer II at Fidelity National Information Services
+# Backend Software  Engineer II at Fidelity National Information Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 4 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-CHI-222-STE-1700/Backend-Software-Engineer-II_JR0303002) |
+| Category | Software Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-CHI-222-STE-1700/Backend-Software--Engineer-II_JR0308354) |
 
 ## About This Role
 
-This frontend engineer position at Fidelity National Information Services was posted on 2026-02-25.
+This software engineer position at Fidelity National Information Services was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

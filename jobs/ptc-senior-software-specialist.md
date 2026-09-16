@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Senior-Software-Specialist_JR112143) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Senior-Software-Specialist_JR112672) |
 
 ## About This Role
 
-This software engineer position at PTC was posted on 2026-05-18.
+This software engineer position at PTC was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

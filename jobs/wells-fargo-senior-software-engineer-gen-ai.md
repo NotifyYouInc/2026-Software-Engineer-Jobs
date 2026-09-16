@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Gen-AI_R-510429) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Gen-AI_R-573360) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-02.
+This ai / llm engineer position at Wells Fargo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

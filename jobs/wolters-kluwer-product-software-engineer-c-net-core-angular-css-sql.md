@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Product-Software-Engineer--C---Net-Core---Angular---CSS---SQL-_R0054401) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Product-Software-Engineer--C---Net-Core---Angular---CSS---SQL-_R0054401) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-02-16.
+This software engineer position at Wolters Kluwer was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

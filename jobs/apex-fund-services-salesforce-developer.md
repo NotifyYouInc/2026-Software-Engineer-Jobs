@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Salesforce-Developer_JR-0018146) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Salesforce-Developer_JR-0018146) |
 
 ## About This Role
 
-This software engineer position at Apex Fund Services was posted on 2026-06-25.
+This software engineer position at Apex Fund Services was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

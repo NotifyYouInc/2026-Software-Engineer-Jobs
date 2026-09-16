@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000140626940-full-stack-engineer-python) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000148416255-full-stack-engineer-python) |
 
 ## About This Role
 
-This software engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-30.
+This software engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

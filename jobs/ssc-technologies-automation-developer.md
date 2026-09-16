@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Karnataka/Automation-Developer_R37753) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-05-22.
+This software engineer position at SS&C Technologies was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

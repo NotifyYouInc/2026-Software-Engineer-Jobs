@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Mexico, US |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NM-WHITE-SANDS-038--RTSC-Milepost-186--BLDG-LC38-Mars-Site-Hwy-70E/Systems-Engineer-II_01825171) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R02--1970-E-Imperial-Hwy--BLDG-R02/Systems-Engineer-II_01872399-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-02-18.
+This software engineer position at RTX was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

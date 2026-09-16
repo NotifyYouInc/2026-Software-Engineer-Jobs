@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vlizy-Villacoublay-le-de-France-France/Alternance---Ingnieur-Rseaux---Tlcoms--5G-IP--H-F_R1012876) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vlizy-Villacoublay-le-de-France-France/Alternance---Ingnieur-Rseaux---Tlcoms--5G-IP--H-F_R0142842) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-07-07.
+This software engineer position at Hitachi was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

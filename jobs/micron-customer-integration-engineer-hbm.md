@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Customer-Integration-Engineer--HBM-_JR108962) |
+| Location | Taichung, Taiwan, Taiwan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Customer-Integration-Engineer--HBM-_JR111509) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-08-24.
+This semiconductor / chip design position at Micron was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

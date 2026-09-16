@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/R-D-Senior-Member-of-Technical-Staff--Product-Development_R013553-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/R-D-Senior-Member-of-Technical-Staff--Product-Development_R015186) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-04-13.
+This software engineer position at AVEVA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

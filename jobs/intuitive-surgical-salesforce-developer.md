@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142067379-salesforce-developer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000148448576-salesforce-developer) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-08-07.
+This software engineer position at Intuitive Surgical was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

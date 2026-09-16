@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136733319-developpeur-javaangular-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148453604-developpeur-javaangular-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-07-09.
+This software engineer position at Devoteam was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

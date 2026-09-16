@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Virginia Beach, Virginia, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/eeb32e9f-e6d1-47c8-aaa5-b05b1917b8e7) |
+| Category | Software Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/c6797b70-4eeb-4728-8340-fb3a319bffb3) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-08-26.
+This software engineer position at Qualdoc was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

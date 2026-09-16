@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Software-Developer_331159) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_331710) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-08-28.
+This software engineer position at CACI was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Myhcm](https://scoutify.ai/companies/myhcm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/Johannesburg/Senior-Software-Engineer_JR11902) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/Remote-Krakow/Senior-Software-Engineer_JR13731) |
 
 ## About This Role
 
-This software engineer position at Myhcm was posted on 2026-09-01.
+This software engineer position at Myhcm was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

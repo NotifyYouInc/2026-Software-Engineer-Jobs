@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coherent](https://scoutify.ai/companies/us2-cx-oj23809?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Perai, Penang, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://hcwp.fa.us2.oraclecloud.com/jobs/#2013443) |
+| Location | Ipoh, Perak, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hcwp.fa.us2.oraclecloud.com/jobs/#2014497) |
 
 ## About This Role
 
-This software engineer position at Coherent was posted on 2026-07-22.
+This data analyst position at Coherent was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

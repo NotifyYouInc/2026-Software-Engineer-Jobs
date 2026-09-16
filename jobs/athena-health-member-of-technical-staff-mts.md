@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Member-of-Technical-Staff---MTS_R14182) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Member-of-Technical-Staff---MTS_R15344) |
 
 ## About This Role
 
-This frontend engineer position at Athena Health was posted on 2026-02-26.
+This software engineer position at Athena Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

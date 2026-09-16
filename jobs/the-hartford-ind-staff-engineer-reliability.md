@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer--Reliability_R2626209) |
+| Location | India |
+| Category | QA Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer--Reliability_R2626940) |
 
 ## About This Role
 
-This machine learning engineer position at The Hartford was posted on 2026-07-27.
+This qa engineer position at The Hartford was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

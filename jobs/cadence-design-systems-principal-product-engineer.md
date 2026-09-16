@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zhubei, Taiwan, Taiwan |
+| Location | Cork, Munster, Ireland |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Principal-Product-Engineer_R56216) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Principal-Product-Engineer_R56141-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-03.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

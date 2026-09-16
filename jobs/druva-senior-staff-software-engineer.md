@@ -5,12 +5,12 @@
 | Company | [Druva](https://scoutify.ai/companies/druva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8640266002/?gh_jid=8640266002) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8750704002/?gh_jid=8750704002) |
 
 ## About This Role
 
-This software engineer position at Druva was posted on 2026-08-11.
+This software engineer position at Druva was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

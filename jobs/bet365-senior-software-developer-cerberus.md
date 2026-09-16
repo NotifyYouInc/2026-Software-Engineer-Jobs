@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000145464738-senior-software-developer-cerberus) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000148473939-senior-software-developer-cerberus) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-08-25.
+This software engineer position at bet365 was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

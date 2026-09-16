@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Philippines |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/SAP-ABAP-Developer_51576767) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/SAP-ABAP-Developer_51579427-1) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-05-12.
+This software engineer position at DXC Technology was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

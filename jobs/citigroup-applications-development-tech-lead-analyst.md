@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Development-Tech-Lead-Analyst_26986838) |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Development-Tech-Lead-Analyst_26982550) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-27.
+This data engineer position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

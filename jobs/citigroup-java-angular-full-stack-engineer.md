@@ -1,16 +1,16 @@
-# Java Angular Full Stack Engineer at Citigroup
+# Java Angular Full stack Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Digital-S-W-Eng-Sr-Analyst---C12---CHENNAI_26989552-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Angular-Full-stack-Engineer_26988010) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-09-08.
+This software engineer position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

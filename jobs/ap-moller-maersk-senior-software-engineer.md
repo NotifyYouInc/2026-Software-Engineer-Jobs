@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Software-Engineer_R193770) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Software-Engineer_R195503) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-08-27.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

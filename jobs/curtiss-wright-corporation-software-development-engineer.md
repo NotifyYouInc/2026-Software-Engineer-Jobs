@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curtiss-Wright Corporation](https://scoutify.ai/companies/curtisswright?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MA-Tewksbury-TCG/Software-Development-Engineer_JR12923-1) |
+| Location | Maharashtra, IN |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/India-Bhosari-Williams/Software-Development-Engineer_JR13486) |
 
 ## About This Role
 
-This software engineer position at Curtiss-Wright Corporation was posted on 2026-08-05.
+This embedded / firmware engineer position at Curtiss-Wright Corporation was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Core-Products-Engineering-Pune/16336) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Core-Products-Engineering-Pune/21954) |
 
 ## About This Role
 
-This software engineer position at Bloomberg was posted on 2026-05-24.
+This software engineer position at Bloomberg was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
