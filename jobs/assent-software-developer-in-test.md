@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000116539294-software-developer-in-test) |
+| Category | QA Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000148684689-software-developer-in-test) |
 
 ## About This Role
 
-This software engineer position at Assent was posted on 2026-03-25.
+This qa engineer position at Assent was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

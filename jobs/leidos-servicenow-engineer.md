@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/ServiceNow-Engineer_R-00188710) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/ServiceNow-Engineer_R-00191841) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-04.
+This software engineer position at Leidos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

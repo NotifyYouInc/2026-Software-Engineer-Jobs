@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Software-Engineer_JR031772) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Director--Lead-Software-Engineer_PT-JR043309-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-07-10.
+This software engineer position at Morgan Stanley was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hatvan, Heves County, Hungary |
-| Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145696799-plc-programozo-geptervezesi-teruletre-plc-programmer-for-machine-design-area) |
+| Category | Industrial Automation |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148714279-plc-programozo-geptervezesi-teruletre-plc-programmer-for-machine-design-area) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-26.
+This industrial automation position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

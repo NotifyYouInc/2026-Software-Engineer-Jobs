@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000148173319-developpeur-c-net-cloud-signature-electronique-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000148690589-developpeur-c-net-cloud-signature-electronique-hf) |
 
 ## About This Role
 
-This software engineer position at CITECH was posted on 2026-09-08.
+This software engineer position at CITECH was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

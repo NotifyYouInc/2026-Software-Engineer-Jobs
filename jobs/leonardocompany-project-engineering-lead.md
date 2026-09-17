@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Luton, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Project-Engineering-Lead_R0024690) |
+| Category | Software Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Project-Engineering-Lead_R0033004-1) |
 
 ## About This Role
 
-This engineering manager position at Leonardocompany was posted on 2026-06-04.
+This software engineer position at Leonardocompany was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brasília, Federal District, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000141311869-full-stack-developer-python-react) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148721524-full-stack-developer-python-react) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-08-03.
+This software engineer position at Sigma Software was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

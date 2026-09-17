@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACI Worldwide](https://scoutify.ai/companies/us2-cx-oj829?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#19537) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#19916) |
 
 ## About This Role
 
-This software engineer position at ACI Worldwide was posted on 2026-07-08.
+This software engineer position at ACI Worldwide was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

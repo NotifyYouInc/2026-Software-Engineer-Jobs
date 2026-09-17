@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147925369-ingenieur-plm-catia-schematics-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000148757550-ingenieur-plm-catia-schematics-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-09-07.
+This software engineer position at Assystem was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Specialist Development at Sun Life Financial
+# Senior Specialist - Development at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Senior-Specialist-Development_JR00126337-2) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Senior-Specialist---Development_JR00126851) |
 
 ## About This Role
 
-This software engineer position at Sun Life Financial was posted on 2026-08-19.
+This software engineer position at Sun Life Financial was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Telangana, IN |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer_R2625527) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer_R2626920) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-05-26.
+This software engineer position at Hartford Financial Services was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

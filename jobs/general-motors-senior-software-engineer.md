@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Mainframe-Software-Engineer_JR-202618084) |
+| Location | Limerick, Munster, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Limerick-Ireland/Senior-Software-Engineer_JR-202619741) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-08-28.
+This devops engineer position at General Motors was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

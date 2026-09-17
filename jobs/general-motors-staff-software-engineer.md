@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Software-Engineer_JR-202613368) |
+| Location | Milford, Connecticut, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Staff-Software-Engineer_JR-202619979) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Motors was posted on 2026-08-05.
+This embedded / firmware engineer position at General Motors was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

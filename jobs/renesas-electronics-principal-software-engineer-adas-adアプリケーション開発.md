@@ -1,16 +1,16 @@
-# Principal Software Engineer (ADAS / ADアプリケーション開発)  at Renesas Electronics
+# Principal Software Engineer (ADAS / ADアプリケーション開発) at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137355550-principal-software-engineer-adas-ad) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148663069-principal-software-engineer-adas-ad) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-13.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

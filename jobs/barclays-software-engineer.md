@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Knutsford, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Software-Engineer_JR-0000100567-3) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Software-Engineer_JR-0000131523) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-09-07.
+This software engineer position at Barclays was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

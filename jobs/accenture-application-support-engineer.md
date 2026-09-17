@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1427443-S427296) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-R1-S1927560-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-09.
+This software engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

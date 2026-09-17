@@ -5,12 +5,12 @@
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/ServiceNow-Software-Engineer---SecOps_R202951) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/ServiceNow-Software-Engineer---SecOps_R210671) |
 
 ## About This Role
 
-This software engineer position at Shell was posted on 2026-09-09.
+This software engineer position at Shell was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

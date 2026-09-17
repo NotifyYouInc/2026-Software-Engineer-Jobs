@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plymouth, England, United Kingdom |
+| Location | Mawson Lakes, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/GB-PLY-PLYMOUTH-C--Clittaford-Rd-Southway--BLDG-C/Software-Engineer_01855167-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Software-Engineer_01873158-1) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-01.
+This software engineer position at RTX was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

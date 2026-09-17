@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sacramento, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000146636810-nand-product-development-engineer) |
+| Location | Rancho Cordova, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000148644782-nand-product-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-09-01.
+This semiconductor / chip design position at Solidigm was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

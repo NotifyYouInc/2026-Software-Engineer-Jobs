@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | South Korea |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4903737101) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Product Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4972520101) |
 
 ## About This Role
 
-This software engineer position at ASM was posted on 2026-07-10.
+This product manager position at ASM was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-System-Engineering_R-108531) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-System-Engineering_R-120051) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-05-21.
+This software engineer position at AT&T was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

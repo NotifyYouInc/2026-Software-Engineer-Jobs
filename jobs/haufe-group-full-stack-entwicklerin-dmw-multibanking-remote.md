@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Baden-Wurttemberg, DE |
+| Location | Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000137409204-full-stack-entwicklerin-dmw-multibanking-remote) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000148760180-full-stack-entwicklerin-dmw-multibanking-remote) |
 
 ## About This Role
 
-This software engineer position at Haufe Group was posted on 2026-07-13.
+This software engineer position at Haufe Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001183563-senior-backend-engineer-java-ai-media-transforms-mfx) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001394498-senior-backend-engineer-java-ai-media-transforms-mfx) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-06-25.
+This software engineer position at Canva was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

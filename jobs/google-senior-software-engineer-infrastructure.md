@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82767428341113542-senior-software-engineer-infrastructure?sort_by=date&page=1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSEDU0zaLBufmb-m9bfv5vAi801U3D1X1s6g7jN_Cp13EjsA1Ny_i33k6UvpmGMqx3UBQKtudsU4XmuStUTFLkAlNbZd3p9gB6ZZ_IJFgWi6K-YUwfQ0zSZtEuEUUQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-12.
+This software engineer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

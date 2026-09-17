@@ -1,16 +1,16 @@
-# Senior Software Engineer   at Diligent Corporation
+# Senior Software Engineer at Diligent Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5788904004) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6161051004) |
 
 ## About This Role
 
-This software engineer position at Diligent Corporation was posted on 2026-02-13.
+This software engineer position at Diligent Corporation was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

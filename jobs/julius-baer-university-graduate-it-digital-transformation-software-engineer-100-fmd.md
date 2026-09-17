@@ -1,16 +1,16 @@
-# University Graduate – IT Digital Transformation / Software Engineer 100% (f/m/d) at Julius Baer
+# University Graduate – IT Digital Transformation/ Software Engineer 100% (f/m/d) at Julius Baer
 
 | Field | Details |
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Madrid/University-Graduate---IT-Digital-Transformation---Software-Engineer-100---f-m-d-_r-17686-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Madrid/University-Graduate---IT-Digital-Transformation--Software-Engineer-100---f-m-d-_r-19722-3) |
 
 ## About This Role
 
-This software engineer position at Julius Baer was posted on 2026-02-11.
+This software engineer position at Julius Baer was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

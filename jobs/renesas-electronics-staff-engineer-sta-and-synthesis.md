@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129909929-staff-engineer-sta-and-synthesis) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148673159-staff-engineer-sta-and-synthesis) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-06-03.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

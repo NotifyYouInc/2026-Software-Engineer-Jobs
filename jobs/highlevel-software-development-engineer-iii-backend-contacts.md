@@ -5,12 +5,12 @@
 | Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.lever.co/gohighlevel/5581b367-4b76-41e2-b426-ce55cf66c5a6) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/2e98a975-95da-4d26-b3b6-a0708fbcee42) |
 
 ## About This Role
 
-This software engineer position at HighLevel was posted on 2026-07-07.
+This software engineer position at HighLevel was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148474139-sr-software-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148664699-sr-software-engineer) |
 
 ## About This Role
 
-This qa engineer position at Renesas Electronics was posted on 2026-09-09.
+This qa engineer position at Renesas Electronics was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

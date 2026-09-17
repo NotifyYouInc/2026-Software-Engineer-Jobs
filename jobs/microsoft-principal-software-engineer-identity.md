@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556986176) |
+| Location | Not specified |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556991553) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-09-07.
+This devops engineer position at Microsoft was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

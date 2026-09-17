@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10480970/software-dev-engineer-ii-alexa-shopping) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10535686/software-dev-engineer-ii-alexa-shopping) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-22.
+This software engineer position at Amazon was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

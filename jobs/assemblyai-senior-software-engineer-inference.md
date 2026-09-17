@@ -5,12 +5,12 @@
 | Company | [AssemblyAI](https://scoutify.ai/companies/assemblyai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/assemblyai/jobs/MLgNVf9-senior-software-engineer-inference) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/assemblyai/jobs/HQH7Z3O-senior-software-engineer-inference) |
 
 ## About This Role
 
-This machine learning engineer position at AssemblyAI was posted on 2026-09-09.
+This machine learning engineer position at AssemblyAI was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

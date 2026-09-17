@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AssemblyAI](https://scoutify.ai/companies/assemblyai?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/assemblyai/jobs/AN5Y8LS-senior-design-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/assemblyai/jobs/rH1gBxe-senior-design-engineer) |
 
 ## About This Role
 
-This software engineer position at AssemblyAI was posted on 2026-09-09.
+This software engineer position at AssemblyAI was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R66286) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-07-27.
+This software engineer position at Motorola Solutions was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

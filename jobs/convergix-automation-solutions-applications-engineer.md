@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergix Automation Solutions](https://scoutify.ai/companies/convergix-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://convergix.rec.pro.ukg.net/CON1096CVAU/JobBoard/52250257-f25d-4ad3-b69e-53bc735d981a/OpportunityDetail?opportunityId=db6bede0-969d-48ef-9249-24218113a4e7) |
+| Location | Shannon, Munster, Ireland |
+| Category | Industrial Automation |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://convergix.rec.pro.ukg.net/CON1096CVAU/JobBoard/52250257-f25d-4ad3-b69e-53bc735d981a/OpportunityDetail?opportunityId=f39842c2-d011-4877-87d2-c70773e1cf45) |
 
 ## About This Role
 
-This software engineer position at Convergix Automation Solutions was posted on 2026-07-06.
+This industrial automation position at Convergix Automation Solutions was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

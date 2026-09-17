@@ -1,16 +1,16 @@
-# Software Engineer - MTS at Salesforce
+# Software Engineer MTS at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineer---MTS_JR358482) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineer-MTS_JR358966) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-09-07.
+This software engineer position at Salesforce was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

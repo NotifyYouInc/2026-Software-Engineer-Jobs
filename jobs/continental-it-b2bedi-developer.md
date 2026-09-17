@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000147905349-it-b2bedi-developer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000148716589-it-b2bedi-developer) |
 
 ## About This Role
 
-This software engineer position at Continental was posted on 2026-09-07.
+This software engineer position at Continental was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

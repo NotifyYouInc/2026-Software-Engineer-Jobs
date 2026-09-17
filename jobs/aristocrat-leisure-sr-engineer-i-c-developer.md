@@ -1,16 +1,16 @@
-# Sr  Engineer I-C++ Developer at Aristocrat Leisure
+# Sr Engineer I - C++ Developer at Aristocrat Leisure
 
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Gurugram-HR-IN/Sr--Engineer-I_R0020426-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Noida-UP-IN/Sr-Engineer-I---C---Developer_R0022558) |
 
 ## About This Role
 
-This software engineer position at Aristocrat Leisure was posted on 2026-03-03.
+This software engineer position at Aristocrat Leisure was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

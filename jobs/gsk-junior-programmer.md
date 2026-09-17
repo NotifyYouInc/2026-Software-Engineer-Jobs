@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Junior-Programmer_446295) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Junior-Programmer_446296) |
 
 ## About This Role
 
-This software engineer position at GSK was posted on 2026-08-18.
+This software engineer position at GSK was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

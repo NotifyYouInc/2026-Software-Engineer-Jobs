@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endor Labs](https://scoutify.ai/companies/endor-labs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/endorlabs/jobs/4678175005) |
+| Category | Software Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/endorlabs/jobs/4000732005) |
 
 ## About This Role
 
-This cybersecurity engineer position at Endor Labs was posted on 2026-09-02.
+This software engineer position at Endor Labs was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

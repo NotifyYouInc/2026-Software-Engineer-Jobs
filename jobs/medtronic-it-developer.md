@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer_R68793-2) |
+| Location | Telangana, IN |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer_R76952-1) |
 
 ## About This Role
 
-This ai / ml research position at Medtronic was posted on 2026-06-09.
+This ai / llm engineer position at Medtronic was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

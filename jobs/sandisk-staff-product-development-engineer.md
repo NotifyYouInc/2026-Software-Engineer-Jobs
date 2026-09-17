@@ -1,16 +1,16 @@
-# Staff Product Development Engineer  at SanDisk
+# Staff Product Development Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000138771029-staff-product-development-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000148662631-staff-product-development-engineer) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-21.
+This semiconductor / chip design position at SanDisk was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

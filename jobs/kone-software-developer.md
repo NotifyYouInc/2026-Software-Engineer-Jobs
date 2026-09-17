@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/PUNE-ITEC/Software-Developer_R0664039) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Software-Developer_R0664452-1) |
 
 ## About This Role
 
-This software engineer position at Kone was posted on 2026-08-31.
+This embedded / firmware engineer position at Kone was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
