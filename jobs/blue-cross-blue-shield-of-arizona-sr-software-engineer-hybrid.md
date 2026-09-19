@@ -5,12 +5,12 @@
 | Company | [Blue Cross Blue Shield of Arizona](https://scoutify.ai/companies/bcbsaz?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Sr-Software-Engineer---Hybrid_R5898) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Sr-Software-Engineer---Hybrid_R6243) |
 
 ## About This Role
 
-This software engineer position at Blue Cross Blue Shield of Arizona was posted on 2026-03-06.
+This software engineer position at Blue Cross Blue Shield of Arizona was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

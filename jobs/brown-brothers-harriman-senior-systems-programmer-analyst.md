@@ -5,12 +5,12 @@
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Jersey-City/Senior-Systems-Programmer-Analyst_70127) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Jersey-City/Senior-Systems-Programmer-Analyst_72799) |
 
 ## About This Role
 
-This software engineer position at Brown Brothers Harriman was posted on 2026-02-26.
+This software engineer position at Brown Brothers Harriman was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

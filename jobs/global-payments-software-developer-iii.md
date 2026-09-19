@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chile |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LAS-CONDES--CHILE/Software-Developer-III_R0070747) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-04-24.
+This software engineer position at Global Payments was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

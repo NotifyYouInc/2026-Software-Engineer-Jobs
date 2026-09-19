@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-II--Remote-or-Hybrid-_R-082531) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-II--Remote-or-Hybrid-_R-084592) |
 
 ## About This Role
 
-This mobile engineer position at Rocket Companies was posted on 2026-05-01.
+This software engineer position at Rocket Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

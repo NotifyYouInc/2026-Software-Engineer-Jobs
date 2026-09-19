@@ -1,16 +1,16 @@
-# SharePoint Developer at Leidos
+# Sharepoint Developer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Software Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint-Developer_R-00179965) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/Sharepoint-Developer_R-00191783) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-04-07.
+This software engineer position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brooksauto](https://scoutify.ai/companies/brooksauto?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chelmsford, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/Chelmsford-MA/Senior-Software-Engineer_R1553) |
+| Location | Fremont, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/US---Fremont-CA/Senior-Software-Engineer_R0593) |
 
 ## About This Role
 
-This software engineer position at Brooksauto was posted on 2026-08-18.
+This machine learning engineer position at Brooksauto was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

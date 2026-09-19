@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Architect_J000700890) |
+| Location | Carmel, Indiana, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/SW-Architect_J000702025-1) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-07-16.
+This embedded / firmware engineer position at Aptiv was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Software-Developer--Data---Backend-Development-_26WD99219-1) |
+| Category | Data Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Software-Developer--Data---Backend-Development-_26WD100339-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-06-12.
+This data engineer position at Autodesk was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

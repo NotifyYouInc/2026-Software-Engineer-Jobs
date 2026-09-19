@@ -5,12 +5,12 @@
 | Company | [SEAKR Engineering](https://scoutify.ai/companies/seakrengineering?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Centennial, Colorado, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000146263660-program-chief-engineer-technical-lead) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000149101449-program-chief-engineer-technical-lead) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SEAKR Engineering was posted on 2026-08-28.
+This electrical / hardware engineer position at SEAKR Engineering was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

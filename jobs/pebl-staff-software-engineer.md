@@ -5,12 +5,12 @@
 | Company | [Pebl](https://scoutify.ai/companies/pebl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pebl/194be336-3c8c-4b66-af72-632585cdd0c2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pebl/02335e73-ec73-4162-b724-cbbebfcfd2b0) |
 
 ## About This Role
 
-This software engineer position at Pebl was posted on 2026-07-23.
+This software engineer position at Pebl was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

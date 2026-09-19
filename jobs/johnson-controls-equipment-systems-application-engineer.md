@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/Equipment-Systems-Application-Engineer_WD30275137) |
+| Location | Hoover, Alabama, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hoover-Alabama-United-States-of-America/Equipment-Systems-Application-Engineer_WD30279427) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-07-29.
+This sales engineer position at Johnson Controls was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Cary, North Carolina, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bergamo-Bergamo-Italy/Global-Customer-Application-Engineer_JR00035293) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Global-Customer-Application-Engineer_JR00042697) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-06-01.
+This electrical / hardware engineer position at ABB was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Eagan, Minnesota, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Software-Engineer---AI--CoCounsel-International_JREQ202505) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Software-Engineer---AI--CoCounsel-International_JREQ203612-1) |
 
 ## About This Role
 
-This machine learning engineer position at Thomson Reuters was posted on 2026-07-29.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

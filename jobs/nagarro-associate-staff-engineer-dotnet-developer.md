@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107889415-associate-staff-engineer-dotnet-developer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000149096061-associate-staff-engineer-dotnet-developer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-07.
+This software engineer position at Nagarro was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

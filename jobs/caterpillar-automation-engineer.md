@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Illinois, US |
-| Category | Industrial Automation |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000359028) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000393656-1) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-24.
+This devops engineer position at Caterpillar was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

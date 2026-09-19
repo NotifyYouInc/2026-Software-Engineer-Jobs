@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Torrance, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Software-Engineer_R-26-16796) |
+| Location | Phoenix, Arizona, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Software-Engineer_R-26-19967) |
 
 ## About This Role
 
-This software engineer position at Moog was posted on 2026-03-18.
+This embedded / firmware engineer position at Moog was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

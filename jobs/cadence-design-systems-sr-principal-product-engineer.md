@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Product-Engineer_R54391) |
+| Location | San Jose, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Principal-Product-Engineer_R56322) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-04-16.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Birmingham, Alabama, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000017593) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-III_R26_0000029433) |
 
 ## About This Role
 
-This software engineer position at Genuine Parts Company was posted on 2026-06-04.
+This software engineer position at Genuine Parts Company was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

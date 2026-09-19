@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Product-Engineer_WD225291-1) |
+| Location | Juárez, Chiapas, Mexico |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Product-Engineer_WD229134) |
 
 ## About This Role
 
-This software engineer position at FLEX LTD. Flextronics was posted on 2026-07-22.
+This electrical / hardware engineer position at FLEX LTD. Flextronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

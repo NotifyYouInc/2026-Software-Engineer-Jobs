@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spin](https://scoutify.ai/companies/spin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Mexico |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/spin/jobs/4695990005) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/spin/jobs/4731654005) |
 
 ## About This Role
 
-This software engineer position at Spin was posted on 2026-05-20.
+This software engineer position at Spin was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

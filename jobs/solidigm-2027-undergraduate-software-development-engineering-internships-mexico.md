@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000147953729-2027-undergraduate-software-development-engineering-internships-mexico) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000149105209-2027-undergraduate-software-development-engineering-internships-mexico) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-09-07.
+This software engineer position at Solidigm was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

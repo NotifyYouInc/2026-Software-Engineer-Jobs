@@ -5,12 +5,12 @@
 | Company | [Firstpremier](https://scoutify.ai/companies/firstpremier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://firstpremier.wd503.myworkdayjobs.com/premier_careers/job/Sioux-Falls-SD/Software-Engineer_R-293) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://firstpremier.wd503.myworkdayjobs.com/premier_careers/job/Sioux-Falls-SD/Software-Engineer_R-329-1) |
 
 ## About This Role
 
-This software engineer position at Firstpremier was posted on 2026-06-12.
+This software engineer position at Firstpremier was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Florida, US |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Java-Software-Engineer---Bank-Technology_R-0009691) |
+| Category | Software Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Java-Software-Engineer---Bank-Technology_R-0012921) |
 
 ## About This Role
 
-This frontend engineer position at Raymond James Financial was posted on 2026-03-02.
+This software engineer position at Raymond James Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

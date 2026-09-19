@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 6 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2022908) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2025361) |
 
 ## About This Role
 
-This sales engineer position at Nvidia was posted on 2026-08-07.
+This sales engineer position at Nvidia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

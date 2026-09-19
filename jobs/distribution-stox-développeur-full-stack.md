@@ -5,12 +5,12 @@
 | Company | [Distribution Stox](https://scoutify.ai/companies/distributionstox2?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boucherville, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DistributionStox2/744000146217999-developpeur-full-stack) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DistributionStox2/744000149090820-developpeur-full-stack) |
 
 ## About This Role
 
-This software engineer position at Distribution Stox was posted on 2026-08-28.
+This software engineer position at Distribution Stox was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

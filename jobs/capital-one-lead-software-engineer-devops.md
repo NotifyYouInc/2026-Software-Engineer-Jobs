@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer--DevOps_R249734-1) |
+| Location | Riverwoods, Illinois, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps_R999396-2) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-08-20.
+This devops engineer position at Capital One was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

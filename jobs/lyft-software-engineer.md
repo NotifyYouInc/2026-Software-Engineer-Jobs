@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8791488002?gh_jid=8791488002) |
 
 ## About This Role
 
-This software engineer position at Lyft was posted on 2026-09-10.
+This software engineer position at Lyft was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

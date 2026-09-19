@@ -1,16 +1,16 @@
-# Software Engineer II, Data Management at CoStar Group
+# Software Engineer II - Data Management at CoStar Group
 
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond---CoStar-Tower/Software-Engineer-II--Data-Management_R39428) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond---CoStar-Tower/Software-Engineer-II---Data-Management_R39745) |
 
 ## About This Role
 
-This software engineer position at CoStar Group was posted on 2026-07-18.
+This software engineer position at CoStar Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

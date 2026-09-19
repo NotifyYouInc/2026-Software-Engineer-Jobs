@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zhubei, Taiwan, Taiwan |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/ZHUBEI-01/Lead-Software-Engineer_R56305) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R51818-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-10.
+This software engineer position at Cadence Design Systems was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

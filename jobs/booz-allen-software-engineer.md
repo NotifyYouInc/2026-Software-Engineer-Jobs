@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Software-Engineer_R0248809-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0249465) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-09-04.
+This software engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

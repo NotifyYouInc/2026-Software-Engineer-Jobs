@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Chennai/Application-Engineer_R_00100303) |
+| Location | Troy, Michigan, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Troy-OH/Application-Engineer_R_00107042-1) |
 
 ## About This Role
 
-This software engineer position at Freudenberg Group was posted on 2026-08-26.
+This electrical / hardware engineer position at Freudenberg Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

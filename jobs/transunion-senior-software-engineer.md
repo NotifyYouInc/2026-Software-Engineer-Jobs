@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Reston-Virginia/Senior-Software-Engineer_19039474) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Senior-Software-Engineer_19042113) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-03-12.
+This software engineer position at TransUnion was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

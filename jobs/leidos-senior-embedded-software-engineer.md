@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | St. Petersburg, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Senior-Embedded-Software-Engineer_R-00189898) |
+| Location | Huntsville, Alabama, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Embedded-Software-Engineer_R-00192109) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-18.
+This embedded / firmware engineer position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
