@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Marlborough, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Principal-System-Integrator-and-TA-Onsite_01870247) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-09-11.
+This talent acquisition / recruiting position at RTX was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

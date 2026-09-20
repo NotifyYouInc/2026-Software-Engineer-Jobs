@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Custom-Application-Development-Lead_R00352542-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-11.
+This technology / it consulting position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

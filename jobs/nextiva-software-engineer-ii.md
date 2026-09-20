@@ -1,16 +1,16 @@
-# Fullstack Developer (.Net+Angular) at Eurofins Scientific
+# Software Engineer II at Nextiva
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000149067206-fullstack-developer-netangular) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8784787002) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-09-11.
+This software engineer position at Nextiva was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

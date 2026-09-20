@@ -1,16 +1,16 @@
-# Senior GNC Software Engineer at Anduril
+# Senior Mobile Software Engineer (iOS) at Xsolla
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007) |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/b609a359-4fe2-40df-b8b8-f0030862162d) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-09-12.
+This software engineer position at Xsolla was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

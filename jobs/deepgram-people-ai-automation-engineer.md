@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316) |
 
 ## About This Role
 
-This devops engineer position at Deepgram was posted on 2026-09-11.
+This industrial automation position at Deepgram was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

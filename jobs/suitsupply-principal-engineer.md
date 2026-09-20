@@ -1,16 +1,16 @@
-# Senior GNC Software Engineer at Anduril
+# Principal Engineer at Suitsupply
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Company | [Suitsupply](https://scoutify.ai/companies/suitsupply?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Software Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007) |
+| Apply | [View on company site](https://careersatsuitsupply.com/en-us/vacancies/8196032?gh_jid=8196032) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-09-12.
+This software engineer position at Suitsupply was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

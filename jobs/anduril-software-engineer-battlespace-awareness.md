@@ -1,16 +1,16 @@
-# Software Engineer, Battlespace Awareness at Anduril
+# Software Engineer, Battlespace Awareness  at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Broomfield, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236475007?gh_jid=5236475007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-08-18.
+This software engineer position at Anduril was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer - Backend at Databricks
+# Associate Technical Lead at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-09-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Technical-Lead_R1131079-1) |
 
 ## About This Role
 
-This software engineer position at Databricks was posted on 2026-09-13.
+This software engineer position at Dentsu was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

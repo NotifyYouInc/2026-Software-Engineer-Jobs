@@ -1,16 +1,16 @@
-# Senior GNC Software Engineer at Anduril
+# Staff Software Engineer, Front End (Customer Experience) at Scout Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Company | [Scout Motors](https://scoutify.ai/companies/scout-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Fremont, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scoutmotors/jobs/5233922007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-09-12.
+This software engineer position at Scout Motors was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

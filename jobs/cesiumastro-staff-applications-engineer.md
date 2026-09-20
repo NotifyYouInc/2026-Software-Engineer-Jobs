@@ -1,16 +1,16 @@
-# Senior Mission Software Engineer at Varda
+# Staff Applications Engineer at CesiumAstro
 
 | Field | Details |
 |-------|---------|
-| Company | [Varda](https://scoutify.ai/companies/vardaspace?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Company | [CesiumAstro](https://scoutify.ai/companies/cesiumastro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7993731003) |
+| Apply | [View on company site](https://jobs.lever.co/CesiumAstro/612b2220-af64-49de-b4bd-cdbe2b9c0482) |
 
 ## About This Role
 
-This software engineer position at Varda was posted on 2026-09-12.
+This technical & solutions architect position at CesiumAstro was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

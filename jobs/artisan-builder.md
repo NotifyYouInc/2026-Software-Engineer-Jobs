@@ -1,16 +1,16 @@
-# Software Engineer at Booz Allen
+# Builder at Artisan
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Antonio, Texas, United States |
+| Company | [Artisan](https://scoutify.ai/companies/artisan?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Software-Engineer_R0249268) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/artisan/53a7d285-8969-48fe-9847-4b5a5774e48d) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-09-11.
+This software engineer position at Artisan was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 
