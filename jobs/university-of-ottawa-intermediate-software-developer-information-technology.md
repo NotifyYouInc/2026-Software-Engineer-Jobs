@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Software-Developer--Information-Technology_JR31921) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Software-Developer--Information-Technology_JR38974) |
 
 ## About This Role
 
-This software engineer position at University of Ottawa was posted on 2026-02-26.
+This software engineer position at University of Ottawa was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

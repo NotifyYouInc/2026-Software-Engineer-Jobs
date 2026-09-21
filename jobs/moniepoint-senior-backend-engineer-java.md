@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Poland |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941322101) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4975658101) |
 
 ## About This Role
 
-This software engineer position at Moniepoint was posted on 2026-07-30.
+This software engineer position at Moniepoint was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

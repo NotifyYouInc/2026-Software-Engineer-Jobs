@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | West Palm Beach, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147906711-software-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149338366-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-09-07.
+This software engineer position at ServiceNow was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

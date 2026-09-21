@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/Software-Engineer_R-108827) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cape-Town-South-Africa-Office/Software-Engineer_R-109403) |
 
 ## About This Role
 
-This software engineer position at MRI Software was posted on 2026-07-07.
+This software engineer position at MRI Software was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

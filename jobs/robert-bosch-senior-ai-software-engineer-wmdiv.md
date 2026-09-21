@@ -1,16 +1,16 @@
-# Senior AI Software Engineer (w/m/div) at Robert Bosch
+# Senior AI Software Engineer (w/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Linz, Upper Austria, Austria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148686609-senior-ai-software-engineer-wmdiv) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149277549-senior-ai-software-engineer-wmdiv) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-09-10.
+This ai / llm engineer position at Robert Bosch was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

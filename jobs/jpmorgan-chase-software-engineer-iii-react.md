@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Frontend Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741824) |
+| Category | Software Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210681626) |
 
 ## About This Role
 
-This frontend engineer position at JPMorgan Chase was posted on 2026-06-03.
+This software engineer position at JPMorgan Chase was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

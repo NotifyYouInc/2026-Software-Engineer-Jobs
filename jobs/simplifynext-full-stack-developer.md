@@ -5,12 +5,12 @@
 | Company | [SimplifyNext](https://scoutify.ai/companies/simplifynext?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/simplifynext/jobs/5026255007) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simplifynext/jobs/5236654007) |
 
 ## About This Role
 
-This software engineer position at SimplifyNext was posted on 2026-05-26.
+This software engineer position at SimplifyNext was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

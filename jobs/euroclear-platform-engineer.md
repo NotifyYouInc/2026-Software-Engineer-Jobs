@@ -5,12 +5,12 @@
 | Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2025-12-09 |
-| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#8021) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#10115) |
 
 ## About This Role
 
-This software engineer position at Euroclear was posted on 2025-12-09.
+This software engineer position at Euroclear was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

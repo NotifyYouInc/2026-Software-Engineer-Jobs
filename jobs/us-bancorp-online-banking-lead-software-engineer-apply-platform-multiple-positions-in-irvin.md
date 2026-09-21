@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Online-Banking-Lead-Software-Engineer---Apply-Platform--multiple-positions--in-Irving--TX_2026-0026807) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Online-Banking-Lead-Software-Engineer---Apply-Platform--multiple-positions--in-Irving--TX_2026-0028475) |
 
 ## About This Role
 
-This software engineer position at U.S. Bancorp was posted on 2026-08-31.
+This software engineer position at U.S. Bancorp was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

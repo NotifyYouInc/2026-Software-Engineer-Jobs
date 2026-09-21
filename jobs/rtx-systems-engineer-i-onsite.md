@@ -1,16 +1,16 @@
-# Systems Engineer I Onsite at RTX
+# Systems Engineer I- Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Woburn, Massachusetts, United States |
+| Location | Portsmouth, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I-Onsite_01866404) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-I--Onsite_01874493) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-08-13.
+This software engineer position at RTX was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

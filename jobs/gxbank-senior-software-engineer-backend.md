@@ -5,12 +5,12 @@
 | Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-Software-Engineer--Backend_R-2026-07-101907) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-Software-Engineer--Backend_R-2026-09-101958) |
 
 ## About This Role
 
-This software engineer position at GXBank was posted on 2026-07-27.
+This software engineer position at GXBank was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

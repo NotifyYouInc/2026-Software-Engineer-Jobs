@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Packaged-SaaS-Application-Engineer_ATCP-1445261-S425351) |
+| Category | QA Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Packaged-SaaS-Application-Engineer_ATCP-1445975-S425967) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-10.
+This qa engineer position at Accenture was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

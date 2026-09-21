@@ -5,12 +5,12 @@
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Farmingdale, New York, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Senior-Embedded-Software-Engineer_R17251) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Senior-Embedded-Software-Engineer_R18059) |
 
 ## About This Role
 
-This embedded / firmware engineer position at TTM Technologies was posted on 2026-08-14.
+This embedded / firmware engineer position at TTM Technologies was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

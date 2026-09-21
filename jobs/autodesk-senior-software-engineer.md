@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Oslo, Oslo, Norway |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD100194-2) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Senior-Software-Engineer_26WD101130-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-08-04.
+This software engineer position at Autodesk was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Senior-Staff-Product-Engineer_2601934) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Senior-Staff-Product-Engineer_2604549) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-19.
+This semiconductor / chip design position at Marvell was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

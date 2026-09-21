@@ -1,16 +1,16 @@
-# Senior Software Engineer, Mobile (iOS) at Grab
+# Senior Software Engineer, Mobile iOS at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143978459-senior-software-engineer-mobile-ios) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000149244019-senior-software-engineer-mobile-ios) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-08-18.
+This software engineer position at Grab was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

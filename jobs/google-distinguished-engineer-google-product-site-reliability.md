@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/76421507860832966-distinguished-engineer-google-product-site-reliability?sort_by=date&page=1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWk_oykFGvi_9KbzA5Vc5Af2694wSUwisj4WuZYahSUQEjsA9yzvgp6VWd1qceBohtC46DxcHza5i9lKLR1EpD23Vbm0ZmmfZ1cYiwuecokyC80U6HH_L46WTPcf0A%3D%3D_V2&loc=US&title=Distinguished+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-07.
+This devops engineer position at Google was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

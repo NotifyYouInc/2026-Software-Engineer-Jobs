@@ -5,12 +5,12 @@
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Changning, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changning-Shanghai-CN/Senior-Software-Engineer_R00235745) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changning-Shanghai-CN/Senior-Software-Engineer_R00259522) |
 
 ## About This Role
 
-This software engineer position at Magna was posted on 2026-08-26.
+This software engineer position at Magna was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

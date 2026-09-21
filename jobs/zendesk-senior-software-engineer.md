@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Georgia, US |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-California-United-States-of-America/Senior-Software-Engineer_R35313-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Krakow-Poland/Senior-Software-Engineer_R35261) |
 
 ## About This Role
 
-This software engineer position at Zendesk was posted on 2026-08-04.
+This software engineer position at Zendesk was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

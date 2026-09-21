@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Principal-Software-Engineer_R-2026-47639-2) |
 
 ## About This Role
 
-This software engineer position at Alcon was posted on 2026-06-25.
+This software engineer position at Alcon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

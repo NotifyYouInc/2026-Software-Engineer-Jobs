@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5773975-S2068781-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Packaged-SaaS-App-Engineering-Lead_ATCP-1461611-S426699) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-09.
+This technology / it consulting position at Accenture was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

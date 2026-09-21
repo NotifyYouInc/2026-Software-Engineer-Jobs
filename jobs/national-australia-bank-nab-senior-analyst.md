@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Analyst_JR120879) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Senior-Analyst_JR121032-3) |
 
 ## About This Role
 
-This software engineer position at National Australia Bank (NAB) was posted on 2026-08-05.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

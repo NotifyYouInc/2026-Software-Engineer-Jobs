@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-573788-1) |
+| Location | San Leandro, California, United States |
+| Category | QA Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-LEANDRO-CA/Lead-Software-Engineer_R-574913) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-09-09.
+This qa engineer position at Wells Fargo was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

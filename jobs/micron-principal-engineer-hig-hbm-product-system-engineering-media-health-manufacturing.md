@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Engineering Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Principal-Engineer--HIG-HBM-Product-System-Engineering--Media-Health-Manufacturing-_JR103867) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Principal-Engineer--HIG-HBM-Product-System-Engineering--Media-Health-Manufacturing-_JR110557-1) |
 
 ## About This Role
 
-This engineering manager position at Micron was posted on 2026-06-09.
+This semiconductor / chip design position at Micron was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

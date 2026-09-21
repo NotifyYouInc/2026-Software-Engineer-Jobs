@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-R1-S1927560-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Technical Support Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1427447-S427591) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-10.
+This technical support engineer position at Accenture was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

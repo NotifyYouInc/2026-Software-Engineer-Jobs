@@ -1,16 +1,16 @@
-#  Développeur Java (H/F) at ALTEN Canada
+# Développeur Java (H/F) at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Brest, Brittany, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145220870-developpeur-java-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000149251699-developpeur-java-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-08-24.
+This software engineer position at ALTEN Canada was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

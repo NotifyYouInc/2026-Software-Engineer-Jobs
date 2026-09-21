@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delta Electronics](https://scoutify.ai/companies/deltaelectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeltaElectronics/744000137077279-software-developer-for-embedded-systems-mwd) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeltaElectronics/744000149319231-software-developer-for-embedded-systems-mwd) |
 
 ## About This Role
 
-This software engineer position at Delta Electronics was posted on 2026-07-10.
+This embedded / firmware engineer position at Delta Electronics was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

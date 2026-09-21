@@ -1,16 +1,16 @@
-# Senior Software Engineer, Fullstack - Insurance Operations at Grab
+# Senior Software Engineer, Fullstack (Insurance Operations) at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000120308038-senior-software-engineer-fullstack-insurance-operations) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000149244294-senior-software-engineer-fullstack-insurance-operations) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-04-13.
+This software engineer position at Grab was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

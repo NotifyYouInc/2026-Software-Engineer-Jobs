@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132124864-software-developer-in-computer-aided-design) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149336869-software-developer-in-computer-aided-design) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-06-15.
+This software engineer position at Robert Bosch was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

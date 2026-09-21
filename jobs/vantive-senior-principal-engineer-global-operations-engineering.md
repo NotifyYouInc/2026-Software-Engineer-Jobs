@@ -5,12 +5,12 @@
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Marsa, Il-Marsa, Malta |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Marsa-Malta/Senior-Principal-Engineer---Global-Operations-Engineering_JR-196797) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Marsa-Malta/Senior-Principal-Engineer---Global-Operations-Engineering_JR-196782) |
 
 ## About This Role
 
-This software engineer position at Vantive was posted on 2026-07-31.
+This software engineer position at Vantive was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

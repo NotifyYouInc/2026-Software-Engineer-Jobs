@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Beringen, Schaffhausen, Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000133049165-software-engineer-automation-mwd) |
+| Category | Industrial Automation |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000149305839-software-engineer-automation-mwd) |
 
 ## About This Role
 
-This software engineer position at Syntegon Technology was posted on 2026-06-19.
+This industrial automation position at Syntegon Technology was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001392385-staff-software-engineer-video-content-and-discovery) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001401494-staff-software-engineer-video-content-and-discovery) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-09-09.
+This software engineer position at Canva was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

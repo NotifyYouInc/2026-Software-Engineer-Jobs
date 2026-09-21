@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000148134209-junior-software-engineer-cc-linux) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000149279979-junior-software-engineer-cc-linux) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-09-08.
+This embedded / firmware engineer position at Endava was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

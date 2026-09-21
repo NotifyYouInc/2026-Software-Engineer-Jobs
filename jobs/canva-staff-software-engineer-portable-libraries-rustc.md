@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001384487-staff-software-engineer-portable-libraries-rustc) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001400368-staff-software-engineer-portable-libraries-rustc) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-09-08.
+This software engineer position at Canva was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

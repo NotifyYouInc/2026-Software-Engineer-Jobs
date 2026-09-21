@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10493790/embedded-software-engineer-annapurna-labs) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538439/embedded-software-engineer-annapurna-labs) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-08-06.
+This embedded / firmware engineer position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

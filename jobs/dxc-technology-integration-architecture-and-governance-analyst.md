@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Integration-Architecture-and-Governance-Analyst_51587269) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Integration-Architecture-and-Governance-Analyst_51587264) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-09-07.
+This software engineer position at DXC Technology was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
