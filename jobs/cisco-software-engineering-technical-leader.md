@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Zurich-Switzerland/Software-Engineering-Technical-Leader_2023982) |
+| Location | Budapest, Budapest, Hungary |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Budapest-Hungary/Software-Engineering-Technical-Leader_2025471) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-09-14.
+This ai / llm engineer position at Cisco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

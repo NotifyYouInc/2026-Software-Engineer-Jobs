@@ -1,16 +1,16 @@
-# Apps Dev Tech Lead Analyst - Vice President at Citigroup
+# Apps Dev Tech Lead Analyst -Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rutherford, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Apps-Dev-Tech-Lead-Analyst---Vice-President_26977308-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Apps-Dev-Tech-Lead-Analyst--Vice-President_26987542) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-17.
+This software engineer position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

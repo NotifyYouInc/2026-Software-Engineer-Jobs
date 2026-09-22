@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Knutsford, England, United Kingdom |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Software-Engineer_JR-0000131523) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Software-Engineer_JR-0000108417) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-09-10.
+This software engineer position at Barclays was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

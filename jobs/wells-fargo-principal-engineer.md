@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer_R-564508-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer_R-573782) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-08-31.
+This devops engineer position at Wells Fargo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

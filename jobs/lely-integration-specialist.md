@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000140158749-integration-specialist) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000149540969-integration-specialist) |
 
 ## About This Role
 
-This software engineer position at Lely was posted on 2026-07-28.
+This software engineer position at Lely was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

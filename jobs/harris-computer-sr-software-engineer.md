@@ -1,16 +1,16 @@
-# Sr Software Engineer at Harris Computer
+# Sr. Software Engineer at Harris Computer
 
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Mumbai-Andheri/Sr-Software-Engineer_R0046511-2) |
 
 ## About This Role
 
-This software engineer position at Harris Computer was posted on 2026-05-23.
+This software engineer position at Harris Computer was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

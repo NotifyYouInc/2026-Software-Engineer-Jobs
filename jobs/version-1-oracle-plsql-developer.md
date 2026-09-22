@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Portlaoise, Leinster, Ireland |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000145722674-oracle-plsql-developer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000149530579-oracle-plsql-developer) |
 
 ## About This Role
 
-This software engineer position at Version 1 was posted on 2026-08-26.
+This software engineer position at Version 1 was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

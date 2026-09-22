@@ -1,16 +1,16 @@
-# Sr Analyst  Software Engineering at DXC Technology
+# Sr Analyst Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Zaragoza, Aragon, Spain |
+| Location | Madrid, ES |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---AR---ZARAGOZA/Sr-Analyst--Software-Engineering_51572857) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Sr-Analyst-Software-Engineering_51589096) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-13.
+This software engineer position at DXC Technology was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

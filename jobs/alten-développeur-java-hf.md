@@ -1,16 +1,16 @@
-# Développeur Java (H/F) at ALTEN
+#  Développeur Java (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Grenoble, Rhône-Alpes, France |
+| Location | Brest, Brittany, France |
 | Category | Software Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149251699-developpeur-java-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149590774-developpeur-java-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-09-14.
+This software engineer position at ALTEN was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Rave-Custom-Function-Programmer_R1547894) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Rave-Custom-Function-Programmer_R1558785) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-08-25.
+This software engineer position at IQVIA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

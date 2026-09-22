@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000144498019-associate-equipment-development-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000149523445-associate-equipment-development-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-08-20.
+This electrical / hardware engineer position at SanDisk was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

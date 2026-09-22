@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Principal-Software-Engineer_R56192) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Software-Engineer_R56124) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-01.
+This qa engineer position at Cadence Design Systems was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

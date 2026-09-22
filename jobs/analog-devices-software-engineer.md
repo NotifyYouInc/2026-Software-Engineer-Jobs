@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore/Software-Engineer_R260757) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Software-Engineer_R266038) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-03-05.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

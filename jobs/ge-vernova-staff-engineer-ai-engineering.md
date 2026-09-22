@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Engineer---AI-Engineering_R5048473) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Engineer---AI-Engineering_R5052823-2) |
 
 ## About This Role
 
-This machine learning engineer position at GE Vernova was posted on 2026-07-28.
+This ai / llm engineer position at GE Vernova was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

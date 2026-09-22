@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Software-Developer_JR-0000112321) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Migration-Services-Postgres-SME_JR-0000052480) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-06-24.
+This software engineer position at Barclays was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

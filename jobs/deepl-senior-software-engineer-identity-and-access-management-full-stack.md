@@ -5,12 +5,12 @@
 | Company | [DeepL](https://scoutify.ai/companies/deepl?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/b9a2b473-eb09-4414-a303-e5b77c6c21f4) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/0c9d3b11-a6d1-49d5-ac6b-41cb3f6f2a6c) |
 
 ## About This Role
 
-This software engineer position at DeepL was posted on 2026-08-21.
+This software engineer position at DeepL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

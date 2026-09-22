@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Staff-Engineer--Product-Software_JR-162384) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Staff-Engineer--Product-Software_JR-162235) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-08-06.
+This software engineer position at Equinix was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | China |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7839829) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8203596) |
 
 ## About This Role
 
-This software engineer position at Capco was posted on 2026-04-22.
+This technology / it consulting position at Capco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

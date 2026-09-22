@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Senior-Software-Developer-1_R09131-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Senior-Software-Developer-1_R10373-1) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-07-30.
+This software engineer position at SOTI was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

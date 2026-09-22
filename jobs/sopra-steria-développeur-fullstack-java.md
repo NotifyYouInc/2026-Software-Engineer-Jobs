@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Meyrin, Geneva, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148219642-developpeur-fullstack-java) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149590129-developpeur-fullstack-java) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-08.
+This software engineer position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

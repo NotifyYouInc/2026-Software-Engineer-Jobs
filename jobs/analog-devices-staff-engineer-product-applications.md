@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shanghai-Pudong-ZuChongzhi/Staff-Engineer--Product-Applications_R263176-1) |
+| Location | San Jose, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Product-Applications_R265600-1) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-07-21.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Crawley, England, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148196599-embedded-software-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000149527779-embedded-software-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN Canada was posted on 2026-09-08.
+This embedded / firmware engineer position at ALTEN Canada was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

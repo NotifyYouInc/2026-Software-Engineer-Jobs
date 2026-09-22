@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR-AI-ENGINEER--SMAI_JR110811) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR-AI-ENGINEER--SMAI_JR111564) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-09-07.
+This ai / llm engineer position at Micron was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

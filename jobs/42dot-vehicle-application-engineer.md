@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/2f5800ad-9b80-406c-8b5c-6e5ca4177e08) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/2db30031-fd92-4d1e-bf5f-ae31281ea5cf) |
 
 ## About This Role
 
-This software engineer position at 42dot was posted on 2026-07-21.
+This software engineer position at 42dot was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

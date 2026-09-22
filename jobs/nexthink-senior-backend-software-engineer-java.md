@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000135411979-senior-backend-software-engineer-java) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000149563698-senior-backend-software-engineer-java) |
 
 ## About This Role
 
-This software engineer position at Nexthink was posted on 2026-07-02.
+This software engineer position at Nexthink was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hiroshima, Hiroshima, Japan |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/RDA-Application-Engineer_JR105769) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/RDA-Application-Engineer_JR106842) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-08-17.
+This semiconductor / chip design position at Micron was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

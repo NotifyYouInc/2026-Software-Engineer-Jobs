@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Tewksbury, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-09-08.
+This software engineer position at RTX was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

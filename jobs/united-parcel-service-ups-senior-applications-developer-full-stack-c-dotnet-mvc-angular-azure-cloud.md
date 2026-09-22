@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Applications-Developer---Full-Stack-C---Dotnet--MVC--Angular--Azure-Cloud_R26024436) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Applications-Developer---Full-Stack-C---Dotnet--MVC--Angular--Azure-Cloud_R26024437) |
 
 ## About This Role
 
-This software engineer position at United Parcel Service (UPS) was posted on 2026-09-09.
+This software engineer position at United Parcel Service (UPS) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
