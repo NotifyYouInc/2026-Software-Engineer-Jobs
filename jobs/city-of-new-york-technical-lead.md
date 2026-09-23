@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015258366-technical-lead) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015295976-technical-lead) |
 
 ## About This Role
 
-This software engineer position at City of New York was posted on 2026-09-15.
+This software engineer position at City of New York was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

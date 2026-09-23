@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/6761066) |
+| Location | Lucknow, Uttar Pradesh, India |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8159362) |
 
 ## About This Role
 
-This software engineer position at InMobi was posted on 2026-03-13.
+This data engineer position at InMobi was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

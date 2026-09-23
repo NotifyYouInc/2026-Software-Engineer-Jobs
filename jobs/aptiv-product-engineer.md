@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Saltillo, Coahuila, Mexico |
+| Location | Gyeonggi-do, KR |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Saltillo-Mexico/Product-Engineer_J000702210) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Gunpo-si-Gyeonggi-do-Republic-of-Korea/Product-Engineer_J000702757) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-08-21.
+This electrical / hardware engineer position at Aptiv was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

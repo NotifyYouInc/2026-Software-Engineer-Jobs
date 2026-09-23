@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/Pay-Digital-Lead--ReactJS--Golang--AWS-_JR1040185-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-05-29.
+This software engineer position at Synechron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

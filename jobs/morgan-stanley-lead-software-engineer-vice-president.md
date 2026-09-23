@@ -1,16 +1,16 @@
-# Lead Software Engineer - Vice President at Morgan Stanley
+# Lead Software Engineer :  Vice President at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Lead-Software-Engineer---Vice-President_PT-JR042439-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Lead-Software-Engineer----Vice-President_PT-JR043739-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-08-31.
+This software engineer position at Morgan Stanley was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

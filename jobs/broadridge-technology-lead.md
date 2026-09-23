@@ -1,16 +1,16 @@
-# Technology Lead at Broadridge
+# Technology lead at Broadridge
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Lead_JR1084613) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-lead_JR1085277) |
 
 ## About This Role
 
-This software engineer position at Broadridge was posted on 2026-08-19.
+This software engineer position at Broadridge was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#36677) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#39657) |
 
 ## About This Role
 
-This sales engineer position at Nokia was posted on 2026-07-10.
+This sales engineer position at Nokia was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

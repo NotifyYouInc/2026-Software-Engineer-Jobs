@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147862905-ingenieur-surete-agression-stage-hf) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000149857902-ingenieur-surete-agression-stage-hf) |
 
 ## About This Role
 
-This software engineer position at Assystem was posted on 2026-09-07.
+This software engineer position at Assystem was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

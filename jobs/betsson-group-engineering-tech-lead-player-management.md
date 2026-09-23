@@ -1,16 +1,16 @@
-# Engineering Tech Lead - Player Management at Betsson Group
+# Engineering Tech Lead - Player Management  at Betsson Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Malta |
 | Category | Software Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8111664) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8207391) |
 
 ## About This Role
 
-This software engineer position at Betsson Group was posted on 2026-08-22.
+This software engineer position at Betsson Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Hyperautomation-Fullstack-Developer_R2836141) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Hyperautomation-Fullstack-Developer_R2836123) |
 
 ## About This Role
 
-This software engineer position at Sanofi was posted on 2026-07-24.
+This software engineer position at Sanofi was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

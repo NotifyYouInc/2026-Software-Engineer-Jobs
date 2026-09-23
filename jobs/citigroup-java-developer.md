@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Java-Developer_26985515) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Java-Developer_26993123) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-09-08.
+This software engineer position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

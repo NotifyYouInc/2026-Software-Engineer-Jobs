@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Quality-Engineering-Lead_ATCI-5710923-S2069332-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead_ATCI-5743795-S2069623-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-09-15.
+This qa engineer position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

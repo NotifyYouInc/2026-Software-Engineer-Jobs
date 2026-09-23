@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-09-15.
+This software engineer position at RTX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

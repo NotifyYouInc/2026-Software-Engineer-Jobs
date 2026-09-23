@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern/32501) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern/32862) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-08-04.
+This embedded / firmware engineer position at HARMAN International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

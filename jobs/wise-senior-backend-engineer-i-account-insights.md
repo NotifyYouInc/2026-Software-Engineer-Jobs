@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145250489-senior-backend-engineer-i-account-insights) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149818114-senior-backend-engineer-i-account-insights) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-08-24.
+This software engineer position at WISE was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

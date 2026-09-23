@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXEYexJPn0j8AzsaR8hbxqOn2zXpw_tImuRHmRt1Uv0cEjsA1Ny_i2ViKstBiWazFzAGKRnr_fUp6NeHRSpZRqY5Kxpk94NzqxNZIxnNOmBAmCnlQ01PbNX_2iG3qg%3D%3D_V2&loc=US&title=Software+Engineer) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVNcmZhOFreK_49O4q4O95JGgYxp7U2jU3SlAkUCcPctEjsA9yzvggtC47O78nbgvnPFMTYv1ivdEgWpP0lR5CUhgRjSyZUKBblAFD6nGm3e9oFmhR_oXEs9uqs8rA%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-22.
+This machine learning engineer position at Google was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

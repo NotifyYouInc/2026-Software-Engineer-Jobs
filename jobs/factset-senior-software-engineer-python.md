@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Senior-Software-Engineer_R30242) |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Senior-Software-Engineer--Python-_R33211-4) |
 
 ## About This Role
 
-This software engineer position at FactSet was posted on 2026-02-23.
+This data engineer position at FactSet was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

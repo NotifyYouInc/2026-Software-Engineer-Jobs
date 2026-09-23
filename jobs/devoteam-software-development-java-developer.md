@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136760086-software-development-java-developer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149807799-software-development-java-developer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-07-09.
+This software engineer position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

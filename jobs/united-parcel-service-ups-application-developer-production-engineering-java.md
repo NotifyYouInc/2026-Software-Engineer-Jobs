@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Application-Developer---Production-Engineering--Java_R26022389-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Application-Developer---Production-Engineering--Java_R26022390-1) |
 
 ## About This Role
 
-This software engineer position at United Parcel Service (UPS) was posted on 2026-09-15.
+This devops engineer position at United Parcel Service (UPS) was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

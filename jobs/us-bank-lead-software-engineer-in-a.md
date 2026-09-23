@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-A_2026-0025000-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-A_2026-0024955) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-09-03.
+This software engineer position at U.S. Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

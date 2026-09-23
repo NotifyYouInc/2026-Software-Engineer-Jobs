@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---III_180488) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---III_180487) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-09-01.
+This software engineer position at Vanguard was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

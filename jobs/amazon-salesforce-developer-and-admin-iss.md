@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453445/salesforce-developer-and-admin-iss) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544197/salesforce-developer-and-admin-iss) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-19.
+This it & systems administration position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

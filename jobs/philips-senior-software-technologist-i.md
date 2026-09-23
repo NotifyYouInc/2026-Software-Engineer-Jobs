@@ -1,16 +1,16 @@
-# Senior Software Technologist I at Philips
+# Senior Software Technologist- I at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist-I_567140) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist--I_590728-1) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-04-15.
+This software engineer position at Philips was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

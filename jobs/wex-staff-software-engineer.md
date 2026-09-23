@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Staff--Software-Engineer_R22259-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Staff--Software-Engineer_R22780) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-08-07.
+This software engineer position at Wex was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

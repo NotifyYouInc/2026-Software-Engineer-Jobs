@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5082316-S1878760-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Software-Development-Engineer_ATCI-R1-S1923648) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-15.
+This software engineer position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

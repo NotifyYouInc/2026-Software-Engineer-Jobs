@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Technika-Grzewcza-Sp-z-o-o-ul-Duska-9-54-427-Wrocaw-PL/Inynier-oprogramowania---Inynierka-oprogramowania---Viessmann-R-D-Wrocaw_30207085-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Technika-Grzewcza-Sp-z-o-o-ul-Duska-9-54-427-Wrocaw-PL/Inynier-oprogramowania---Inynierka-oprogramowania---Viessmann-R-D-Wrocaw_30217527-1) |
 
 ## About This Role
 
-This software engineer position at Carrier Global was posted on 2026-05-27.
+This software engineer position at Carrier Global was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

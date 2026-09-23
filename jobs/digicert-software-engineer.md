@@ -5,12 +5,12 @@
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8605361002) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8655891002) |
 
 ## About This Role
 
-This software engineer position at DigiCert was posted on 2026-09-02.
+This software engineer position at DigiCert was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

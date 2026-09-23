@@ -1,16 +1,16 @@
-# Apps Dev Intmd Programmer Analyst - Officer at Citigroup
+# Apps Dev Intmd Programmer Analyst -Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_26956703) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst--Officer_26993092) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-08.
+This software engineer position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

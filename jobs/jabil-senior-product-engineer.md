@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Senior-Product-Engineer_J2451131) |
+| Location | Singapore, Singapore |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Singapore/Senior-Product-Engineer_J2463106) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-08-04.
+This electrical / hardware engineer position at Jabil was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Portugal |
-| Category | Frontend Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136759856-software-development-javaangular-developer) |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149808049-software-development-javaangular-developer) |
 
 ## About This Role
 
-This frontend engineer position at Devoteam was posted on 2026-07-09.
+This software engineer position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

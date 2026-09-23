@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Matamoros, Coahuila, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Matamoros/Product-Engineer_JR-112063-1) |
+| Location | Philippines |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Lipa-EBU/Product-Engineer_JR-112559) |
 
 ## About This Role
 
-This software engineer position at Littelfuse was posted on 2026-07-16.
+This electrical / hardware engineer position at Littelfuse was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

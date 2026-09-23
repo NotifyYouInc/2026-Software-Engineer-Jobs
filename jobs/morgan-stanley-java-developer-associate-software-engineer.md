@@ -1,16 +1,16 @@
-# Java Developer - Associate - Software Engineer at Morgan Stanley
+# Java Developer - Associate-Software Engineer at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Java-Developer---Associate---Software-Engineer_PT-JR033586-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Java-Developer---Associate-Software-Engineer_PT-JR043314-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-04-06.
+This software engineer position at Morgan Stanley was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

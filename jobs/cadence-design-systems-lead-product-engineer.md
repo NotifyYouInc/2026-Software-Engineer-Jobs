@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Product-Engineer_R56191) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Product-Engineer_R55308) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-09-08.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

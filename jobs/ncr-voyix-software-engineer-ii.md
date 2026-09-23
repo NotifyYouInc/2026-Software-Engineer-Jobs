@@ -5,12 +5,12 @@
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Software-Engineer-II_R0158183) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Software-Engineer-II_R0158066) |
 
 ## About This Role
 
-This software engineer position at NCR Voyix was posted on 2026-08-31.
+This software engineer position at NCR Voyix was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

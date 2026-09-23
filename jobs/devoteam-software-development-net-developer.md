@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Porto, Porto, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000115943357-software-development-net-developer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149808639-software-development-net-developer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-20.
+This software engineer position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
