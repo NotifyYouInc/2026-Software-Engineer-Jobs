@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/AI-Software-Engineer_R-797847) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/AI-Software-Engineer_R-798033) |
 
 ## About This Role
 
-This ai / llm engineer position at State Street was posted on 2026-09-15.
+This software engineer position at State Street was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

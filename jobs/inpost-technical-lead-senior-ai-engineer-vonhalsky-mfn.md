@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000145941500-technical-lead-senior-ai-engineer-vonhalsky-mfn) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000150065349-technical-lead-senior-ai-engineer-vonhalsky-mfn) |
 
 ## About This Role
 
-This ai / llm engineer position at INPOST was posted on 2026-08-27.
+This software engineer position at INPOST was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

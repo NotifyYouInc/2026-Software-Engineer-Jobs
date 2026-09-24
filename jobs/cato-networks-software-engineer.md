@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4970648101?gh_jid=4970648101) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4747584101?gh_jid=4747584101) |
 
 ## About This Role
 
-This software engineer position at Cato Networks was posted on 2026-09-14.
+This software engineer position at Cato Networks was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

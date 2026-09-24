@@ -1,16 +1,16 @@
-# Senior Automation Engineer - UiPath  at Roboyo
+# Senior Automation Engineer  - UiPath at Roboyo
 
 | Field | Details |
 |-------|---------|
 | Company | [Roboyo](https://scoutify.ai/companies/roboyo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Munich, Bavaria, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4967517101) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4978851101) |
 
 ## About This Role
 
-This industrial automation position at Roboyo was posted on 2026-09-14.
+This industrial automation position at Roboyo was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

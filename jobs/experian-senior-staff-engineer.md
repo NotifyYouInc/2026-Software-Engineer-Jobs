@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130100389-senior-staff-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000150074929-senior-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-03.
+This software engineer position at Experian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

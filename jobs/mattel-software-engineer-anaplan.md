@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137801989-software-engineer-anaplan) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150010760-software-engineer-anaplan) |
 
 ## About This Role
 
-This software engineer position at Mattel was posted on 2026-07-15.
+This software engineer position at Mattel was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

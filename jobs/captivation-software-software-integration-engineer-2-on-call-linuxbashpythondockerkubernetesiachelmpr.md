@@ -5,12 +5,12 @@
 | Company | [Captivation Software](https://scoutify.ai/companies/captivation?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/captivation/jobs/5385090008) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/captivation/jobs/5426577008) |
 
 ## About This Role
 
-This devops engineer position at Captivation Software was posted on 2026-08-10.
+This devops engineer position at Captivation Software was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

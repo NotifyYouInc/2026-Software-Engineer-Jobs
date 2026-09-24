@@ -5,12 +5,12 @@
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Java-Full-Stack-Developer_R5695) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Java-Full-Stack-Developer_R5831) |
 
 ## About This Role
 
-This software engineer position at Priceline was posted on 2026-06-10.
+This software engineer position at Priceline was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

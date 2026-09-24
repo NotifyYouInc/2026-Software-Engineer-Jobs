@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8188195) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8203398) |
 
 ## About This Role
 
-This software engineer position at Capco was posted on 2026-09-10.
+This software engineer position at Capco was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

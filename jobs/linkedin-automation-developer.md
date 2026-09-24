@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000147833420-automation-developer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000150011839-automation-developer) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-09-07.
+This software engineer position at LinkedIn was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

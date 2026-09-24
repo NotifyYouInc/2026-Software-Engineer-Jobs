@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149561258-stage-developpeureuse-java-grenoble) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150064453-stage-developpeureuse-java-grenoble) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-15.
+This software engineer position at Sopra Steria was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

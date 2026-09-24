@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2026-68869) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Software-Engineer_R-2026-71594) |
 
 ## About This Role
 
-This software engineer position at Southwest Airlines was posted on 2026-05-29.
+This software engineer position at Southwest Airlines was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

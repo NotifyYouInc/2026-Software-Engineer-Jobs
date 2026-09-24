@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Software-Application-Development-Engineer_JR0286984) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Software-Application-Development-Engineer_JR0286997) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-09-16.
+This software engineer position at Intel was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149345159-staff-software-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000150038215-staff-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-09-14.
+This software engineer position at ServiceNow was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000143985439-division-principal-game-programmer-unreal-engine-ai) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000150077769-division-principal-game-programmer-unreal-engine-ai) |
 
 ## About This Role
 
-This software engineer position at Gameloft was posted on 2026-08-18.
+This software engineer position at Gameloft was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

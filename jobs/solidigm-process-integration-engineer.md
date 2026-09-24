@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Rancho Cordova, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000140104045-process-integration-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000149965229-process-integration-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Solidigm was posted on 2026-07-27.
+This semiconductor / chip design position at Solidigm was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

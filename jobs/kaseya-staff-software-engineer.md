@@ -5,12 +5,12 @@
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6178378004/?gh_jid=6178378004) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6178413004/?gh_jid=6178413004) |
 
 ## About This Role
 
-This software engineer position at Kaseya was posted on 2026-09-02.
+This software engineer position at Kaseya was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

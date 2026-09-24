@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Austria |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015131096-embedded-software-developer-mwd) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015331496-embedded-software-developer-mwd) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-09-09.
+This embedded / firmware engineer position at Wabtec was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

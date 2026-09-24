@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NOV](https://scoutify.ai/companies/us6-cx-oj76145?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Kochi, Kerala, India |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://egay.fa.us6.oraclecloud.com/jobs/#40963) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://egay.fa.us6.oraclecloud.com/jobs/#44349) |
 
 ## About This Role
 
-This software engineer position at NOV was posted on 2026-07-15.
+This software engineer position at NOV was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

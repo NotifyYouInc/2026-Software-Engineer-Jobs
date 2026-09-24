@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8767864002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8815911002) |
 
 ## About This Role
 
-This software engineer position at Appnovation Technologies was posted on 2026-09-01.
+This software engineer position at Appnovation Technologies was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Field-Applications-Engineer--FAE-_R02976) |
+| Location | Maryland, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Maryland-United-States-Remote/Field-Applications-Engineer--FAE-_R03178) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-08-20.
+This sales engineer position at Altera Corporation was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

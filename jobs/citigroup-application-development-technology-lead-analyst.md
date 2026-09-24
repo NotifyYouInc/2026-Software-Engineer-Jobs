@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Development-Technology-Lead-Analyst_26947195) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Application-Development-Technology-Lead-Analyst_26988529-1) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-30.
+This software engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Software-Engineer_R0000381488) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Software-Engineer_R0000390399) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-09-16.
+This software engineer position at Caterpillar was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

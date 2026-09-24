@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Kirkland-WA/Sr-Applications-Engineer---Applications-Engineer_R-1082) |
+| Location | San Jose, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Power-Applications-Engineer_R-1988) |
 
 ## About This Role
 
-This semiconductor / chip design position at Monolithic Power Systems was posted on 2026-03-11.
+This software engineer position at Monolithic Power Systems was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

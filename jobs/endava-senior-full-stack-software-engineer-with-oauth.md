@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000145441229-senior-full-stack-software-engineer-with-oauth) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000150077579-senior-full-stack-software-engineer-with-oauth) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-08-25.
+This software engineer position at Endava was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer---AI-I_JREQ194745) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-04-22.
+This software engineer position at Thomson Reuters was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

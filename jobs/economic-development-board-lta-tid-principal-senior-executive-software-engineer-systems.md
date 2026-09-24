@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-T-ID--PRINCIPAL---SENIOR---EXECUTIVE-SOFTWARE-ENGINEER--SYSTEMS_JR-10000052314) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-T-ID--PRINCIPAL---SENIOR---EXECUTIVE-SOFTWARE-ENGINEER--SYSTEMS_JR-10000055625) |
 
 ## About This Role
 
-This software engineer position at Economic Development Board was posted on 2026-06-22.
+This software engineer position at Economic Development Board was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

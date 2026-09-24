@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148467884-seniorstaff-product-engineer-risk-control-governance) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150044849-seniorstaff-product-engineer-risk-control-governance) |
 
 ## About This Role
 
-This data engineer position at WISE was posted on 2026-09-09.
+This software engineer position at WISE was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

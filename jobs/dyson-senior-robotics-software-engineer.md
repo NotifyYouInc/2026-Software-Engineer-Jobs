@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Senior-Robotics-Software-Engineer_JR38493) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Senior-Robotics-Software-Engineer_JR38572) |
 
 ## About This Role
 
-This software engineer position at Dyson was posted on 2026-09-15.
+This embedded / firmware engineer position at Dyson was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140156729-senior-hyper-automation-rpa-ai-ml-developerengineer) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150019740-senior-hyper-automation-rpa-ai-ml-developerengineer) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-28.
+This software engineer position at Robert Bosch was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

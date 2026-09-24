@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Application-Engineer--Open---Non-Shift-_JR00008802) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-GE2/Application-Engineer--Open---Non-Shift-_JR00011096) |
 
 ## About This Role
 
-This software engineer position at OCBC was posted on 2026-07-16.
+This software engineer position at OCBC was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

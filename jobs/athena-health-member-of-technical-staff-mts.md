@@ -1,16 +1,16 @@
-# Member of Technical Staff - MTS at Athena Health
+# Member of Technical Staff – MTS at Athena Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Member-of-Technical-Staff---MTS_R15344) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Member-of-Technical-Staff---MTS_R15500-1) |
 
 ## About This Role
 
-This software engineer position at Athena Health was posted on 2026-09-09.
+This software engineer position at Athena Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

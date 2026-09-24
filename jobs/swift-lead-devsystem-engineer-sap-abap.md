@@ -5,12 +5,12 @@
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Lead-Dev-System-Engineer---SAP-ABAP_2026-15824) |
 
 ## About This Role
 
-This software engineer position at Swift was posted on 2026-05-06.
+This software engineer position at Swift was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

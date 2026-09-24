@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148179460-sr-staff-software-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000150039063-sr-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-09-08.
+This software engineer position at ServiceNow was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

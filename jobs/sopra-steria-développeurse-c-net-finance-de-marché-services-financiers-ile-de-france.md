@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113243410-developpeurse-c-net-finance-de-marche-services-financiers-ile-de-france) |
+| Category | Quant Developer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150023768-developpeurse-c-net-finance-de-marche-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-06.
+This quant developer position at Sopra Steria was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

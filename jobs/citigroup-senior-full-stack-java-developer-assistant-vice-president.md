@@ -1,16 +1,16 @@
-# Senior Full Stack Java Developer – Assistant Vice President at Citigroup
+# Senior Full Stack Java Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Full-Stack-Java-Developer---Assistant-Vice-President_26960244) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Senior-Full-Stack-Java-Developer---Assistant-Vice-President_26994702) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-05.
+This software engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140180699-senior-full-stack-developer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000150069599-senior-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Version 1 was posted on 2026-07-28.
+This software engineer position at Version 1 was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Application-Engineer_R2626808) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Application-Engineer_R2623090) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-08-26.
+This semiconductor / chip design position at Applied Materials was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

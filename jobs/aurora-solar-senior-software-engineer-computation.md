@@ -5,12 +5,12 @@
 | Company | [Aurora Solar](https://scoutify.ai/companies/aurora-solar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aurorasolar/a528abb6-8540-4c17-8a93-5e1343a69c36) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aurorasolar/ecd50dc7-8dd4-4884-b65d-5a2d5162fe60) |
 
 ## About This Role
 
-This software engineer position at Aurora Solar was posted on 2026-04-16.
+This software engineer position at Aurora Solar was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

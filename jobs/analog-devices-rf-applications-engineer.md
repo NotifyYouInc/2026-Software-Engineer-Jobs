@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/RF-Applications-Engineer_R265240) |
+| Location | Limerick, Munster, Ireland |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/RF-Applications-Engineer_R266195) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-08-20.
+This semiconductor / chip design position at Analog Devices was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/7811229) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8204493) |
 
 ## About This Role
 
-This software engineer position at Planet was posted on 2026-04-16.
+This software engineer position at Planet was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

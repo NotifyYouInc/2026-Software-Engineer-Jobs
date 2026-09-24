@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000144499519-software-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000150074969-software-architect) |
 
 ## About This Role
 
-This software engineer position at Netcompany was posted on 2026-08-20.
+This technical & solutions architect position at Netcompany was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

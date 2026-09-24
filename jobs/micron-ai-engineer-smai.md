@@ -1,16 +1,16 @@
-# AI Engineer, SMAI at Micron
+# AI ENGINEER, SMAI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/AI-Engineer--SMAI_JR111138) |
+| Location | Taoyuan, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/AI-ENGINEER--SMAI_JR112225) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-09-10.
+This software engineer position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

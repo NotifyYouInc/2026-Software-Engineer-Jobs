@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Full-Stack-Developer_R0246030) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Cambridgeshire/Full-Stack-Developer_R0249656) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-08-04.
+This software engineer position at Booz Allen was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

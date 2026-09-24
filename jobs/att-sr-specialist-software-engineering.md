@@ -1,16 +1,16 @@
-# Sr Specialist Software Engineering at AT&T
+# Sr. Specialist Software Engineering at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Plano, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Sr-Specialist-Software-Engineering_R-120199) |
+| Location | Bothell, Washington, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Sr-Specialist-Software-Engineering_R-118703) |
 
 ## About This Role
 
-This ai / llm engineer position at AT&T was posted on 2026-08-21.
+This software engineer position at AT&T was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Full Stack Software Developer - TS/SCI with Polygraph at General Dynamics Information Technology
+# Full-Stack Software Developer, TS/SCI with Polygraph at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Full-Stack-Software-Developer---TS-SCI-with-Polygraph_RQ224762-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Full-Stack-Software-Developer--TS-SCI-with-Polygraph_RQ228353-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-08-01.
+This software engineer position at General Dynamics Information Technology was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

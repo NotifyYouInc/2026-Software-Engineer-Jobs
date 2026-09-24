@@ -1,16 +1,16 @@
-# SR AI ENGINEER, SMAI at Micron
+# SR. AI Engineer, SMAI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR-AI-ENGINEER--SMAI_JR111564) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/SR-AI-Engineer--SMAI_JR111327) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-09-15.
+This software engineer position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

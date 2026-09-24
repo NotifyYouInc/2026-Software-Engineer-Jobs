@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000148447219-wbg-senior-full-stack-engineer-net-react) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000150025290-wbg-senior-full-stack-engineer-net-react) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-09-09.
+This software engineer position at Software Mind was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
