@@ -1,16 +1,16 @@
-# Engineer II- C++ Developer at Aristocrat Leisure
+# Engineer II - C++ developer at Aristocrat Leisure
 
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Gurugram/Engineer-II--C---Developer_R0021739) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Noida-UP-IN/Engineer-II_R0022613) |
 
 ## About This Role
 
-This software engineer position at Aristocrat Leisure was posted on 2026-09-01.
+This software engineer position at Aristocrat Leisure was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

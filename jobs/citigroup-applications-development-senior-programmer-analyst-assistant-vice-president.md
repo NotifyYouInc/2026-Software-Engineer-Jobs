@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Castle, Pennsylvania, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26991218) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26992943) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-09-04.
+This software engineer position at Citigroup was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

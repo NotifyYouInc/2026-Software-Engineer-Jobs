@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001240980-senior-frontend-software-engineer-cms-team) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001419287-senior-frontend-software-engineer-cms-team) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-07-17.
+This software engineer position at Canva was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

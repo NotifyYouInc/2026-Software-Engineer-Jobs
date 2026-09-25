@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bucharest/ServiceNow-Developer_14730422) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/ServiceNow-Developer_R00357122) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-10.
+This software engineer position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

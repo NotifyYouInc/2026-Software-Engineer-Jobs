@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8129527) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8194727) |
 
 ## About This Role
 
-This software engineer position at Coupang was posted on 2026-09-04.
+This cybersecurity engineer position at Coupang was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

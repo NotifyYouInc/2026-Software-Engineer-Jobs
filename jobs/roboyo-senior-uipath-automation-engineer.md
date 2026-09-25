@@ -5,12 +5,12 @@
 | Company | [Roboyo](https://scoutify.ai/companies/roboyo?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4975854101) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4963752101) |
 
 ## About This Role
 
-This industrial automation position at Roboyo was posted on 2026-09-16.
+This industrial automation position at Roboyo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

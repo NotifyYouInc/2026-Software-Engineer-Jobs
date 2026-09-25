@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127948569-senior-software-engineer-i-wise-for-enterprise-banks) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150224639-senior-software-engineer-i-wise-for-enterprise-banks) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-05-22.
+This software engineer position at WISE was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

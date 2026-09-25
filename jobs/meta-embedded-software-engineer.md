@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1714132979779125) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1380163667611704) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-07-28.
+This embedded / firmware engineer position at Meta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

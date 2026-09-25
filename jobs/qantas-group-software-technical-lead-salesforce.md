@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001251800-software-technical-lead-salesforce) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001419300-software-technical-lead-salesforce) |
 
 ## About This Role
 
-This software engineer position at Qantas Group was posted on 2026-07-22.
+This software engineer position at Qantas Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

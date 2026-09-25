@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
 | Category | Leadership Development Program |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001245363-communications-engineer-nucleus-graduate-programme-application-closed-for-2026) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001420053-communications-engineer-nucleus-graduate-programme-application-closed-for-2026) |
 
 ## About This Role
 
-This leadership development program position at NCS was posted on 2026-07-20.
+This leadership development program position at NCS was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

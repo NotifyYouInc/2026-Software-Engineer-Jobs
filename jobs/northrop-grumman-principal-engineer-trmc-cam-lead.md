@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Diego, California, United States |
 | Category | Program Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer--TRMC--CAM-Lead-_R10250865) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer--TRMC--CAM-Lead-_R10251652) |
 
 ## About This Role
 
-This program manager position at Northrop Grumman was posted on 2026-09-16.
+This program manager position at Northrop Grumman was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

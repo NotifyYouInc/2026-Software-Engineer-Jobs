@@ -1,16 +1,16 @@
-# Staff Engineer Systems design at Thermo Fisher Scientific
+# Staff Engineer, Systems Design at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Staff-Engineer-Systems-design_R-01352469) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Staff-Engineer--Systems-Design_R-01368763) |
 
 ## About This Role
 
-This engineering manager position at Thermo Fisher Scientific was posted on 2026-05-20.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

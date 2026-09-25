@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Senior-Software-Engineer_R20061069) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Senior-Software-Engineer_R20062689-1) |
 
 ## About This Role
 
-This frontend engineer position at Transamerica was posted on 2026-03-25.
+This software engineer position at Transamerica was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

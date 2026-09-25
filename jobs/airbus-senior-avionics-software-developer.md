@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Senior-Avionics-Software-Developer_JR10429719-1) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Senior-Avionics-Software-Developer_JR10441796) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-07-21.
+This embedded / firmware engineer position at Airbus was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

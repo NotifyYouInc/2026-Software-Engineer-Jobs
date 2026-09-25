@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000140610950-software-developersre-cloudvision-as-a-service-cvaas) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000150304670-software-developersre-cloudvision-as-a-service-cvaas) |
 
 ## About This Role
 
-This devops engineer position at Arista Networks was posted on 2026-07-30.
+This devops engineer position at Arista Networks was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Location | Vienna, Vienna, Austria |
 | Category | Software Engineer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000150072876-senior-software-engineer-mfd) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000150296129-senior-software-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-09-17.
+This software engineer position at Sportradar was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

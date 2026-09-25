@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000185821-1) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Developer_R-0000176183-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-08-29.
+This software engineer position at Royal Bank of Canada was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

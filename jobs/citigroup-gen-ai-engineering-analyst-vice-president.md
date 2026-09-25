@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Gen-AI-Engineering-Analyst---Vice-President_26993981) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Gen-AI-Engineering-Analyst---Vice-President_26994014) |
 
 ## About This Role
 
-This machine learning engineer position at Citigroup was posted on 2026-09-11.
+This software engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

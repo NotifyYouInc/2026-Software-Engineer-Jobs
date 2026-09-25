@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145502956-senior-staff-application-engineer) |
+| Location | Catania, Sicily, Italy |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000150302589-senior-staff-application-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-08-25.
+This software engineer position at Renesas Electronics was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

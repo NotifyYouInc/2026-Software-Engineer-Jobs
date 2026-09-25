@@ -1,16 +1,16 @@
-# Développeur C# (H/F) at Meritis
+# Développeur C++ (H/F)  at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Montpellier, Occitanie, France |
-| Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145913310-developpeur-c-hf) |
+| Location | Paris, Île-de-France, France |
+| Category | Quant Developer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000150302003-developpeur-c-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-08-27.
+This quant developer position at Meritis was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

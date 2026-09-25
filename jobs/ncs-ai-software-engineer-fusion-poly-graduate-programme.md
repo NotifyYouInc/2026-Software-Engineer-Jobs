@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001245476-ai-software-engineer-fusion-poly-graduate-programme) |
+| Category | Leadership Development Program |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001420076-ai-software-engineer-fusion-poly-graduate-programme) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-07-20.
+This leadership development program position at NCS was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

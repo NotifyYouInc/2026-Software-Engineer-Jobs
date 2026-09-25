@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mawson Lakes, South Australia, Australia |
+| Location | Manchester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Software-Engineer_01873158-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Manchester-Lancashire/Software-Engineer_01854460) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-09-10.
+This software engineer position at RTX was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

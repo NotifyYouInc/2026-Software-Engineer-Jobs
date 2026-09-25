@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149999689-opex-help-center-associate) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000150271982-opex-help-center-associate) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-09-17.
+This software engineer position at Delivery Hero was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

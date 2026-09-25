@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Burnaby, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Engineer_R_106587) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Engineer_R_106682) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-07-21.
+This software engineer position at Remitly was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

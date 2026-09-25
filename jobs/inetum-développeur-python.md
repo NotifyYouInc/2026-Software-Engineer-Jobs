@@ -1,16 +1,16 @@
-# Développeur Python at Inetum
+# Développeur Python  at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148434910-developpeur-python) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000150351359-developpeur-python) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-09-09.
+This software engineer position at Inetum was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

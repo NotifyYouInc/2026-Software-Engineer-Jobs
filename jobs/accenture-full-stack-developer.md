@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Petaling-Jaya-Plaza-33/Full-Stack-Developer_14653655) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Full-Stack-Developer_14617370) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-03.
+This software engineer position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

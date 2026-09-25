@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000137768469-staff-software-engineer-dsm) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000150225449-staff-software-engineer-dsm) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-07-15.
+This software engineer position at Cint was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000150032780-vks-senior-backend-integration-developer-java) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000150288784-vks-senior-backend-integration-developer-java) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-09-17.
+This software engineer position at Software Mind was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

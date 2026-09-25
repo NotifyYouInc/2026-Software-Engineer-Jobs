@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | United Kingdom |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000148445969-principal-platform-engineer-identity-platform-authnauthz) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000150305074-principal-platform-engineer-identity-platform-authnauthz) |
 
 ## About This Role
 
-This cybersecurity engineer position at IFS was posted on 2026-09-09.
+This software engineer position at IFS was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

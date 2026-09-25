@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Kodaira, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145245729-edge-ai-ai) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000150358255-edge-ai-ai) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-08-24.
+This software engineer position at Renesas Electronics was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

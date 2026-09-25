@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5770132-S2069860-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Packaged-SaaS-Application-Engineer_ATCI-5377474-S1955529-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-09-17.
+This technology / it consulting position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

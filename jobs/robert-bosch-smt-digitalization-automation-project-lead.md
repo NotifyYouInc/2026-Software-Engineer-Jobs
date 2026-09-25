@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135637649-smt-digitalization-automation-project-lead) |
+| Category | Data Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150296530-smt-digitalization-automation-project-lead) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-03.
+This data engineer position at Robert Bosch was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

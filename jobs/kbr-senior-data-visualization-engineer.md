@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Senior-Data-Visualization-Engineer_R2129102) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Senior-Data-Visualization-Engineer_R2130209) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-08-28.
+This software engineer position at KBR was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

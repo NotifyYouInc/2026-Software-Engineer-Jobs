@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gaithersburg, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Developer_R-00189881) |
+| Location | Reston, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Developer_R-00192507) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-18.
+This data engineer position at Leidos was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

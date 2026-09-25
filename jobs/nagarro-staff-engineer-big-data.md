@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148417190-staff-engineer-big-data) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000150280189-staff-engineer-big-data) |
 
 ## About This Role
 
-This data engineer position at Nagarro was posted on 2026-09-09.
+This data engineer position at Nagarro was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

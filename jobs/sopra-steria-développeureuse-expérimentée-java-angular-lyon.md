@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Limonest, Rhône-Alpes, France |
 | Category | Software Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148191838-developpeureuse-experimentee-java-angular-lyon) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150305093-developpeureuse-experimentee-java-angular-lyon) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-08.
+This software engineer position at Sopra Steria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

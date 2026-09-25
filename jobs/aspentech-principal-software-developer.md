@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Pune-EMR/Principal-Software-Developer_R8975) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Mexico-City/Principal-Software-Developer_R9356) |
 
 ## About This Role
 
-This software engineer position at Aspentech was posted on 2026-08-03.
+This software engineer position at Aspentech was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

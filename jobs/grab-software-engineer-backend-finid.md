@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138797899-software-engineer-backend-finid) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000150314369-software-engineer-backend-finid) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-07-21.
+This software engineer position at Grab was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

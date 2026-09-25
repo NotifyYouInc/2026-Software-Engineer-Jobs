@@ -5,12 +5,12 @@
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/87875305-d9e0-49ea-880f-368f12eab6fb) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/60e93c7b-0438-4ba8-896a-fad9105e46c6) |
 
 ## About This Role
 
-This software engineer position at Sitemate was posted on 2026-08-25.
+This software engineer position at Sitemate was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

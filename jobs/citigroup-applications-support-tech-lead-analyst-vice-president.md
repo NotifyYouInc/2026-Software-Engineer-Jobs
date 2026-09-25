@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Irving, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Support-Tech-Lead-Analyst---Vice-President_26963133) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Support-Tech-Lead-Analyst---Vice-President_26991441) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-06-04.
+This devops engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

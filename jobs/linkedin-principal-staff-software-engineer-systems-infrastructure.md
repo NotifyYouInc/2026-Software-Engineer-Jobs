@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144171519-principal-staff-software-engineer-systems-infrastructure) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000150226969-principal-staff-software-engineer-systems-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-08-18.
+This software engineer position at LinkedIn was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
