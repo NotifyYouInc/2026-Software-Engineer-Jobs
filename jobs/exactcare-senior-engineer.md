@@ -1,16 +1,16 @@
-# Principal Software Developer at Aspentech
+# Senior Engineer at Exactcare
 
 | Field | Details |
 |-------|---------|
-| Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Exactcare](https://scoutify.ai/companies/exactcare?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | Ohio, US |
 | Category | Software Engineer |
 | Posted | 2026-09-19 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Pune-EMR/Principal-Software-Developer_R9325) |
+| Apply | [View on company site](https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/OH---Remote/Senior-Engineer_R-108977) |
 
 ## About This Role
 
-This software engineer position at Aspentech was posted on 2026-09-19.
+This software engineer position at Exactcare was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

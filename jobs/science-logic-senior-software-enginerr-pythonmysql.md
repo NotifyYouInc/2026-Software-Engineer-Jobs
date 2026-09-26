@@ -1,16 +1,16 @@
-# Principal Software Developer at Aspentech
+# Senior Software Enginerr- Python/Mysql at Science Logic
 
 | Field | Details |
 |-------|---------|
-| Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Science Logic](https://scoutify.ai/companies/science-logic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-09-19 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Pune-EMR/Principal-Software-Developer_R9325) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sciencelogic/80356dfb-3043-43b0-97ca-13ec91f6ba2b) |
 
 ## About This Role
 
-This software engineer position at Aspentech was posted on 2026-09-19.
+This software engineer position at Science Logic was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 
