@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Software-Engineer_R0249268) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0249879) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-09-11.
+This software engineer position at Booz Allen was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Connecticut, US |
 | Category | Software Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Analyst-I-Software-Engineering_51588429) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-09-03.
+This software engineer position at DXC Technology was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

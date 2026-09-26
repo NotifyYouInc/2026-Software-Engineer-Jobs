@@ -5,12 +5,12 @@
 | Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/747bd14b-b957-4fca-b5bd-12d571f6886e) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/1aa9394e-0080-42b2-8402-f2f5fe7fa15b) |
 
 ## About This Role
 
-This software engineer position at Handshake was posted on 2026-05-10.
+This software engineer position at Handshake was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

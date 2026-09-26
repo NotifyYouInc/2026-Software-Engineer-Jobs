@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kraken](https://scoutify.ai/companies/kraken?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | United States |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/b9fcef88-587d-4299-a3b0-9f96c102554c) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/fb3139f2-9b13-4015-891c-37ca713c750f) |
 
 ## About This Role
 
-This software engineer position at Kraken was posted on 2026-02-13.
+This software engineer position at Kraken was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

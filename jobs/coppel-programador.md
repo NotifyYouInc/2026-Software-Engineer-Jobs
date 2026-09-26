@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Culiacán, Sinaloa, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#307768) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#328355) |
 
 ## About This Role
 
-This software engineer position at Coppel was posted on 2026-08-05.
+This software engineer position at Coppel was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

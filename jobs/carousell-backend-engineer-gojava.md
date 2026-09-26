@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000148415320-backend-engineer-gojava) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000150378686-backend-engineer-gojava) |
 
 ## About This Role
 
-This software engineer position at Carousell was posted on 2026-09-09.
+This software engineer position at Carousell was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Engineer - Software Development at Accelya World
+# Senior Engineer- Software Development at Accelya World
 
 | Field | Details |
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Mumbai/Senior-Engineer---Software-Development_JR102533) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune/Senior-Engineer--Software-Development_JR102562) |
 
 ## About This Role
 
-This software engineer position at Accelya World was posted on 2026-09-15.
+This software engineer position at Accelya World was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

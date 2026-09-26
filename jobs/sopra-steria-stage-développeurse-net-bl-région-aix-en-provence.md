@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147886259-stage-developpeurse-net-bl-region-aix-en-provence) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150391398-stage-developpeurse-net-bl-region-aix-en-provence) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-07.
+This software engineer position at Sopra Steria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Budapest-Flexible/Software-Engineer_JR111937-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Durham-Flexible/Software-Engineer_JR112268-1) |
 
 ## About This Role
 
-This software engineer position at Genesys was posted on 2026-07-31.
+This software engineer position at Genesys was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

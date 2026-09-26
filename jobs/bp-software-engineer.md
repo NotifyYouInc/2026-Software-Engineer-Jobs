@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-Engineer_RQ112945-2) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Software-Engineer_RQ115325-1) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-09-04.
+This software engineer position at BP was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

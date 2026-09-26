@@ -1,16 +1,16 @@
-# Software Engineer II - CTJ - POLY at Microsoft
+# Software Engineer II - CTJ- POLY at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556984683) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556999149) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-09-11.
+This software engineer position at Microsoft was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

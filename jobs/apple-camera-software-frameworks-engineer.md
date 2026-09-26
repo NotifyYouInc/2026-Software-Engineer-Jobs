@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Not specified |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657326/camera-software-frameworks-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-10.
+This software engineer position at Apple was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

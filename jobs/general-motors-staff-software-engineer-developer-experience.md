@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Warren, Michigan, United States |
-| Category | Developer Relations |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Software-Engineer---Developer-Experience_JR-202610566) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Technical-Center---Austin-Technical-Center/Staff-Software-Engineer---Developer-Experience_JR-202620631) |
 
 ## About This Role
 
-This developer relations position at General Motors was posted on 2026-05-13.
+This software engineer position at General Motors was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000146151059-senior-software-engineer-layer1-c) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000150410554-senior-software-engineer-layer1-c) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-08-28.
+This software engineer position at Arista Networks was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

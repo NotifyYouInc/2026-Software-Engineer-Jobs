@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822) |
 
 ## About This Role
 
-This software engineer position at HelloFresh was posted on 2026-09-11.
+This software engineer position at HelloFresh was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

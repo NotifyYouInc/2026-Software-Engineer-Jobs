@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 3 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-III---New-Glenn-Avionics_R69952) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-III---New-Glenn-Avionics_R72444-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Blue Origin was posted on 2026-08-07.
+This embedded / firmware engineer position at Blue Origin was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

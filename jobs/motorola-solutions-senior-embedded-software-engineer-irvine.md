@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Irvine, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Senior-Embedded-Software-Engineer---Irvine_R62736) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Senior-Embedded-Software-Engineer---Irvine_R69004) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Motorola Solutions was posted on 2026-03-03.
+This embedded / firmware engineer position at Motorola Solutions was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

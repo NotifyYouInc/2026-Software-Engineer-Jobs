@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/CHEVRON-GBS-BA--IT-Internship-2026_R000069140) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/CHEVRON-GBS-BA--IT-Internship-2026_R000073622-1) |
 
 ## About This Role
 
-This frontend engineer position at Chevron was posted on 2026-02-19.
+This software engineer position at Chevron was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

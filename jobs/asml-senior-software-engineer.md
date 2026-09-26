@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | San Jose, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Senior-Software-Engineer_J-00342258) |
+| Location | Beijing, Beijing, China |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Beijing-China/Senior-Software-Engineer_J-00352948) |
 
 ## About This Role
 
-This devops engineer position at ASML was posted on 2026-08-13.
+This software engineer position at ASML was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

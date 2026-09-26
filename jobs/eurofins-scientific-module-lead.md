@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000150297729-module-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000150419889-module-lead) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Staff Software Engineer - Federal at Okta
+# Staff Software Engineer (Federal) at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064) |
+| Location | San Francisco, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8210784?gh_jid=8210784) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-02-25.
+This software engineer position at Okta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | New Jersey, US |
+| Location | Galway, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Work-from-home/Software-Development-Engineer_R1037923) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Software-Development-Engineer_R1045991) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-09-11.
+This software engineer position at CVS Health was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 2 locations |
+| Location | Chantilly, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Space-Systems-Engineer_R2129481) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Space-Systems-Engineer_R2129811) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-09-04.
+This software engineer position at KBR was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

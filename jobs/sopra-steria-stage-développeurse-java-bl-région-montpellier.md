@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148731259-stage-developpeurse-java-bl-region-montpellier) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150390708-stage-developpeurse-java-bl-region-montpellier) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-10.
+This software engineer position at Sopra Steria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

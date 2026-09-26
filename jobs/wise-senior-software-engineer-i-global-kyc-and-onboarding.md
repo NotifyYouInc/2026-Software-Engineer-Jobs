@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148739819-senior-software-engineer-i-global-kyc-and-onboarding) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150420919-senior-software-engineer-i-global-kyc-and-onboarding) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-09-10.
+This software engineer position at WISE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

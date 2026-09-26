@@ -5,12 +5,12 @@
 | Company | [DIRECTV](https://scoutify.ai/companies/directv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://directv.wd1.myworkdayjobs.com/careers/job/United-States---Virtual/Principal--IT-Software-Engineer-1_R260173) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Principal--IT-Software-Engineer-1_R260297) |
 
 ## About This Role
 
-This software engineer position at DIRECTV was posted on 2026-06-24.
+This software engineer position at DIRECTV was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Porto, Porto, Portugal |
+| Location | Portugal |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000124517415-senior-developer-bpce-it) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000150445159-senior-developer-bpce-it) |
 
 ## About This Role
 
-This software engineer position at natixis-in-portugal was posted on 2026-05-04.
+This software engineer position at natixis-in-portugal was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

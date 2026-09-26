@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Aurora, Colorado, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Aurora/Mid-Senior-Full-Stack-Developer_323929) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Mid-Senior-Full-Stack-Developer_332287) |
 
 ## About This Role
 
-This frontend engineer position at CACI was posted on 2026-03-30.
+This software engineer position at CACI was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

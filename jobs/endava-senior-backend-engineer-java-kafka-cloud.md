@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000144796050-senior-backend-engineer-java-kafka-cloud) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000150417074-senior-backend-engineer-java-kafka-cloud) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-08-21.
+This software engineer position at Endava was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

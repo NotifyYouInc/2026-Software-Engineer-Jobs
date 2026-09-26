@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-09-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Software-Engineer_R2130218) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Senior-Software-Engineer_R2130326) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-09-18.
+This software engineer position at KBR was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

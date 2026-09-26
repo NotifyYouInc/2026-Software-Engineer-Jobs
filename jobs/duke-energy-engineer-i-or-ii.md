@@ -5,12 +5,12 @@
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Durham-NC/Engineer-I-or-II_R40370) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Durham-NC/Engineer-I-or-II_R41622) |
 
 ## About This Role
 
-This software engineer position at Duke Energy was posted on 2026-07-02.
+This software engineer position at Duke Energy was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

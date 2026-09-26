@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Principal-Embedded-Software-Engineer_R66604) |
+| Location | Irvine, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Principal-Embedded-Software-Engineer_R69002) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-07-10.
+This embedded / firmware engineer position at Motorola Solutions was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

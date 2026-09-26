@@ -1,16 +1,16 @@
-# Privacy by Design Engineer at General Motors
+# Privacy By Design Engineer at General Motors
 
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Privacy-by-Design-Engineer_JR-202614481) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Privacy-By-Design-Engineer_JR-202619017) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Motors was posted on 2026-07-29.
+This cybersecurity engineer position at General Motors was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Senior-Software-Engineer--Specialties_R14825) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Senior-Software-Engineer--Specialties_R15517) |
 
 ## About This Role
 
-This software engineer position at Athena Health was posted on 2026-04-15.
+This software engineer position at Athena Health was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

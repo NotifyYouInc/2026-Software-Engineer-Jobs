@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CGIC](https://scoutify.ai/companies/cgic?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 3 locations |
+| Location | Regina, Saskatchewan, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=2557cfef-a395-48e4-b0da-3d38913bbbd6) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=ed96bf7c-012e-497d-acf2-042f4d4f7004) |
 
 ## About This Role
 
-This software engineer position at CGIC was posted on 2026-05-27.
+This software engineer position at CGIC was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

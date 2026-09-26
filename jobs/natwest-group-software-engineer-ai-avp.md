@@ -1,16 +1,16 @@
-# Software Engineer, AI, AVP at NatWest Group
+# Software Engineer - AI, AVP at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--AI--AVP_R-00278478-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer---AI--AVP_R-00281137-1) |
 
 ## About This Role
 
-This ai / llm engineer position at NatWest Group was posted on 2026-05-19.
+This software engineer position at NatWest Group was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

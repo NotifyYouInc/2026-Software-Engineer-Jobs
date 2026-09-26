@@ -5,12 +5,12 @@
 | Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-27 |
+| Posted | 2026-09-19 |
 | Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milan-IT/Business-Development-Engineer_R-34084) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Prysmian Cables & Systems was posted on 2026-05-27.
+This sales development (sdr / bdr) position at Prysmian Cables & Systems was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

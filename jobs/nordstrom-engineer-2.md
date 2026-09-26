@@ -5,12 +5,12 @@
 | Company | [Nordstrom](https://scoutify.ai/companies/nordstrom?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-2_R-813097) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-2_R-870297-1) |
 
 ## About This Role
 
-This software engineer position at Nordstrom was posted on 2026-06-05.
+This software engineer position at Nordstrom was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

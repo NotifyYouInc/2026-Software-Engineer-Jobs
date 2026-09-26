@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Chennai-India/Lead-Test-Development-Engineer_J000690777) |
+| Location | Matamoros, Coahuila, Mexico |
+| Category | Industrial Automation |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Matamoros-Mexico/Lead-Test-Development-Engineer_J000703225) |
 
 ## About This Role
 
-This semiconductor / chip design position at Aptiv was posted on 2026-09-02.
+This industrial automation position at Aptiv was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

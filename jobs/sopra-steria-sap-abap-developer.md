@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148678179-sap-abap-developer) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150495989-sap-abap-developer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-09-10.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

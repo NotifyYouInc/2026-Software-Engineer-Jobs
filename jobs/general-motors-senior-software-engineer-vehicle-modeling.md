@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | 4 locations |
+| Location | Markham, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Vehicle-Modeling_JR-202603511) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Senior-Software-Engineer---Vehicle-Modeling_JR-202620335) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-25.
+This software engineer position at General Motors was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

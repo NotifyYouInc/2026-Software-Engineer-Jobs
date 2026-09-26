@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=swe-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II-GIFS-Middle-Office---ICAP-Cash-Edge_180484) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Application-Engineering-Technical-Lead---II_182146-1) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-08-28.
+This software engineer position at Vanguard was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
